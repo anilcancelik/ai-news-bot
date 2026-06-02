@@ -1392,6 +1392,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/yS6eE0Ji1cU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wMi6PWKgwboI2xU_K4DGx",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://www.anthropic.com/news/expanding-project-glasswing": {
+      "ts": "2026-06-02T00:00:00+00:00",
+      "title": "Expanding Project Glasswing",
+      "link": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/travelers": {
+      "ts": "2026-06-02T12:00:00+00:00",
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "link": "https://openai.com/index/travelers",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": {
+      "ts": "2026-06-02T07:00:00+00:00",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "source": "OpenAI News",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-02"
