@@ -32,3 +32,4 @@ https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ollama.xml
 # 2. Set "Deliver to" = RSS feed
 # 3. Copy the feed URL it gives you and paste it below, uncommented.
 # https://www.google.com/alerts/feeds/XXXXXXXX/YYYYYYYY
+https://www.google.com/alerts/feeds/17434304100139543866/6117611638303545890
