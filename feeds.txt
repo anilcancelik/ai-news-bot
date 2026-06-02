@@ -1,0 +1,34 @@
+# AI tool feeds to monitor. One URL per line. Lines starting with # are ignored.
+# Add or remove freely. "Official" feeds come straight from the company;
+# the raw.githubusercontent.com ones are auto-generated for sites that have
+# no native feed (regenerated hourly).
+
+# --- Anthropic / Claude ---
+https://code.claude.com/docs/en/changelog/rss.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_claude.xml
+
+# --- OpenAI ---
+https://openai.com/blog/rss.xml
+https://openai.com/news/engineering/rss.xml
+
+# --- Google ---
+https://deepmind.google/blog/rss.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_google_ai.xml
+
+# --- Other major labs / tools ---
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_mistral.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_xainews.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_meta_ai.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cohere.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_perplexity_hub.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_cursor.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_windsurf_changelog.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_groq.xml
+https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_ollama.xml
+
+# --- Tools with no feed yet (e.g. Manus): use a Google Alert ---
+# 1. Create an alert at https://www.google.com/alerts for "Manus AI"
+# 2. Set "Deliver to" = RSS feed
+# 3. Copy the feed URL it gives you and paste it below, uncommented.
+# https://www.google.com/alerts/feeds/XXXXXXXX/YYYYYYYY
