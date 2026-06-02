@@ -1,0 +1,1209 @@
+{
+  "seen": {
+    "4a05b12d9bca39ff": {
+      "ts": "2026-05-31T19:47:03+00:00",
+      "title": "2.1.159",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-159",
+      "source": "Changelog",
+      "big": false
+    },
+    "133ecbc02632cd8e": {
+      "ts": "2026-05-30T06:59:44+00:00",
+      "title": "2.1.158",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-158",
+      "source": "Changelog",
+      "big": false
+    },
+    "e4c0479d90529b03": {
+      "ts": "2026-05-29T20:27:29+00:00",
+      "title": "2.1.157",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-157",
+      "source": "Changelog",
+      "big": false
+    },
+    "894101ca323c6667": {
+      "ts": "2026-05-29T01:51:54+00:00",
+      "title": "2.1.156",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-156",
+      "source": "Changelog",
+      "big": false
+    },
+    "29cb2d7797746178": {
+      "ts": "2026-05-28T18:53:03+00:00",
+      "title": "2.1.154",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-154",
+      "source": "Changelog",
+      "big": false
+    },
+    "f519f65a76fd0496": {
+      "ts": "2026-05-28T01:00:17+00:00",
+      "title": "2.1.153",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-153",
+      "source": "Changelog",
+      "big": false
+    },
+    "85c517154083bbcc": {
+      "ts": "2026-05-27T01:35:39+00:00",
+      "title": "2.1.152",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-152",
+      "source": "Changelog",
+      "big": false
+    },
+    "e0c166f8778df63e": {
+      "ts": "2026-05-23T04:12:26+00:00",
+      "title": "2.1.150",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-150",
+      "source": "Changelog",
+      "big": false
+    },
+    "d6d70b9569fe700f": {
+      "ts": "2026-05-22T22:25:09+00:00",
+      "title": "2.1.149",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-149",
+      "source": "Changelog",
+      "big": false
+    },
+    "ad391835c9a967f7": {
+      "ts": "2026-05-22T01:21:48+00:00",
+      "title": "2.1.148",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-148",
+      "source": "Changelog",
+      "big": false
+    },
+    "8bb342faed6a9bdf": {
+      "ts": "2026-05-21T20:46:43+00:00",
+      "title": "2.1.147",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-147",
+      "source": "Changelog",
+      "big": false
+    },
+    "360decf510a82d31": {
+      "ts": "2026-05-19T21:40:46+00:00",
+      "title": "2.1.145",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-145",
+      "source": "Changelog",
+      "big": false
+    },
+    "0aaeb15fc85157ab": {
+      "ts": "2026-05-19T00:53:57+00:00",
+      "title": "2.1.144",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-144",
+      "source": "Changelog",
+      "big": false
+    },
+    "059d2fe9e5d468b1": {
+      "ts": "2026-05-15T22:33:19+00:00",
+      "title": "2.1.143",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-143",
+      "source": "Changelog",
+      "big": false
+    },
+    "4780b7cab90e40be": {
+      "ts": "2026-05-14T22:59:30+00:00",
+      "title": "2.1.142",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-142",
+      "source": "Changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/confidential-draft-s1-sec": {
+      "ts": "2026-06-01T00:00:00+00:00",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/series-h": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "link": "https://www.anthropic.com/news/series-h",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/claude-opus-4-8": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "Introducing Claude Opus 4.8",
+      "link": "https://www.anthropic.com/news/claude-opus-4-8",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "https://www.anthropic.com/news/milan-office-opening": {
+      "ts": "2026-05-27T00:00:00+00:00",
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "link": "https://www.anthropic.com/news/milan-office-opening",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea": {
+      "ts": "2026-05-26T00:00:00+00:00",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical": {
+      "ts": "2026-05-25T00:00:00+00:00",
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "link": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/anthropic-kpmg": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "link": "https://www.anthropic.com/news/anthropic-kpmg",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/widening-conversation-ai": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "Widening the conversation on frontier AI",
+      "link": "https://www.anthropic.com/news/widening-conversation-ai",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/anthropic-acquires-stainless": {
+      "ts": "2026-05-18T00:00:00+00:00",
+      "title": "Anthropic acquires Stainless",
+      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/gates-foundation-partnership": {
+      "ts": "2026-05-14T00:00:00+00:00",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/pwc-expanded-partnership": {
+      "ts": "2026-05-14T00:00:00+00:00",
+      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
+      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/claude-for-small-business": {
+      "ts": "2026-05-13T00:00:00+00:00",
+      "title": "Introducing Claude for Small Business",
+      "link": "https://www.anthropic.com/news/claude-for-small-business",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "https://www.anthropic.com/news/higher-limits-spacex": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "link": "https://www.anthropic.com/news/higher-limits-spacex",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/finance-agents": {
+      "ts": "2026-05-05T00:00:00+00:00",
+      "title": "Agents for financial services",
+      "link": "https://www.anthropic.com/news/finance-agents",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/enterprise-ai-services-company": {
+      "ts": "2026-05-04T00:00:00+00:00",
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "Introducing dynamic workflows in Claude Code",
+      "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
+      "source": "Claude Blog",
+      "big": true
+    },
+    "https://claude.com/blog/zero-trust-for-ai-agents": {
+      "ts": "2026-05-27T00:00:00+00:00",
+      "title": "Zero Trust for AI agents",
+      "link": "https://claude.com/blog/zero-trust-for-ai-agents",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system": {
+      "ts": "2026-05-27T00:00:00+00:00",
+      "title": "How CodeRabbit used Claude to build an agent orchestration system",
+      "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/using-llms-to-secure-source-code": {
+      "ts": "2026-05-27T00:00:00+00:00",
+      "title": "Using LLMs to secure source code",
+      "link": "https://claude.com/blog/using-llms-to-secure-source-code",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build": {
+      "ts": "2026-05-26T00:00:00+00:00",
+      "title": "Code w/ Claude London 2026: Rethinking how we build",
+      "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers": {
+      "ts": "2026-05-22T00:00:00+00:00",
+      "title": "How Anthropic's finance team uses Claude to shape the narrative behind the numbers",
+      "link": "https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity": {
+      "ts": "2026-05-21T00:00:00+00:00",
+      "title": "How our partners are putting Opus to work for cybersecurity",
+      "link": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/compliance-api-security-partners": {
+      "ts": "2026-05-21T00:00:00+00:00",
+      "title": "Claude now works with more security and compliance tools",
+      "link": "https://claude.com/blog/compliance-api-security-partners",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book": {
+      "ts": "2026-05-20T00:00:00+00:00",
+      "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
+      "link": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html": {
+      "ts": "2026-05-20T00:00:00+00:00",
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-managed-agents-updates": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
+      "link": "https://claude.com/blog/claude-managed-agents-updates",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/deploying-claude-across-the-legal-industry": {
+      "ts": "2026-05-15T00:00:00+00:00",
+      "title": "Deploying Claude across the legal industry",
+      "link": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
+      "ts": "2026-05-14T00:00:00+00:00",
+      "title": "How Claude Code works in large codebases: Best practices and where to start",
+      "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/the-founders-playbook": {
+      "ts": "2026-05-14T00:00:00+00:00",
+      "title": "The founder's playbook: Building an AI-native startup",
+      "link": "https://claude.com/blog/the-founders-playbook",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude": {
+      "ts": "2026-05-13T00:00:00+00:00",
+      "title": "Best practices for computer and browser use with Claude",
+      "link": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity": {
+      "ts": "2026-05-12T00:00:00+00:00",
+      "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
+      "link": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-for-the-legal-industry": {
+      "ts": "2026-05-12T00:00:00+00:00",
+      "title": "Claude for the legal industry",
+      "link": "https://claude.com/blog/claude-for-the-legal-industry",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/code-w-claude-sf-2026-sf": {
+      "ts": "2026-05-12T00:00:00+00:00",
+      "title": "Code w/ Claude SF 2026 recap: Building on the AI exponential",
+      "link": "https://claude.com/blog/code-w-claude-sf-2026-sf",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-platform-on-aws": {
+      "ts": "2026-05-11T00:00:00+00:00",
+      "title": "Introducing the Claude Platform on AWS",
+      "link": "https://claude.com/blog/claude-platform-on-aws",
+      "source": "Claude Blog",
+      "big": true
+    },
+    "https://claude.com/blog/agent-view-in-claude-code": {
+      "ts": "2026-05-11T00:00:00+00:00",
+      "title": "Agent view in Claude Code",
+      "link": "https://claude.com/blog/agent-view-in-claude-code",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook": {
+      "ts": "2026-05-07T00:00:00+00:00",
+      "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
+      "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/new-in-claude-managed-agents": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
+      "link": "https://claude.com/blog/new-in-claude-managed-agents",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/deploying-claude-across-financial-services": {
+      "ts": "2026-05-05T00:00:00+00:00",
+      "title": "Deploying Claude across financial services",
+      "link": "https://claude.com/blog/deploying-claude-across-financial-services",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
+      "ts": "2026-06-01T17:00:00+00:00",
+      "title": "Our views on AI policy and political advocacy",
+      "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/stargate-michigan-data-center": {
+      "ts": "2026-06-01T12:00:00+00:00",
+      "title": "Building the infrastructure for the Intelligence Age in Michigan",
+      "link": "https://openai.com/index/stargate-michigan-data-center",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws": {
+      "ts": "2026-06-01T10:00:00+00:00",
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/boston-childrens-hospital": {
+      "ts": "2026-05-29T12:00:00+00:00",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "link": "https://openai.com/index/boston-childrens-hospital",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/braintrust": {
+      "ts": "2026-05-29T12:00:00+00:00",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "link": "https://openai.com/index/braintrust",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
+      "ts": "2026-05-29T03:00:00+00:00",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations": {
+      "ts": "2026-05-29T00:00:00+00:00",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "link": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/endava": {
+      "ts": "2026-05-28T12:00:00+00:00",
+      "title": "How Endava builds an agentic organization with Codex",
+      "link": "https://openai.com/index/endava",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/mufg": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "link": "https://openai.com/index/mufg",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/openai-frontier-governance-framework": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "link": "https://openai.com/index/openai-frontier-governance-framework",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/cisco": {
+      "ts": "2026-05-27T11:00:00+00:00",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "link": "https://openai.com/index/cisco",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
+      "ts": "2026-05-27T07:00:00+00:00",
+      "title": "Building self-improving tax agents with Codex",
+      "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/warp": {
+      "ts": "2026-05-27T00:00:00+00:00",
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "link": "https://openai.com/index/warp",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/election-safeguards-2026": {
+      "ts": "2026-05-27T00:00:00+00:00",
+      "title": "Election information and safeguards in 2026",
+      "link": "https://openai.com/index/election-safeguards-2026",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership": {
+      "ts": "2026-05-25T00:00:00+00:00",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/virgin-atlantic": {
+      "ts": "2026-05-22T00:00:00+00:00",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "link": "https://openai.com/index/virgin-atlantic",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/gartner-2026-agentic-coding-leader": {
+      "ts": "2026-05-22T00:00:00+00:00",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/adventhealth": {
+      "ts": "2026-05-21T12:00:00+00:00",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "link": "https://openai.com/index/adventhealth",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/the-next-phase-of-education-for-countries": {
+      "ts": "2026-05-20T00:00:00+00:00",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
+      "ts": "2026-05-20T00:00:00+00:00",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/ramp": {
+      "ts": "2026-05-20T00:00:00+00:00",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "link": "https://openai.com/index/ramp",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/introducing-openai-for-singapore": {
+      "ts": "2026-05-19T20:30:00+00:00",
+      "title": "Introducing OpenAI for Singapore",
+      "link": "https://openai.com/index/introducing-openai-for-singapore",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/advancing-content-provenance": {
+      "ts": "2026-05-19T10:45:00+00:00",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "link": "https://openai.com/index/advancing-content-provenance",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/dell-codex-enterprise-partnership": {
+      "ts": "2026-05-18T10:00:00+00:00",
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "link": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/malta-chatgpt-plus-partnership": {
+      "ts": "2026-05-16T00:00:00+00:00",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/databricks": {
+      "ts": "2026-05-15T00:00:00+00:00",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "link": "https://openai.com/index/databricks",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
+      "ts": "2026-05-15T00:00:00+00:00",
+      "title": "How business operations teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/personal-finance-chatgpt": {
+      "ts": "2026-05-15T00:00:00+00:00",
+      "title": "A new personal finance experience in ChatGPT",
+      "link": "https://openai.com/index/personal-finance-chatgpt",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+      "ts": "2026-05-15T00:00:00+00:00",
+      "title": "How sales teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+      "ts": "2026-05-15T00:00:00+00:00",
+      "title": "How data science teams use Codex",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/sea-david-chen": {
+      "ts": "2026-05-14T20:30:00+00:00",
+      "title": "Sea's View on the Future of Agentic Software Development with Codex",
+      "link": "https://openai.com/index/sea-david-chen",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/work-with-codex-from-anywhere": {
+      "ts": "2026-05-14T13:00:00+00:00",
+      "title": "Work with Codex from anywhere",
+      "link": "https://openai.com/index/work-with-codex-from-anywhere",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
+      "ts": "2026-05-14T00:00:00+00:00",
+      "title": "Helping ChatGPT better recognize context in sensitive conversations",
+      "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/building-codex-windows-sandbox": {
+      "ts": "2026-05-13T11:00:00+00:00",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "link": "https://openai.com/index/building-codex-windows-sandbox",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
+      "ts": "2026-05-13T00:00:00+00:00",
+      "title": "Our response to the TanStack npm supply chain attack",
+      "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/academy/how-finance-teams-use-codex": {
+      "ts": "2026-05-12T15:00:00+00:00",
+      "title": "How finance teams use Codex",
+      "link": "https://openai.com/academy/how-finance-teams-use-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/what-parameter-golf-taught-us": {
+      "ts": "2026-05-12T00:00:00+00:00",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "link": "https://openai.com/index/what-parameter-golf-taught-us",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/autoscout24": {
+      "ts": "2026-05-12T00:00:00+00:00",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "link": "https://openai.com/index/autoscout24",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/nvidia": {
+      "ts": "2026-05-12T00:00:00+00:00",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "link": "https://openai.com/index/nvidia",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/signals/research/2026q1-update": {
+      "ts": "2026-05-11T15:00:00+00:00",
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "link": "https://openai.com/signals/research/2026q1-update",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/openai-campus-network-student-club-interest-form": {
+      "ts": "2026-05-11T10:00:00+00:00",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai": {
+      "ts": "2026-05-11T10:00:00+00:00",
+      "title": "How enterprises are scaling AI",
+      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/openai-launches-the-deployment-company": {
+      "ts": "2026-05-11T06:00:00+00:00",
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "link": "https://openai.com/index/openai-launches-the-deployment-company",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/running-codex-safely": {
+      "ts": "2026-05-08T12:30:00+00:00",
+      "title": "Running Codex safely at OpenAI",
+      "link": "https://openai.com/index/running-codex-safely",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber": {
+      "ts": "2026-05-07T13:00:00+00:00",
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/parloa": {
+      "ts": "2026-05-07T11:00:00+00:00",
+      "title": "Parloa builds service agents customers want to talk to",
+      "link": "https://openai.com/index/parloa",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api": {
+      "ts": "2026-05-07T10:00:00+00:00",
+      "title": "Advancing voice intelligence with new models in the API",
+      "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/introducing-trusted-contact-in-chatgpt": {
+      "ts": "2026-05-07T00:00:00+00:00",
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/testing-ads-in-chatgpt": {
+      "ts": "2026-05-07T00:00:00+00:00",
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/simplex": {
+      "ts": "2026-05-07T00:00:00+00:00",
+      "title": "Simplex rethinks software development with Codex",
+      "link": "https://openai.com/index/simplex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/how-chatgpt-protects-privacy": {
+      "ts": "2026-05-06T08:00:00+00:00",
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "link": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/introducing-b2b-signals": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "How frontier firms are pulling ahead",
+      "link": "https://openai.com/index/introducing-b2b-signals",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/introducing-chatgpt-futures-class-of-2026": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/uber": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "link": "https://openai.com/index/uber",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/singular-bank": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "link": "https://openai.com/index/singular-bank",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/gpt-5-5-instant": {
+      "ts": "2026-05-05T10:00:00+00:00",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "link": "https://openai.com/index/gpt-5-5-instant",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/mrc-supercomputer-networking": {
+      "ts": "2026-05-05T10:00:00+00:00",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "link": "https://openai.com/index/mrc-supercomputer-networking",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/gpt-5-5-instant-system-card": {
+      "ts": "2026-05-05T10:00:00+00:00",
+      "title": "GPT-5.5 Instant System Card",
+      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/new-ways-to-buy-chatgpt-ads": {
+      "ts": "2026-05-05T00:00:00+00:00",
+      "title": "New ways to buy ChatGPT ads",
+      "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/advancing-youth-safety-in-emea": {
+      "ts": "2026-05-05T00:00:00+00:00",
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "link": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/openai-pwc-finance-collaboration": {
+      "ts": "2026-05-04T21:00:00+00:00",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/delivering-low-latency-voice-ai-at-scale": {
+      "ts": "2026-05-04T00:00:00+00:00",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
+      "ts": "2026-05-21T19:46:42+00:00",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/": {
+      "ts": "2026-05-18T18:21:39+00:00",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/": {
+      "ts": "2026-05-17T19:53:18+00:00",
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "link": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-gemini-omni/": {
+      "ts": "2026-05-17T19:50:57+00:00",
+      "title": "Introducing Gemini Omni",
+      "link": "https://deepmind.google/blog/introducing-gemini-omni/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/": {
+      "ts": "2026-05-17T19:43:45+00:00",
+      "title": "Introducing Google Antigravity 2.0",
+      "link": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/": {
+      "ts": "2026-05-17T13:50:34+00:00",
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/": {
+      "ts": "2026-05-17T13:43:50+00:00",
+      "title": "Making it easier to understand how content was created and edited",
+      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/": {
+      "ts": "2026-05-16T09:13:34+00:00",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "link": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/": {
+      "ts": "2026-05-16T08:16:06+00:00",
+      "title": "Finding the molecular switches behind new infectious diseases",
+      "link": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/opening-new-paths-in-aging-research/": {
+      "ts": "2026-05-16T08:08:44+00:00",
+      "title": "Opening new paths in aging research",
+      "link": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/": {
+      "ts": "2026-05-16T08:00:15+00:00",
+      "title": "Accelerating discovery of liver disease mechanisms",
+      "link": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/": {
+      "ts": "2026-05-16T07:53:11+00:00",
+      "title": "Uniting biological toolkits for a new approach to ALS",
+      "link": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/": {
+      "ts": "2026-05-16T07:40:27+00:00",
+      "title": "Uncovering repurposed medicines to fight liver fibrosis",
+      "link": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/": {
+      "ts": "2026-05-16T03:14:17+00:00",
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/": {
+      "ts": "2026-05-15T22:50:12+00:00",
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "link": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/": {
+      "ts": "2026-05-12T14:40:07+00:00",
+      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
+      "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/alphaevolve-impact/": {
+      "ts": "2026-05-06T10:43:49+00:00",
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "link": "https://deepmind.google/blog/alphaevolve-impact/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
+      "link": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "How the community trained Gemma to \"Think\" with Tunix and TPUs",
+      "link": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/": {
+      "ts": "2026-05-21T00:00:00+00:00",
+      "title": "Announcing ADK for Kotlin and ADK for Android 0.1.0: Building AI Agents on Android and Beyond",
+      "link": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
+      "source": "Google Developers Blog - AI",
+      "big": true
+    },
+    "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/": {
+      "ts": "2026-05-21T00:00:00+00:00",
+      "title": "Empowering Service Providers and Hardware Partners with Gemini for Home",
+      "link": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "All the news from the Google I/O 2026 Developer keynote",
+      "link": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "A Smarter Google AI Edge Gallery: MCP integration, notifications, and session continuity",
+      "link": "https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "Blazing fast on-device GenAI with LiteRT-LM",
+      "link": "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "An important update: Transitioning Gemini CLI to Antigravity CLI",
+      "link": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "One Year of Innovation: Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community",
+      "link": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "Google Tensor SDK Beta with LiteRT",
+      "link": "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://mistral.ai/news/accelerate-ai-native-industry": {
+      "ts": "2026-05-22T00:00:00+00:00",
+      "title": "Emmi joins Mistral to accelerate the AI-native industry",
+      "link": "https://mistral.ai/news/accelerate-ai-native-industry",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "https://x.ai/news/grok-opencode": {
+      "ts": "2026-05-21T00:00:00+00:00",
+      "title": "Use Grok in OpenCode",
+      "link": "https://x.ai/news/grok-opencode",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://x.ai/news/grok-openclaw": {
+      "ts": "2026-05-19T00:00:00+00:00",
+      "title": "Use Grok in OpenClaw",
+      "link": "https://x.ai/news/grok-openclaw",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://x.ai/news/grok-skills": {
+      "ts": "2026-05-18T00:00:00+00:00",
+      "title": "Skills in web, iOS, and Android",
+      "link": "https://x.ai/news/grok-skills",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://x.ai/news/grok-hermes": {
+      "ts": "2026-05-15T00:00:00+00:00",
+      "title": "Connect Grok to Hermes Agent",
+      "link": "https://x.ai/news/grok-hermes",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://x.ai/news/grok-build-cli": {
+      "ts": "2026-05-14T00:00:00+00:00",
+      "title": "Introducing Grok Build",
+      "link": "https://x.ai/news/grok-build-cli",
+      "source": "xAI News",
+      "big": true
+    },
+    "https://x.ai/news/grok-imagine-quality-mode": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Grok Imagine Quality Mode API",
+      "link": "https://x.ai/news/grok-imagine-quality-mode",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://x.ai/news/grok-connectors": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Connectors in web, iOS, and Android",
+      "link": "https://x.ai/news/grok-connectors",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://x.ai/news/anthropic-compute-partnership": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "New Compute Partnership with Anthropic",
+      "link": "https://x.ai/news/anthropic-compute-partnership",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee": {
+      "ts": "2026-05-22T00:00:00+00:00",
+      "title": "Perplexity Is Open-Sourcing Bumblebee",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/computer-brings-data-science-to-every-team": {
+      "ts": "2026-05-14T00:00:00+00:00",
+      "title": "Computer brings data science to every team",
+      "link": "https://www.perplexity.ai/hub/blog/computer-brings-data-science-to-every-team",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer": {
+      "ts": "2026-05-13T00:00:00+00:00",
+      "title": "How We Built Security Into Computer",
+      "link": "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users": {
+      "ts": "2026-05-07T00:00:00+00:00",
+      "title": "Personal Computer is Available to All Mac Users",
+      "link": "https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Introducing Finance Search in the Agent API",
+      "link": "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api",
+      "source": "Perplexity Blog",
+      "big": true
+    },
+    "https://www.perplexity.ai/hub/blog/announcing-premium-health-sources": {
+      "ts": "2026-05-05T00:00:00+00:00",
+      "title": "Announcing Premium Health Sources",
+      "link": "https://www.perplexity.ai/hub/blog/announcing-premium-health-sources",
+      "source": "Perplexity Blog",
+      "big": true
+    },
+    "https://www.perplexity.ai/hub/blog/computer-for-professional-finance": {
+      "ts": "2026-05-05T00:00:00+00:00",
+      "title": "Computer for Professional Finance",
+      "link": "https://www.perplexity.ai/hub/blog/computer-for-professional-finance",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/computer-in-teams-is-here": {
+      "ts": "2026-05-04T00:00:00+00:00",
+      "title": "Computer in Teams is here",
+      "link": "https://www.perplexity.ai/hub/blog/computer-in-teams-is-here",
+      "source": "Perplexity Blog",
+      "big": true
+    },
+    "https://cursor.com/blog/teams-pricing-june-2026": {
+      "ts": "2026-06-01T07:00:00+00:00",
+      "title": "Improvements to Teams Pricing",
+      "link": "https://cursor.com/blog/teams-pricing-june-2026",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/faire": {
+      "ts": "2026-05-26T12:00:00+00:00",
+      "title": "Faire doubles PR throughput with Cursor Cloud Agents",
+      "link": "https://cursor.com/blog/faire",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/cursor-leads-gartner-mq-2026": {
+      "ts": "2026-05-22T12:00:00+00:00",
+      "title": "Cursor named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents",
+      "link": "https://cursor.com/blog/cursor-leads-gartner-mq-2026",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/cloud-agent-lessons": {
+      "ts": "2026-05-21T12:00:00+00:00",
+      "title": "What we’ve learned building cloud agents",
+      "link": "https://cursor.com/blog/cloud-agent-lessons",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/composer-2-5": {
+      "ts": "2026-05-18T00:00:00+00:00",
+      "title": "Introducing Composer 2.5",
+      "link": "https://cursor.com/blog/composer-2-5",
+      "source": "Cursor Blog",
+      "big": true
+    },
+    "https://cursor.com/blog/cloud-agent-development-environments": {
+      "ts": "2026-05-13T12:00:00+00:00",
+      "title": "Development environments for your cloud agents",
+      "link": "https://cursor.com/blog/cloud-agent-development-environments",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/paypal": {
+      "ts": "2026-05-11T12:00:00+00:00",
+      "title": "Beyond efficiency: PayPal expands what's possible to build with AI",
+      "link": "https://cursor.com/blog/paypal",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/may-2026-bugbot-changes": {
+      "ts": "2026-05-11T12:00:00+00:00",
+      "title": "Updates to Bugbot for Teams and Individuals",
+      "link": "https://cursor.com/blog/may-2026-bugbot-changes",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/bootstrapping-composer-with-autoinstall": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Bootstrapping Composer with autoinstall",
+      "link": "https://cursor.com/blog/bootstrapping-composer-with-autoinstall",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#2.3.15#2.3.15": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "Windsurf 2.3.15",
+      "link": "https://windsurf.com/changelog#2.3.15",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#2.3.9#2.3.9": {
+      "ts": "2026-05-17T00:00:00+00:00",
+      "title": "Windsurf 2.3.9",
+      "link": "https://windsurf.com/changelog#2.3.9",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#2.2.17#2.2.17": {
+      "ts": "2026-05-06T00:00:00+00:00",
+      "title": "Windsurf 2.2.17",
+      "link": "https://windsurf.com/changelog#2.2.17",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://ollama.com/blog/openjarvis": {
+      "ts": "2026-05-28T00:00:00+00:00",
+      "title": "OpenJarvis: a local-first personal AI is now available to run with Ollama",
+      "link": "https://ollama.com/blog/openjarvis",
+      "source": "Ollama Blog",
+      "big": true
+    }
+  },
+  "last_digest_date": "2026-06-02"
+}
