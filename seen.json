@@ -1203,6 +1203,153 @@
       "link": "https://ollama.com/blog/openjarvis",
       "source": "Ollama Blog",
       "big": true
+    },
+    "4ffb3b0a6d750b25": {
+      "ts": "2026-06-02T02:18:10+00:00",
+      "title": "2.1.160",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-160",
+      "source": "Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3913270115669210826": {
+      "ts": "2026-06-02T04:16:16+00:00",
+      "title": "Meta has released something new! #Shorts - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DO1aXdrz-Myk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20saFWsGzn_ZZ5tTahuQ3P",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:107909461968635313": {
+      "ts": "2026-06-01T22:45:38+00:00",
+      "title": "<b>Manus AI</b> alternative: options that add integrations and predictable pricing - Liv",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://liv4all.com/answers/manus-ai-alternative/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_6nvKx0-prbCBPm1EyrKy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17783254473387574733": {
+      "ts": "2026-06-01T22:14:10+00:00",
+      "title": "Google Flow's New AI Agent Changes Everything! - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJBg8FmFSiRM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw25SLcVyBe_G2T7uUJXU77z",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10684245962446462112": {
+      "ts": "2026-06-01T21:18:59+00:00",
+      "title": "You can now build and deploy full websites and mobile apps using natural language. In this ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/freecodecamp/posts/you-can-now-build-and-deploy-full-websites-and-mobile-apps-using-natural-languag/1047051331240967/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ceUYnIIRljjI2mL92xGip",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3863991769929203709": {
+      "ts": "2026-06-01T18:12:50+00:00",
+      "title": "Best AI Video Generators 2026: My Top 10 Picks - HIX.AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hix.ai/hub/ai-video/best-ai-video-generators&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0VI0XzfIl2xotQoqgVy5OJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15194142271464471580": {
+      "ts": "2026-06-01T17:42:15+00:00",
+      "title": "Meta Platforms Inc Stock (META) Moved Down by 3.31% on Jun 1: Facts Behind the Movement",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/news/market-movers/261939647-market-movers-meta-20260601&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10J9wS96HF_NHj1wPzutbd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1729554274362909614": {
+      "ts": "2026-06-01T17:02:28+00:00",
+      "title": "Mercedes-Benz Could Be Banned from Selling Cars in U.S. Due to Chinese Ownership Stake",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aol.com/articles/mercedes-benz-could-banned-selling-154800905.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1CmA0tsLINi6z3XRGS7Z1T",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15380252781122195670": {
+      "ts": "2026-06-01T16:09:44+00:00",
+      "title": "China can now forcibly unwind overseas deals involving sensitive tech and AI - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cybernewscom/posts/china-can-now-forcibly-unwind-overseas-deals-involving-sensitive-tech-and-ai/1602812915187727/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2BAnLwxrryeepzBeFyzXmx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3657715892417024554": {
+      "ts": "2026-06-01T15:33:08+00:00",
+      "title": "China tightens overseas investment rules after blocking Meta-Manus deal | The Asahi Shimbun",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asahi.com/ajw/articles/16609074&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1xwKipxVONJBZ1ttVu_VyZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12349463330608922770": {
+      "ts": "2026-06-01T14:58:24+00:00",
+      "title": "<b>Manus AI</b> - The only AI that Can touch instagram and Automate - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Sne2K9koSlE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33KEZGdQ4kxoqiO9gw3dWX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3251731384387676345": {
+      "ts": "2026-06-01T14:36:58+00:00",
+      "title": "Regulators ordered Meta to unwind its $2B <b>Manus AI</b> Agent deal, proving that moving a ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/OngoingNowX/status/2061362620960235883/photo/1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0BUOLnXv1GNbO_nSowN8nV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3101783621146322889": {
+      "ts": "2026-06-01T14:08:27+00:00",
+      "title": "<b>Manus AI</b> Instagram Connector Tutorial - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D_km44OX3XFM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1s1AmpWSjrMgAEQnNKFoB0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11530034692049287902": {
+      "ts": "2026-06-01T13:36:12+00:00",
+      "title": "Fuel prices see limited adjustment in line with global market trends: Mahdi Amin",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thefinancialexpress.com.bd/trade/fuel-prices-see-limited-adjustment-in-line-with-global-market-trends-mahdi-amin&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2w7Kf66HTUqfeAAi4kl2WE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3829472998779251607": {
+      "ts": "2026-06-01T12:07:09+00:00",
+      "title": "Services - Manus Expert",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.manusexpert.com/services.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HiW7y-DhLH0nqtTBCydes",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13303439772950556136": {
+      "ts": "2026-06-01T11:24:00+00:00",
+      "title": "<b>Manus AI</b> vs. AgentGPT: Which Free Autonomous Agent is Actually Better? - Zovlar Tech",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://zovlar.com/2026/06/01/manus-ai-vs-agentgpt-which-free-autonomous-agent-is-actually-better/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NOfUNCZ7-cx13FKAoC6Vd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3713318580079310163": {
+      "ts": "2026-06-01T10:59:15+00:00",
+      "title": "Privacy Policy - Manus Expert",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.manusexpert.com/privacy-policy.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lbWTyHCX2QnckOZ0-jGc9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5985631722486800397": {
+      "ts": "2026-06-01T10:31:13+00:00",
+      "title": "mChina is moving to tighten control over overseas technology deals, data transfers and ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZCjul-mXOi/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3bSdb0AzdhrXfq0RrqURx5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5701185530576727847": {
+      "ts": "2026-06-01T10:05:24+00:00",
+      "title": "Meta-Manus block spurs China AI investment overhaul | AI Weekly",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiweekly.co/alerts/meta-manus-block-spurs-china-ai-investment-overhaul&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zgcZKpoD3uqRmnUTiohHj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17739446808740949775": {
+      "ts": "2026-06-01T09:49:46+00:00",
+      "title": "CHINA LOCKS THE AI EXIT DOOR AS TECH WAR PRESSURE GETS BIGGER China's State ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/NaeemAslam23/status/2061375402380075406&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3PZNOlHeXXATZ0N8_01o7X",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14609302976069888851": {
+      "ts": "2026-06-01T09:46:56+00:00",
+      "title": "China tightens overseas investment rules after blocking Meta-Manus deal - MSN",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/news/world/china-tightens-overseas-investment-rules-after-blocking-meta-manus-deal/ar-AA24wN83%3FgemSnapshotKey%3DGM299F3DFA-snapshot-1%26uxmode%3Druby&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35JqisB_DrBL3jAJJ-LQa8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-02"
