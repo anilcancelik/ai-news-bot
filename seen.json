@@ -203,13 +203,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/news/enterprise-ai-services-company": {
-      "ts": "2026-05-04T00:00:00+00:00",
-      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-      "link": "https://www.anthropic.com/news/enterprise-ai-services-company",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
@@ -798,13 +791,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/delivering-low-latency-voice-ai-at-scale": {
-      "ts": "2026-05-04T00:00:00+00:00",
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -1105,13 +1091,6 @@
       "link": "https://www.perplexity.ai/hub/blog/computer-for-professional-finance",
       "source": "Perplexity Blog",
       "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/computer-in-teams-is-here": {
-      "ts": "2026-05-04T00:00:00+00:00",
-      "title": "Computer in Teams is here",
-      "link": "https://www.perplexity.ai/hub/blog/computer-in-teams-is-here",
-      "source": "Perplexity Blog",
-      "big": true
     },
     "https://cursor.com/blog/teams-pricing-june-2026": {
       "ts": "2026-06-01T07:00:00+00:00",
@@ -1565,6 +1544,20 @@
       "ts": "2026-06-02T15:54:13+00:00",
       "title": "China expands curbs on foreign deals, tech transfer after Meta-Manus block - AOL.com",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aol.ca/articles/china-toughens-rules-outbound-investment-023356324.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0lBIf9PpDBBXsHYUlYXJTn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6281054503979152060": {
+      "ts": "2026-06-02T21:27:02+00:00",
+      "title": "Manus is one of the most talked about AI agents right now - TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40nocode.joshua/video/7646912484091186440&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0s0U5xFdthgsG4hM7KTlt6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:127583778326013060": {
+      "ts": "2026-06-02T15:47:05+00:00",
+      "title": "AI Tools Radar",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aitoolsradar.org/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0pQE0agVZyHF5WBSVxTY5H",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
