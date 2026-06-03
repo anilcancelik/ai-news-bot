@@ -784,13 +784,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/openai-pwc-finance-collaboration": {
-      "ts": "2026-05-04T21:00:00+00:00",
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "link": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -1775,6 +1768,55 @@
       "ts": "2026-06-02T21:48:57+00:00",
       "title": "How to fact-check AI by asking two tools the same question - waha",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://findwaha.com/learn/lesson/ai-crash-day-5-grok-realtime&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2zJ4nRrnp57HG_MVVTC7kF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "b3d7d27bfe939388": {
+      "ts": "2026-06-03T21:37:40+00:00",
+      "title": "2.1.162",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-162",
+      "source": "Changelog",
+      "big": false
+    },
+    "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork": {
+      "ts": "2026-06-03T00:00:00+00:00",
+      "title": "Best practices for getting started with Claude Cowork",
+      "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
+      "ts": "2026-06-03T13:15:00+00:00",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:2912632932350722391": {
+      "ts": "2026-06-03T19:40:33+00:00",
+      "title": "Most business owners have no idea they're already losing visibility every day. - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZIsClviR6U/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0B3D8zTuY9raptBL-s--uX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2470785886653817335": {
+      "ts": "2026-06-03T19:25:20+00:00",
+      "title": "I sent someinvitations via email, but haven't received any Manus credits. Does anyone know why?",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1tvvdrq/i_sent_someinvitations_via_email_but_havent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Gm9BXwHZIENGMG_Mr3Y0T",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18025884433393465367": {
+      "ts": "2026-06-03T17:55:32+00:00",
+      "title": "Publishers Blame Google AI for Traffic Losses; Now UK Grants Them Power to Block Content Use",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.uk/uk-publishers-control-ai-content-google-search-1800553&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3QH2jDR08fxL_5beJAomkS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8627960075685670340": {
+      "ts": "2026-06-03T17:13:15+00:00",
+      "title": "Similarweb integrates data into Perplexity's AI platform By Investing.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.ph.investing.com/news/stock-market-news/similarweb-integrates-data-into-perplexitys-ai-platform-93CH-2434980%3FampMode%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1BTGbDtWqyf2bIvPNH3lLA",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
