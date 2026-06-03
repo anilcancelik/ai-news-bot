@@ -1686,6 +1686,97 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/manus/videos/try-manus-ai-now/1695907911722109/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1BSO7NOB_pvNa2k32bR_Iw",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills": {
+      "ts": "2026-06-03T00:00:00+00:00",
+      "title": "Lessons from building Claude Code: How we use skills",
+      "link": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude": {
+      "ts": "2026-06-03T00:00:00+00:00",
+      "title": "How Anthropic enables self-service data analytics with Claude",
+      "link": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/public-policy-agenda": {
+      "ts": "2026-06-03T10:00:00+00:00",
+      "title": "OpenAI public policy agenda",
+      "link": "https://openai.com/index/public-policy-agenda",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/frontier-safety-blueprint": {
+      "ts": "2026-06-03T10:00:00+00:00",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "link": "https://openai.com/index/frontier-safety-blueprint",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/": {
+      "ts": "2026-06-03T00:00:00+00:00",
+      "title": "Gemma 4 12B: The Developer Guide",
+      "link": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/": {
+      "ts": "2026-06-03T00:00:00+00:00",
+      "title": "Bringing Gemma 4 12B to your Laptop: Unlocking Local, Agentic Workflows with Google AI Edge",
+      "link": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://cursor.com/blog/organizations": {
+      "ts": "2026-06-03T12:00:00+00:00",
+      "title": "Introducing organizations for Cursor Enterprise",
+      "link": "https://cursor.com/blog/organizations",
+      "source": "Cursor Blog",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:6296045903230079525": {
+      "ts": "2026-06-03T17:09:07+00:00",
+      "title": "Similarweb integrates data into Perplexity's AI platform - Investing.com Canada",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ca.investing.com/news/stock-market-news/similarweb-integrates-data-into-perplexitys-ai-platform-93CH-4674325&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cNaEd_4tKmd9QjPC1hSyZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3603132123761048590": {
+      "ts": "2026-06-03T14:59:22+00:00",
+      "title": "I Automated Competitor Research AND Ad Creation With AI (Manus + Claude) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DqqRGoewq1Lk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2OsG-FvKOONo0Rqu8WbZih",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10070760803245360183": {
+      "ts": "2026-06-03T14:27:35+00:00",
+      "title": "Do AI models trust the moral leadership of their makers? I asked each model.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jessemarks.substack.com/p/do-ai-models-trust-the-moral-leadership&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02qHtwfiQxfL2RMW1JQWSY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2511943616941583410": {
+      "ts": "2026-06-03T14:05:08+00:00",
+      "title": "<b>Manus AI</b>: Features, Benefits and Working Explained - igmGuru",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.igmguru.com/blog/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2H5cWXuRPp2-S1M4w8Vmgj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17807887215988814571": {
+      "ts": "2026-06-03T12:30:09+00:00",
+      "title": "Kieran Donovan's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/kieran-donovan-06399819_trying-to-track-online-safety-regulation-activity-7467891636606324736-ER3M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nevrz6tQsub_ABpCvpePQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2544945612060383138": {
+      "ts": "2026-06-02T21:48:57+00:00",
+      "title": "How to fact-check AI by asking two tools the same question - waha",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://findwaha.com/learn/lesson/ai-crash-day-5-grok-realtime&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2zJ4nRrnp57HG_MVVTC7kF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-03"
