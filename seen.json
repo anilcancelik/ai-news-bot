@@ -735,27 +735,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/gpt-5-5-instant": {
-      "ts": "2026-05-05T10:00:00+00:00",
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "link": "https://openai.com/index/gpt-5-5-instant",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/mrc-supercomputer-networking": {
-      "ts": "2026-05-05T10:00:00+00:00",
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "link": "https://openai.com/index/mrc-supercomputer-networking",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/gpt-5-5-instant-system-card": {
-      "ts": "2026-05-05T10:00:00+00:00",
-      "title": "GPT-5.5 Instant System Card",
-      "link": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -1859,6 +1838,20 @@
       "ts": "2026-06-03T15:49:40+00:00",
       "title": "This AI Can Literally Control Your PC! | <b>Manus AI</b> Agent #shorts - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/fLJtViQWL9o&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33QuZSc-OJA8l7bXUyb0Qk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9995551066389844966": {
+      "ts": "2026-06-04T08:49:41+00:00",
+      "title": "A Japanese guy flew to America in the 70s, walked into a tiny convenie... | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40adamstewartmarketing/video/7647146825429830932&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gaP7eymbLLoFu6Fa0ezgo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11090717143680354271": {
+      "ts": "2026-06-03T17:19:53+00:00",
+      "title": "How to use Manus and Claude to generate content. #Claude #<b>Manus #AI</b> #workflow - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/nTdnjBCVgPk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2HcA9S04-ofPr7R2eMBLmk",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
