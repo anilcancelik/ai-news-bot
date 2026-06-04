@@ -1966,6 +1966,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/harleyf_we-just-launched-integrations-with-v0-by-activity-7468356593613606913-jJzX&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3v_d87jX35SBi6remDy15T",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "de7afba2069f554a": {
+      "ts": "2026-06-04T22:02:26+00:00",
+      "title": "2.1.163",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-163",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/biodefense-in-the-intelligence-age": {
+      "ts": "2026-06-04T00:00:00+00:00",
+      "title": "Biodefense in the Intelligence Age",
+      "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3969405325435880136": {
+      "ts": "2026-06-04T04:16:19+00:00",
+      "title": "DreamFlow AI - IA Tools",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.iatools.tools/tools/dreamflow-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NSY_zh5aBphKxO9iHhjgj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-04"
