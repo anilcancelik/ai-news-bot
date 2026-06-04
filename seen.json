@@ -196,13 +196,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/news/finance-agents": {
-      "ts": "2026-05-05T00:00:00+00:00",
-      "title": "Agents for financial services",
-      "link": "https://www.anthropic.com/news/finance-agents",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
@@ -354,13 +347,6 @@
       "ts": "2026-05-06T00:00:00+00:00",
       "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
       "link": "https://claude.com/blog/new-in-claude-managed-agents",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/deploying-claude-across-financial-services": {
-      "ts": "2026-05-05T00:00:00+00:00",
-      "title": "Deploying Claude across financial services",
-      "link": "https://claude.com/blog/deploying-claude-across-financial-services",
       "source": "Claude Blog",
       "big": false
     },
@@ -770,20 +756,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/new-ways-to-buy-chatgpt-ads": {
-      "ts": "2026-05-05T00:00:00+00:00",
-      "title": "New ways to buy ChatGPT ads",
-      "link": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/advancing-youth-safety-in-emea": {
-      "ts": "2026-05-05T00:00:00+00:00",
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "link": "https://openai.com/index/advancing-youth-safety-in-emea",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -1070,20 +1042,6 @@
       "link": "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api",
       "source": "Perplexity Blog",
       "big": true
-    },
-    "https://www.perplexity.ai/hub/blog/announcing-premium-health-sources": {
-      "ts": "2026-05-05T00:00:00+00:00",
-      "title": "Announcing Premium Health Sources",
-      "link": "https://www.perplexity.ai/hub/blog/announcing-premium-health-sources",
-      "source": "Perplexity Blog",
-      "big": true
-    },
-    "https://www.perplexity.ai/hub/blog/computer-for-professional-finance": {
-      "ts": "2026-05-05T00:00:00+00:00",
-      "title": "Computer for Professional Finance",
-      "link": "https://www.perplexity.ai/hub/blog/computer-for-professional-finance",
-      "source": "Perplexity Blog",
-      "big": false
     },
     "https://cursor.com/blog/teams-pricing-june-2026": {
       "ts": "2026-06-01T07:00:00+00:00",
@@ -1819,6 +1777,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.ph.investing.com/news/stock-market-news/similarweb-integrates-data-into-perplexitys-ai-platform-93CH-2434980%3FampMode%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1BTGbDtWqyf2bIvPNH3lLA",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/wasmer": {
+      "ts": "2026-06-03T12:00:00+00:00",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "link": "https://openai.com/index/wasmer",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18420927630571360709": {
+      "ts": "2026-06-03T22:27:01+00:00",
+      "title": "Meta unveiled an AI agent designed to assist businesses with daily operations, expanding ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Reuters/posts/meta-unveiled-an-ai-agent-designed-to-assist-businesses-with-daily-operations-ex/1567026415288085/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lCd0TRhxKLuAa0jg5mcZy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-06-03"
