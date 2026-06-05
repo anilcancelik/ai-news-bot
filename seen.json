@@ -686,13 +686,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/how-chatgpt-protects-privacy": {
-      "ts": "2026-05-06T08:00:00+00:00",
-      "title": "How ChatGPT learns about the world while protecting privacy",
-      "link": "https://openai.com/index/how-chatgpt-protects-privacy",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -802,13 +795,6 @@
       "ts": "2026-05-12T14:40:07+00:00",
       "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
       "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://deepmind.google/blog/alphaevolve-impact/": {
-      "ts": "2026-05-06T10:43:49+00:00",
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "link": "https://deepmind.google/blog/alphaevolve-impact/",
       "source": "Google DeepMind News",
       "big": false
     },
