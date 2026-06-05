@@ -2071,6 +2071,41 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://alternativeto.net/news/2026/6/manus-integrates-shopify-for-chat-based-store-creation-and-management/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Piqf6z5E8ow68HgtdThAH",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering": {
+      "ts": "2026-06-05T00:00:00+00:00",
+      "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
+      "link": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/the-claude-cowork-product-guide": {
+      "ts": "2026-06-05T00:00:00+00:00",
+      "title": "The Claude Cowork product guide",
+      "link": "https://claude.com/blog/the-claude-cowork-product-guide",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://ollama.com/blog/improved-performance-and-model-support-with-gguf": {
+      "ts": "2026-06-05T00:00:00+00:00",
+      "title": "Improved performance and model support with GGUF",
+      "link": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
+      "source": "Ollama Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5628413458773807838": {
+      "ts": "2026-06-05T18:16:42+00:00",
+      "title": "How to Use <b>Manus AI</b> for Meta Ads Updates in 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Da19Lqc9SDfg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37NL1eA_FZxE5B6YkYggrE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7971522729369854819": {
+      "ts": "2026-06-05T17:57:30+00:00",
+      "title": "AI Study Tools for Students - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPL4Rxh4gEpcBbTNbGtD37srtdpWVvenhW-&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw387XfCGs__h1HOYoHlPLBN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-05"
