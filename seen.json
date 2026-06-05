@@ -189,13 +189,6 @@
       "source": "Anthropic News",
       "big": true
     },
-    "https://www.anthropic.com/news/higher-limits-spacex": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "link": "https://www.anthropic.com/news/higher-limits-spacex",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
@@ -340,13 +333,6 @@
       "ts": "2026-05-07T00:00:00+00:00",
       "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
       "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/new-in-claude-managed-agents": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "New in Claude Managed Agents: dreaming, outcomes, and multiagent orchestration",
-      "link": "https://claude.com/blog/new-in-claude-managed-agents",
       "source": "Claude Blog",
       "big": false
     },
@@ -707,34 +693,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/introducing-b2b-signals": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "How frontier firms are pulling ahead",
-      "link": "https://openai.com/index/introducing-b2b-signals",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/introducing-chatgpt-futures-class-of-2026": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
-      "source": "OpenAI News",
-      "big": true
-    },
-    "https://openai.com/index/uber": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "link": "https://openai.com/index/uber",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/singular-bank": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "link": "https://openai.com/index/singular-bank",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -966,27 +924,6 @@
       "source": "xAI News",
       "big": true
     },
-    "https://x.ai/news/grok-imagine-quality-mode": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Grok Imagine Quality Mode API",
-      "link": "https://x.ai/news/grok-imagine-quality-mode",
-      "source": "xAI News",
-      "big": false
-    },
-    "https://x.ai/news/grok-connectors": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Connectors in web, iOS, and Android",
-      "link": "https://x.ai/news/grok-connectors",
-      "source": "xAI News",
-      "big": false
-    },
-    "https://x.ai/news/anthropic-compute-partnership": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "New Compute Partnership with Anthropic",
-      "link": "https://x.ai/news/anthropic-compute-partnership",
-      "source": "xAI News",
-      "big": false
-    },
     "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee": {
       "ts": "2026-05-22T00:00:00+00:00",
       "title": "Perplexity Is Open-Sourcing Bumblebee",
@@ -1014,13 +951,6 @@
       "link": "https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users",
       "source": "Perplexity Blog",
       "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Introducing Finance Search in the Agent API",
-      "link": "https://www.perplexity.ai/hub/blog/introducing-finance-search-in-the-agent-api",
-      "source": "Perplexity Blog",
-      "big": true
     },
     "https://cursor.com/blog/teams-pricing-june-2026": {
       "ts": "2026-06-01T07:00:00+00:00",
@@ -1078,13 +1008,6 @@
       "source": "Cursor Blog",
       "big": false
     },
-    "https://cursor.com/blog/bootstrapping-composer-with-autoinstall": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Bootstrapping Composer with autoinstall",
-      "link": "https://cursor.com/blog/bootstrapping-composer-with-autoinstall",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "https://windsurf.com/changelog#2.3.15#2.3.15": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Windsurf 2.3.15",
@@ -1096,13 +1019,6 @@
       "ts": "2026-05-17T00:00:00+00:00",
       "title": "Windsurf 2.3.9",
       "link": "https://windsurf.com/changelog#2.3.9",
-      "source": "Windsurf Changelog",
-      "big": false
-    },
-    "https://windsurf.com/changelog#2.2.17#2.2.17": {
-      "ts": "2026-05-06T00:00:00+00:00",
-      "title": "Windsurf 2.2.17",
-      "link": "https://windsurf.com/changelog#2.2.17",
       "source": "Windsurf Changelog",
       "big": false
     },
@@ -1999,6 +1915,13 @@
       "ts": "2026-06-04T10:51:01+00:00",
       "title": "Deploy and Host OpenClaw on Railway",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://railway.com/deploy/openclaw-private-agent&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12zLmteWDylHs55KhA2mmm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13313430912327374723": {
+      "ts": "2026-06-05T01:01:47+00:00",
+      "title": "This Pharmacist Created A Fitness Tracker that Adapts As Your Body Changes - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/hi/blog/alyak-tv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Yf4K4Jxl3j_Pd3pJnPFt3",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
