@@ -329,13 +329,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook": {
-      "ts": "2026-05-07T00:00:00+00:00",
-      "title": "Collaborate with Claude across Excel, PowerPoint, Word and Outlook",
-      "link": "https://claude.com/blog/collaborate-with-claude-across-excel-powerpoint-word-and-outlook",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
       "title": "Our views on AI policy and political advocacy",
@@ -665,27 +658,6 @@
       "source": "OpenAI News",
       "big": true
     },
-    "https://openai.com/index/introducing-trusted-contact-in-chatgpt": {
-      "ts": "2026-05-07T00:00:00+00:00",
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "link": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "source": "OpenAI News",
-      "big": true
-    },
-    "https://openai.com/index/testing-ads-in-chatgpt": {
-      "ts": "2026-05-07T00:00:00+00:00",
-      "title": "Testing ads in ChatGPT",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/simplex": {
-      "ts": "2026-05-07T00:00:00+00:00",
-      "title": "Simplex rethinks software development with Codex",
-      "link": "https://openai.com/index/simplex",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -928,13 +900,6 @@
       "ts": "2026-05-13T00:00:00+00:00",
       "title": "How We Built Security Into Computer",
       "link": "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users": {
-      "ts": "2026-05-07T00:00:00+00:00",
-      "title": "Personal Computer is Available to All Mac Users",
-      "link": "https://www.perplexity.ai/hub/blog/personal-computer-is-available-to-all-mac-users",
       "source": "Perplexity Blog",
       "big": false
     },
@@ -2153,6 +2118,48 @@
       "ts": "2026-06-05T15:13:58+00:00",
       "title": "Meta Ads + <b>Manus AI</b> Integration - AI Campaign Optimization (meQ5ZWWC6s) - Fathom",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://fathomjournal.org/69570c57smm/6bf33059-NlQgGDAPODYSA1o.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3R0jO6IpJZcnJ9BFd9w5hG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10046378775413728673": {
+      "ts": "2026-06-06T00:06:11+00:00",
+      "title": "Reid Hoffman is leaving Microsoft's board to go 'founder mode' with startup Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0t0nEVWwrrI6rrtxtLiXn-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:911201542813070815": {
+      "ts": "2026-06-05T23:18:42+00:00",
+      "title": "Reid Hoffman Exits Microsoft Board for AI Drug Startup | The Tech Buzz",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/reid-hoffman-exits-microsoft-board-for-ai-drug-startup&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39ecLVHb8QiIzaHZTUsVAr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11203681099673889133": {
+      "ts": "2026-06-05T22:38:49+00:00",
+      "title": "<b>Manus AI</b> vs Claude (2026) — Why Manus Uses Claude Inside It - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOh6C3eBktV4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RqVEEJHinGYWFBHfrje-k",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8707760005184840941": {
+      "ts": "2026-06-05T21:19:28+00:00",
+      "title": "Build &amp; Launch Startup with AI | by Manus Fellow - Luma",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://luma.com/owvaawyf&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3w6IpnwR0LS5vgp7PplCGs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:11131559914158868898": {
+      "ts": "2026-06-05T21:17:22+00:00",
+      "title": "How to Use the <b>Manus AI</b> Instagram Connector in 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DpGgh0Dn3EWE%26vl%3Dhi&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Ow0P2QLt-_e0vuuwbvEuM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7636473585286093783": {
+      "ts": "2026-06-05T16:56:04+00:00",
+      "title": "Episode 67: Automating QA Testing with <b>Manus AI</b> | Techify Solutions Pvt Ltd - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/techify-solutions-pvt-ltd_ai-tool-series-episode-67-automating-qa-activity-7468584105191010304-ONUF&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2f3TNxwhG9UHhV5b3I5jte",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
