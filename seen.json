@@ -651,13 +651,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api": {
-      "ts": "2026-05-07T10:00:00+00:00",
-      "title": "Advancing voice intelligence with new models in the API",
-      "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-      "source": "OpenAI News",
-      "big": true
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
