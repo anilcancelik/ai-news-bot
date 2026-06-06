@@ -644,13 +644,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/parloa": {
-      "ts": "2026-05-07T11:00:00+00:00",
-      "title": "Parloa builds service agents customers want to talk to",
-      "link": "https://openai.com/index/parloa",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
