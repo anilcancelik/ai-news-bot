@@ -2162,6 +2162,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/techify-solutions-pvt-ltd_ai-tool-series-episode-67-automating-qa-activity-7468584105191010304-ONUF&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2f3TNxwhG9UHhV5b3I5jte",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "b5a46034a978064a": {
+      "ts": "2026-06-06T01:43:25+00:00",
+      "title": "2.1.167",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-167",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "f11a026a34a85fca": {
+      "ts": "2026-06-06T01:43:25+00:00",
+      "title": "2.1.166",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-166",
+      "source": "Claude Code changelog",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-05"
