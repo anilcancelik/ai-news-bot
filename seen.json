@@ -630,13 +630,6 @@
       "source": "OpenAI News",
       "big": true
     },
-    "https://openai.com/index/running-codex-safely": {
-      "ts": "2026-05-08T12:30:00+00:00",
-      "title": "Running Codex safely at OpenAI",
-      "link": "https://openai.com/index/running-codex-safely",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -2461,6 +2454,27 @@
       "ts": "2026-06-06T21:39:19+00:00",
       "title": "<b>Manus - AI</b> Agent &amp; Automation - Ratings &amp; Reviews - App Store - Apple",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/uz/app/manus-ai-agent-automation/id6740909540%3Fsee-all%3Dreviews%26platform%3Dipad&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3v7tfq50LawD9cmzHBQS8D",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13397021301560965696": {
+      "ts": "2026-06-07T12:06:34+00:00",
+      "title": "Post by andy (@louis_king_charles) - Threads",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40louis_king_charles/post/DZSKEBMiakH/andy%25EB%258B%2598louis_king_charles%25EC%259D%2598-%25EA%25B2%258C%25EC%258B%259C%25EB%25AC%25BC/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vSLmhtP5Q2tiTS1jVKvcj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17981491949193483339": {
+      "ts": "2026-06-07T11:18:18+00:00",
+      "title": "All YT channels that you need to be in AI - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZSF1G7icN1/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Lu95hzywZQPmhxzFcD0GC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3314785932787497150": {
+      "ts": "2026-06-07T07:00:18+00:00",
+      "title": "ChatGPT Codex Claude <b>Manus AI</b> Lovable GitHub Google Drive enough ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/ravimathur15/status/2063231642517541147&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw18-YNlaUCGGhWh_PKDdtr7",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
