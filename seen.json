@@ -2708,6 +2708,41 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.uk/china-approves-brain-implant-paralysis-treatment-1801336&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fuGpqmu14vo34JJtJf-0R",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/observability-for-developers-building-connectors": {
+      "ts": "2026-06-08T00:00:00+00:00",
+      "title": "Observability for developers building connectors",
+      "link": "https://claude.com/blog/observability-for-developers-building-connectors",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/economic-research-exchange": {
+      "ts": "2026-06-08T00:00:00+00:00",
+      "title": "Introducing the OpenAI Economic Research Exchange",
+      "link": "https://openai.com/index/economic-research-exchange",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:13266108140892098251": {
+      "ts": "2026-06-08T18:19:07+00:00",
+      "title": "AI brands as bait: How threat actors are using the AI hype in social engineering - Microsoft",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2OGboZcsVlIyO8SDZO3jn0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6977058140904448479": {
+      "ts": "2026-06-08T17:46:40+00:00",
+      "title": "How to Use Open Manus as a Free Alternative in 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DLOz9qAqlnxs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1m6AFVK8pvUhYTek3lBW84",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7904849603228007309": {
+      "ts": "2026-06-08T17:19:33+00:00",
+      "title": "OpenAI Lockdown Mode: Revolutionary Defense Against Prompt Injection Attacks in 2026",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://coaio.com/news/2026/06/openai-lockdown-mode-revolutionary-defense-against-prompt-injection-2ssc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12e6-rJRACVz58s9PQt_6c",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-08"
