@@ -3016,6 +3016,34 @@
       "link": "https://claude.com/blog/whats-new-in-claude-managed-agents",
       "source": "Claude Blog",
       "big": false
+    },
+    "b6d5ada4604ad6d1": {
+      "ts": "2026-06-08T22:04:09+00:00",
+      "title": "2.1.169",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-169",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/notion": {
+      "ts": "2026-06-09T10:00:00+00:00",
+      "title": "What Codex unlocks for Notion",
+      "link": "https://openai.com/index/notion",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5697716273156345301": {
+      "ts": "2026-06-09T22:25:46+00:00",
+      "title": "There's this really cool app called <b>Manus AI</b> and in my video I talk about some of its features ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZYX3poRTos/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2LtnlcRamCYCrGgetLDuJy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14522653014856580469": {
+      "ts": "2026-06-09T17:30:30+00:00",
+      "title": "PewDiePie Built A FREE AI Agent You Can Use - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DCHKUTfEUZcs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3N2FQ3VtQRpCMerpnfwIpP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-09"
