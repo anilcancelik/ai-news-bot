@@ -882,20 +882,6 @@
       "source": "Cursor Blog",
       "big": false
     },
-    "https://cursor.com/blog/paypal": {
-      "ts": "2026-05-11T12:00:00+00:00",
-      "title": "Beyond efficiency: PayPal expands what's possible to build with AI",
-      "link": "https://cursor.com/blog/paypal",
-      "source": "Cursor Blog",
-      "big": false
-    },
-    "https://cursor.com/blog/may-2026-bugbot-changes": {
-      "ts": "2026-05-11T12:00:00+00:00",
-      "title": "Updates to Bugbot for Teams and Individuals",
-      "link": "https://cursor.com/blog/may-2026-bugbot-changes",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "https://windsurf.com/changelog#2.3.15#2.3.15": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Windsurf 2.3.15",
@@ -3100,6 +3086,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-zoom-connector-on-manus-zoom-activity-7470127813736611841-uCAO&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Qov9N3LQfSqjRiL5eSuDc",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:210648599065592932": {
+      "ts": "2026-06-09T17:38:12+00:00",
+      "title": "<b>Manus AI</b> General-Purpose Agent - 南环AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nanhuantech.com/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NPPOxMq6Jy_Hi6eGzteRl",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17376060454961476420": {
+      "ts": "2026-06-09T13:26:57+00:00",
+      "title": "screenuo • ai - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.youtube.com/channel/UCYOzlfCIDrqx-P7lrTCsHnw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0tNV-a6siNDAh2b1baAC3Y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-10"
