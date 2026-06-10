@@ -609,13 +609,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/openai-launches-the-deployment-company": {
-      "ts": "2026-05-11T06:00:00+00:00",
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "link": "https://openai.com/index/openai-launches-the-deployment-company",
-      "source": "OpenAI News",
-      "big": true
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -3058,7 +3051,35 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://offcutsmedia.substack.com/p/you-cant-turn-ai-search-off&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XXbR6sLpDcQmVvqA-lLvu",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17887076579823560383": {
+      "ts": "2026-06-10T03:46:17+00:00",
+      "title": "Increasing talent density. AI adoption is mandatory. When transformation does not ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZY9gWIqxeE/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xZAkRLs1lgxbrPuqOcEDY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18163328227703457521": {
+      "ts": "2026-06-09T21:53:31+00:00",
+      "title": "DePIN Powerhouse: @AethirCloud ($ATH) bridges China &amp; Singapore AI corridors, unlocking ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/deexra/status/2064457798063116696&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35MsXJDMq_H-Wjh_JtJuMk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:391460131844455759": {
+      "ts": "2026-06-09T18:55:07+00:00",
+      "title": "Freecodecamp - We're moving from &quot;Answers&quot; to &quot;Actions&quot; in agentic development. In this in ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/freecodecamp/photos/were-moving-from-answers-to-actions-in-agentic-development-in-this-in-depth-cour/1053553727257394/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1yRhIWac4j6ueWFO_LuemN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4942671799219728655": {
+      "ts": "2026-06-09T12:52:57+00:00",
+      "title": "Negócios em Mente - Jukebox",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jukebox.ag/negocios-em-mente%3Flang%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15O7dBOgs4gp3ttTIynUDe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-06-09"
+  "last_digest_date": "2026-06-10"
 }
