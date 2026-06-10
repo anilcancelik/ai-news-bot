@@ -315,20 +315,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "https://claude.com/blog/claude-platform-on-aws": {
-      "ts": "2026-05-11T00:00:00+00:00",
-      "title": "Introducing the Claude Platform on AWS",
-      "link": "https://claude.com/blog/claude-platform-on-aws",
-      "source": "Claude Blog",
-      "big": true
-    },
-    "https://claude.com/blog/agent-view-in-claude-code": {
-      "ts": "2026-05-11T00:00:00+00:00",
-      "title": "Agent view in Claude Code",
-      "link": "https://claude.com/blog/agent-view-in-claude-code",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
       "title": "Our views on AI policy and political advocacy",
@@ -3042,6 +3028,34 @@
       "ts": "2026-06-09T17:30:30+00:00",
       "title": "PewDiePie Built A FREE AI Agent You Can Use - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DCHKUTfEUZcs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3N2FQ3VtQRpCMerpnfwIpP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/industrial-policy-for-the-intelligence-age": {
+      "ts": "2026-06-09T00:00:00+00:00",
+      "title": "Industrial policy for the Intelligence Age",
+      "link": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15537659957959234105": {
+      "ts": "2026-06-10T00:58:02+00:00",
+      "title": "Algernae King's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/algernae-king_today-is-my-daughters-graduation-my-ai-activity-7470067172954972162-bUT6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1-dV3V4RsJB5Gq-jnHA-zW",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9937428694773743439": {
+      "ts": "2026-06-09T22:50:19+00:00",
+      "title": "Build with Agentic AI” and decided to build something I wish… | Josefina Bouzat - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/josefina-bouzat-780a73b8_last-week-i-built-an-app-with-manus-ai-activity-7470149381946654720-QuIm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hYtSICDEqHoC6izYNWFXr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12090438989274025996": {
+      "ts": "2026-06-09T08:10:40+00:00",
+      "title": "You Can't Turn AI Search Off - Offcuts",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://offcutsmedia.substack.com/p/you-cant-turn-ai-search-off&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XXbR6sLpDcQmVvqA-lLvu",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
