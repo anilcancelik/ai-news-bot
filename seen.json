@@ -588,13 +588,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/signals/research/2026q1-update": {
-      "ts": "2026-05-11T15:00:00+00:00",
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "link": "https://openai.com/signals/research/2026q1-update",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -3098,6 +3091,97 @@
       "ts": "2026-06-09T13:26:57+00:00",
       "title": "screenuo • ai - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.youtube.com/channel/UCYOzlfCIDrqx-P7lrTCsHnw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0tNV-a6siNDAh2b1baAC3Y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
+      "ts": "2026-06-10T16:24:11+00:00",
+      "title": "DiffusionGemma: 4x faster text generation",
+      "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://developers.googleblog.com/diffusiongemma-the-developer-guide/": {
+      "ts": "2026-06-10T00:00:00+00:00",
+      "title": "DiffusionGemma: The Developer Guide",
+      "link": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9667238777803549747": {
+      "ts": "2026-06-10T15:38:18+00:00",
+      "title": "<b>MANUS AI</b> PRESENTS: BUILD &amp; LAUNCH STARTUPS IN THE AGE OF AI A FREE 4-Sunday ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/student-tech-and-careers_manus-ai-presents-build-launch-startups-activity-7470490516757995520-z6CA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04178wtkdpnfbFBIEgrNlk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:10595900156199629679": {
+      "ts": "2026-06-10T15:36:20+00:00",
+      "title": "Learn With Manus: Building Websites and Mobile Apps. - Luma",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://luma.com/b09j74h6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0KeSsFFHfusaHubJ8GIFvm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10671862824189228553": {
+      "ts": "2026-06-10T15:19:49+00:00",
+      "title": "One Click to Compromise: ThreatLabz 2026 Phishing and Initial Access Report",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://securityboulevard.com/2026/06/one-click-to-compromise-threatlabz-2026-phishing-and-initial-access-report/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw08yhBCd1Mda8a2RF0LjjPP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17393390694544472668": {
+      "ts": "2026-06-10T14:36:53+00:00",
+      "title": "Google Gemini - You Might Also Like - App Store - Apple",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/ge/app/6477489729%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1_83r91zSmiKEx8zAsdRy0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17145934212612604820": {
+      "ts": "2026-06-10T13:30:54+00:00",
+      "title": "Zscaler Research Finds Cybercrime Economics Are Shifting as AI Trades Mass Volume for ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://markets.businessinsider.com/news/stocks/zscaler-research-finds-cybercrime-economics-are-shifting-as-ai-trades-mass-volume-for-lethal-precision-1036238689&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OJZZ9eFh39Gpg8oJD0Fw7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8276490910511804389": {
+      "ts": "2026-06-10T12:07:22+00:00",
+      "title": "Zscaler unveils ZAgent Framework to automate zero-trust SASE operations - SiliconANGLE",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://siliconangle.com/2026/06/10/zscaler-unveils-zagent-framework-automate-zero-trust-sase-operations/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1EdYsnWNhnyW0nX8U6lVxO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:14935078405552300233": {
+      "ts": "2026-06-10T11:39:21+00:00",
+      "title": "Upcoming Crypto Listings in 2026: Top 5 Projects to Watch - CoinGabbar",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coingabbar.com/en/crypto-blogs-details/upcoming-crypto-listings-5-crypto-projects-worth-watching&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ls9KIZHO-jVp84lUBfWJJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13601600677541283552": {
+      "ts": "2026-06-10T10:49:01+00:00",
+      "title": "Bee Network Roadmap 2026: KYC Progress and Future Plans - CoinGabbar",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coingabbar.com/en/crypto-blogs-details/bee-network-roadmap-2026-current-status-and-next-milestones&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LcXnfZjkBeQ5aLt0pxRp0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14891641671081330288": {
+      "ts": "2026-06-10T09:58:18+00:00",
+      "title": "The undeclared $500 billion war, with data centers and uranium: Russia prepares its nuclear AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bankingnews.gr/en/index.php%3Fid%3D880793%26diethni/articles/880793/the-undeclared-500-billion-war-with-data-centers-and-uranium-russia-prepares-its-nuclear-ai-batteries&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3GMt_HfEUhQFHmiSh-i3xq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5403463216315171057": {
+      "ts": "2026-06-10T04:43:57+00:00",
+      "title": "GUYS <b>Manus ai</b> is insane.#openai#meta#ai#manusai#instagram#telegram#internet ... - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/JIP6txxO828&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zFzo8MW6nVErbakbVryhd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12432036757362840212": {
+      "ts": "2026-06-09T22:08:25+00:00",
+      "title": "TiDB, powered by PingCAP's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pingcap_manus-ai-went-viral-in-march-2025-by-may-activity-7470120033197740033-C_8S&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qDWcZlQ_wwyW6r-tx50Cy",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
