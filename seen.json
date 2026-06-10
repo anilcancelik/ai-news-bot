@@ -3226,6 +3226,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DuYVOwWiUybY%26vl%3Dte&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hk_5C78uAPjtCfA3CfKXo",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/using-codex-to-simulate-black-holes": {
+      "ts": "2026-06-11T00:00:00+00:00",
+      "title": "How an astrophysicist uses Codex to help simulate black holes",
+      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/openai-on-oracle-cloud": {
+      "ts": "2026-06-10T20:00:00+00:00",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "link": "https://openai.com/index/openai-on-oracle-cloud",
+      "source": "OpenAI News",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-10"
