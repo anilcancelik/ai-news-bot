@@ -595,20 +595,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/openai-campus-network-student-club-interest-form": {
-      "ts": "2026-05-11T10:00:00+00:00",
-      "title": "OpenAI Campus Network: Student club interest form",
-      "link": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai": {
-      "ts": "2026-05-11T10:00:00+00:00",
-      "title": "How enterprises are scaling AI",
-      "link": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -3079,6 +3065,41 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jukebox.ag/negocios-em-mente%3Flang%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15O7dBOgs4gp3ttTIynUDe",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/lseg": {
+      "ts": "2026-06-10T00:00:00+00:00",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "link": "https://openai.com/index/lseg",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8610279593354944082": {
+      "ts": "2026-06-10T10:18:12+00:00",
+      "title": "6 AI tools that are actually worth your time and money in 2026 Each one has its own ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZXp-z7ssaW/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39JSarTQ6XBHBsxR9mJn6S",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8052513692171479664": {
+      "ts": "2026-06-10T07:58:46+00:00",
+      "title": "These are the best AI toold that will save you your JOB! learn them, use them! #aitools ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/CoachJennyVAMomOfficial/videos/these-are-the-best-ai-toold-that-will-save-you-your-job-learn-them-use-them-aito/853899710661080/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0QvktPyjCFRLs5r8oq0zLp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11553794582336563276": {
+      "ts": "2026-06-10T04:59:48+00:00",
+      "title": "Cloud Security Engineer — Incident Response &amp; Automation - <b>Manus AI</b> - BeBee",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/sg/jobs/cloud-security-engineer-incident-response-automation-manus-ai-singapore--jobmesh-9d32260a-3e28-410b-a6f7-618179aaa8a1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RI7QxnDVmRHwJfGmODOnA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7826028357796131670": {
+      "ts": "2026-06-09T21:56:00+00:00",
+      "title": "Introducing Zoom connector on Manus! Zoom meetings often hold the context teams need later",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-zoom-connector-on-manus-zoom-activity-7470127813736611841-uCAO&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Qov9N3LQfSqjRiL5eSuDc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-06-10"
