@@ -3296,6 +3296,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zscaler.com/press/zscaler-research-finds-cybercrime-economics-are-shifting-ai-trades-mass-volume-lethal&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2b0jxQDiKaIZlDpK3rSY7l",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/": {
+      "ts": "2026-06-10T10:21:19+00:00",
+      "title": "Investing in multi-agent AI safety research",
+      "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+      "source": "Google DeepMind News",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-11"
