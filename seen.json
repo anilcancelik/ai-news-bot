@@ -539,13 +539,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/academy/how-finance-teams-use-codex": {
-      "ts": "2026-05-12T15:00:00+00:00",
-      "title": "How finance teams use Codex",
-      "link": "https://openai.com/academy/how-finance-teams-use-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -648,13 +641,6 @@
       "ts": "2026-05-15T22:50:12+00:00",
       "title": "Gemini 3.5: frontier intelligence with action",
       "link": "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/": {
-      "ts": "2026-05-12T14:40:07+00:00",
-      "title": "Co-Scientist: A multi-agent AI partner to accelerate research",
-      "link": "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
       "source": "Google DeepMind News",
       "big": false
     },
@@ -3302,6 +3288,48 @@
       "title": "Investing in multi-agent AI safety research",
       "link": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/claude-corps": {
+      "ts": "2026-06-11T00:00:00+00:00",
+      "title": "Introducing Claude Corps",
+      "link": "https://www.anthropic.com/news/claude-corps",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "https://openai.com/index/openai-to-acquire-ona": {
+      "ts": "2026-06-11T00:00:00+00:00",
+      "title": "OpenAI to acquire Ona",
+      "link": "https://openai.com/index/openai-to-acquire-ona",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10618113604858315046": {
+      "ts": "2026-06-11T15:28:43+00:00",
+      "title": "<b>Manus AI</b> REVIEW By Real Users!Can It Boost Your Crypto Profits Or a Scam? Find Now!",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.villageexchangeinternational.org/video/video-manus-ai-ezlu&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23IEont5rCpgvO51_0PocI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16268422497631535084": {
+      "ts": "2026-06-11T13:48:34+00:00",
+      "title": "I don't understand why people are paying for <b>Manus AI</b>. When this alternative is 10x cheaper ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/LearnWithBishal/status/2065067425343926601&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0LWvNNa0Ebxo52RPJRZr7f",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14035941098773472635": {
+      "ts": "2026-06-11T11:33:38+00:00",
+      "title": "Top 10 AI Agent Platforms in 2026: Genspark, Manus, ChatGPT, and More Ranked | Scribe",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://scribehow.com/page/Top_10_AI_Agent_Platforms_in_2026_Genspark_Manus_ChatGPT_and_More_Ranked__xE2HGbUnRg64GnIpYo9SYg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26mUodAmp6AbtebZkddPs_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7886225138417796300": {
+      "ts": "2026-06-11T10:08:13+00:00",
+      "title": "No single AI app is best at everything. - Threads",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40ai.tools_review/post/DZcQD0PGONT/no-single-ai-app-is-best-at-everything-the-real-advantage-comes-from-knowing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xRBbL4qW5liJ9Dv892SUf",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
