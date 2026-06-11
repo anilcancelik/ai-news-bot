@@ -294,27 +294,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity": {
-      "ts": "2026-05-12T00:00:00+00:00",
-      "title": "How Anthropic's cybersecurity team built a threat detection platform with Claude Code",
-      "link": "https://claude.com/blog/how-anthropic-uses-claude-cybersecurity",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-for-the-legal-industry": {
-      "ts": "2026-05-12T00:00:00+00:00",
-      "title": "Claude for the legal industry",
-      "link": "https://claude.com/blog/claude-for-the-legal-industry",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/code-w-claude-sf-2026-sf": {
-      "ts": "2026-05-12T00:00:00+00:00",
-      "title": "Code w/ Claude SF 2026 recap: Building on the AI exponential",
-      "link": "https://claude.com/blog/code-w-claude-sf-2026-sf",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
       "title": "Our views on AI policy and political advocacy",
@@ -564,27 +543,6 @@
       "ts": "2026-05-12T15:00:00+00:00",
       "title": "How finance teams use Codex",
       "link": "https://openai.com/academy/how-finance-teams-use-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/what-parameter-golf-taught-us": {
-      "ts": "2026-05-12T00:00:00+00:00",
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "link": "https://openai.com/index/what-parameter-golf-taught-us",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/autoscout24": {
-      "ts": "2026-05-12T00:00:00+00:00",
-      "title": "AutoScout24 scales engineering with AI-powered workflows",
-      "link": "https://openai.com/index/autoscout24",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/nvidia": {
-      "ts": "2026-05-12T00:00:00+00:00",
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "link": "https://openai.com/index/nvidia",
       "source": "OpenAI News",
       "big": false
     },
@@ -3266,6 +3224,27 @@
       "ts": "2026-06-10T04:02:33+00:00",
       "title": "<b>Manus: AI</b> Agent for Bigger Tasks &amp; Meeting Prep #shorts - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Y54M8uk5kUM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aErP7NmepkrWKCIneXF1X",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "8ab4e5b8feb3e530": {
+      "ts": "2026-06-11T00:39:33+00:00",
+      "title": "2.1.172",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-172",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8068636594496448054": {
+      "ts": "2026-06-11T01:52:20+00:00",
+      "title": "#ai #manus #artificialintelligence #humancenteredai #techforgood | Abhishek Suryawanshi",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/abhisuryawanshi_ai-manus-artificialintelligence-activity-7470624576310329344-hlVT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_RSydAcv_3UTSICPVaUqo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5055668287566256429": {
+      "ts": "2026-06-10T22:21:01+00:00",
+      "title": "Manus Credits : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1u2fz6r/manus_credits/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3bQa1OnIwHvlFRu6qGx6eI",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
