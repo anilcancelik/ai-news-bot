@@ -511,13 +511,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/building-codex-windows-sandbox": {
-      "ts": "2026-05-13T11:00:00+00:00",
-      "title": "Building a safe, effective sandbox to enable Codex on Windows",
-      "link": "https://openai.com/index/building-codex-windows-sandbox",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -783,13 +776,6 @@
       "link": "https://cursor.com/blog/composer-2-5",
       "source": "Cursor Blog",
       "big": true
-    },
-    "https://cursor.com/blog/cloud-agent-development-environments": {
-      "ts": "2026-05-13T12:00:00+00:00",
-      "title": "Development environments for your cloud agents",
-      "link": "https://cursor.com/blog/cloud-agent-development-environments",
-      "source": "Cursor Blog",
-      "big": false
     },
     "https://windsurf.com/changelog#2.3.15#2.3.15": {
       "ts": "2026-05-28T00:00:00+00:00",
@@ -3512,6 +3498,48 @@
       "title": "How Preply combines AI and human tutors to personalize learning",
       "link": "https://openai.com/index/preply",
       "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17475786051732116992": {
+      "ts": "2026-06-12T12:15:07+00:00",
+      "title": "Meta begins dismantling $2B Manus acquisition to comply with Beijing order - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/offthepressnews/posts/meta-begins-dismantling-2b-manus-acquisition-to-comply-with-beijing-order/1034359118940760/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw220MQ7S-6ehqX1ZO4ZhFbB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11194806698732535862": {
+      "ts": "2026-06-12T10:19:45+00:00",
+      "title": "Manus support is it pure AI agent? : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1u3pxqj/manus_support_is_it_pure_ai_agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ycwM-n4q-22mx01gb4vVD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10941142007909314218": {
+      "ts": "2026-06-12T08:35:21+00:00",
+      "title": "Best AI App Builders in 2026: Which One Should YOU Choose for Your Project? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DDK0MiA1rEFc%26vl%3Dru&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw06HwegHwqFVUjP21NLbqnq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8724115984855951828": {
+      "ts": "2026-06-12T06:16:31+00:00",
+      "title": "Meta Ends Collaboration with Manus After Regulatory Blockade - nstartup",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nstartup.me/news/bd31cc11-eba2-4f13-9ade-447a9e24a2fc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0B3iMetQoVFJcg_PtIArJf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13291499305691151350": {
+      "ts": "2026-06-12T00:44:04+00:00",
+      "title": "analyze competitor data and turn it into slides, dashboards, and… | <b>Manus AI</b> - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_learn-with-manus-is-back-with-3-sessions-activity-7470852619830337536-kxgo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WjWiExXff4lGPJkDJrz9Q",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5412496742621292822": {
+      "ts": "2026-06-11T17:51:20+00:00",
+      "title": "<b>Manus AI</b> Did 10 Hours of Work in 10 Minutes! | Day 11 AI Challenge - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhWvH0bavk8U&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0PLO35NglfX5s-cwaO8v4Z",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
