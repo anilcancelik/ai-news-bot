@@ -182,13 +182,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/news/claude-for-small-business": {
-      "ts": "2026-05-13T00:00:00+00:00",
-      "title": "Introducing Claude for Small Business",
-      "link": "https://www.anthropic.com/news/claude-for-small-business",
-      "source": "Anthropic News",
-      "big": true
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
@@ -284,13 +277,6 @@
       "ts": "2026-05-14T00:00:00+00:00",
       "title": "The founder's playbook: Building an AI-native startup",
       "link": "https://claude.com/blog/the-founders-playbook",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude": {
-      "ts": "2026-05-13T00:00:00+00:00",
-      "title": "Best practices for computer and browser use with Claude",
-      "link": "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
       "source": "Claude Blog",
       "big": false
     },
@@ -532,13 +518,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack": {
-      "ts": "2026-05-13T00:00:00+00:00",
-      "title": "Our response to the TanStack npm supply chain attack",
-      "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -767,13 +746,6 @@
       "ts": "2026-05-14T00:00:00+00:00",
       "title": "Computer brings data science to every team",
       "link": "https://www.perplexity.ai/hub/blog/computer-brings-data-science-to-every-team",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer": {
-      "ts": "2026-05-13T00:00:00+00:00",
-      "title": "How We Built Security Into Computer",
-      "link": "https://www.perplexity.ai/hub/blog/how-we-built-security-into-computer",
       "source": "Perplexity Blog",
       "big": false
     },
@@ -3469,6 +3441,34 @@
       "ts": "2026-06-11T10:30:19+00:00",
       "title": "Skill Leap AI: The Practical Gateway to AI Mastery - Skywork",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://skywork.ai/slide/en/skill-leap-ai-mastery-2065009282756857856&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3XLqKoR-5aAIKwf5K_qLA8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://ollama.com/blog/mlx-performance": {
+      "ts": "2026-06-11T00:00:00+00:00",
+      "title": "Ollama's highest performance on Apple Silicon yet with MLX",
+      "link": "https://ollama.com/blog/mlx-performance",
+      "source": "Ollama Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14367616856750510615": {
+      "ts": "2026-06-11T22:40:46+00:00",
+      "title": "Meta faces forced divestment of <b>Manus AI</b> startup amid China crackdown ... - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/x54t10ZQ8N8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0K0PvslkE69VVbnvqdRa_B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5606593959317755965": {
+      "ts": "2026-06-11T19:55:45+00:00",
+      "title": "Why Manus Is Different (Manus vs The Rest Explained) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DWoyX9AqmY4c&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0oyqpxj3vNyOwPoB3JQ0A2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17655173620184860716": {
+      "ts": "2026-06-11T18:40:25+00:00",
+      "title": "China just forced $META to unwind its $2B <b>Manus AI</b> acquisition TODAY due to national ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/kavout/status/2065115544676614556&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Z3NjwvSWp2C05g3a0MCHQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
