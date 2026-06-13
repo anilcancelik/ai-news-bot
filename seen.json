@@ -168,20 +168,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/news/gates-foundation-partnership": {
-      "ts": "2026-05-14T00:00:00+00:00",
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-      "link": "https://www.anthropic.com/news/gates-foundation-partnership",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://www.anthropic.com/news/pwc-expanded-partnership": {
-      "ts": "2026-05-14T00:00:00+00:00",
-      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-      "link": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
@@ -263,20 +249,6 @@
       "ts": "2026-05-15T00:00:00+00:00",
       "title": "Deploying Claude across the legal industry",
       "link": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start": {
-      "ts": "2026-05-14T00:00:00+00:00",
-      "title": "How Claude Code works in large codebases: Best practices and where to start",
-      "link": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/the-founders-playbook": {
-      "ts": "2026-05-14T00:00:00+00:00",
-      "title": "The founder's playbook: Building an AI-native startup",
-      "link": "https://claude.com/blog/the-founders-playbook",
       "source": "Claude Blog",
       "big": false
     },
@@ -504,13 +476,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations": {
-      "ts": "2026-05-14T00:00:00+00:00",
-      "title": "Helping ChatGPT better recognize context in sensitive conversations",
-      "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -721,24 +686,10 @@
       "source": "xAI News",
       "big": false
     },
-    "https://x.ai/news/grok-build-cli": {
-      "ts": "2026-05-14T00:00:00+00:00",
-      "title": "Introducing Grok Build",
-      "link": "https://x.ai/news/grok-build-cli",
-      "source": "xAI News",
-      "big": true
-    },
     "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee": {
       "ts": "2026-05-22T00:00:00+00:00",
       "title": "Perplexity Is Open-Sourcing Bumblebee",
       "link": "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/computer-brings-data-science-to-every-team": {
-      "ts": "2026-05-14T00:00:00+00:00",
-      "title": "Computer brings data science to every team",
-      "link": "https://www.perplexity.ai/hub/blog/computer-brings-data-science-to-every-team",
       "source": "Perplexity Blog",
       "big": false
     },
@@ -3723,6 +3674,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jotform.com/answers/39088141-connect-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Jc1BJUyC3t9XJAhhGOqUj",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14899091233621824676": {
+      "ts": "2026-06-12T22:31:05+00:00",
+      "title": "Is SpaceX worth $1.75 trillion? | IBTimes",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/spacex-worth-175-trillion-3804005&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2pc-q3aOP9f5CTPEmeUWrl",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10984462787343067826": {
+      "ts": "2026-06-12T22:07:46+00:00",
+      "title": "SpaceX Begins Trading In Nasdaq At $150 After $135 Pricing | IBTimes",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/spacex-begins-trading-nasdaq-150-after-135-pricing-3804031&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1JGK4y6yLuXmEPYHvpYDlB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12210238919905414447": {
+      "ts": "2026-06-12T20:53:21+00:00",
+      "title": "Meta Business Agent Is Now Available Globally in 2026 - Memeburn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://memeburn.com/meta-business-agent-is-now-available-globally-in-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cAnFdwNPY8vEvDrfIWREs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-06-12"
