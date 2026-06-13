@@ -462,13 +462,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/sea-david-chen": {
-      "ts": "2026-05-14T20:30:00+00:00",
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "link": "https://openai.com/index/sea-david-chen",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -3805,6 +3798,13 @@
       "ts": "2026-06-13T03:18:30+00:00",
       "title": "Tom Sosnoff, CEO of Loss Dog, on the SpaceX IPO “It's the Elon Musk effect, which is basica",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/gettheinformation/videos/spacex-more-than-any-other-company-ive-ever-seen-has-two-things-that-i-dont-like/4423763301214894/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0t1Oj46BVyEN_dbMTD74HM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4258986920495942103": {
+      "ts": "2026-06-13T17:42:10+00:00",
+      "title": "EP96: Gemini Native Image Generation &amp; Editing, OpenAI's Agent SDK &amp; Will <b>Manus AI</b> Invade USA?",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.imdb.com/title/tt43538109/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2rwB3v7owR0_ppR9CeF9gx",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
