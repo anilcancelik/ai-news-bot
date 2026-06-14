@@ -238,13 +238,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "https://claude.com/blog/deploying-claude-across-the-legal-industry": {
-      "ts": "2026-05-15T00:00:00+00:00",
-      "title": "Deploying Claude across the legal industry",
-      "link": "https://claude.com/blog/deploying-claude-across-the-legal-industry",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
       "title": "Our views on AI policy and political advocacy",
@@ -417,41 +410,6 @@
       "ts": "2026-05-16T00:00:00+00:00",
       "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
       "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/databricks": {
-      "ts": "2026-05-15T00:00:00+00:00",
-      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "link": "https://openai.com/index/databricks",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex": {
-      "ts": "2026-05-15T00:00:00+00:00",
-      "title": "How business operations teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/personal-finance-chatgpt": {
-      "ts": "2026-05-15T00:00:00+00:00",
-      "title": "A new personal finance experience in ChatGPT",
-      "link": "https://openai.com/index/personal-finance-chatgpt",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
-      "ts": "2026-05-15T00:00:00+00:00",
-      "title": "How sales teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
-      "ts": "2026-05-15T00:00:00+00:00",
-      "title": "How data science teams use Codex",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "source": "OpenAI News",
       "big": false
     },
@@ -655,13 +613,6 @@
       "ts": "2026-05-18T00:00:00+00:00",
       "title": "Skills in web, iOS, and Android",
       "link": "https://x.ai/news/grok-skills",
-      "source": "xAI News",
-      "big": false
-    },
-    "https://x.ai/news/grok-hermes": {
-      "ts": "2026-05-15T00:00:00+00:00",
-      "title": "Connect Grok to Hermes Agent",
-      "link": "https://x.ai/news/grok-hermes",
       "source": "xAI News",
       "big": false
     },
@@ -3826,6 +3777,41 @@
       "ts": "2026-06-13T16:01:41+00:00",
       "title": "How to Create a Banner in <b>Manus AI</b> | Banner Design Tutorial - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DO9qO2Bysr28&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1NFuLU4OeMCDlEuX88JV7Y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2344222822891422126": {
+      "ts": "2026-06-14T01:05:58+00:00",
+      "title": "Meta Walked Away From Manus. The AI Race Just Got More Complicated. - Wire Hub",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/wirehubs_meta-walked-away-from-manus-the-ai-race-activity-7471724111006982144-LlvH&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10n4_wWdRVkKX3jWiRGfuE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5971319437088650817": {
+      "ts": "2026-06-14T00:56:30+00:00",
+      "title": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/techcrunch/posts/meta-starts-dismantling-its-2-billion-manus-acquisition-after-beijing-ordered-th/1353621933298337/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nzX-KaVgeCYYGS3he_wKD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5899759525022639368": {
+      "ts": "2026-06-13T23:25:44+00:00",
+      "title": "Meta's Perfect Storm: Ad Outage and Forced AI Divestiture Chill Investor Sentiment ()",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aktiencheck.de/news/Artikel-Meta_s_Perfect_Storm_Ad_Outage_and_Forced_AI_Divestiture_Chill_Investor_Sentiment-19848077&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0EFnX7TOGZT6vTMri8tfLa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2003729541869474310": {
+      "ts": "2026-06-13T23:10:18+00:00",
+      "title": "No, Manus Is Not Shutting Down - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/evolutionunleashedai/posts/27069575872663474/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LGwgPrzzQbBi0E5eJ4Hti",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4560960881269512727": {
+      "ts": "2026-06-13T22:12:04+00:00",
+      "title": "<b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/BpqcPdeQNHQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3kQpD605YAWRVsYYspgtXN",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
