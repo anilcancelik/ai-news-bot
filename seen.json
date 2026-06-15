@@ -399,13 +399,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/malta-chatgpt-plus-partnership": {
-      "ts": "2026-05-16T00:00:00+00:00",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "link": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -494,13 +487,6 @@
       "ts": "2026-05-16T07:40:27+00:00",
       "title": "Uncovering repurposed medicines to fight liver fibrosis",
       "link": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/": {
-      "ts": "2026-05-16T03:14:17+00:00",
-      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
-      "link": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
       "source": "Google DeepMind News",
       "big": false
     },
@@ -4043,6 +4029,41 @@
       "ts": "2026-06-14T21:10:03+00:00",
       "title": "How To Build A Website With <b>Manus AI</b> (Full Guide 2026) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D5HCovU7ZoMw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3hCLrkqYvIbSPfg40oAIFY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/introducing-openai-partner-network": {
+      "ts": "2026-06-14T17:00:00+00:00",
+      "title": "Introducing the OpenAI Partner Network",
+      "link": "https://openai.com/index/introducing-openai-partner-network",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:17094157053508848899": {
+      "ts": "2026-06-14T22:14:52+00:00",
+      "title": "Should you pay for these AI tools? - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZlKP3qD8AX/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xXENRPOfuCgOHsl_1T0PS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12665170499012235227": {
+      "ts": "2026-06-14T22:09:04+00:00",
+      "title": "Meta Reportedly Unwinds $2B Manus Deal After Beijing's Divestiture Order - GetAI Tools",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.getaitool.in/newsletter/meta-reportedly-unwinds-dollar2b-manus-deal-after-beijings-divestiture-order&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33KeWAJ8CFG8OyrnKaC6Xp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7424712656636320050": {
+      "ts": "2026-06-14T19:41:03+00:00",
+      "title": "How to Get Unlimited Credit on <b>Manus AI</b> legal method - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAT8uWz0d_54&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uQN8ZsIbC8cEEIOrwlYnj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:776609789590756482": {
+      "ts": "2026-06-14T13:31:58+00:00",
+      "title": "Amazon CEO Betrayal, Linked to Action Against Anthropic AI - Privacy Needle",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://privacyneedle.com/news/amazon-ceo-betrayal-linked-to-action-against-anthropic-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3AzpHwUZCvwJSlHWBN8Cb_",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
