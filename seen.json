@@ -595,13 +595,6 @@
       "source": "Windsurf Changelog",
       "big": false
     },
-    "https://windsurf.com/changelog#2.3.9#2.3.9": {
-      "ts": "2026-05-17T00:00:00+00:00",
-      "title": "Windsurf 2.3.9",
-      "link": "https://windsurf.com/changelog#2.3.9",
-      "source": "Windsurf Changelog",
-      "big": false
-    },
     "https://ollama.com/blog/openjarvis": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "OpenJarvis: a local-first personal AI is now available to run with Ollama",
@@ -4281,6 +4274,27 @@
       "ts": "2026-06-15T13:09:32+00:00",
       "title": "Time is precious. Let Manus do the heavy lifting. - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/manus/videos/download-manus-ai/1039876265178841/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Z4hdZSUsH2VhnfE_dFK5V",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2594314909237766422": {
+      "ts": "2026-06-15T22:32:47+00:00",
+      "title": "An AI Screenshot Almost Convinced Crypto the White House UFC Card Was Rigged",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/ai-screenshot-almost-convinced-crypto-white-house-ufc-card-was-rigged-3804151&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0FZ9p7qu3DmIazTmRewEAi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5608300721421660796": {
+      "ts": "2026-06-15T20:56:33+00:00",
+      "title": "Drop your Top 3 AI tools in the comments Save and Share with all your friends! Follow ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZkCs2mNBcr/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw07lgSuoz8WvSD_h4f6td8i",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12096454468752240607": {
+      "ts": "2026-06-15T20:51:59+00:00",
+      "title": "Meta rolls out AI Mode on Facebook, pulling answers from public posts across its platforms",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cryptorank.io/news/feed/972fc-meta-ai-mode-facebook-public-posts&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MhBFC2aFHeYmUnjCp6i_x",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
