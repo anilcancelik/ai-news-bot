@@ -434,20 +434,6 @@
       "source": "Google DeepMind News",
       "big": true
     },
-    "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/": {
-      "ts": "2026-05-17T13:50:34+00:00",
-      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-      "link": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/": {
-      "ts": "2026-05-17T13:43:50+00:00",
-      "title": "Making it easier to understand how content was created and edited",
-      "link": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
     "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
@@ -4330,6 +4316,55 @@
       "ts": "2026-06-16T03:45:54+00:00",
       "title": "your competitors are spending hours creating content, growing their audience, and building ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/paolo_scales/status/2066549844559143210/photo/1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0atMac22sTDgDhY2QMJ_sY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17211884132460151188": {
+      "ts": "2026-06-16T15:46:49+00:00",
+      "title": "SpaceX To Acquire AI Coding Startup Anysphere In $60 Billion Deal | IBTimes",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/spacex-acquire-ai-coding-startup-anysphere-60-billion-deal-3804174&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jzCtsWpl5L3st7g8zwyDZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6036896770695083398": {
+      "ts": "2026-06-16T14:28:27+00:00",
+      "title": "Brian Ron Mark | Comment “AI” and I'll send it over And follow @therealbrianmark for more value",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZnNihuqq0Y/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1tyZmd_N5JQ6HwAu7ZH3Qz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14713407862034070299": {
+      "ts": "2026-06-16T13:57:48+00:00",
+      "title": "The Best AI Presentation Agents I've Tried So Far - Generative AI Publication",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.generativeaipub.com/p/the-best-ai-presentation-agents-ive&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1CYFK3E_nVLYOwD7T3XJGU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7482570294377219395": {
+      "ts": "2026-06-16T13:46:35+00:00",
+      "title": "Meta acquired <b>Manus AI</b> in December for two billion dollars. A hundred employees had ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZph7RVAPoU/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw318K8yT6DjCe3U0gBrH3vf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6251940398883052161": {
+      "ts": "2026-06-16T11:56:35+00:00",
+      "title": "China just blocked Meta's $2B acquisition of AI startup Manus - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZovew6iMF-/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29Z31p4SjikpPqbTZZScc3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6268539374381106534": {
+      "ts": "2026-06-16T10:21:09+00:00",
+      "title": "Teneo Protocol - ai #aiagents #crypto - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/teneo-protocol_ai-aiagents-crypto-activity-7472592941111259136-EYhv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2egdHs6m-L6w7rnWkdiuZS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11713402488758016076": {
+      "ts": "2026-06-16T08:57:36+00:00",
+      "title": "Claude vs Manus for meta ads performance analysis - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/claudeaicommunity/posts/1302557058578125/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3oIXSXcr9xa6WKJ34Xu83G",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
