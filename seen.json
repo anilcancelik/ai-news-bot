@@ -392,13 +392,6 @@
       "source": "Google DeepMind News",
       "big": true
     },
-    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/": {
-      "ts": "2026-05-18T18:21:39+00:00",
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "link": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
     "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
@@ -4589,6 +4582,69 @@
       "ts": "2026-06-16T23:11:43+00:00",
       "title": "Manus Pro Free Trial: Risk-Aware Buying Guide for AI Coding Assistant Accounts",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.hxue5.com/articles/manus-pro-free-trial-risk-aware-buying-guide-for-ai-coding-assistant-accounts&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3n77UCo8qqCs57osIDwRW-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/ai-chemist-improves-reaction": {
+      "ts": "2026-06-17T10:00:00+00:00",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "link": "https://openai.com/index/ai-chemist-improves-reaction",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/": {
+      "ts": "2026-06-17T00:00:00+00:00",
+      "title": "Announcing the Agentic Resource Discovery specification",
+      "link": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
+      "source": "Google Developers Blog - AI",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:8866059196152006898": {
+      "ts": "2026-06-17T17:21:12+00:00",
+      "title": "Binance Set to Lose EU Access as Greece Moves to Reject MiCA Licence - Technology Org",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.technology.org/2026/06/17/binance-eu-licence-mica-greece-rejection/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32V3-0mOjhGNO-oaZf1wZV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12837126738828408254": {
+      "ts": "2026-06-17T14:49:29+00:00",
+      "title": "What the ThreatLabz 2026 Phishing and Initial Access Report Means for the Public Sector",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://securityboulevard.com/2026/06/what-the-threatlabz-2026-phishing-and-initial-access-report-means-for-the-public-sector/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1yJBGTL8CQVN5IZ3MLt_hw",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:400605446054794929": {
+      "ts": "2026-06-17T14:38:43+00:00",
+      "title": "Phishing falls as attackers turn to AI &amp; encryption - SecurityBrief UK",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://securitybrief.co.uk/story/phishing-falls-as-attackers-turn-to-ai-encryption&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2D2XF_kWNddRcAwCVlE6o2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11474374434939429784": {
+      "ts": "2026-06-17T10:33:12+00:00",
+      "title": "Meta–Manus Fallout Meta's forced split from Manus shows how AI deals now face ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ciolnews/posts/metamanus-falloutmetas-forced-split-from-manus-shows-how-ai-deals-now-face-sover/1454830479993685/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BhHGuR121Qka-lH_Ow2_d",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:953403441690248222": {
+      "ts": "2026-06-17T08:19:43+00:00",
+      "title": "Unlock Leads: The 50 Dates Formula for Relationship Building #shorts - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D6lihYoaXVgM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1noZ_OgwW3FD-JzL-4pPNz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6435378339112669626": {
+      "ts": "2026-06-17T06:15:33+00:00",
+      "title": "Time is precious. Let Manus do the heavy lifting. | <b>Manus AI</b> - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/manus/videos/download-manus-ai/1010107464958186/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aQWTuWFz4qVlxr5t_LaG5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10677145543668161781": {
+      "ts": "2026-06-17T05:44:57+00:00",
+      "title": "General Atlantic in talks to lead funding for China's Kling AI - MSN",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-ph/money/other/general-atlantic-in-talks-to-lead-funding-for-china-s-kling-ai/ar-AA25PiRe%3Focid%3Dfinance-verthp-feeds&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Pe7iPYa5C1n-7PCoQJitB",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
