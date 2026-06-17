@@ -147,13 +147,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/news/anthropic-acquires-stainless": {
-      "ts": "2026-05-18T00:00:00+00:00",
-      "title": "Anthropic acquires Stainless",
-      "link": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
@@ -504,13 +497,6 @@
       "source": "xAI News",
       "big": false
     },
-    "https://x.ai/news/grok-skills": {
-      "ts": "2026-05-18T00:00:00+00:00",
-      "title": "Skills in web, iOS, and Android",
-      "link": "https://x.ai/news/grok-skills",
-      "source": "xAI News",
-      "big": false
-    },
     "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee": {
       "ts": "2026-05-22T00:00:00+00:00",
       "title": "Perplexity Is Open-Sourcing Bumblebee",
@@ -545,13 +531,6 @@
       "link": "https://cursor.com/blog/cloud-agent-lessons",
       "source": "Cursor Blog",
       "big": false
-    },
-    "https://cursor.com/blog/composer-2-5": {
-      "ts": "2026-05-18T00:00:00+00:00",
-      "title": "Introducing Composer 2.5",
-      "link": "https://cursor.com/blog/composer-2-5",
-      "source": "Cursor Blog",
-      "big": true
     },
     "https://windsurf.com/changelog#2.3.15#2.3.15": {
       "ts": "2026-05-28T00:00:00+00:00",
@@ -4505,6 +4484,27 @@
       "ts": "2026-06-16T15:54:43+00:00",
       "title": "Quiver AI Review: Production-Ready Vectors from Text and Images - Quasa",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/quiver-ai-review-production-ready-vectors-from-text-and-images&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3-kfTMcneA5MELSm8TaDPa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:211426478481299178": {
+      "ts": "2026-06-16T23:19:27+00:00",
+      "title": "<b>Manus AI</b> agent : r/ReferalCodes - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ReferalCodes/comments/1u7ri9t/manus_ai_agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HDG4O7NPzYOMsZCM0vpin",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5891174214786671899": {
+      "ts": "2026-06-16T22:15:27+00:00",
+      "title": "Percepta Review: The Serious Partner for Enterprise AI Adoption - Quasa",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/percepta-review-the-serious-partner-for-enterprise-ai-adoption&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2K-Rl9J9q9mp8eB8dJb4Rk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17745579752252373967": {
+      "ts": "2026-06-16T21:55:15+00:00",
+      "title": "Phota Labs Review: Ultra-Realistic Upscaling &amp; Photo Restoration - Quasa",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/phota-labs-review-ultra-realistic-upscaling-photo-restoration&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XwHtsyyyYeiDjvZiOsd_q",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
