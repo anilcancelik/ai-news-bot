@@ -385,13 +385,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/dell-codex-enterprise-partnership": {
-      "ts": "2026-05-18T10:00:00+00:00",
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "link": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
