@@ -343,13 +343,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/introducing-openai-for-singapore": {
-      "ts": "2026-05-19T20:30:00+00:00",
-      "title": "Introducing OpenAI for Singapore",
-      "link": "https://openai.com/index/introducing-openai-for-singapore",
-      "source": "OpenAI News",
-      "big": true
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -4869,6 +4862,55 @@
       "ts": "2026-06-18T12:06:13+00:00",
       "title": "How to Convert a Photo to Cartoon Style in <b>Manus AI</b> - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAmTm8katyD8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2sEtPJw75Am7vDFao96K_b",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/enterprise-managed-auth": {
+      "ts": "2026-06-18T00:00:00+00:00",
+      "title": "Centrally manage authorization for MCP connectors",
+      "link": "https://claude.com/blog/enterprise-managed-auth",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/artifacts-in-claude-code": {
+      "ts": "2026-06-18T00:00:00+00:00",
+      "title": "Claude Code now supports artifacts",
+      "link": "https://claude.com/blog/artifacts-in-claude-code",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/chatgpt-enterprise-spend-controls": {
+      "ts": "2026-06-18T17:00:00+00:00",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/": {
+      "ts": "2026-06-18T00:00:00+00:00",
+      "title": "How A2A is Building a World of Collaborative Agents",
+      "link": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5122746531879981805": {
+      "ts": "2026-06-18T19:45:52+00:00",
+      "title": "<b>Manus AI's</b> Original Chinese Investors Plan $2B Buyback From Meta After Beijing's Forced ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiweekly.co/node/3150&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YCrrE1GCj_ccdRjDHs3Bc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3101830693067398583": {
+      "ts": "2026-06-18T16:35:00+00:00",
+      "title": "Sachin O.'s Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/sachinohal007_ai-meta-china-activity-7473388100791001088-sSJ1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3j_a1JvQfyN-tk3jl65PBM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15470963445622468726": {
+      "ts": "2026-06-18T12:25:41+00:00",
+      "title": "Top 10 Gamma Alternatives in 2026: AI Presentation Tools Hands-On Reviewed - Powerdrill Bloom",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://powerdrill.ai/ru/blog/top-gamma-alternatives-ai-presentation-tools-hands-on-reviewed&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3kifQW8rLk1lZXz4cvjYBq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
