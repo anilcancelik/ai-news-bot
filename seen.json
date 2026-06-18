@@ -133,20 +133,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/news/anthropic-kpmg": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "link": "https://www.anthropic.com/news/anthropic-kpmg",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://www.anthropic.com/news/widening-conversation-ai": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "Widening the conversation on frontier AI",
-      "link": "https://www.anthropic.com/news/widening-conversation-ai",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
@@ -214,13 +200,6 @@
       "ts": "2026-05-20T00:00:00+00:00",
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
       "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-managed-agents-updates": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "New in Claude Managed Agents: self-hosted sandboxes and MCP tunnels",
-      "link": "https://claude.com/blog/claude-managed-agents-updates",
       "source": "Claude Blog",
       "big": false
     },
@@ -420,48 +399,6 @@
       "source": "Google Developers Blog - AI",
       "big": false
     },
-    "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "All the news from the Google I/O 2026 Developer keynote",
-      "link": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "A Smarter Google AI Edge Gallery: MCP integration, notifications, and session continuity",
-      "link": "https://developers.googleblog.com/a-smarter-google-ai-edge-gallery-mcp-integration-notifications-and-session-continuity/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "Blazing fast on-device GenAI with LiteRT-LM",
-      "link": "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "An important update: Transitioning Gemini CLI to Antigravity CLI",
-      "link": "https://developers.googleblog.com/an-important-update-transitioning-gemini-cli-to-antigravity-cli/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "One Year of Innovation: Celebrating 100k Members in the Google Cloud x NVIDIA Developer Community",
-      "link": "https://developers.googleblog.com/one-year-of-innovation-celebrating-100k-members-in-the-google-cloud-x-nvidia-developer-community/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "Google Tensor SDK Beta with LiteRT",
-      "link": "https://developers.googleblog.com/google-tensor-sdk-beta-with-litert/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "https://mistral.ai/news/accelerate-ai-native-industry": {
       "ts": "2026-05-22T00:00:00+00:00",
       "title": "Emmi joins Mistral to accelerate the AI-native industry",
@@ -473,13 +410,6 @@
       "ts": "2026-05-21T00:00:00+00:00",
       "title": "Use Grok in OpenCode",
       "link": "https://x.ai/news/grok-opencode",
-      "source": "xAI News",
-      "big": false
-    },
-    "https://x.ai/news/grok-openclaw": {
-      "ts": "2026-05-19T00:00:00+00:00",
-      "title": "Use Grok in OpenClaw",
-      "link": "https://x.ai/news/grok-openclaw",
       "source": "xAI News",
       "big": false
     },
@@ -4708,6 +4638,20 @@
       "ts": "2026-06-17T19:34:32+00:00",
       "title": "Please add LeadConnector as a native integration in <b>Manus AI</b> | Voters - GoHighLevel",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://ideas.gohighlevel.com/integrations/p/please-add-leadconnector-as-a-native-integration-in-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2E24kRlP6oFxq3FPmYcOAS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17671322533980283944": {
+      "ts": "2026-06-17T22:10:17+00:00",
+      "title": "Best AI Agents - Top AI Agent Tools Ranked",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiagentsdirectory.com/agents/best&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uxK7meQypBCiT9TqtoxjA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9013050828113089683": {
+      "ts": "2026-06-17T22:10:16+00:00",
+      "title": "Compare AI Agents - Side-by-Side AI Tool Comparisons",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiagentsdirectory.com/compare&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ZsSp_ViBjcILXAe3UZoIO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
