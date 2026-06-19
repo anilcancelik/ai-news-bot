@@ -175,20 +175,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book": {
-      "ts": "2026-05-20T00:00:00+00:00",
-      "title": "How an Anthropic sales leader uses Claude Cowork to run a 4,000-account book",
-      "link": "https://claude.com/blog/how-an-anthropic-sales-leader-uses-claude-cowork-to-run-a-4-000-account-book",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html": {
-      "ts": "2026-05-20T00:00:00+00:00",
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "link": "https://claude.com/blog/using-claude-code-the-unreasonable-effectiveness-of-html",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
       "title": "Our views on AI policy and political advocacy",
@@ -312,27 +298,6 @@
       "ts": "2026-05-21T12:00:00+00:00",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "link": "https://openai.com/index/adventhealth",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/the-next-phase-of-education-for-countries": {
-      "ts": "2026-05-20T00:00:00+00:00",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/model-disproves-discrete-geometry-conjecture": {
-      "ts": "2026-05-20T00:00:00+00:00",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/ramp": {
-      "ts": "2026-05-20T00:00:00+00:00",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "link": "https://openai.com/index/ramp",
       "source": "OpenAI News",
       "big": false
     },
@@ -4932,6 +4897,90 @@
       "ts": "2026-06-18T21:23:19+00:00",
       "title": "Meta faces $2 billion buyback as China orders reversal of <b>Manus AI</b> deal",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://americanbazaaronline.com/2026/06/18/meta-faces-2-billion-buyback-as-china-orders-reversal-of-manus-ai-deal-483085/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IWVQkPpp9iYFoYzZFMAgC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "c6025ba4de3e7b72": {
+      "ts": "2026-06-19T01:27:29+00:00",
+      "title": "2.1.183",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-183",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "8d85e89b7c377cce": {
+      "ts": "2026-06-15T22:12:24+00:00",
+      "title": "2.1.178",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-178",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10811063224777269967": {
+      "ts": "2026-06-18T23:03:01+00:00",
+      "title": "Trump says Apple to partner with Intel on US chip design, production - The Standard (HK)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thestandard.com.hk/innovation/article/335036/Trump-says-Apple-to-partner-with-Intel-on-US-chip-design-production&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3dviR3Y8xn-FZxj_O8BnLZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14884962124372160134": {
+      "ts": "2026-06-18T22:36:32+00:00",
+      "title": "Zo vs Manus: The Best AI Agent App in 2026? (Pricing + Tested) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DroVyEyapLe4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34zXHjX2fkVxm7JEWn0XbE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11897582342698324778": {
+      "ts": "2026-06-18T21:53:07+00:00",
+      "title": "Ro Khanna signs anti-AIPAC Peace pledge - The American Bazaar",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://americanbazaaronline.com/2026/06/18/ro-khanna-signs-anti-aipac-peace-pledge-483100/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0pock9-njboJ4-NlOBKorA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8543135204433877568": {
+      "ts": "2026-06-18T21:40:40+00:00",
+      "title": "Granola Review: Bot-Free AI Notes for Back-to-Back Meetings - Quasa.io",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/granola-review-bot-free-ai-notes-for-back-to-back-meetings&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0nByRF88X-p6DSwk3Hjjms",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13573143994538704193": {
+      "ts": "2026-06-18T21:25:04+00:00",
+      "title": "<b>Manus AI</b> Archives - The American Bazaar",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://americanbazaaronline.com/tag/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37a2H2gBbS82OkyC2gVBkL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14445848950401066832": {
+      "ts": "2026-06-18T21:23:03+00:00",
+      "title": "Viral DOJ announcement reveals $14.6 billion health care fraud scheme",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://americanbazaaronline.com/2026/06/18/viral-doj-announcement-reveals-14-6-billion-health-care-fraud-scheme-483082/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Dm-X4VqxlfwgLpxkjrJkn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15636364038945538809": {
+      "ts": "2026-06-18T20:31:54+00:00",
+      "title": "Manus original investors plan to buy back AI firm from Meta for US$2 billion, The Information reports",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thestandard.com.hk/innovation/article/335069/Manus-original-investors-plan-to-buy-back-AI-firm-from-Meta-for-US2-billion-The-Information-reports&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1KAe_JgZbIhsYWQ8RyY1GO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12617214277717010913": {
+      "ts": "2026-06-18T19:39:37+00:00",
+      "title": "Will <b>Manus AI</b> Buyback Reshape the AI Industry? - Brussels Morning Newspaper",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://brusselsmorning.com/manus-ai-buyback/99527/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qzGoA7B-D_DRX8zJncn2-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5649050144622531386": {
+      "ts": "2026-06-18T16:41:37+00:00",
+      "title": "SlidesAI vs <b>Manus - AI</b> Presentation Tools Comparison 2026",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chatslide.ai/pages/compare/slidesai-vs-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nyCorFSvuCCxJ-t8DsOkq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14258953809326630408": {
+      "ts": "2026-06-18T15:13:03+00:00",
+      "title": "UPS details AI initiatives to enhance products, services - TipRanks.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tipranks.com/news/the-fly/ups-details-ai-initiatives-to-enhance-products-services-thefly-news&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QdZ-n6fhooiTX0tpXYTU6",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
