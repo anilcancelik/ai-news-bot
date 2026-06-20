@@ -5319,6 +5319,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.uk/transforming-data-business-value-insights-kranthi-kumar-gajji-1803887&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3SGjN2DPS7fqY20_FDIPsk",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "c42cef07d83adeb3": {
+      "ts": "2026-06-20T21:04:52+00:00",
+      "title": "2.1.185",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-185",
+      "source": "Claude Code changelog",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-20"
