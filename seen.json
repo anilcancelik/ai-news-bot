@@ -161,20 +161,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity": {
-      "ts": "2026-05-21T00:00:00+00:00",
-      "title": "How our partners are putting Opus to work for cybersecurity",
-      "link": "https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/compliance-api-security-partners": {
-      "ts": "2026-05-21T00:00:00+00:00",
-      "title": "Claude now works with more security and compliance tools",
-      "link": "https://claude.com/blog/compliance-api-security-partners",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
       "title": "Our views on AI policy and political advocacy",
@@ -322,32 +308,11 @@
       "source": "Google Developers Blog - AI",
       "big": false
     },
-    "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/": {
-      "ts": "2026-05-21T00:00:00+00:00",
-      "title": "Announcing ADK for Kotlin and ADK for Android 0.1.0: Building AI Agents on Android and Beyond",
-      "link": "https://developers.googleblog.com/adk-kotlin-android-building-ai-agents/",
-      "source": "Google Developers Blog - AI",
-      "big": true
-    },
-    "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/": {
-      "ts": "2026-05-21T00:00:00+00:00",
-      "title": "Empowering Service Providers and Hardware Partners with Gemini for Home",
-      "link": "https://developers.googleblog.com/empowering-service-providers-and-hardware-partners-with-gemini-for-home/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "https://mistral.ai/news/accelerate-ai-native-industry": {
       "ts": "2026-05-22T00:00:00+00:00",
       "title": "Emmi joins Mistral to accelerate the AI-native industry",
       "link": "https://mistral.ai/news/accelerate-ai-native-industry",
       "source": "Mistral AI News",
-      "big": false
-    },
-    "https://x.ai/news/grok-opencode": {
-      "ts": "2026-05-21T00:00:00+00:00",
-      "title": "Use Grok in OpenCode",
-      "link": "https://x.ai/news/grok-opencode",
-      "source": "xAI News",
       "big": false
     },
     "https://www.perplexity.ai/hub/blog/perplexity-is-open-sourcing-bumblebee": {
@@ -5240,6 +5205,13 @@
       "ts": "2026-06-19T22:07:45+00:00",
       "title": "Reel by <b>Manus AI</b> by Meta (@manus) · June 19, 2026 - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZyJpFulMzb/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qkepjryK7QB8n3GYvr72G",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7467527817398193658": {
+      "ts": "2026-06-19T22:43:55+00:00",
+      "title": "Singapore is becoming the AI world's Switzerland, but China just showed the escape hatch has limits",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/singapore-is-becoming-the-ai-worlds-switzerland-but-china-just-showed-the-escape-hatch-has-limits/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3qI4HVR_VmNssl6LdlR79k",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
