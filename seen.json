@@ -70,13 +70,6 @@
       "source": "Changelog",
       "big": false
     },
-    "8bb342faed6a9bdf": {
-      "ts": "2026-05-21T20:46:43+00:00",
-      "title": "2.1.147",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-147",
-      "source": "Changelog",
-      "big": false
-    },
     "https://www.anthropic.com/news/confidential-draft-s1-sec": {
       "ts": "2026-06-01T00:00:00+00:00",
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
@@ -279,13 +272,6 @@
       "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
       "source": "OpenAI News",
       "big": false
-    },
-    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
-      "ts": "2026-05-21T19:46:42+00:00",
-      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-      "link": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "source": "Google DeepMind News",
-      "big": true
     },
     "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/": {
       "ts": "2026-05-28T00:00:00+00:00",
@@ -5296,6 +5282,41 @@
       "ts": "2026-06-20T17:13:02+00:00",
       "title": "Ranking AI tools - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZ0LteEiTmn/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw088QnE2fvmtH9xlBljB7vo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:424092527171580233": {
+      "ts": "2026-06-20T20:07:29+00:00",
+      "title": "Build Your Startup in 4 Hours Hackathon — by <b>Manus AI</b>, Cairo | Ibrahim Sobh - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ibrahim-sobh-phd-8681757_build-your-startup-in-4-hours-hackathon-activity-7474167976955412480-K0kP&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1xCGpPPpcodzm3a2slKWEn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7897418694880039654": {
+      "ts": "2026-06-20T19:57:45+00:00",
+      "title": "The New East India Companies: How Tech Giants Are Colonizing the Global South for AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/06/20/the-new-east-india-companies-how-tech-giants-are-colonizing-the-global-south-for-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YGOMoooTaG4axU1TajA8e",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12706770966365222038": {
+      "ts": "2026-06-20T18:17:31+00:00",
+      "title": "PapersWithCode Review: Trending AI Papers with Working Code. - Quasa",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/paperswithcode-review-trending-ai-papers-with-working-code&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3F9o6nnmCaEBEQ3Cjf0ESZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3450618939006239396": {
+      "ts": "2026-06-20T17:18:08+00:00",
+      "title": "How to Do Outreach &amp; Prospecting with AI Agents (<b>Manus AI</b> Tutorial 2026) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3CRR4Isv76I&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3vfQhLSKHUWcLlR-SKO3qe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4734878756399313698": {
+      "ts": "2026-06-20T14:29:06+00:00",
+      "title": "Data-Driven Platforms: Kranthi Kumar Gajji on AI and Analytics | IBTimes UK",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.uk/transforming-data-business-value-insights-kranthi-kumar-gajji-1803887&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3SGjN2DPS7fqY20_FDIPsk",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
