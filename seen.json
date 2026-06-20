@@ -280,13 +280,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/adventhealth": {
-      "ts": "2026-05-21T12:00:00+00:00",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "link": "https://openai.com/index/adventhealth",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/": {
       "ts": "2026-05-21T19:46:42+00:00",
       "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
@@ -340,13 +333,6 @@
       "ts": "2026-05-22T12:00:00+00:00",
       "title": "Cursor named a Leader in the 2026 Gartner® Magic Quadrant™ for Enterprise AI Coding Agents",
       "link": "https://cursor.com/blog/cursor-leads-gartner-mq-2026",
-      "source": "Cursor Blog",
-      "big": false
-    },
-    "https://cursor.com/blog/cloud-agent-lessons": {
-      "ts": "2026-05-21T12:00:00+00:00",
-      "title": "What we’ve learned building cloud agents",
-      "link": "https://cursor.com/blog/cloud-agent-lessons",
       "source": "Cursor Blog",
       "big": false
     },
@@ -5226,6 +5212,13 @@
       "ts": "2026-06-20T03:47:13+00:00",
       "title": "Join Manus - Get Free Credits &amp; Start Building Today : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1uak5nq/join_manus_get_free_credits_start_building_today/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3DKUVTM6m81JENsRxJuDXJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8037132486631592866": {
+      "ts": "2026-06-20T07:47:17+00:00",
+      "title": "Meta AI - You Might Also Like - App Store - Apple",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/au/app/meta-ai/id1558240027%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1axEXoDlYQExzThcXhtHTX",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
