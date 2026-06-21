@@ -56,13 +56,6 @@
       "source": "Changelog",
       "big": false
     },
-    "d6d70b9569fe700f": {
-      "ts": "2026-05-22T22:25:09+00:00",
-      "title": "2.1.149",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-149",
-      "source": "Changelog",
-      "big": false
-    },
     "https://www.anthropic.com/news/confidential-draft-s1-sec": {
       "ts": "2026-06-01T00:00:00+00:00",
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
@@ -5416,6 +5409,13 @@
       "title": "<b>Manus AI</b> - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQalRocd3Hg4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uoV8qX8gqbnE3BNIBkMnU",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
+      "ts": "2026-06-21T23:00:00+00:00",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "link": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "source": "OpenAI News",
       "big": false
     }
   },
