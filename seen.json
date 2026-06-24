@@ -6117,6 +6117,34 @@
       "link": "https://claude.com/blog/building-effective-human-agent-teams",
       "source": "Claude Blog",
       "big": false
+    },
+    "https://cursor.com/blog/notion": {
+      "ts": "2026-06-25T12:00:00+00:00",
+      "title": "How Notion used the Cursor SDK to embed coding agents",
+      "link": "https://cursor.com/blog/notion",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9866524654581508966": {
+      "ts": "2026-06-24T19:34:40+00:00",
+      "title": "OpenAI Makes Custom AI Chip Debut With Jalapeño As Part of Broadcom Deal | IBTimes",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/openai-makes-custom-ai-chip-debut-jalapeno-part-broadcom-deal-3804514&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xhJmNVur-YRXoc0jdQ6M0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:10051666860304304910": {
+      "ts": "2026-06-24T17:18:53+00:00",
+      "title": "This AI Agent Does Your ENTIRE Job in Minutes - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/2UbpctwmQu0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0uTxt0sXXmWh5-BTOAuTVC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6010574157671982982": {
+      "ts": "2026-06-24T12:49:10+00:00",
+      "title": "<b>Manus AI</b> - Jobs",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jobs.ashbyhq.com/manusai%3FlocationId%3D8b712f9c-fd0e-4dcb-b893-f66298283bcd&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw064b5FxTG6E4NRzf4dNT3r",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-24"
