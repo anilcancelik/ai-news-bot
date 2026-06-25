@@ -224,13 +224,6 @@
       "source": "Cursor Blog",
       "big": false
     },
-    "https://cursor.com/blog/faire": {
-      "ts": "2026-05-26T12:00:00+00:00",
-      "title": "Faire doubles PR throughput with Cursor Cloud Agents",
-      "link": "https://cursor.com/blog/faire",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "https://windsurf.com/changelog#2.3.15#2.3.15": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Windsurf 2.3.15",
@@ -6227,6 +6220,20 @@
       "ts": "2026-06-25T04:13:42+00:00",
       "title": "‎Genspark AI Workspace - You Might Also Like - App Store",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/gt/app/genspark-ai-workspace/id6739554054%3Fl%3Den-GB%26see-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34oyIwsV_15XaTJ_NyxMlm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11014781120201013617": {
+      "ts": "2026-06-25T12:52:03+00:00",
+      "title": "Bee Network Crosses 3.7 Million Users Launch Date Boost Price",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coingabbar.com/en/price-prediction/bee-network-crosses-37-million-users-launch-date-boost-price&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3fmpIrekd2dNqVZF9s4glZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:740331763541067460": {
+      "ts": "2026-06-25T08:41:09+00:00",
+      "title": "Best Manus Alternative - MyClaw",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/alternatives/manus-alternative&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zUj0Dk-E2PqMlVvnVJyja",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
