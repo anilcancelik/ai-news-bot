@@ -77,13 +77,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea": {
-      "ts": "2026-05-26T00:00:00+00:00",
-      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-      "link": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
@@ -109,13 +102,6 @@
       "ts": "2026-05-27T00:00:00+00:00",
       "title": "Using LLMs to secure source code",
       "link": "https://claude.com/blog/using-llms-to-secure-source-code",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build": {
-      "ts": "2026-05-26T00:00:00+00:00",
-      "title": "Code w/ Claude London 2026: Rethinking how we build",
-      "link": "https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build",
       "source": "Claude Blog",
       "big": false
     },
@@ -6171,6 +6157,20 @@
       "ts": "2026-06-24T11:20:28+00:00",
       "title": "How to Authenticate and Govern AI Agents | SSOJet - Enterprise SSO &amp; Identity Solutions",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://ssojet.com/blog/ai-agent-identity-how-to-authenticate-and-govern-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23cmvPnmezOcpYWVWsgHqi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14802834990451916733": {
+      "ts": "2026-06-24T22:14:16+00:00",
+      "title": "AI Trends Archives - Page 6 of 6 - Lynn Raebsamen, CFA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://lynnraebsamen.com/category/ai-trends/page/6/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2csJwteznrFospsc6plL7L",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8016090238888509446": {
+      "ts": "2026-06-24T21:39:53+00:00",
+      "title": "Snap rally puts Specs AR stake close to half its value - TechStock²",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ts2.tech/en/snap-rally-puts-specs-ar-stake-close-to-half-its-value/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ZcGluLhu5y02IMz45eEvP",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
