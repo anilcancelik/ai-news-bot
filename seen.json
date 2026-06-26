@@ -42,13 +42,6 @@
       "source": "Changelog",
       "big": false
     },
-    "85c517154083bbcc": {
-      "ts": "2026-05-27T01:35:39+00:00",
-      "title": "2.1.152",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-152",
-      "source": "Changelog",
-      "big": false
-    },
     "https://www.anthropic.com/news/confidential-draft-s1-sec": {
       "ts": "2026-06-01T00:00:00+00:00",
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
@@ -70,40 +63,12 @@
       "source": "Anthropic News",
       "big": true
     },
-    "https://www.anthropic.com/news/milan-office-opening": {
-      "ts": "2026-05-27T00:00:00+00:00",
-      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "link": "https://www.anthropic.com/news/milan-office-opening",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Introducing dynamic workflows in Claude Code",
       "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
       "source": "Claude Blog",
       "big": true
-    },
-    "https://claude.com/blog/zero-trust-for-ai-agents": {
-      "ts": "2026-05-27T00:00:00+00:00",
-      "title": "Zero Trust for AI agents",
-      "link": "https://claude.com/blog/zero-trust-for-ai-agents",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system": {
-      "ts": "2026-05-27T00:00:00+00:00",
-      "title": "How CodeRabbit used Claude to build an agent orchestration system",
-      "link": "https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/using-llms-to-secure-source-code": {
-      "ts": "2026-05-27T00:00:00+00:00",
-      "title": "Using LLMs to secure source code",
-      "link": "https://claude.com/blog/using-llms-to-secure-source-code",
-      "source": "Claude Blog",
-      "big": false
     },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
@@ -186,20 +151,6 @@
       "ts": "2026-05-27T07:00:00+00:00",
       "title": "Building self-improving tax agents with Codex",
       "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/warp": {
-      "ts": "2026-05-27T00:00:00+00:00",
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "link": "https://openai.com/index/warp",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/election-safeguards-2026": {
-      "ts": "2026-05-27T00:00:00+00:00",
-      "title": "Election information and safeguards in 2026",
-      "link": "https://openai.com/index/election-safeguards-2026",
       "source": "OpenAI News",
       "big": false
     },
@@ -6410,6 +6361,13 @@
       "title": "FREE AI Course for Beginners Part-1 #aivideo #aiagents #ai - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/KSVp9CXMGlk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3JqYgjC0eUyCIB8F77h5A9",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "74b1bb99bf76817a": {
+      "ts": "2026-06-26T00:33:59+00:00",
+      "title": "2.1.193",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-193",
+      "source": "Claude Code changelog",
       "big": false
     }
   },
