@@ -140,13 +140,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/cisco": {
-      "ts": "2026-05-27T11:00:00+00:00",
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "link": "https://openai.com/index/cisco",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
