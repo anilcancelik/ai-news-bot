@@ -147,13 +147,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/building-self-improving-tax-agents-with-codex": {
-      "ts": "2026-05-27T07:00:00+00:00",
-      "title": "Building self-improving tax agents with Codex",
-      "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/": {
       "ts": "2026-05-28T00:00:00+00:00",
       "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
@@ -6368,6 +6361,55 @@
       "title": "2.1.193",
       "link": "https://code.claude.com/docs/en/changelog#2-1-193",
       "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4411472872861680002": {
+      "ts": "2026-06-26T07:37:12+00:00",
+      "title": "This AI Brain Will Make You So Smart It's Almost Unfair - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Db4d32pBa3UY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RD7MStkhGPjPy66lCmS_w",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16131925439051512518": {
+      "ts": "2026-06-26T07:31:43+00:00",
+      "title": "Amplify Web4 presence with $MUSA Mansa AI, pushing adaptive networks toward stronger ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DaCnEBxudXB/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0iRrin0aVTDdSbWRZgQC9_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1619979598873057928": {
+      "ts": "2026-06-26T06:29:54+00:00",
+      "title": "Comparisons (page 2) - Plus AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://plusai.com/comparisons/page/2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lzncjA7pYvvBqZQsgEoiL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2223750862626042107": {
+      "ts": "2026-06-26T04:47:48+00:00",
+      "title": "Louisa Ong's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/louisaong_always-happy-to-support-workshops-on-manus-activity-7476112268133314560-i0cy&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0wTopfTsPAVe7aPMa4-GGn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1058719754016792501": {
+      "ts": "2026-06-26T03:35:51+00:00",
+      "title": "Odysseus AI Review, Features, Pricing &amp; Alternatives (2026) - AI Agents Directory",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiagentsdirectory.com/agent/odysseus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2iV8A3WJBa26RAj727b94D",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6913052592724575441": {
+      "ts": "2026-06-26T02:11:48+00:00",
+      "title": "How to Find the Best Free Alternatives to <b>Manus AI</b> in 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DkVKqY1MDPd0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0sdi4q3MHTn8N5WT_rWPU4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9904047828811223073": {
+      "ts": "2026-06-26T01:48:38+00:00",
+      "title": "Good to Gather — Singapore Social Enterprise Directory | Lim Wei Jie - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/limwjthinks_good-to-gather-singapore-social-enterprise-activity-7475938795801092096-5mJ2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05_WT6ZknKv8q_t4Xk9pIK",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
