@@ -49,27 +49,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/news/series-h": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "link": "https://www.anthropic.com/news/series-h",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://www.anthropic.com/news/claude-opus-4-8": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "Introducing Claude Opus 4.8",
-      "link": "https://www.anthropic.com/news/claude-opus-4-8",
-      "source": "Anthropic News",
-      "big": true
-    },
-    "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "Introducing dynamic workflows in Claude Code",
-      "link": "https://claude.com/blog/introducing-dynamic-workflows-in-claude-code",
-      "source": "Claude Blog",
-      "big": true
-    },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
       "title": "Our views on AI policy and political advocacy",
@@ -126,54 +105,12 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/mufg": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "link": "https://openai.com/index/mufg",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/openai-frontier-governance-framework": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "OpenAI’s Frontier Governance Framework",
-      "link": "https://openai.com/index/openai-frontier-governance-framework",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "Supercharge your integration workflow with the Google Pay & Wallet Developer MCP server",
-      "link": "https://developers.googleblog.com/supercharge-your-integration-workflow-with-the-google-pay-wallet-developer-mcp-server/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "How the community trained Gemma to \"Think\" with Tunix and TPUs",
-      "link": "https://developers.googleblog.com/how-the-community-trained-gemma-to-think-with-tunix-and-tpus/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "https://cursor.com/blog/teams-pricing-june-2026": {
       "ts": "2026-06-01T07:00:00+00:00",
       "title": "Improvements to Teams Pricing",
       "link": "https://cursor.com/blog/teams-pricing-june-2026",
       "source": "Cursor Blog",
       "big": false
-    },
-    "https://windsurf.com/changelog#2.3.15#2.3.15": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "Windsurf 2.3.15",
-      "link": "https://windsurf.com/changelog#2.3.15",
-      "source": "Windsurf Changelog",
-      "big": false
-    },
-    "https://ollama.com/blog/openjarvis": {
-      "ts": "2026-05-28T00:00:00+00:00",
-      "title": "OpenJarvis: a local-first personal AI is now available to run with Ollama",
-      "link": "https://ollama.com/blog/openjarvis",
-      "source": "Ollama Blog",
-      "big": true
     },
     "4ffb3b0a6d750b25": {
       "ts": "2026-06-02T02:18:10+00:00",
@@ -6514,6 +6451,27 @@
       "ts": "2026-06-26T19:21:13+00:00",
       "title": "<b>Manus AI</b> prompt caching is important! read about how we do it with deep agents",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/hwchase17/status/2070577381392482732&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3i2ihK8ffzwppH4tuoahjk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6352663898601800106": {
+      "ts": "2026-06-26T22:46:49+00:00",
+      "title": "I found an AI that actually works for you, not just with you. Most AI tools help you generate ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaD8nvhNjJR/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nCDkSv-PUnqCp_SJxPG54",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4737364233070940367": {
+      "ts": "2026-06-26T22:06:35+00:00",
+      "title": "More than a chatbot. <b>Manus AI</b> gets work done. #AI #ManusAI #Shorts#money #aiagents - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Bqk_M1hVRN8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0AFVempsY-Rip3XaWmfNqM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4371578890574389825": {
+      "ts": "2026-06-26T16:49:48+00:00",
+      "title": "Loveable = AI Powered Software? - Affiliate Marketing Dude",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://affiliatemarketingdude.com/loveable-ai-powered-software/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rnRIjfEyVZ3nFWHgAC4y2",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
