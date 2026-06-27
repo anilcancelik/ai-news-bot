@@ -91,13 +91,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/endava": {
-      "ts": "2026-05-28T12:00:00+00:00",
-      "title": "How Endava builds an agentic organization with Codex",
-      "link": "https://openai.com/index/endava",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://cursor.com/blog/teams-pricing-june-2026": {
       "ts": "2026-06-01T07:00:00+00:00",
       "title": "Improvements to Teams Pricing",
@@ -6549,6 +6542,13 @@
       "ts": "2026-06-26T16:24:40+00:00",
       "title": "<b>Manus AI</b> is inside Meta Ads now - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/2L1HYIJirS8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3M0id9D70HDv4UL3v9LS5-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4297621728516015710": {
+      "ts": "2026-06-27T07:35:13+00:00",
+      "title": "Nobody needs 50 AI tools. You need these 8 learned one at a time. #incrementallearning",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dd6Kj-r7vXck&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3E05z-zm5-9rJZAlcrT3xX",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
