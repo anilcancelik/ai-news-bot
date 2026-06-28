@@ -21,13 +21,6 @@
       "source": "Changelog",
       "big": false
     },
-    "894101ca323c6667": {
-      "ts": "2026-05-29T01:51:54+00:00",
-      "title": "2.1.156",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-156",
-      "source": "Changelog",
-      "big": false
-    },
     "https://www.anthropic.com/news/confidential-draft-s1-sec": {
       "ts": "2026-06-01T00:00:00+00:00",
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
@@ -67,13 +60,6 @@
       "ts": "2026-05-29T12:00:00+00:00",
       "title": "How Braintrust turns customer requests into code with Codex",
       "link": "https://openai.com/index/braintrust",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense": {
-      "ts": "2026-05-29T03:00:00+00:00",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "link": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
       "source": "OpenAI News",
       "big": false
     },
@@ -6628,7 +6614,21 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/rows-review-the-modern-ai-spreadsheet-platform&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aw4SGnGHcLC-RWWWmzwct",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18129609547048914094": {
+      "ts": "2026-06-28T00:43:14+00:00",
+      "title": "AI Models &amp; Versions - Zignuts Technolab",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://zignuts.com/ai-models&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0mHIoBpmh9iRLX1UWUNGnP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9767742368414747859": {
+      "ts": "2026-06-27T14:50:11+00:00",
+      "title": "Dnsregistration Alternatives &amp; Competitors (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/dnsregistration/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0SpSDuIrMVqtvXP37hlvYc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-06-27"
+  "last_digest_date": "2026-06-28"
 }
