@@ -49,20 +49,6 @@
       "source": "OpenAI News",
       "big": true
     },
-    "https://openai.com/index/boston-childrens-hospital": {
-      "ts": "2026-05-29T12:00:00+00:00",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "link": "https://openai.com/index/boston-childrens-hospital",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/braintrust": {
-      "ts": "2026-05-29T12:00:00+00:00",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "link": "https://openai.com/index/braintrust",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://cursor.com/blog/teams-pricing-june-2026": {
       "ts": "2026-06-01T07:00:00+00:00",
       "title": "Improvements to Teams Pricing",
@@ -6654,6 +6640,34 @@
       "ts": "2026-06-28T08:24:07+00:00",
       "title": "Free Cloud &amp; API Credits - Resourify",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://resourify.com/category/credits&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3dh_r6WyW76kKWGiq-X31V",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9534401090524010113": {
+      "ts": "2026-06-28T11:05:31+00:00",
+      "title": "2026 Must-Have AIs: ChatGPT: Do anything Perplexity: Fastest research ✍️ Claude ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/yikchanltd/posts/2026-must-have-ais-chatgpt-do-anything-perplexity-fastest-research%25EF%25B8%258F-claude-best-/10164243542215053/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vPeyN71tjv99IieTTFFNz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13357095977703482271": {
+      "ts": "2026-06-28T10:59:54+00:00",
+      "title": "The Start · AI Automation Society",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.skool.com/ai-automation-society/the-start&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17dHUBUJsJWRlNcCdluErE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8850706287961191604": {
+      "ts": "2026-06-28T10:49:21+00:00",
+      "title": "How to create a background blur effect bokeh on <b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfK2P1d3b6fo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2u-5-DESj9ORphK_atSiFt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10014152805487943357": {
+      "ts": "2026-06-28T02:32:25+00:00",
+      "title": "Presentations AI 2026: AI Decks That Actually Drive Results - Quasa.io",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/presentations-ai-2026-ai-decks-that-actually-drive-results&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2bL8s-fLNcVR6ECYYocJUF",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
