@@ -6845,6 +6845,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaLhFFczUC2/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-RIa9xx-htwghTO_PmcLv",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/introducing-the-claude-apps-gateway": {
+      "ts": "2026-06-29T00:00:00+00:00",
+      "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
+      "link": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "source": "Claude Blog",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:13016011288222669340": {
+      "ts": "2026-06-29T12:41:52+00:00",
+      "title": "Meta-Manus deal blocked by Beijing over AI security - MSN",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-us/money/other/meta-manus-deal-blocked-by-beijing-over-ai-security/ss-AA26EUZh&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2rBMd76Cb_umxCGbR4IQp9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-29"
