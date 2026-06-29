@@ -6726,6 +6726,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/UgkxQRS8lwQbLM5cFxvCEx9MLMhckzyq4-zI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3iiB5aNKIW99gRYT6xwNO_",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/hp-frontier-partnership": {
+      "ts": "2026-06-28T17:00:00+00:00",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "link": "https://openai.com/index/hp-frontier-partnership",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:12293274133821842701": {
+      "ts": "2026-06-28T23:01:17+00:00",
+      "title": "<b>Manus - AI</b> Agent &amp; Automation - Ratings &amp; Reviews - App Store - Apple",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/bg/app/manus-ai-agent-automation/id6740909540%3Fsee-all%3Dreviews%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yGH9eCoeunRPFWXNjXO5B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2407929612011691842": {
+      "ts": "2026-06-28T22:39:17+00:00",
+      "title": "Using <b>Manus AI</b> To Build A Website - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Mcc7w4_I5nU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3l4sQ2PjVBZXAzEYpKrPLm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-28"
