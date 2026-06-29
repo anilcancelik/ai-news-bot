@@ -6754,6 +6754,13 @@
       "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "source": "OpenAI News",
       "big": false
+    },
+    "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/": {
+      "ts": "2026-06-29T00:00:00+00:00",
+      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
+      "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
+      "source": "AI at Meta Blog",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-29"
