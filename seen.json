@@ -1,12 +1,5 @@
 {
   "seen": {
-    "4a05b12d9bca39ff": {
-      "ts": "2026-05-31T19:47:03+00:00",
-      "title": "2.1.159",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-159",
-      "source": "Changelog",
-      "big": false
-    },
     "https://www.anthropic.com/news/confidential-draft-s1-sec": {
       "ts": "2026-06-01T00:00:00+00:00",
       "title": "Anthropic confidentially submits draft S-1 to the SEC",
@@ -7116,6 +7109,41 @@
       "ts": "2026-06-30T06:21:05+00:00",
       "title": "How To Make Money Online With <b>Manus AI</b> Agent - 7 Business Ideas - Eventbrite",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eventbrite.sg/e/how-to-make-money-online-with-manus-ai-agent-7-business-ideas-tickets-1992338182135&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3W3nT4vxyZiV_tgZw1XgOv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "7a93225c056826b1": {
+      "ts": "2026-06-30T18:47:17+00:00",
+      "title": "2.1.197",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-197",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "f4c9b9009e3e5466": {
+      "ts": "2026-06-30T18:47:17+00:00",
+      "title": "2.1.196",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-196",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/claude-sonnet-5": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Introducing Claude Sonnet 5",
+      "link": "https://www.anthropic.com/news/claude-sonnet-5",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:12721769761149825344": {
+      "ts": "2026-06-30T19:36:46+00:00",
+      "title": "Similarweb (SMWB) Soars 10.4%: Is Further Upside Left in the Stock? - Yahoo Finance",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/markets/stocks/articles/similarweb-smwb-soars-10-4-181200279.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3p-nzfWzBDvw4xBIQ8AclT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13045442542810557740": {
+      "ts": "2026-06-30T17:47:17+00:00",
+      "title": "Ai Can Never Replace Your Creativity But it can only enhance what ... | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40effects_collins/video/7657235720855112974&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mIpMPd2v13oePQzyhT3ab",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
