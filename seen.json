@@ -7027,6 +7027,97 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/AK7TV2HIxgE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wfgSAFkLaZzHe73nZxBDB",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://www.anthropic.com/news/claude-science-ai-workbench": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "https://claude.com/blog/getting-started-with-loops": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Getting started with loops",
+      "link": "https://claude.com/blog/getting-started-with-loops",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/how-chatgpt-adoption-has-expanded": {
+      "ts": "2026-06-30T09:00:00+00:00",
+      "title": "How ChatGPT adoption has expanded",
+      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/introducing-genebench-pro": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Introducing GeneBench-Pro",
+      "link": "https://openai.com/index/introducing-genebench-pro",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/genebench-pro/case-studies": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Inside Genebench-Pro",
+      "link": "https://openai.com/index/genebench-pro/case-studies",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": {
+      "ts": "2026-06-30T16:02:40+00:00",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://developers.googleblog.com/announcing-adk-go-20/": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration",
+      "link": "https://developers.googleblog.com/announcing-adk-go-20/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
+      "link": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17995666446576275387": {
+      "ts": "2026-06-30T16:01:24+00:00",
+      "title": "Google's Gemini Omni Flash and Nano Banana 2 Lite support slick media content creation ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://siliconangle.com/2026/06/30/googles-gemini-omni-flash-nano-banana-2-lite-support-slick-media-content-creation-lower-costs/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jHjzDydo6HQ6IE8Y_vrJP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3842290720338628806": {
+      "ts": "2026-06-30T14:15:21+00:00",
+      "title": "Gemini vs <b>Manus AI</b> vs Claude: Which Is Best For Research? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D84teX-1ngFk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jrujpCwsuug-1yA2Vjd2l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8910647007688146519": {
+      "ts": "2026-06-30T12:25:10+00:00",
+      "title": "The Drop | How I rebuilt my brand this week. - BabicADesigns - The Balkanish AI Way",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.babicadesigns.blog/p/the-drop-how-i-rebuilt-my-brand-this&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_FB5dAVR6wVpwrS4tCpuK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13678223425023048295": {
+      "ts": "2026-06-30T06:21:05+00:00",
+      "title": "How To Make Money Online With <b>Manus AI</b> Agent - 7 Business Ideas - Eventbrite",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eventbrite.sg/e/how-to-make-money-online-with-manus-ai-agent-7-business-ideas-tickets-1992338182135&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3W3nT4vxyZiV_tgZw1XgOv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-06-30"
