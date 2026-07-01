@@ -7188,7 +7188,21 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/zulfiqarahmed_well-after-3-weeks-of-trying-to-get-manus-activity-7477383839795900416-y_PG&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TXCjWww6HC0lJTyElMWjl",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://www.anthropic.com/news/redeploying-fable-5": {
+      "ts": "2026-06-30T00:00:00+00:00",
+      "title": "Redeploying Fable 5",
+      "link": "https://www.anthropic.com/news/redeploying-fable-5",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6936767626932985465": {
+      "ts": "2026-07-01T02:32:21+00:00",
+      "title": "Google Cloud launches Nano Banana 2 Lite &amp; Omni Flash - IT Brief Asia",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://itbrief.asia/story/google-cloud-launches-nano-banana-2-lite-omni-flash&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fl9Ceki5leD8v47SZHIlA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
-  "last_digest_date": "2026-06-30"
+  "last_digest_date": "2026-07-01"
 }
