@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
-      "ts": "2026-06-01T17:00:00+00:00",
-      "title": "Our views on AI policy and political advocacy",
-      "link": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "source": "OpenAI News",
-      "big": false
-    },
     "4ffb3b0a6d750b25": {
       "ts": "2026-06-02T02:18:10+00:00",
       "title": "2.1.160",
@@ -39,34 +32,6 @@
       "ts": "2026-06-01T21:18:59+00:00",
       "title": "You can now build and deploy full websites and mobile apps using natural language. In this ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/freecodecamp/posts/you-can-now-build-and-deploy-full-websites-and-mobile-apps-using-natural-languag/1047051331240967/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ceUYnIIRljjI2mL92xGip",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3863991769929203709": {
-      "ts": "2026-06-01T18:12:50+00:00",
-      "title": "Best AI Video Generators 2026: My Top 10 Picks - HIX.AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hix.ai/hub/ai-video/best-ai-video-generators&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0VI0XzfIl2xotQoqgVy5OJ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15194142271464471580": {
-      "ts": "2026-06-01T17:42:15+00:00",
-      "title": "Meta Platforms Inc Stock (META) Moved Down by 3.31% on Jun 1: Facts Behind the Movement",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingkey.com/news/market-movers/261939647-market-movers-meta-20260601&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10J9wS96HF_NHj1wPzutbd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1729554274362909614": {
-      "ts": "2026-06-01T17:02:28+00:00",
-      "title": "Mercedes-Benz Could Be Banned from Selling Cars in U.S. Due to Chinese Ownership Stake",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aol.com/articles/mercedes-benz-could-banned-selling-154800905.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1CmA0tsLINi6z3XRGS7Z1T",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15380252781122195670": {
-      "ts": "2026-06-01T16:09:44+00:00",
-      "title": "China can now forcibly unwind overseas deals involving sensitive tech and AI - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cybernewscom/posts/china-can-now-forcibly-unwind-overseas-deals-involving-sensitive-tech-and-ai/1602812915187727/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2BAnLwxrryeepzBeFyzXmx",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -7144,6 +7109,62 @@
       "ts": "2026-07-01T02:33:06+00:00",
       "title": "Miguel AI - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/%40MiguelBuildsAI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3muaekIJeoCXEVaxljWKB7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/": {
+      "ts": "2026-07-01T00:00:00+00:00",
+      "title": "Build agentic full-stack apps with Genkit",
+      "link": "https://developers.googleblog.com/build-agentic-full-stack-apps-with-genkit/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/": {
+      "ts": "2026-07-01T00:00:00+00:00",
+      "title": "ML Development in VS Code with Google Cloud Power: Workbench Extension Now Available",
+      "link": "https://developers.googleblog.com/ml-development-in-vs-code-with-google-cloud-power-workbench-extension-now-available/",
+      "source": "Google Developers Blog - AI",
+      "big": true
+    },
+    "https://developers.googleblog.com/why-we-built-adk-20/": {
+      "ts": "2026-07-01T00:00:00+00:00",
+      "title": "Why we built ADK 2.0",
+      "link": "https://developers.googleblog.com/why-we-built-adk-20/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11159486951168705760": {
+      "ts": "2026-07-01T17:21:54+00:00",
+      "title": "Nano Banana 2 Lite: Google's Fastest AI Image Model Redefines Speed and Cost for Businesses",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techbullion.com/nano-banana-2-lite-googles-fastest-ai-image-model-redefines-speed-and-cost-for-businesses/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3-nLeDIptCTCo1BZQh6aDw",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14641490215558651409": {
+      "ts": "2026-07-01T16:56:43+00:00",
+      "title": "<b>Manus AI</b> Full Tutorial 2026: Build Websites, Apps, Slides &amp; Automate Tasks With AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D5RhP0-1swiw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fXcFOhB_1z3R31WAwXlPd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2675613308875380298": {
+      "ts": "2026-07-01T15:51:42+00:00",
+      "title": "What if you could ship directly from a design library? Not just screen grabs or searching ... - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/chanyinglunalan_what-if-you-could-ship-directly-from-a-design-activity-7478104060265385984-YCNn&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Wsqr-cWjpbMW8NgKVxvEH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16856621706836840829": {
+      "ts": "2026-07-01T15:48:19+00:00",
+      "title": "New: You can now connect Mobbin to Manus! Go from: KYC onboarding across 10 fintech ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_new-you-can-now-connect-mobbin-to-manus-activity-7478108584107462656-efnP&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1AJ_6LmvClRabm-zRpExsd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3303032801739491147": {
+      "ts": "2026-07-01T14:55:51+00:00",
+      "title": "Dnsswarmscheduler Alternatives &amp; Competitors (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/dnsswarmscheduler/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rbt0VqMVDiMS0BLYIv204",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
