@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.anthropic.com/news/confidential-draft-s1-sec": {
-      "ts": "2026-06-01T00:00:00+00:00",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "link": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy": {
       "ts": "2026-06-01T17:00:00+00:00",
       "title": "Our views on AI policy and political advocacy",
@@ -7151,6 +7144,48 @@
       "ts": "2026-06-30T18:14:51+00:00",
       "title": "I Found a Secret AI App That Blew My Mind! - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dd_qVpbBJzWo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WY7RK1Iq9fNvG7MF0MBbk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://ollama.com/blog/faster-gemma-4-mlx-mtp": {
+      "ts": "2026-06-29T00:00:00+00:00",
+      "title": "Faster Gemma 4 on MLX with multi-token prediction",
+      "link": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
+      "source": "Ollama Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18422702719273794435": {
+      "ts": "2026-06-30T22:57:04+00:00",
+      "title": "<b>Manus AI</b> is a unicorn ($1 billion + evaluation). Imagine not being able to connect with their ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/ZulfiqarAhmed69/status/2071975596775666087&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0e8RcY3yY_iw3birFb6JD5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9104818236427500731": {
+      "ts": "2026-06-30T22:49:55+00:00",
+      "title": "One of the most comprehensive AIs I've ever tested! <b>Manus AI</b> #advertising - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/TxR27q1v0BE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fp_XXvfgAUaRahIfZWRyJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11898093436425666983": {
+      "ts": "2026-06-30T22:44:52+00:00",
+      "title": "<b>Manus AI</b> Employee Benefits - Built In Boston",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.builtinboston.com/company/manus-ai/benefits&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Wwhwf4rKHBkjc4l4SPSMM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6697010699796615999": {
+      "ts": "2026-06-30T22:44:52+00:00",
+      "title": "<b>Manus AI</b> Offices - Built In Boston",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.builtinboston.com/company/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Tfty_12nr7J4Y6fZcJyjm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12438080187776203797": {
+      "ts": "2026-06-30T08:40:06+00:00",
+      "title": "Zulfiqar Ahmed's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/zulfiqarahmed_well-after-3-weeks-of-trying-to-get-manus-activity-7477383839795900416-y_PG&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TXCjWww6HC0lJTyElMWjl",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
