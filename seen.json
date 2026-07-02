@@ -1,54 +1,5 @@
 {
   "seen": {
-    "4ffb3b0a6d750b25": {
-      "ts": "2026-06-02T02:18:10+00:00",
-      "title": "2.1.160",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-160",
-      "source": "Changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3913270115669210826": {
-      "ts": "2026-06-02T04:16:16+00:00",
-      "title": "Meta has released something new! #Shorts - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DO1aXdrz-Myk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20saFWsGzn_ZZ5tTahuQ3P",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/codex-for-knowledge-work": {
-      "ts": "2026-06-02T02:00:00+00:00",
-      "title": "Codex is becoming a productivity tool for everyone",
-      "link": "https://openai.com/index/codex-for-knowledge-work",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5702362669733177507": {
-      "ts": "2026-06-02T05:08:45+00:00",
-      "title": "OpenClaw Alternatives: Best AI Agents for Your Next Project [2026] - MilesWeb",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.milesweb.in/blog/hosting/vps/openclaw-alternatives/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gOKd5zoYifbUviGlse2mJ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11326395462275669612": {
-      "ts": "2026-06-02T04:18:53+00:00",
-      "title": "(Podcast) Manus vs Hermes The Battle of Agentic AI - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTn_k4chFeT4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1hqqFiGmVQH9oJC5oNb_fX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8455416480315582259": {
-      "ts": "2026-06-02T03:46:18+00:00",
-      "title": "<b>Manus ai</b> stopped being compatible with my phone : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1tued7q/manus_ai_stopped_being_compatible_with_my_phone/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3cV67evZY2TlcQvJoT-MKE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4043010688601018748": {
-      "ts": "2026-06-02T03:12:37+00:00",
-      "title": "My manus account can't login suddenly : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1tudx4u/my_manus_account_cant_login_suddenly/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0uyH-OeIVY-vL0kHcFR7ku",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/travelers": {
       "ts": "2026-06-02T12:00:00+00:00",
       "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
@@ -7221,6 +7172,13 @@
       "ts": "2026-07-01T20:33:16+00:00",
       "title": "<b>Manus AI</b> is showing what autonomous AI agents can look like. - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/iapcAMUxclU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30r7BqSEZTMgkYDJ5tTXPg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1001520361615589358": {
+      "ts": "2026-07-01T23:08:35+00:00",
+      "title": "Client Alert: China Made Meta Give Back a $2 Billion Artificial Intelligence Acquisition",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.shumaker.com/insight/china-made-meta-give-back-a-2-billion-artificial-intelligence-acquisition-what-it-means-for-your-next-cross-border-deal/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1G6y5o5Od8M7OrX2Hp-oiY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
