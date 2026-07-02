@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/travelers": {
-      "ts": "2026-06-02T12:00:00+00:00",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "link": "https://openai.com/index/travelers",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://claude.com/blog/running-an-ai-native-engineering-org": {
       "ts": "2026-06-03T00:00:00+00:00",
       "title": "Running an AI-native engineering org",
@@ -74,13 +67,6 @@
       "ts": "2026-06-02T13:23:32+00:00",
       "title": "How Meta's new subscriptions and AI innovations will impact South Africa",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://fastcompany.co.za/fast-company/tech/4778365761355776/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1xVDIj3wzVnjTY2a-d1eQD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1471232976941779883": {
-      "ts": "2026-06-02T11:47:43+00:00",
-      "title": "China stops Mark Zuckerberg from buying <b>Manus AI</b> - MSN",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/en-in/news/world/china-stops-mark-zuckerberg-from-buying-manus-ai/ar-AA21OM6f%3Focid%3DBingNewsVerp%26utm_campaign%3Dtechwithadit-twa%26utm_medium%3Dreferral%26utm_source%3Dwww.techwithadit.com%26apiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw11pRECcA8MQOeYNkofNz6z",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4618,13 +4604,6 @@
       "title": "Meta AI - You Might Also Like - App Store - Apple",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/au/app/meta-ai/id1558240027%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1axEXoDlYQExzThcXhtHTX",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://cursor.com/blog/cloud-agent-lessons": {
-      "ts": "2026-06-02T12:00:00+00:00",
-      "title": "What we’ve learned building cloud agents",
-      "link": "https://cursor.com/blog/cloud-agent-lessons",
-      "source": "Cursor Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:5441103562717480569": {
