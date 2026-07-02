@@ -7,13 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership": {
-      "ts": "2026-06-02T07:00:00+00:00",
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "link": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://claude.com/blog/running-an-ai-native-engineering-org": {
       "ts": "2026-06-03T00:00:00+00:00",
       "title": "Running an AI-native engineering org",
@@ -116,20 +109,6 @@
       "ts": "2026-06-02T09:17:00+00:00",
       "title": "Forget Claude ai and ChatGPT: Use These 5 AI Tools to Make Money Online - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DDxWncxu8lt4%26vl%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Y_cTdPeIcF3wMlD7FiMHz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13742854971388462427": {
-      "ts": "2026-06-02T06:34:56+00:00",
-      "title": "Genius Marketing and GTM Strategy Agent Mail is an AI Compamy which enables AI ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZEtUQdiEAb/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Z5WK4oCocduYMZMwsoo7m",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12723164980124298558": {
-      "ts": "2026-06-02T06:11:08+00:00",
-      "title": "From hiking to hotpot, lonely consumers in China fuel a $7.4b companionship economy",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tbsnews.net/worldbiz/china/hiking-hotpot-lonely-consumers-china-fuel-74b-companionship-economy-1452121&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29yggy9fXw33PD9WzlbVJQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -7183,5 +7162,5 @@
       "big": false
     }
   },
-  "last_digest_date": "2026-07-01"
+  "last_digest_date": "2026-07-02"
 }
