@@ -1,31 +1,10 @@
 {
   "seen": {
-    "https://claude.com/blog/running-an-ai-native-engineering-org": {
-      "ts": "2026-06-03T00:00:00+00:00",
-      "title": "Running an AI-native engineering org",
-      "link": "https://claude.com/blog/running-an-ai-native-engineering-org",
-      "source": "Claude Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1778655191280207425": {
       "ts": "2026-06-03T03:16:58+00:00",
       "title": "#FMTBusiness Zhang Yiming surpassed Mukesh Ambani to become Asia's second-richest ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZG07O3ODJm/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2CTaQJyA-waK0l-eatCrav",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13284419462644519150": {
-      "ts": "2026-06-03T00:17:02+00:00",
-      "title": "<b>Manus AI</b> Alternatives: Top 5 Competitors Compared",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://checkthat.ai/brands/manus-ai/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2YJvdqbY6Jj_qEb5fygEfc",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack": {
-      "ts": "2026-06-03T00:00:00+00:00",
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "link": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "source": "Anthropic News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:13978303565434354158": {
@@ -48,13 +27,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DeJ_-pDAPEBg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1KCM9pzaOxr0SVm5DWkqKQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "https://www.anthropic.com/news/services-track-partner-hub": {
-      "ts": "2026-06-03T00:00:00+00:00",
-      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "link": "https://www.anthropic.com/news/services-track-partner-hub",
-      "source": "Anthropic News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:1230751991454281139": {
       "ts": "2026-06-03T11:59:36+00:00",
@@ -84,20 +56,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills": {
-      "ts": "2026-06-03T00:00:00+00:00",
-      "title": "Lessons from building Claude Code: How we use skills",
-      "link": "https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude": {
-      "ts": "2026-06-03T00:00:00+00:00",
-      "title": "How Anthropic enables self-service data analytics with Claude",
-      "link": "https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/public-policy-agenda": {
       "ts": "2026-06-03T10:00:00+00:00",
       "title": "OpenAI public policy agenda",
@@ -110,20 +68,6 @@
       "title": "A blueprint for democratic governance of frontier AI",
       "link": "https://openai.com/index/frontier-safety-blueprint",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/": {
-      "ts": "2026-06-03T00:00:00+00:00",
-      "title": "Gemma 4 12B: The Developer Guide",
-      "link": "https://developers.googleblog.com/gemma-4-12b-the-developer-guide/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/": {
-      "ts": "2026-06-03T00:00:00+00:00",
-      "title": "Bringing Gemma 4 12B to your Laptop: Unlocking Local, Agentic Workflows with Google AI Edge",
-      "link": "https://developers.googleblog.com/bringing-gemma-4-12b-to-your-laptop-unlocking-local-agentic-workflows-with-google-ai-edge/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "https://cursor.com/blog/organizations": {
@@ -173,13 +117,6 @@
       "title": "2.1.162",
       "link": "https://code.claude.com/docs/en/changelog#2-1-162",
       "source": "Changelog",
-      "big": false
-    },
-    "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork": {
-      "ts": "2026-06-03T00:00:00+00:00",
-      "title": "Best practices for getting started with Claude Cowork",
-      "link": "https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind": {
@@ -7074,6 +7011,48 @@
       "ts": "2026-07-02T06:21:24+00:00",
       "title": "Claude Managed Agents Memory Alternatives — 12+ Best Options (2026) - Visalytica",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.visalytica.com/tool/claude-managed-agents-memory/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2N__-6PHWDS4Mv25L3kLTv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "f490e06bbc0785a0": {
+      "ts": "2026-07-03T00:26:18+00:00",
+      "title": "2.1.199",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-199",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "f7c9bae6ac2c60ee": {
+      "ts": "2026-07-02T00:31:39+00:00",
+      "title": "2.1.198",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-198",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework": {
+      "ts": "2026-07-02T00:00:00+00:00",
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12481174037751349338": {
+      "ts": "2026-07-03T00:59:48+00:00",
+      "title": "Parker Lyman's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/lyman-parker_ai-pilled-small-businesses-are-crushing-it-activity-7478492522009231360-a_WG&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UPWBUEYydHQoZ4RzDrYmn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12682360950870166066": {
+      "ts": "2026-07-02T22:48:20+00:00",
+      "title": "Legit Em Client Pro Mega | Mediafire &amp; Full Crack - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLW5S7vdF_Tr4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ojf90j2pgvMwgdZ2XsPGV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15039535530710941838": {
+      "ts": "2026-07-02T18:02:11+00:00",
+      "title": "Did you know Bee Network has a FULL AI tool inside the app? <b>Manus AI</b> builds real ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/BeeNetworkInfo/status/2072635369666052553&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IVO7PKJO8Q4B7dffv1mog",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
