@@ -1,12 +1,5 @@
 {
   "seen": {
-    "b3d7d27bfe939388": {
-      "ts": "2026-06-03T21:37:40+00:00",
-      "title": "2.1.162",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-162",
-      "source": "Changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:18420927630571360709": {
       "ts": "2026-06-03T22:27:01+00:00",
       "title": "Meta unveiled an AI agent designed to assist businesses with daily operations, expanding ...",
@@ -6990,6 +6983,13 @@
       "ts": "2026-07-03T16:45:42+00:00",
       "title": "The complete July 2–3, 2026 tech scorecard. 18 days to Samsung Unpacked. The AI capital ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/mnh_18/status/2073081837841273284/photo/1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35FAKk39CJJNAwpY9ZIkQy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11729994876458071030": {
+      "ts": "2026-07-03T18:25:17+00:00",
+      "title": "6 things Bee Network did right that most crypto projects got wrong THREAD 1",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/BeeNetworkInfo/status/2072996651778883980&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ZW5vA8KAP3MeLTOIeDBaf",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
