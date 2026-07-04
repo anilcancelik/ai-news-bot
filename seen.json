@@ -7,13 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:2801660549118706982": {
-      "ts": "2026-06-04T04:21:04+00:00",
-      "title": "Cheaper <b>Manus AI</b> Alternative: 2026 Guide | MoClaw Blog",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moclaw.ai/blog/cheaper-alternative-to-manus-ai-2026-guide&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fNNNRi3cyGgWEjJjB4l5W",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9995551066389844966": {
       "ts": "2026-06-04T08:49:41+00:00",
       "title": "A Japanese guy flew to America in the 70s, walked into a tiny convenie... | TikTok",
@@ -131,13 +124,6 @@
       "title": "2.1.163",
       "link": "https://code.claude.com/docs/en/changelog#2-1-163",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3969405325435880136": {
-      "ts": "2026-06-04T04:16:19+00:00",
-      "title": "DreamFlow AI - IA Tools",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.iatools.tools/tools/dreamflow-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NSY_zh5aBphKxO9iHhjgj",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:1008185860925170778": {
@@ -6976,6 +6962,13 @@
       "ts": "2026-07-03T20:38:40+00:00",
       "title": "Your comprehensive guide to using <b>Manus AI</b> (simplified explanation) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D7F-livRtCNg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05pGXCSmHGrHKhUDIddeZQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7613159991279135381": {
+      "ts": "2026-07-02T08:00:33+00:00",
+      "title": "Why Global AI Companies Are Hosting Events in Japan | Inside Manus &amp; Aqua Voice's 250+ ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://blog.btrax.com/manus-ai-event-japan/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0y38qLsRnPZNxZ-EwCYhnb",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
