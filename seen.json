@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:13313430912327374723": {
-      "ts": "2026-06-05T01:01:47+00:00",
-      "title": "This Pharmacist Created A Fitness Tracker that Adapts As Your Body Changes - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/hi/blog/alyak-tv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Yf4K4Jxl3j_Pd3pJnPFt3",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "df5b5c598d7babad": {
       "ts": "2026-06-05T05:54:50+00:00",
       "title": "2.1.165",
@@ -18,13 +11,6 @@
       "ts": "2026-06-05T03:25:51+00:00",
       "title": "How to create slide with <b>Manus Ai</b> - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DlMgz3uZz2G4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HchDX-La8IFxFVjsqtHhv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5142656527325870146": {
-      "ts": "2026-06-05T01:42:57+00:00",
-      "title": "say about Scaling Business with AI (<b>Manus AI</b>). - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLYRL5gNpiBUV4soV9hxdGLNR5O7gSGp2B&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34gMpgBHjOXRODSifnuLN3",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -112,20 +98,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://developers.googleblog.com/introducing-the-google-colab-cli/": {
-      "ts": "2026-06-05T00:00:00+00:00",
-      "title": "Introducing the Google Colab CLI",
-      "link": "https://developers.googleblog.com/introducing-the-google-colab-cli/",
-      "source": "Google Developers Blog - AI",
-      "big": true
-    },
-    "https://cursor.com/blog/design-mode": {
-      "ts": "2026-06-05T00:00:00+00:00",
-      "title": "Direct agents with visual prompts in Design Mode",
-      "link": "https://cursor.com/blog/design-mode",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13359727047391767019": {
       "ts": "2026-06-05T18:06:43+00:00",
       "title": "When Chinese Tech Leaves China, Beijing Follows | APF Canada",
@@ -145,34 +117,6 @@
       "title": "What Are Hermes Agent Skills? A Complete 2026 Guide - Hostinger",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hostinger.com/tutorials/what-are-hermes-agent-skills&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xqBn9qVb7fpikvwskiSL3",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5275974568815242203": {
-      "ts": "2026-06-05T00:49:12+00:00",
-      "title": "Manus integrates Shopify for chat-based store creation and management - AlternativeTo",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://alternativeto.net/news/2026/6/manus-integrates-shopify-for-chat-based-store-creation-and-management/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Piqf6z5E8ow68HgtdThAH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering": {
-      "ts": "2026-06-05T00:00:00+00:00",
-      "title": "How one Anthropic seller rebuilt his team's workflows with Claude Code",
-      "link": "https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/the-claude-cowork-product-guide": {
-      "ts": "2026-06-05T00:00:00+00:00",
-      "title": "The Claude Cowork product guide",
-      "link": "https://claude.com/blog/the-claude-cowork-product-guide",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://ollama.com/blog/improved-performance-and-model-support-with-gguf": {
-      "ts": "2026-06-05T00:00:00+00:00",
-      "title": "Improved performance and model support with GGUF",
-      "link": "https://ollama.com/blog/improved-performance-and-model-support-with-gguf",
-      "source": "Ollama Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:5628413458773807838": {
@@ -6934,6 +6878,27 @@
       "ts": "2026-07-04T03:56:52+00:00",
       "title": "Features, Pricing &amp; Use Cases - AI Seek Guide",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiseekguide.com/tool/devin/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2QnIUPPb8CDvFGzz1btE8B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5524122762105107154": {
+      "ts": "2026-07-05T00:21:28+00:00",
+      "title": "An AI I've used for basically everything! #ai #entrepreneur #manus #manuspartner - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaWD2v6CZer/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw203PiIg6uXkKrbHGeHFpJq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3109961803681504897": {
+      "ts": "2026-07-04T16:27:09+00:00",
+      "title": "Don't waste VC runway on bot traffic. See how <b>Manus AI</b> blocked 1.1M fraud attempts and ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/TeamTwilio/posts/dont-waste-vc-runway-on-bot-traffic-see-how-manus-ai-blocked-11m-fraud-attempts-/1511485911023214/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw09KG6liKQ7ihtAaN7hmQMi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:132775903124137188": {
+      "ts": "2026-07-04T02:50:15+00:00",
+      "title": "Features, Pricing &amp; Use Cases - AI Seek Guide",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiseekguide.com/tool/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0nhjgq09QNzCkv-jhA5H62",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
