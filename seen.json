@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4918876154471334525": {
-      "ts": "2026-06-07T15:43:43+00:00",
-      "title": "How To Use <b>Manus AI</b> | Getting Started With <b>Manus AI</b> | Simplilearn - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DLdQw_1zOEPQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3xlZjAv3llYtxLbrUcU6Cx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:113149024411870056": {
-      "ts": "2026-06-07T17:21:51+00:00",
-      "title": "Microsoft Board - Coaio",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://coaio.com/articles/microsoft-board/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Tea-U4Mb1-zQa9i5AcCbD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17376570808047696518": {
-      "ts": "2026-06-07T17:21:49+00:00",
-      "title": "Reid Hoffman Exits Microsoft Board to Embrace Founder Mode at AI Startup Manus - Coaio",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://coaio.com/news/2026/06/reid-hoffman-exits-microsoft-board-to-embrace-founder-mode-at-ai-2soc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2SMrtfxrFYaz6txybHud2O",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13383021585288741183": {
       "ts": "2026-06-07T19:27:06+00:00",
       "title": "How to Make $10,000 Monthly with <b>Manus AI</b> Videos in 2026 - YouTube",
@@ -46,13 +25,6 @@
       "ts": "2026-06-07T20:00:06+00:00",
       "title": "How to Check <b>Manus AI</b> Free Credits After Subscription in 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DjW2KKRtVXQ0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2SqYXxgFNTYt5bRnBc4PMT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11693122816790545590": {
-      "ts": "2026-06-07T16:28:19+00:00",
-      "title": "Jan Okonji - ai #strategy #aigenerated #aiforbusiness - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/jan-okonji_ai-strategy-aigenerated-activity-7469375328252203008-kLHN&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10rnLqnPn0MCM0_9Na5dBd",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6641,6 +6613,62 @@
       "title": "Choosing a Claude model and effort level in Claude Code",
       "link": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
       "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-people-are-using-claude-cowork": {
+      "ts": "2026-07-07T00:00:00+00:00",
+      "title": "How people are using Claude Cowork",
+      "link": "https://claude.com/blog/how-people-are-using-claude-cowork",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/cowork-web-mobile": {
+      "ts": "2026-07-07T00:00:00+00:00",
+      "title": "Claude Cowork is coming to mobile and web",
+      "link": "https://claude.com/blog/cowork-web-mobile",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16140646139751412960": {
+      "ts": "2026-07-07T12:47:53+00:00",
+      "title": "How We Built a Full World Cup Prediction Platform With Claude and <b>Manus AI</b> - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/pulse/how-we-built-full-world-cup-prediction-platform-claude-9f23c&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wt_0Rhrzwom2sGQm2YClp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17562188853343620813": {
+      "ts": "2026-07-07T12:40:54+00:00",
+      "title": "Nitin Jaiswal | Tech &amp; AI | 3 Best Ai Tools   . . . #tech #tips #trending #trend #ai | Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DafShh2R2Y7/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jcauSAIzKenTUyyBZlD19",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14334166508250078383": {
+      "ts": "2026-07-07T12:30:12+00:00",
+      "title": "Fosowl/agenticSeek: Fully Local <b>Manus AI</b> Open Source Project - Scoutari",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://scoutari.com/en/item/item-07c71cb2bb60994218/fosowl-agenticseek-fully-local-manus-ai-open-source&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0SfDwdUaB6hvzMuAWZtk-v",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7466137819714897132": {
+      "ts": "2026-07-07T07:45:33+00:00",
+      "title": "Karpo - Latest product information,Latest pricing and options - AiToolHub.Net",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aitoolhub.net/en/tool/karpo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0urYQx3-Sa4NGHmbdHSQ7X",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14731982078242284870": {
+      "ts": "2026-07-07T06:06:59+00:00",
+      "title": "Can AI Really Build a Website for Your Business? - Mudassar Shakeel",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mudassar.work/blog/can-ai-really-build-a-website-for-your-business/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nUqD_eLecHmh85SnHmkYx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13660128856714321258": {
+      "ts": "2026-07-07T05:48:16+00:00",
+      "title": "<b>Manus - AI</b> Agent &amp; Automation - App Store - Apple",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/kn/app/manus-ai-agent-automation/id6740909540%3Fplatform%3Dmac&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SMIY-krAZ2aypjerzxZYz",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
