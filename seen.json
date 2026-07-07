@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:7975964528768827669": {
-      "ts": "2026-06-07T21:28:34+00:00",
-      "title": "How to Download and Install the <b>Manus AI</b> Desktop Agent in 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQ0O9808mS7o%26vl%3Dta&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3GA7Aa1Lnun1ZTnrQRYGYP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:379488984132054708": {
-      "ts": "2026-06-07T21:22:23+00:00",
-      "title": "How to Complete an Entire To-Do List with <b>Manus AI</b> in 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D6GvLuQ1pFPU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zgy6OnrRDfRgJ9zjTgKGL",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3627726591753570836": {
       "ts": "2026-06-08T00:15:59+00:00",
       "title": "How to Get Free Credits in the <b>Manus AI</b> App in 2026 - YouTube",
@@ -67,13 +53,6 @@
       "ts": "2026-06-08T00:56:34+00:00",
       "title": "Manus for Drone Mapping: Use Cases, Setup &amp; ROI (2026) | Blogy",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.blogy.in/ai-tools/for-industry/manus-for-drone-mapping-business&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LYrqNSVq14TtjVJzd3EFJ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17632779243104330649": {
-      "ts": "2026-06-07T21:52:27+00:00",
-      "title": "AI Productivity Tools: Top AI Assistants for Workflow Automation - TECH TICH",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techtich.com/ai-tool-category/ai-productivity-tools/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2XbDamYQrZ7_w1a96x4pSg",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6717,6 +6696,27 @@
       "ts": "2026-07-07T11:24:10+00:00",
       "title": "Best free agentic AI tools: The complete 2026 guide - Dynamic Business",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://dynamicbusiness.com/featured/tech-tuesday/best-free-agentic-ai-tools-the-complete-2026-guide.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vrOcFTk0Rz2piRmi0vEZS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai": {
+      "ts": "2026-06-25T12:00:00+00:00",
+      "title": "Designing Organisations That Can Keep Up With AI",
+      "link": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows": {
+      "ts": "2026-06-23T12:00:00+00:00",
+      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
+      "link": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1581636343386739067": {
+      "ts": "2026-07-07T20:18:28+00:00",
+      "title": "<b>Manus AI</b> 101 Welcome Video - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhhhVcFs0iq0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Cs0YZbztz8BQzFx2GAFqF",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
