@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1308989607096507035": {
-      "ts": "2026-06-07T14:07:13+00:00",
-      "title": "I ranked 10 AI tools every one should be using in 2026. ChatGPT didn't make S tier. Gemini ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZSZCyCvrwt/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XJRuqV8qsqV9umpI7EaGi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3413536885038663348": {
-      "ts": "2026-06-07T14:42:49+00:00",
-      "title": "I Gave the Manus Agent My Real Work for 2 Days — Here's What Happened - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DuKJ3ODuvuNE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YS-Mxh5z5qCqf7kWK0WUf",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4918876154471334525": {
       "ts": "2026-06-07T15:43:43+00:00",
       "title": "How To Use <b>Manus AI</b> | Getting Started With <b>Manus AI</b> | Simplilearn - YouTube",
@@ -6648,6 +6634,13 @@
       "title": "Don't build and sell ai websites if you don't know how to build websit... | TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40rakos.media/video/7659500289724075278&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0V3ETO72j3p4yb-WAVxMER",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/claude-model-and-effort-level-in-claude-code": {
+      "ts": "2026-07-07T00:00:00+00:00",
+      "title": "Choosing a Claude model and effort level in Claude Code",
+      "link": "https://claude.com/blog/claude-model-and-effort-level-in-claude-code",
+      "source": "Claude Blog",
       "big": false
     }
   },
