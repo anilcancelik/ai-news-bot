@@ -1,30 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:3627726591753570836": {
-      "ts": "2026-06-08T00:15:59+00:00",
-      "title": "How to Get Free Credits in the <b>Manus AI</b> App in 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJwG6px6K5tY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03sdYwmjjc9Y2J14qXqc96",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5528318155613214463": {
       "ts": "2026-06-08T05:04:14+00:00",
       "title": "#ai #aitools #manusai #aiagents #automation #productivity #research #artificialintelligence ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/codebasics_ai-aitools-manusai-activity-7469599469714538496-2TmM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw24QPDn3u-s2NC9To4XyW3v",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2146070027223790050": {
-      "ts": "2026-06-08T01:36:18+00:00",
-      "title": "Is AI going to replace animation studios? What would have cost tens of thousands previously ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/nicola.knight.9693/videos/is-ai-going-to-replace-animation-studios-what-would-have-cost-tens-of-thousands-/3429036907271616/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03Zwi3ItvzCwxMRIhP3qxp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11389007180620887151": {
-      "ts": "2026-06-08T00:56:34+00:00",
-      "title": "Manus for Drone Mapping: Use Cases, Setup &amp; ROI (2026) | Blogy",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.blogy.in/ai-tools/for-industry/manus-for-drone-mapping-business&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LYrqNSVq14TtjVJzd3EFJ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -98,20 +77,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/observability-for-developers-building-connectors": {
-      "ts": "2026-06-08T00:00:00+00:00",
-      "title": "Observability for developers building connectors",
-      "link": "https://claude.com/blog/observability-for-developers-building-connectors",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://openai.com/index/economic-research-exchange": {
-      "ts": "2026-06-08T00:00:00+00:00",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "link": "https://openai.com/index/economic-research-exchange",
-      "source": "OpenAI News",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:13266108140892098251": {
       "ts": "2026-06-08T18:19:07+00:00",
       "title": "AI brands as bait: How threat actors are using the AI hype in social engineering - Microsoft",
@@ -140,24 +105,10 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://claude.com/blog/claude-for-foundation-models": {
-      "ts": "2026-06-08T00:00:00+00:00",
-      "title": "Building intelligent apps for Apple platforms with Claude in the Foundation Models framework",
-      "link": "https://claude.com/blog/claude-for-foundation-models",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/openai-submits-confidential-s-1": {
       "ts": "2026-06-08T14:00:00+00:00",
       "title": "Confidential submission of draft S-1 to the SEC",
       "link": "https://openai.com/index/openai-submits-confidential-s-1",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/built-to-benefit-everyone-our-plan": {
-      "ts": "2026-06-08T01:30:00+00:00",
-      "title": "Built to benefit everyone: our plan",
-      "link": "https://openai.com/index/built-to-benefit-everyone-our-plan",
       "source": "OpenAI News",
       "big": false
     },
@@ -6710,6 +6661,41 @@
       "ts": "2026-07-07T09:30:06+00:00",
       "title": "Join Manus now and claim free credits! : r/ReferralLinksShare - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ReferralLinksShare/comments/1uppz5c/join_manus_now_and_claim_free_credits/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0hYkwA19CVbv9hYqwmwRYy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/mufg": {
+      "ts": "2026-07-07T00:00:00+00:00",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "link": "https://openai.com/index/mufg",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8732526623845215593": {
+      "ts": "2026-07-08T00:26:39+00:00",
+      "title": "5 AI Agents That Actually Do the Work For You in 2026 | by Ayeshha - Medium",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://medium.com/%40ayeshha2398/5-ai-agents-that-actually-do-the-work-for-you-in-2026-f8410462f87f&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3iBAkAy7rF0Nw1rI9ecX0z",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18072353995066956462": {
+      "ts": "2026-07-07T21:58:26+00:00",
+      "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method ... - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/OpenSourceeAI/comments/1uq13t0/liquid_ai_opensources_antidoom_a_final_token/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rxlq1YmZpkI7R83ry-2FQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6312240461617043096": {
+      "ts": "2026-07-07T20:59:55+00:00",
+      "title": "Timon: Two founders built a stablecoin-powered app from a stranded experience abroad",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technext24.com/founders-spotlight/timon-founders-stablecoin-app/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw38G447uZ0mBwmgIJI6OB2A",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16627982714542285874": {
+      "ts": "2026-07-07T07:59:39+00:00",
+      "title": "First Time Using <b>Manus AI</b>... and It Built My Dream Website in Just 10 Hours! - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DH3GIxEfCEkU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1V7aH6U7W9umwp7VubAkip",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
