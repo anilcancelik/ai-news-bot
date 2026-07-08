@@ -6775,6 +6775,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/us-has-repeatedly-issued-warnings-about-chinese-ai-now-beijing-doing-same-3805072&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2GFvnpUjRIIA85cTJuRa7A",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/government-national-security-partnerships": {
+      "ts": "2026-07-08T13:30:00+00:00",
+      "title": "Our approach to government and national security partnerships",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations": {
+      "ts": "2026-07-08T13:00:00+00:00",
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "source": "OpenAI News",
+      "big": false
     }
   },
   "last_digest_date": "2026-07-08"
