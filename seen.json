@@ -14,24 +14,10 @@
       "source": "Google DeepMind News",
       "big": true
     },
-    "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/": {
-      "ts": "2026-06-09T14:02:33+00:00",
-      "title": "Powering the future of robotics in Europe",
-      "link": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16142322619639927345": {
       "ts": "2026-06-09T14:13:11+00:00",
       "title": "How to Transfer Image Styles Perfectly with Gemini AI &amp; <b>Manus AI</b> (Step-by-Step Tutorial)",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/UBU0R3jI46A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Qfom8SsGMk-MW9mSFqp4Y",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16261898886160832770": {
-      "ts": "2026-06-09T11:56:54+00:00",
-      "title": "<b>Manus AI</b> - How to Create Instagram Carousel Posts - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVKpJySW8rS8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3nka_fBbtnG5cqk8fJ2bXs",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -40,13 +26,6 @@
       "title": "2.1.170",
       "link": "https://code.claude.com/docs/en/changelog#2-1-170",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/nextdoor": {
-      "ts": "2026-06-09T12:00:00+00:00",
-      "title": "How engineers at Nextdoor use Codex to build without limits",
-      "link": "https://openai.com/index/nextdoor",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:9197740416900164144": {
@@ -119,13 +98,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:4942671799219728655": {
-      "ts": "2026-06-09T12:52:57+00:00",
-      "title": "Negócios em Mente - Jukebox",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jukebox.ag/negocios-em-mente%3Flang%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15O7dBOgs4gp3ttTIynUDe",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/lseg": {
       "ts": "2026-06-10T00:00:00+00:00",
       "title": "From data to decisions: how LSEG is scaling trusted AI",
@@ -165,13 +137,6 @@
       "ts": "2026-06-09T17:38:12+00:00",
       "title": "<b>Manus AI</b> General-Purpose Agent - 南环AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://nanhuantech.com/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NPPOxMq6Jy_Hi6eGzteRl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17376060454961476420": {
-      "ts": "2026-06-09T13:26:57+00:00",
-      "title": "screenuo • ai - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.youtube.com/channel/UCYOzlfCIDrqx-P7lrTCsHnw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0tNV-a6siNDAh2b1baAC3Y",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6669,6 +6634,20 @@
       "title": "Open Source Alternatives to Clarivexa (2026) | StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/clarivexa/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2OvDM7w88isLrKLIni88hh",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/reflect-with-claude": {
+      "ts": "2026-07-09T00:00:00+00:00",
+      "title": "Introducing a way to reflect on how you use Claude",
+      "link": "https://www.anthropic.com/news/reflect-with-claude",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "https://ollama.com/blog/all-aboard-open-models": {
+      "ts": "2026-07-09T00:00:00+00:00",
+      "title": "Ollama: all aboard open models",
+      "link": "https://ollama.com/blog/all-aboard-open-models",
+      "source": "Ollama Blog",
       "big": false
     }
   },
