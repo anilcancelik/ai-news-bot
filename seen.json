@@ -1,23 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5697716273156345301": {
-      "ts": "2026-06-09T22:25:46+00:00",
-      "title": "There's this really cool app called <b>Manus AI</b> and in my video I talk about some of its features ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZYX3poRTos/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2LtnlcRamCYCrGgetLDuJy",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15537659957959234105": {
       "ts": "2026-06-10T00:58:02+00:00",
       "title": "Algernae King's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/algernae-king_today-is-my-daughters-graduation-my-ai-activity-7470067172954972162-bUT6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1-dV3V4RsJB5Gq-jnHA-zW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9937428694773743439": {
-      "ts": "2026-06-09T22:50:19+00:00",
-      "title": "Build with Agentic AI” and decided to build something I wish… | Josefina Bouzat - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/josefina-bouzat-780a73b8_last-week-i-built-an-app-with-manus-ai-activity-7470149381946654720-QuIm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hYtSICDEqHoC6izYNWFXr",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6676,6 +6662,69 @@
       "title": "LiteRT.js, Google's high performance Web AI Inference",
       "link": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
       "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4269249912099146252": {
+      "ts": "2026-07-09T22:40:24+00:00",
+      "title": "Introducing Branch! Split any conversation into a parallel session that inherits your full ... - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-branch-split-any-conversation-activity-7481005276670652417-sJPm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Kl6XL1pHO1zZqyQAfBmdL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:11892055452446711673": {
+      "ts": "2026-07-09T21:37:45+00:00",
+      "title": "An Uber driver went viral for playing a custom AI song about his passenger, “Albert ... - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/chanyinglunalan_an-uber-driver-went-viral-for-playing-activity-7480824372308672512-c4GJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CCUNNzH2JYM4iS409vgbu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14597277178352834830": {
+      "ts": "2026-07-09T20:48:42+00:00",
+      "title": "THREAD Why the Bee Network ecosystem beats most listed projects [Real talk] 1. Most listed ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/BeeNetworkInfo/status/2075271262318772440&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2s2tPhjnntlGx_--D-mjQ8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10277709562518140035": {
+      "ts": "2026-07-09T20:35:23+00:00",
+      "title": "Meta AI Chat: Personal vs Business Use Cases Explained - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dt-lGOg8yZRA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3C-F38-LjXy-VuvLO2PzTd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12989500606289242825": {
+      "ts": "2026-07-09T18:12:09+00:00",
+      "title": "<b>Manus AI</b> Agents: Review, Tips, &amp; Examples | Leland",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.joinleland.com/library/a/manus-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29UGN--SfZtxobGplkViNp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9175098410575756919": {
+      "ts": "2026-07-09T17:15:33+00:00",
+      "title": "Dr.Dasaradharami Reddy Kandati's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/dr-dasaradharami-reddy-kandati-34598a249_most-ai-confusion-starts-with-using-one-word-activity-7480563953014685696-P5nY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bHRhNMpKDtTzjfmVPAZXk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16395813542595349764": {
+      "ts": "2026-07-09T17:00:31+00:00",
+      "title": "3 new powerful AI tools #ai #aitools - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D8LBlQnkCjn4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32pJIc7kgfmLQzPGURbHb5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15330882583450271102": {
+      "ts": "2026-07-09T15:40:12+00:00",
+      "title": "How to Sell Crypto on Crypto Wallet | Bitget | P438",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bitget.com/how-to-sell/wallet/page/438&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw06KKxUOH1woRQMLU4nPJjs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15080768099067403448": {
+      "ts": "2026-07-09T07:44:07+00:00",
+      "title": "The Unsupervised Pickup and the Pious Procession. - Newswav",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://newswav.com/article/the-unsupervised-pickup-and-the-pious-procession-A2607_zeCyNe&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29SD1khg5umrsBcDJplha5",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
