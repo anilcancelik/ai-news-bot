@@ -28,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:18163328227703457521": {
-      "ts": "2026-06-09T21:53:31+00:00",
-      "title": "DePIN Powerhouse: @AethirCloud ($ATH) bridges China &amp; Singapore AI corridors, unlocking ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/deexra/status/2064457798063116696&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35MsXJDMq_H-Wjh_JtJuMk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/lseg": {
       "ts": "2026-06-10T00:00:00+00:00",
       "title": "From data to decisions: how LSEG is scaling trusted AI",
@@ -62,13 +55,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/sg/jobs/cloud-security-engineer-incident-response-automation-manus-ai-singapore--jobmesh-9d32260a-3e28-410b-a6f7-618179aaa8a1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RI7QxnDVmRHwJfGmODOnA",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7826028357796131670": {
-      "ts": "2026-06-09T21:56:00+00:00",
-      "title": "Introducing Zoom connector on Manus! Zoom meetings often hold the context teams need later",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-zoom-connector-on-manus-zoom-activity-7470127813736611841-uCAO&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Qov9N3LQfSqjRiL5eSuDc",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
     },
     "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
       "ts": "2026-06-10T16:24:11+00:00",
@@ -151,13 +137,6 @@
       "ts": "2026-06-10T04:43:57+00:00",
       "title": "GUYS <b>Manus ai</b> is insane.#openai#meta#ai#manusai#instagram#telegram#internet ... - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/JIP6txxO828&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zFzo8MW6nVErbakbVryhd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12432036757362840212": {
-      "ts": "2026-06-09T22:08:25+00:00",
-      "title": "TiDB, powered by PingCAP's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pingcap_manus-ai-went-viral-in-march-2025-by-may-activity-7470120033197740033-C_8S&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qDWcZlQ_wwyW6r-tx50Cy",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6690,6 +6669,13 @@
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/": {
+      "ts": "2026-07-09T00:00:00+00:00",
+      "title": "LiteRT.js, Google's high performance Web AI Inference",
+      "link": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "source": "Google Developers Blog - AI",
       "big": false
     }
   },
