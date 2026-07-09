@@ -1,30 +1,9 @@
 {
   "seen": {
-    "cb2ffc8c2ed868ba": {
-      "ts": "2026-06-09T18:44:33+00:00",
-      "title": "2.1.170",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-170",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9197740416900164144": {
-      "ts": "2026-06-09T18:31:13+00:00",
-      "title": "AI and the Future of Law episode 51: Who Governs Contracts Between AI Agents?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lexology.com/library/detail.aspx%3Fg%3Dc7fdec24-7e45-4c57-b1c6-192ab3a14ff6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1v2cToSii9BjJm2kuh3VsS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5697716273156345301": {
       "ts": "2026-06-09T22:25:46+00:00",
       "title": "There's this really cool app called <b>Manus AI</b> and in my video I talk about some of its features ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZYX3poRTos/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2LtnlcRamCYCrGgetLDuJy",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14522653014856580469": {
-      "ts": "2026-06-09T17:30:30+00:00",
-      "title": "PewDiePie Built A FREE AI Agent You Can Use - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DCHKUTfEUZcs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3N2FQ3VtQRpCMerpnfwIpP",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -97,13 +76,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-zoom-connector-on-manus-zoom-activity-7470127813736611841-uCAO&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Qov9N3LQfSqjRiL5eSuDc",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:210648599065592932": {
-      "ts": "2026-06-09T17:38:12+00:00",
-      "title": "<b>Manus AI</b> General-Purpose Agent - 南环AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nanhuantech.com/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NPPOxMq6Jy_Hi6eGzteRl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
     },
     "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/": {
       "ts": "2026-06-10T16:24:11+00:00",
@@ -6621,6 +6593,104 @@
       "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
       "source": "AI at Meta Blog",
       "big": true
+    },
+    "https://www.anthropic.com/news/ben-bernanke": {
+      "ts": "2026-07-09T00:00:00+00:00",
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "link": "https://www.anthropic.com/news/ben-bernanke",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/hard-questions": {
+      "ts": "2026-07-09T00:00:00+00:00",
+      "title": "Inviting hard questions",
+      "link": "https://www.anthropic.com/news/hard-questions",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
+      "ts": "2026-07-09T10:00:00+00:00",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/bio-bug-bounty": {
+      "ts": "2026-07-09T10:00:00+00:00",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/gpt-5-6": {
+      "ts": "2026-07-09T10:00:00+00:00",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14781531650713125319": {
+      "ts": "2026-07-09T16:27:31+00:00",
+      "title": "The AI Race Between Washington And Beijing Continues. U.S. Lawmakers Are Scrutinizing ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/ai-race-between-washington-beijing-continues-us-lawmakers-are-scrutinizing-use-chinese-models-3805067&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35d9UexcNtUTKNOCl8iN5U",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2324612103559102966": {
+      "ts": "2026-07-09T16:12:51+00:00",
+      "title": "Calderwood appoints veteran funds attorney Richard Goldman as independent director",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://caymanfinance.ky/2026/07/09/calderwood-appoints-veteran-funds-attorney-richard-goldman-as-independent-director/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J71udRHeBq1-a1sSHCrr5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15420198549978948268": {
+      "ts": "2026-07-09T13:16:06+00:00",
+      "title": "<b>Manus AI</b> Just Changed Everything ! The Future of AI Is Here - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAtmoDhCZc7E&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0GR34PAdtcFWhFFreD0Nw1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:9556023500221983771": {
+      "ts": "2026-07-09T12:46:07+00:00",
+      "title": "Most people don't know Bee Network has a FULL AI tool inside the app. <b>Manus AI</b> build ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/BeeNetworkInfo/status/2075143420062913021/photo/1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3TtFPTAtiDx-KZHVs2ViSU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6090514740695552786": {
+      "ts": "2026-07-09T12:46:07+00:00",
+      "title": "Hot take Thursday Bee Network has built MORE real features before listing than most ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/BeeNetworkInfo/status/2075173367544684766&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0yT4EBgzx2pqlctSkYG7CD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5408873053446268060": {
+      "ts": "2026-07-08T22:52:33+00:00",
+      "title": "AI Automation Architect - Boomering Inc - BeBee",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/ph/jobs/ai-automation-architect-boomering-inc-angeles-city--techmap_ph_622640000068949368&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0JIIZa0WXNC7HwdFuYJHUx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5192360201149849416": {
+      "ts": "2026-07-08T19:07:35+00:00",
+      "title": "#tidb #agenticai #manus #databasemigration #contextengineering | TiDB, powered by PingCAP",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pingcap_tidb-agenticai-manus-activity-7480667043856285696-lvAI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RWryTqWyPur-RGwCnO2mZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9005534635237851802": {
+      "ts": "2026-07-08T17:47:44+00:00",
+      "title": "New AI tools are here | <b>Manus AI</b> by Meta and Stich AI | - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D00ILEQUh-m0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32pYso7WRJtZUzUQHxbu6V",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15433384413724511362": {
+      "ts": "2026-07-08T17:16:43+00:00",
+      "title": "How to Grow Your YouTube Channel Faster (Simple Strategy) STEP BY STEP TUTORIAL",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/13xcO02BgrY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10xGPypJ7BfEeUeoODVUhW",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-07-09"
