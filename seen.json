@@ -1,26 +1,5 @@
 {
   "seen": {
-    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/": {
-      "ts": "2026-06-09T15:16:25+00:00",
-      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
-      "link": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/": {
-      "ts": "2026-06-09T14:10:19+00:00",
-      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-      "link": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-      "source": "Google DeepMind News",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:16142322619639927345": {
-      "ts": "2026-06-09T14:13:11+00:00",
-      "title": "How to Transfer Image Styles Perfectly with Gemini AI &amp; <b>Manus AI</b> (Step-by-Step Tutorial)",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/UBU0R3jI46A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Qfom8SsGMk-MW9mSFqp4Y",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "cb2ffc8c2ed868ba": {
       "ts": "2026-06-09T18:44:33+00:00",
       "title": "2.1.170",
@@ -32,20 +11,6 @@
       "ts": "2026-06-09T18:31:13+00:00",
       "title": "AI and the Future of Law episode 51: Who Governs Contracts Between AI Agents?",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lexology.com/library/detail.aspx%3Fg%3Dc7fdec24-7e45-4c57-b1c6-192ab3a14ff6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1v2cToSii9BjJm2kuh3VsS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8744108837103229097": {
-      "ts": "2026-06-09T15:40:48+00:00",
-      "title": "Laziest Business Model To Make Money With AI (ZERO Skills) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DM2tOiTqj0c4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1AHXgHPjEp4p9h_LW0T2LL",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18249191320436448970": {
-      "ts": "2026-06-09T14:37:26+00:00",
-      "title": "The Difference Between <b>Manus AI</b> and ChatGPT: How to Use 'Conversational AI' vs. 'Action ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://note.com/fit_dog9327/n/n9d8514c7cf00%3Fhl%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zrxtjMIbY8E0EVy2_d6jB",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6649,6 +6614,13 @@
       "link": "https://ollama.com/blog/all-aboard-open-models",
       "source": "Ollama Blog",
       "big": false
+    },
+    "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
+      "ts": "2026-07-09T00:00:00+00:00",
+      "title": "Introducing Muse Spark 1.1",
+      "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "source": "AI at Meta Blog",
+      "big": true
     }
   },
   "last_digest_date": "2026-07-09"
