@@ -1,24 +1,10 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:15537659957959234105": {
-      "ts": "2026-06-10T00:58:02+00:00",
-      "title": "Algernae King's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/algernae-king_today-is-my-daughters-graduation-my-ai-activity-7470067172954972162-bUT6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1-dV3V4RsJB5Gq-jnHA-zW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17887076579823560383": {
       "ts": "2026-06-10T03:46:17+00:00",
       "title": "Increasing talent density. AI adoption is mandatory. When transformation does not ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZY9gWIqxeE/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xZAkRLs1lgxbrPuqOcEDY",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/lseg": {
-      "ts": "2026-06-10T00:00:00+00:00",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "link": "https://openai.com/index/lseg",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:8610279593354944082": {
@@ -47,13 +33,6 @@
       "title": "DiffusionGemma: 4x faster text generation",
       "link": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
       "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://developers.googleblog.com/diffusiongemma-the-developer-guide/": {
-      "ts": "2026-06-10T00:00:00+00:00",
-      "title": "DiffusionGemma: The Developer Guide",
-      "link": "https://developers.googleblog.com/diffusiongemma-the-developer-guide/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:9667238777803549747": {
@@ -124,13 +103,6 @@
       "title": "GUYS <b>Manus ai</b> is insane.#openai#meta#ai#manusai#instagram#telegram#internet ... - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/JIP6txxO828&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zFzo8MW6nVErbakbVryhd",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/building-with-claude-managed-agents": {
-      "ts": "2026-06-10T00:00:00+00:00",
-      "title": "The evolution of agentic surfaces: building with Claude Managed Agents",
-      "link": "https://claude.com/blog/building-with-claude-managed-agents",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/prc-linked-influence-operations-ai-debates": {
@@ -6724,6 +6696,34 @@
       "ts": "2026-07-09T07:44:07+00:00",
       "title": "The Unsupervised Pickup and the Pious Procession. - Newswav",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://newswav.com/article/the-unsupervised-pickup-and-the-pious-procession-A2607_zeCyNe&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29SD1khg5umrsBcDJplha5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "e898aba6cb23665b": {
+      "ts": "2026-07-09T23:50:49+00:00",
+      "title": "2.1.206",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-206",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/ust-claude": {
+      "ts": "2026-07-09T00:00:00+00:00",
+      "title": "UST is bringing Claude to physical AI",
+      "link": "https://www.anthropic.com/news/ust-claude",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6159893595303203221": {
+      "ts": "2026-07-10T00:43:01+00:00",
+      "title": "Mahmoud Mohamed's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/mmmohamed_manus-hackathon-cairo-activity-7480672686944235520-KCph&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OLtWt-vWeqet0O3FV6UjZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15268423511512612139": {
+      "ts": "2026-07-09T23:23:49+00:00",
+      "title": "Asia's founders are decamping to the U.S. as the region suffers a protracted venture funding slump",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/small-business/articles/asia-founders-decamping-u-region-210000489.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw25qGP_qa4y7lAru-ApvWJa",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
