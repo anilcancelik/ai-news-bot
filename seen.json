@@ -1,38 +1,10 @@
 {
   "seen": {
-    "https://openai.com/index/using-codex-to-simulate-black-holes": {
-      "ts": "2026-06-11T00:00:00+00:00",
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "link": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "8ab4e5b8feb3e530": {
-      "ts": "2026-06-11T00:39:33+00:00",
-      "title": "2.1.172",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-172",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8068636594496448054": {
-      "ts": "2026-06-11T01:52:20+00:00",
-      "title": "#ai #manus #artificialintelligence #humancenteredai #techforgood | Abhishek Suryawanshi",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/abhisuryawanshi_ai-manus-artificialintelligence-activity-7470624576310329344-hlVT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_RSydAcv_3UTSICPVaUqo",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "d9947d2897673d99": {
       "ts": "2026-06-11T07:39:31+00:00",
       "title": "2.1.173",
       "link": "https://code.claude.com/docs/en/changelog#2-1-173",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem": {
-      "ts": "2026-06-11T00:00:00+00:00",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-      "link": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:5705076551328494044": {
@@ -54,20 +26,6 @@
       "title": "I Tested 3 Best AI Image Editors (2026) Edit Smart &amp; Save Time - AlloyPress",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://alloypress.com/blogs/best-ai-image-editors&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1BhdwCsZTDvvbIX8i94fLy",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/news/claude-corps": {
-      "ts": "2026-06-11T00:00:00+00:00",
-      "title": "Introducing Claude Corps",
-      "link": "https://www.anthropic.com/news/claude-corps",
-      "source": "Anthropic News",
-      "big": true
-    },
-    "https://openai.com/index/openai-to-acquire-ona": {
-      "ts": "2026-06-11T00:00:00+00:00",
-      "title": "OpenAI to acquire Ona",
-      "link": "https://openai.com/index/openai-to-acquire-ona",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:10618113604858315046": {
@@ -96,20 +54,6 @@
       "title": "No single AI app is best at everything. - Threads",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40ai.tools_review/post/DZcQD0PGONT/no-single-ai-app-is-best-at-everything-the-real-advantage-comes-from-knowing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xRBbL4qW5liJ9Dv892SUf",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/news/dxc-anthropic-alliance": {
-      "ts": "2026-06-11T00:00:00+00:00",
-      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-      "link": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://openai.com/index/bbva": {
-      "ts": "2026-06-11T00:00:00+00:00",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "link": "https://openai.com/index/bbva",
-      "source": "OpenAI News",
       "big": false
     },
     "https://cursor.com/blog/agent-autonomy-auto-review": {
@@ -229,13 +173,6 @@
       "title": "Skill Leap AI: The Practical Gateway to AI Mastery - Skywork",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://skywork.ai/slide/en/skill-leap-ai-mastery-2065009282756857856&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3XLqKoR-5aAIKwf5K_qLA8",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://ollama.com/blog/mlx-performance": {
-      "ts": "2026-06-11T00:00:00+00:00",
-      "title": "Ollama's highest performance on Apple Silicon yet with MLX",
-      "link": "https://ollama.com/blog/mlx-performance",
-      "source": "Ollama Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:14367616856750510615": {
@@ -6738,6 +6675,34 @@
       "ts": "2026-07-10T19:05:37+00:00",
       "title": "I don't think AI is something we can ignore anymore, especially in design. But I also don ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DamJhFpSUr7/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nNKgYAvGazJqgqlsroGr-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "88840bf5e9aa4229": {
+      "ts": "2026-07-11T01:01:12+00:00",
+      "title": "2.1.207",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-207",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15006641806391018515": {
+      "ts": "2026-07-10T23:37:57+00:00",
+      "title": "YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/Ugkx5QHgslifd98y70ohCk3eOXGOU89ijMPT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1VJwa78aMErQ-YQOzqEc26",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10096185258563665359": {
+      "ts": "2026-07-10T21:17:42+00:00",
+      "title": "‎Perplexity - AI Search &amp; Chat - You Might Also Like - App Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/gd/app/1668000334%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1IRYchnruRxKiC9gTt7Kq3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5799090671076113192": {
+      "ts": "2026-07-10T20:03:37+00:00",
+      "title": "Landing Page Expert (AI-Powered Direct Response) - DTC Agency (Remote) - Paired",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apply.workable.com/pairedrecruiting/j/FA60F2C6C7&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Wi1SClUT1kljMRtL7ZjOi",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
