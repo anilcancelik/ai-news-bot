@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14367616856750510615": {
-      "ts": "2026-06-11T22:40:46+00:00",
-      "title": "Meta faces forced divestment of <b>Manus AI</b> startup amid China crackdown ... - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/x54t10ZQ8N8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0K0PvslkE69VVbnvqdRa_B",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12607508305251699153": {
       "ts": "2026-06-12T05:05:54+00:00",
       "title": "Meta has completed an operational split from Manus and halted data sharing between ... - Facebook",
@@ -6661,6 +6654,13 @@
       "ts": "2026-07-11T08:44:50+00:00",
       "title": "Cato ARR hit €1M in 6 months",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arr.club/cato/cato-arr-hit-1m-in&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mYEVj-tPuCYcZGrXL9Au5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5116175296321391270": {
+      "ts": "2026-07-11T20:50:58+00:00",
+      "title": "Meta's <b>Manus AI</b> Overview: The Best New AI Agent for Businesses? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DdrrVuvU8PbQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0sMdYlx-ZeavpDdZNu5XdH",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
