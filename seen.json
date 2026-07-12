@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:12607508305251699153": {
-      "ts": "2026-06-12T05:05:54+00:00",
-      "title": "Meta has completed an operational split from Manus and halted data sharing between ... - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/bloombergbusiness/posts/meta-has-completed-an-operational-split-from-manus-and-halted-data-sharing-betwe/1423304076322348/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30VMUMz2zyBVMGZWpLbKbj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "d3cda952ba4d3b16": {
       "ts": "2026-06-12T07:35:58+00:00",
       "title": "2.1.175",
@@ -39,13 +32,6 @@
       "ts": "2026-06-12T08:35:21+00:00",
       "title": "Best AI App Builders in 2026: Which One Should YOU Choose for Your Project? - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DDK0MiA1rEFc%26vl%3Dru&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw06HwegHwqFVUjP21NLbqnq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8724115984855951828": {
-      "ts": "2026-06-12T06:16:31+00:00",
-      "title": "Meta Ends Collaboration with Manus After Regulatory Blockade - nstartup",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nstartup.me/news/bd31cc11-eba2-4f13-9ade-447a9e24a2fc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0B3iMetQoVFJcg_PtIArJf",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -165,13 +151,6 @@
       "ts": "2026-06-12T13:15:46+00:00",
       "title": "Notion takes a quiet approach to designing AI features: 'You can't have every new tool ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.yahoo.com/ai/meta-ai/articles/notion-takes-quiet-approach-designing-093823117.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hT7XdQ_UAvnOAdpuZCk9C",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:551975888473992196": {
-      "ts": "2026-06-12T07:24:24+00:00",
-      "title": "No degree required. No experience required. Five tracks — two are built for non-traditional ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61575858530186/videos/anthropic-is-paying-people-4000-a-week-to-learn-ai-research/950248491369010/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3srmHBSNarRtINzJvZ2QPQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6658,5 +6637,5 @@
       "big": false
     }
   },
-  "last_digest_date": "2026-07-11"
+  "last_digest_date": "2026-07-12"
 }
