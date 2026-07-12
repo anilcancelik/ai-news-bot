@@ -1,19 +1,5 @@
 {
   "seen": {
-    "d3cda952ba4d3b16": {
-      "ts": "2026-06-12T07:35:58+00:00",
-      "title": "2.1.175",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-175",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "e393946c862fb92e": {
-      "ts": "2026-06-12T07:35:58+00:00",
-      "title": "2.1.174",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-174",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17475786051732116992": {
       "ts": "2026-06-12T12:15:07+00:00",
       "title": "Meta begins dismantling $2B Manus acquisition to comply with Beijing order - Facebook",
@@ -25,13 +11,6 @@
       "ts": "2026-06-12T10:19:45+00:00",
       "title": "Manus support is it pure AI agent? : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1u3pxqj/manus_support_is_it_pure_ai_agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ycwM-n4q-22mx01gb4vVD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10941142007909314218": {
-      "ts": "2026-06-12T08:35:21+00:00",
-      "title": "Best AI App Builders in 2026: Which One Should YOU Choose for Your Project? - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DDK0MiA1rEFc%26vl%3Dru&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw06HwegHwqFVUjP21NLbqnq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6633,6 +6612,13 @@
       "ts": "2026-07-11T13:59:49+00:00",
       "title": "Tencent Leads $2B Manus Buyback Bid - The Technology Express",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://thetechnologyexpress.com/tencent-leads-2b-manus-buyback-bid/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3o4lLwoPKpgAjgQ_tQHJkW",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15701591871247507657": {
+      "ts": "2026-07-12T02:46:02+00:00",
+      "title": "Claude Cowork vs. <b>Manus AI</b>: Which Autonomous Agent Wins? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOwPplUgzjWo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw36xVHAVtOhQPkAzKt1sqxi",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
