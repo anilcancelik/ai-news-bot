@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14899091233621824676": {
-      "ts": "2026-06-12T22:31:05+00:00",
-      "title": "Is SpaceX worth $1.75 trillion? | IBTimes",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/spacex-worth-175-trillion-3804005&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2pc-q3aOP9f5CTPEmeUWrl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "01308f2b29b9c6dd": {
       "ts": "2026-06-13T00:52:35+00:00",
       "title": "2.1.176",
@@ -6549,6 +6542,20 @@
       "ts": "2026-07-12T17:25:50+00:00",
       "title": "Tencent is in talks to become <b>Manus AI's</b> largest shareholder after Meta's proposed deal was ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/TechTrackr_net/status/2075882791489970326&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wLDr6bWuOJZai2oJmTETe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12119101868919118295": {
+      "ts": "2026-07-12T23:19:54+00:00",
+      "title": "Tencent in talks to acquire large stake in Manus | The Star",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com.my/business/business-news/2026/07/13/tencent-in-talks-to-acquire-large-stake-in-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw369DCMJNbI8XeFkwAW6PQV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11352240067295414055": {
+      "ts": "2026-07-12T22:35:59+00:00",
+      "title": "Meta (META) Faces $2 Billion AI Deal Reversal And EU App Design Probe - Yahoo Finance",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/ai/articles/meta-meta-faces-2-billion-210801965.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jzuh-Puu8WRBpY8_aCcS0",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
