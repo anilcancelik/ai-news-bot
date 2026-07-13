@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:462967599521447142": {
-      "ts": "2026-06-13T13:17:12+00:00",
-      "title": "<b>Manus AI</b> agent - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Kekbr2ZJDzY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Wv5-wd2Nq-cTg3sWSLsAB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14986442037125973236": {
-      "ts": "2026-06-13T12:40:03+00:00",
-      "title": "#china #entrepreneurship #businessowner #businesstips | Jan Okonji - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/jan-okonji_china-entrepreneurship-businessowner-activity-7471451692346044416-ydpJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1sFLbiemmaqe-9-GULqMMi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2383658132570981930": {
-      "ts": "2026-06-13T11:44:09+00:00",
-      "title": "I can't go back to the old way of making presentations. Manus Slides is too good ... - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/shorts/5JwSaouUuFU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2LZOHih453uC9Opw8da2a9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6566401560313642356": {
-      "ts": "2026-06-13T13:48:56+00:00",
-      "title": "How to Create a Website Mockup with <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DiKup7FffDwg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nph5rgqac5bkADZaG3ddV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9842749045966870640": {
       "ts": "2026-06-13T16:56:53+00:00",
       "title": "China's Passport Crackdown Has Spread Far Beyond AI Labs - Vision Times",
@@ -6536,6 +6508,13 @@
       "title": "Meta's <b>Manus AI</b> Overview: The Best New AI Agent for Businesses? - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/drrVuvU8PbQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1X9KJcVZApBpYmvOPu20qt",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/academy/getting-started": {
+      "ts": "2026-07-10T00:00:00+00:00",
+      "title": "Getting started with ChatGPT",
+      "link": "https://openai.com/academy/getting-started",
+      "source": "OpenAI News",
       "big": false
     }
   },
