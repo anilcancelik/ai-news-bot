@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:9842749045966870640": {
-      "ts": "2026-06-13T16:56:53+00:00",
-      "title": "China's Passport Crackdown Has Spread Far Beyond AI Labs - Vision Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.visiontimes.com/2026/06/13/chinas-passport-crackdown-has-spread-far-beyond-ai-labs.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1JbNiUjIok3ZMpInSbZrO3",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4258986920495942103": {
-      "ts": "2026-06-13T17:42:10+00:00",
-      "title": "EP96: Gemini Native Image Generation &amp; Editing, OpenAI's Agent SDK &amp; Will <b>Manus AI</b> Invade USA?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.imdb.com/title/tt43538109/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2rwB3v7owR0_ppR9CeF9gx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:112363730168680666": {
       "ts": "2026-06-13T19:48:06+00:00",
       "title": "Want the exact prompt? Comment “214” below. Luxury fashion campaigns no longer require ...",
@@ -6508,6 +6494,27 @@
       "title": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
       "link": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
       "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:326015997789353840": {
+      "ts": "2026-07-13T17:18:09+00:00",
+      "title": "Meta Has Been Looking to Expand Its AI Capabilities. It Has Now Announced Plans on ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/meta-has-been-looking-expand-its-ai-capabilities-it-has-now-announced-plans-invest-50-billion-3805239&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03xoKXxfquc89xdvLqUGW8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:602615371444419552": {
+      "ts": "2026-07-13T15:50:14+00:00",
+      "title": "Tencent Reportedly Leads Buyback of Manus, Set to Become Largest Shareholder After ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/d739ec01-e7ac-4206-8d27-26bc357170d9&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0U5TZUsMT2zGkPnEEqbCIq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10021750370387451566": {
+      "ts": "2026-07-13T14:28:27+00:00",
+      "title": "Tencent leads chase to end Manus, Meta saga - TyN Magazine",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tynmagazine.com/tencent-leads-chase-to-end-manus-meta-saga/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aVR4ZEiJDohCGceBZTxu9",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
