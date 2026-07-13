@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:1587244916162592318": {
-      "ts": "2026-06-13T15:36:54+00:00",
-      "title": "I Replaced Dashboards With an AI Slack Agent - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTLPAVOmbEJc%26vl%3Dde&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1H9CP7c6Yxf0VDRkI1fL-F",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4258986920495942103": {
       "ts": "2026-06-13T17:42:10+00:00",
       "title": "EP96: Gemini Native Image Generation &amp; Editing, OpenAI's Agent SDK &amp; Will <b>Manus AI</b> Invade USA?",
@@ -25,13 +18,6 @@
       "ts": "2026-06-13T19:48:06+00:00",
       "title": "Want the exact prompt? Comment “214” below. Luxury fashion campaigns no longer require ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZiZbQeiGCQ/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0RuRyg3Zlxz3HPW0BrAd_m",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17719481679808497344": {
-      "ts": "2026-06-13T16:01:41+00:00",
-      "title": "How to Create a Banner in <b>Manus AI</b> | Banner Design Tutorial - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DO9qO2Bysr28&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1NFuLU4OeMCDlEuX88JV7Y",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6515,6 +6501,13 @@
       "title": "Getting started with ChatGPT",
       "link": "https://openai.com/academy/getting-started",
       "source": "OpenAI News",
+      "big": false
+    },
+    "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail": {
+      "ts": "2026-07-13T00:00:00+00:00",
+      "title": "Working at the frontier: How Hebbia builds AI for financial diligence that can't miss a detail",
+      "link": "https://claude.com/blog/working-at-the-frontier-how-hebbia-builds-ai-for-financial-diligence-that-cant-miss-a-detail",
+      "source": "Claude Blog",
       "big": false
     }
   },
