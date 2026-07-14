@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4925904811655389670": {
-      "ts": "2026-06-14T16:38:13+00:00",
-      "title": "Ignition in AI Era's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ignition-in-ai-era_buildandlaunchstartupswithai-ignitioninaiera-activity-7471933212928389120-yWYJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3FwFSdiM4Q_5wXIRwcO6AB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2690063146667392811": {
-      "ts": "2026-06-14T16:04:56+00:00",
-      "title": "Here's how Anthropic and OpenAI's most powerful AI models stack up. - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/geekdotcom/posts/heres-how-anthropic-and-openais-most-powerful-ai-models-stack-up/1461095812723836/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2I7oyyssBA4RnZFfV3Vc1v",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6568214882109460904": {
-      "ts": "2026-06-14T16:05:26+00:00",
-      "title": "WSBC Q1 2026 Earnings: EPS Exceeds Estimates, Shares Rise 2.05% - Debt Analysis Report",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://newsline.com/first-dry/WSBC-Q1-2026-Earnings-EPS-Exceeds-Estimates-Shares-Rise-205-35-4194&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uVNNADlJXBc0fvvpzCqoH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7309899882917980694": {
       "ts": "2026-06-14T19:03:44+00:00",
       "title": "Conductor Alternatives &amp; Competitors (2026) | StartupHub.ai",
@@ -48,13 +27,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D5HCovU7ZoMw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3hCLrkqYvIbSPfg40oAIFY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "https://openai.com/index/introducing-openai-partner-network": {
-      "ts": "2026-06-14T17:00:00+00:00",
-      "title": "Introducing the OpenAI Partner Network",
-      "link": "https://openai.com/index/introducing-openai-partner-network",
-      "source": "OpenAI News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:17094157053508848899": {
       "ts": "2026-06-14T22:14:52+00:00",
@@ -6486,6 +6458,41 @@
       "ts": "2026-07-14T09:27:20+00:00",
       "title": "Pinyan Z.'s Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pinyan-zeng_excited-for-tomorrow-just-wrapped-activity-7482706389321084928-DQ3X&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3OvFcGcVosV1D7M-gxCkWM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/managing-ai-investments-in-agentic-era": {
+      "ts": "2026-07-14T10:00:00+00:00",
+      "title": "How to manage AI investments in the agentic era",
+      "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/": {
+      "ts": "2026-07-13T00:00:00+00:00",
+      "title": "Unlocking the Next Era of On-Device AI with Google Tensor and Pixel",
+      "link": "https://developers.googleblog.com/unlocking-the-next-era-of-on-device-ai-with-google-tensor-and-pixel/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12894401837028608463": {
+      "ts": "2026-07-14T10:33:33+00:00",
+      "title": "Trending Apps - Krain AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://early.krain.ai/browse%3Ftag%3DML%26page%3D37&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2srlqdA8jyBI2BJXStsLX9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10193063763867591409": {
+      "ts": "2026-07-14T07:52:25+00:00",
+      "title": "#PR #manuspartner I tried using Manus to build a website for a fictional seaside hotel ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D5D0q1Ok5MvI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0erl2Ow8FxHjfvdyYTzy1-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4753803815174396030": {
+      "ts": "2026-07-13T23:47:14+00:00",
+      "title": "<b>Manus AI</b> – Premium Plan - Digi Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digistore.cc/2026/07/manus-ai-premium-annual-plan.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yjebF3XgnP2Ifvu_hrDJW",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
