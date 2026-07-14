@@ -6516,6 +6516,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://definebh.com/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw19IvoTsGxh5NlgBYBKCMyE",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
+      "ts": "2026-07-14T00:00:00+00:00",
+      "title": "How data science teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
+      "ts": "2026-07-14T00:00:00+00:00",
+      "title": "How sales teams use ChatGPT Work",
+      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "big": false
     }
   },
   "last_digest_date": "2026-07-14"
