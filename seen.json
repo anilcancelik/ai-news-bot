@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:15724760068632907517": {
-      "ts": "2026-06-14T14:38:17+00:00",
-      "title": "Semi-solid batteries emerge as safer lithium-ion alternative - The Tech Buzz",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/semi-solid-batteries-emerge-as-safer-lithium-ion-alternative&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0NvhS9AiO8RuEa3LoVznvl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4925904811655389670": {
       "ts": "2026-06-14T16:38:13+00:00",
       "title": "Ignition in AI Era's Post - LinkedIn",
@@ -28,13 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:7391619737581829648": {
-      "ts": "2026-06-14T15:38:12+00:00",
-      "title": "Reinforcement Learning and the Next Gen of AI — Michael Spranger, Sony Research | SuperAI 2026",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DzXUBxJVZJQE%26vl%3Did&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3QaWlZOwG621W9Cf6zMisi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7309899882917980694": {
       "ts": "2026-06-14T19:03:44+00:00",
       "title": "Conductor Alternatives &amp; Competitors (2026) | StartupHub.ai",
@@ -46,13 +32,6 @@
       "ts": "2026-06-14T18:24:50+00:00",
       "title": "Beijing forces Meta to unwind its $2bn <b>Manus AI</b> takeover | Oquilia",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.oquilia.com/news/meta-unwinds-manus-ai-deal-beijing-order&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Y9B-1HfR4zUiuFateh6ZH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5119068592577136750": {
-      "ts": "2026-06-14T15:39:39+00:00",
-      "title": "Manu S. AI Dreamteam - Strung Out in the Night Coming Soon! - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/rgwD7iWfZ2A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30yIKjIliPCE7IS5iMzZ6A",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -144,13 +123,6 @@
       "ts": "2026-06-14T21:27:04+00:00",
       "title": "Oliver Alternatives &amp; Competitors (2026) | StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/oliver/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw31HwaZTkta-AQpN_tJQbQz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2368358827607294118": {
-      "ts": "2026-06-14T14:34:30+00:00",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after... - daily.dev",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://app.daily.dev/posts/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijing-s-demand-42qeeg3ah&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw25sEbc3pMnRNJcoJC5xVF5",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6487,6 +6459,34 @@
       "title": "Anthropic commits $10 million to Canadian AI research",
       "link": "https://www.anthropic.com/news/canadian-ai-research",
       "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/claude-for-teachers": {
+      "ts": "2026-07-14T00:00:00+00:00",
+      "title": "Introducing Claude for Teachers",
+      "link": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:1587152719396864574": {
+      "ts": "2026-07-14T12:05:29+00:00",
+      "title": "I built a complete web app without writing the code Login, database, backend, study plans ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DavASY6sAQi/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1RAqQbNWMjZPTGNP4RHsY2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13711826408509375354": {
+      "ts": "2026-07-14T11:09:38+00:00",
+      "title": "Agent Approve: Track AI Agents On Your Apple Watch - - iPhoneNess",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.iphoneness.com/ai-tools-apps/agent-approve/amp/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3vBL3arCxblnH9W7zSKkAd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7532032217671889304": {
+      "ts": "2026-07-14T09:27:20+00:00",
+      "title": "Pinyan Z.'s Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pinyan-zeng_excited-for-tomorrow-just-wrapped-activity-7482706389321084928-DQ3X&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3OvFcGcVosV1D7M-gxCkWM",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
