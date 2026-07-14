@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:15137787300144301315": {
-      "ts": "2026-06-14T09:51:06+00:00",
-      "title": "KPMG Withdraws AI Report After Hallucination Scandal - The Tech Buzz",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/kpmg-withdraws-ai-report-after-hallucination-scandal&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0FDjsUNQGG0P-iiY1mzm15",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10100030442219404126": {
-      "ts": "2026-06-14T09:31:13+00:00",
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing's demand | TechCrunch",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30I-46l-6DMZ2RQ0clCSZN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15503116313528682500": {
       "ts": "2026-06-14T13:38:03+00:00",
       "title": "Meta has erected a data firewall between itself and Manus, the Chinese-founded agentic AI ...",
