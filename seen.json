@@ -77,27 +77,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13124831657472518274": {
-      "ts": "2026-06-14T05:43:35+00:00",
-      "title": "Gold: Bärenfalle von 4.046 auf 4.240 Dollar - Finanztrends",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.finanztrends.de/news/gold-baerenfalle-von-4-046-auf-4-240-dollar/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0bvao1n6O9CqBIEFnGDAnk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12735565726695561217": {
-      "ts": "2026-06-14T04:55:07+00:00",
-      "title": "Microsoft Mulls Spinning Off Xbox as Layoffs Loom | The Tech Buzz",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/microsoft-mulls-spinning-off-xbox-as-layoffs-loom&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1w75d-fcpXKxnGDtQB4q80",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11536194458193443025": {
-      "ts": "2026-06-14T04:28:07+00:00",
-      "title": "Meta Begins Unwinding $2B Manus Acquisition After Beijing Divestiture Order",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bitcoinworld.co.in/meta-unwinds-manus-acquisition-beijing-divestiture/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1HQ7XThc3LL6uvpB-wQQcE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15503116313528682500": {
       "ts": "2026-06-14T13:38:03+00:00",
       "title": "Meta has erected a data firewall between itself and Manus, the Chinese-founded agentic AI ...",
@@ -6579,7 +6558,14 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1uv39n4/manus_downgrade/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nuiSiKqYev6oVs5TOV7Y_",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/": {
+      "ts": "2026-07-13T12:37:28+00:00",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "link": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+      "source": "Google DeepMind News",
+      "big": false
     }
   },
-  "last_digest_date": "2026-07-13"
+  "last_digest_date": "2026-07-14"
 }
