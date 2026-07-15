@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://cursor.com/blog/wayfair": {
-      "ts": "2026-06-15T12:00:00+00:00",
-      "title": "How Wayfair cut ML model costs by 90% (twice!) with Cursor",
-      "link": "https://cursor.com/blog/wayfair",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12067797016575556471": {
       "ts": "2026-06-15T16:52:04+00:00",
       "title": "Similarweb's Post - LinkedIn",
@@ -102,13 +95,6 @@
       "ts": "2026-06-15T13:02:59+00:00",
       "title": "Groq: The Fastest AI Inference Platform on Earth. - Quasa",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/groq-the-fastest-ai-inference-platform-on-earth&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ugJjuHXC_QIoxw5uuOZAY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18249491347930273446": {
-      "ts": "2026-06-15T11:15:10+00:00",
-      "title": "Rene van Pelt - ai #artificialintelligence #ainews - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7472237142652588033-6Z0u&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04kkhw3UyglMKAtW7EKf37",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
