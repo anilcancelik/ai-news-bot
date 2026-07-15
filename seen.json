@@ -1,40 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:12067797016575556471": {
-      "ts": "2026-06-15T16:52:04+00:00",
-      "title": "Similarweb's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/similarweb_were-teaming-up-with-manus-ai-to-show-live-activity-7472317021477625856-klyT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yP82ZAFa7uh53ZzbZKT-G",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:857011107354534117": {
-      "ts": "2026-06-15T16:38:32+00:00",
-      "title": "Cybersecurity experts challenge ban on Anthropic's AI models | The Tech Buzz",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbuzz.ai/articles/cybersecurity-experts-challenge-ban-on-anthropic-s-ai-models&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fiFDN2UbEnB0eo1zPSi9Q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9551799107762370698": {
-      "ts": "2026-06-15T16:37:32+00:00",
-      "title": "Similarweb Secures Multi-Year, Seven-Figure ARR Contracts Worth Approximately $47 ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260615625728/en/Similarweb-Secures-Multi-Year-Seven-Figure-ARR-Contracts-Worth-Approximately-%252447-Million-in-Total-Contract-Value&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3XLQm8LtUfbsOiML02nhEg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2201190016543830069": {
-      "ts": "2026-06-15T16:18:00+00:00",
-      "title": "Beyond the Chatbot: Agentic AI and the Dawn of Autonomous Workforce Infrastructure",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vocal.media/futurism/beyond-the-chatbot-agentic-ai-and-the-dawn-of-autonomous-workforce-infrastructure&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gAYCxJSqYpXvY3rutJhT4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1443495759710957168": {
-      "ts": "2026-06-15T16:16:19+00:00",
-      "title": "#meta #ainews #agenticai #manus #generativeai #aipolicy #chinaai #aistrategy | AI Insider",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ai-insider-intel_meta-ainews-agenticai-activity-7472303067749814274-Ak6q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02FBR8aHH2Lh5wwDF096nP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "fe5d72baf06a83f7": {
       "ts": "2026-06-15T22:12:24+00:00",
       "title": "2.1.178",
@@ -6402,6 +6367,20 @@
       "ts": "2026-07-15T01:09:49+00:00",
       "title": "China Blocks Meta's $2 Billion Acquisition of <b>Manus AI</b> Over Tech Concerns | AIFOD",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://af.net/ar/realtime/china-blocks-metas-2-billion-acquisition-of-manus-ai-over-tech-concerns/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0j_l1fXr5bPw3xjckZZHue",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/unlocking-self-improvement-gpt-red": {
+      "ts": "2026-07-15T10:00:00+00:00",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16033951285637384691": {
+      "ts": "2026-07-15T16:34:11+00:00",
+      "title": "meta quietly acquired this ai app and it gives you 300 free credits daily most people haven't ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaxZM--NWE_/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0pF3mSe84CHaGAtRD2rNAz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
