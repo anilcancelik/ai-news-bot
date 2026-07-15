@@ -1,19 +1,5 @@
 {
   "seen": {
-    "fe5d72baf06a83f7": {
-      "ts": "2026-06-15T22:12:24+00:00",
-      "title": "2.1.178",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-178",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2594314909237766422": {
-      "ts": "2026-06-15T22:32:47+00:00",
-      "title": "An AI Screenshot Almost Convinced Crypto the White House UFC Card Was Rigged",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/ai-screenshot-almost-convinced-crypto-white-house-ufc-card-was-rigged-3804151&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0FZ9p7qu3DmIazTmRewEAi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2302853780479870803": {
       "ts": "2026-06-16T01:02:22+00:00",
       "title": "If most of your work happens inside a browser, this is one AI tool I'd definitely have on ... - Instagram",
@@ -271,13 +257,6 @@
       "title": "Phota Labs Review: Ultra-Realistic Upscaling &amp; Photo Restoration - Quasa",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/phota-labs-review-ultra-realistic-upscaling-photo-restoration&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XwHtsyyyYeiDjvZiOsd_q",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "d032bd4d06f5e93a": {
-      "ts": "2026-06-15T22:12:24+00:00",
-      "title": "2.1.178",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-178",
-      "source": "Claude Code changelog",
       "big": false
     },
     "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
@@ -816,13 +795,6 @@
       "ts": "2026-06-19T01:27:29+00:00",
       "title": "2.1.183",
       "link": "https://code.claude.com/docs/en/changelog#2-1-183",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "8d85e89b7c377cce": {
-      "ts": "2026-06-15T22:12:24+00:00",
-      "title": "2.1.178",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-178",
       "source": "Claude Code changelog",
       "big": false
     },
@@ -6381,6 +6353,27 @@
       "ts": "2026-07-15T00:24:48+00:00",
       "title": "Pocket AI Agents - Trend Hunter",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trendhunter.com/trends/pocket-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3al5S2ihgqbbp3MczPXQxt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18097250147163871914": {
+      "ts": "2026-07-15T21:17:59+00:00",
+      "title": "Rath Yatra Chariot Pulling to Begin at 4 PM Tomorrow in Puri - Pragativadi",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pragativadi.com/rath-yatra-chariot-pulling-to-begin-at-4-pm-tomorrow-in-puri/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0U0mBOrw9BpYAee9ad65sr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14987990037626334972": {
+      "ts": "2026-07-15T20:48:31+00:00",
+      "title": "<b>Manus AI</b> vs. Claude Code vs. OpenAI Codex: The Ultimate 2026 Comparison for Developers",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DSnn5TFnv6fU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zremQWkbRNH5Em8qp_2dY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18287797594834174902": {
+      "ts": "2026-07-15T19:09:10+00:00",
+      "title": "Built an open-source memory system for AI agents. : r/OpenSourceAI - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/OpenSourceAI/comments/1ux9gsf/built_an_opensource_memory_system_for_ai_agents/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw27IkutkduEd_S6QzC60z0r",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
