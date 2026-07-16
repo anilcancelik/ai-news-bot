@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:13949536501334731675": {
-      "ts": "2026-06-16T18:18:37+00:00",
-      "title": "<b>Manus AI</b> Reviews Bot Platform 2026 - Recrewmint",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://recrewmint.com/video/video-manus-ai-scxbq&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw14jpAoaUgVGFe8sVm1eTac",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18154286827865163917": {
-      "ts": "2026-06-16T17:17:13+00:00",
-      "title": "#ai #artificialintelligence #ainews #aifunding | AI Funding News - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ai-funding-news_ai-artificialintelligence-ainews-activity-7472347561543217153--YAn&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1CT-RmzOxeBlZu2eHXI1Mn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13557965016462959089": {
-      "ts": "2026-06-16T17:13:13+00:00",
-      "title": "China Retail Sales in May Fall For the First Time in Three Years | IBTimes",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/china-retail-sales-may-fall-first-time-three-years-3804168&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ITEmEX7WZKR_U9uD0ih-u",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "65bf52e569e86964": {
       "ts": "2026-06-16T20:27:48+00:00",
       "title": "2.1.179",
@@ -6409,6 +6388,27 @@
       "ts": "2026-07-16T03:16:34+00:00",
       "title": "It's not scary, it just proves how dumb social media is. - Threads",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40tbimyr/post/Da0dYkQiMo9/its-not-scary-it-just-proves-how-dumb-social-media-is&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2paUT98diuuT7Tn2z5XwFu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/ai-code-migration": {
+      "ts": "2026-07-16T00:00:00+00:00",
+      "title": "How Anthropic runs large-scale code migrations with Claude Code",
+      "link": "https://claude.com/blog/ai-code-migration",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14396302157430918579": {
+      "ts": "2026-07-16T17:39:26+00:00",
+      "title": "These 4 AI tools are changing how I work Saner AI – Instantly captures notes, organizes ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Da0ZQ-WyqFA/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jyVV2i135ahjbEThlRyx2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1096633659923887717": {
+      "ts": "2026-07-15T22:50:28+00:00",
+      "title": "Bearwhale Alternatives &amp; Competitors (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/bearwhale/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0m4zJwCkcGeP5q7zvyqM6K",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
