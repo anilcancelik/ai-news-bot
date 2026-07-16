@@ -1,44 +1,9 @@
 {
   "seen": {
-    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/": {
-      "ts": "2026-06-16T21:29:50+00:00",
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "link": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9989074807092664865": {
-      "ts": "2026-06-16T21:17:06+00:00",
-      "title": "Meta Takes On Google Search - video Dailymotion",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dailymotion.com/video/xag6526&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3iRPDFFYrO2sqSj2rVCWBM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1287979799501208547": {
-      "ts": "2026-06-16T21:09:13+00:00",
-      "title": "Flora Review: Node-Based Creative Environment with 50+ AI Models - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/flora-review-node-based-creative-environment-with-50-ai-models&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SEs0ZBol_C-m7xM1s1TFx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:211426478481299178": {
       "ts": "2026-06-16T23:19:27+00:00",
       "title": "<b>Manus AI</b> agent : r/ReferalCodes - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ReferalCodes/comments/1u7ri9t/manus_ai_agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HDG4O7NPzYOMsZCM0vpin",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5891174214786671899": {
-      "ts": "2026-06-16T22:15:27+00:00",
-      "title": "Percepta Review: The Serious Partner for Enterprise AI Adoption - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/percepta-review-the-serious-partner-for-enterprise-ai-adoption&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2K-Rl9J9q9mp8eB8dJb4Rk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17745579752252373967": {
-      "ts": "2026-06-16T21:55:15+00:00",
-      "title": "Phota Labs Review: Ultra-Realistic Upscaling &amp; Photo Restoration - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/phota-labs-review-ultra-realistic-upscaling-photo-restoration&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XwHtsyyyYeiDjvZiOsd_q",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6410,6 +6375,13 @@
       "title": "Manus pricing review - The Agents Index",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://theagentsindex.com/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3imskIH7tjijLXfHecLaL2",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/": {
+      "ts": "2026-07-16T00:00:00+00:00",
+      "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
+      "link": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
+      "source": "Google Developers Blog - AI",
       "big": false
     }
   },
