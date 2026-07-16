@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10316127380347304588": {
-      "ts": "2026-06-16T06:54:01+00:00",
-      "title": "Sri monishan Robertkumar's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/sri-monishan-robert-kumar_manusai-manusfellowship-aiagents-activity-7472279254303416320-IaFY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2h2vcwffbnr__3tJZdUNar",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17211884132460151188": {
       "ts": "2026-06-16T15:46:49+00:00",
       "title": "SpaceX To Acquire AI Coding Startup Anysphere In $60 Billion Deal | IBTimes",
@@ -6397,7 +6390,21 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://allmind.ai/news/ad7a068df11cd2d671f7de363b2335393907fbd52294d75d915e23b3e8af608a&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2XzW9XtkJO1x04NJ9EGW-I",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1232773691860443423": {
+      "ts": "2026-07-15T21:40:00+00:00",
+      "title": "Open Source Alternatives to Onboardingaudit (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/onboardingaudit/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw080lyVurf0d-u80poPg4R7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5644425887099685561": {
+      "ts": "2026-07-15T16:46:03+00:00",
+      "title": "Meta Acquires <b>Manus AI</b> Startup in $2 Billion Deal for Agentic AI Expansion | AIFOD",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://af.net/es/realtime/meta-acquires-manus-ai-startup-in-2-billion-deal-for-agentic-ai-expansion/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Ng1Yf6ctnosp_IPE5Gfvq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-07-15"
+  "last_digest_date": "2026-07-16"
 }
