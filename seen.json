@@ -42,13 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:11713402488758016076": {
-      "ts": "2026-06-16T08:57:36+00:00",
-      "title": "Claude vs Manus for meta ads performance analysis - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/claudeaicommunity/posts/1302557058578125/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3oIXSXcr9xa6WKJ34Xu83G",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13949536501334731675": {
       "ts": "2026-06-16T18:18:37+00:00",
       "title": "<b>Manus AI</b> Reviews Bot Platform 2026 - Recrewmint",
@@ -6404,6 +6397,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://af.net/es/realtime/meta-acquires-manus-ai-startup-in-2-billion-deal-for-agentic-ai-expansion/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Ng1Yf6ctnosp_IPE5Gfvq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/": {
+      "ts": "2026-07-16T00:00:00+00:00",
+      "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
+      "link": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
+      "source": "Google Developers Blog - AI",
+      "big": true
     }
   },
   "last_digest_date": "2026-07-16"
