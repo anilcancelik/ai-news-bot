@@ -1,12 +1,5 @@
 {
   "seen": {
-    "65bf52e569e86964": {
-      "ts": "2026-06-16T20:27:48+00:00",
-      "title": "2.1.179",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-179",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/": {
       "ts": "2026-06-16T21:29:50+00:00",
       "title": "Unlocking UK house-building with AI-accelerated planning",
@@ -25,34 +18,6 @@
       "ts": "2026-06-16T21:09:13+00:00",
       "title": "Flora Review: Node-Based Creative Environment with 50+ AI Models - Quasa",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/flora-review-node-based-creative-environment-with-50-ai-models&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SEs0ZBol_C-m7xM1s1TFx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14499824721882157688": {
-      "ts": "2026-06-16T20:59:10+00:00",
-      "title": "Entire Review: Never Lose the Story Behind Your AI-Generated Code - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/entire-review-never-lose-the-story-behind-your-ai-generated-code-2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1K9YPf5AlOMFBGyG0KcgwP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1541005374244029995": {
-      "ts": "2026-06-16T20:55:09+00:00",
-      "title": "Unsloth Review: The Fastest Way to Fine-Tune Open-Source Models - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/unsloth-review-the-fastest-way-to-fine-tune-open-source-models&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3dbdvujpj-t5FvnEOECJ1k",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10486948792410891321": {
-      "ts": "2026-06-16T20:49:19+00:00",
-      "title": "LM Arena: The Most Trusted AI Model Battle Platform. - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/lm-arena-the-most-trusted-ai-model-battle-platform&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2VWmVgyJLykvclYNGUfbjl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4418120688706039023": {
-      "ts": "2026-06-16T20:48:59+00:00",
-      "title": "After spat with Chinese gov't, Meta cuts AI Manus off from its internal systems and is 'sunsetting'...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/benetmaria/status/2066868403000775144&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1B5H_-r5dBwzfM3XiTyL9b",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
