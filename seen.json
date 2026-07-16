@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:2302853780479870803": {
-      "ts": "2026-06-16T01:02:22+00:00",
-      "title": "If most of your work happens inside a browser, this is one AI tool I'd definitely have on ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZoKXWaPgtq/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2X9IcAUWcMFYqMnP-nOQIc",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10316127380347304588": {
       "ts": "2026-06-16T06:54:01+00:00",
       "title": "Sri monishan Robertkumar's Post - LinkedIn",
@@ -76,20 +69,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/claudeaicommunity/posts/1302557058578125/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3oIXSXcr9xa6WKJ34Xu83G",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "https://openai.com/index/deployment-simulation": {
-      "ts": "2026-06-16T00:00:00+00:00",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "link": "https://openai.com/index/deployment-simulation",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/": {
-      "ts": "2026-06-16T00:00:00+00:00",
-      "title": "Unlocking the Power of the TPU Stack: Introducing our new Developer Hub",
-      "link": "https://developers.googleblog.com/unlocking-the-power-of-the-tpu-stack-introducing-our-new-developer-hub/",
-      "source": "Google Developers Blog - AI",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:13949536501334731675": {
       "ts": "2026-06-16T18:18:37+00:00",
@@ -6381,6 +6360,48 @@
       "ts": "2026-07-15T19:03:46+00:00",
       "title": "Surprising at 3 A.M #coding #Programming #ai #viral #development - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dax4e0GPIVv/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2AwYUrpECFj5llQ6UHP2fh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "a2ee4a1a677c6faa": {
+      "ts": "2026-07-16T00:32:37+00:00",
+      "title": "2.1.211",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-211",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15029928591444553560": {
+      "ts": "2026-07-16T00:21:37+00:00",
+      "title": "Tencent Holdings TCEHY Tests TenPayGo As AI And Gaming Bets Shift - StocksToTrade",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://stockstotrade.com/news/tencent-holdings-ltd-adr-tcehy-news-2026_07_15/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2L_JPto3sNchmpdCcu_i0q",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5441947010801384470": {
+      "ts": "2026-07-15T22:50:28+00:00",
+      "title": "Openclaims Alternatives &amp; Competitors (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/openclaims/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2tskQ-raP7iYwywLf0kZ2k",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7953837764929159119": {
+      "ts": "2026-07-15T22:12:53+00:00",
+      "title": "Using Manus As A Mortgage Broker - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DumXbiWK1s3Y&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05vRbcno2pcBUwU4mxTLmJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:175745323106038298": {
+      "ts": "2026-07-15T21:01:30+00:00",
+      "title": "AI, Power &amp; Politics - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLb6AwPsmoL00&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0y7PktucnwobrEzq7T2Yph",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10285493976597699206": {
+      "ts": "2026-07-15T06:59:16+00:00",
+      "title": "Claude for Word Alternatives — 12+ Best Options (2026) - Visalytica",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.visalytica.com/tool/claude-for-word/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2FJMYVO3qD8q-n9bL4p7XF",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
