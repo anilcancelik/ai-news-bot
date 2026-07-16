@@ -28,20 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6251940398883052161": {
-      "ts": "2026-06-16T11:56:35+00:00",
-      "title": "China just blocked Meta's $2B acquisition of AI startup Manus - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DZovew6iMF-/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29Z31p4SjikpPqbTZZScc3",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6268539374381106534": {
-      "ts": "2026-06-16T10:21:09+00:00",
-      "title": "Teneo Protocol - ai #aiagents #crypto - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/teneo-protocol_ai-aiagents-crypto-activity-7472592941111259136-EYhv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2egdHs6m-L6w7rnWkdiuZS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13949536501334731675": {
       "ts": "2026-06-16T18:18:37+00:00",
       "title": "<b>Manus AI</b> Reviews Bot Platform 2026 - Recrewmint",
@@ -6404,6 +6390,27 @@
       "link": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
       "source": "Google Developers Blog - AI",
       "big": true
+    },
+    "https://deepmind.google/blog/our-approach-to-bioresilience/": {
+      "ts": "2026-07-16T09:30:42+00:00",
+      "title": "Our approach to bioresilience",
+      "link": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11688892295698735711": {
+      "ts": "2026-07-16T04:41:51+00:00",
+      "title": "When Meta bought <b>Manus AI</b> for $ 2 Billion, Chinese blocked the deal, threatened Zuck ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/_Neo_3/status/2077414071117492377&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ds77cI1aOCs-v9I5a7RTk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5390757262425496107": {
+      "ts": "2026-07-15T16:41:39+00:00",
+      "title": "Meta Platforms to acquire Singapore-based AI firm Manus for $2B | AllMind AI News",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://allmind.ai/news/19375f8250f0e77b93ce9e010e3c8ff9eadd2751cff90ac98a15c53325291eed&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1DdO8wZ-BBDvnbyevw0-bi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-07-16"
