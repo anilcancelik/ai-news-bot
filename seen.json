@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem": {
-      "ts": "2026-06-17T00:00:00+00:00",
-      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "link": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "source": "Anthropic News",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:6744158408316656492": {
       "ts": "2026-06-17T14:33:44+00:00",
       "title": "Really interesting 24 hours for AI in CRE: 1) CoStar launches Apartments dot com Ai, a ... - LinkedIn",
@@ -84,13 +77,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/": {
-      "ts": "2026-06-17T00:00:00+00:00",
-      "title": "Announcing the Agentic Resource Discovery specification",
-      "link": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification/",
-      "source": "Google Developers Blog - AI",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:8866059196152006898": {
       "ts": "2026-06-17T17:21:12+00:00",
       "title": "Binance Set to Lose EU Access as Greece Moves to Reject MiCA Licence - Technology Org",
@@ -140,34 +126,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/workload-identity-federation": {
-      "ts": "2026-06-17T00:00:00+00:00",
-      "title": "Secure access to the Claude Platform with Workload Identity Federation",
-      "link": "https://claude.com/blog/workload-identity-federation",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work": {
-      "ts": "2026-06-17T00:00:00+00:00",
-      "title": "Claude Design now stays on brand for daily work",
-      "link": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://openai.com/index/introducing-life-sci-bench": {
-      "ts": "2026-06-17T00:00:00+00:00",
-      "title": "Introducing LifeSciBench",
-      "link": "https://openai.com/index/introducing-life-sci-bench",
-      "source": "OpenAI News",
-      "big": true
-    },
-    "https://developers.googleblog.com/a2ui-and-mcp-apps/": {
-      "ts": "2026-06-17T00:00:00+00:00",
-      "title": "A2UI + MCP Apps: Combining the best of declarative and custom agentic UIs",
-      "link": "https://developers.googleblog.com/a2ui-and-mcp-apps/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10466672333165460923": {
       "ts": "2026-06-17T19:54:27+00:00",
       "title": "SMWB data is now directly available in connectors and apps across: OpenAI, Anthropic ... - Reddit",
@@ -187,13 +145,6 @@
       "title": "2.1.181",
       "link": "https://code.claude.com/docs/en/changelog#2-1-181",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon": {
-      "ts": "2026-06-17T00:00:00+00:00",
-      "title": "Meet the winners of our Claude Opus 4.8 Build Day hackathon",
-      "link": "https://claude.com/blog/meet-the-winners-of-our-claude-opus-4-8-build-day-hackathon",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:17806992578872927299": {
@@ -6402,6 +6353,20 @@
       "ts": "2026-07-16T14:01:23+00:00",
       "title": "Simplicityx Alternatives &amp; Competitors (2026) | StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/simplicityx/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1g-g8AgOs51py7-gnsAeqS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "e4deec786e26ccb9": {
+      "ts": "2026-07-17T00:33:28+00:00",
+      "title": "2.1.212",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-212",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7638561223087978377": {
+      "ts": "2026-07-16T19:48:17+00:00",
+      "title": "website.listCheckpoints - Manus API",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://open.manus.ai/docs/v2/website.listCheckpoints&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw36gCyFe_OzS0yaufAyDe4j",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
