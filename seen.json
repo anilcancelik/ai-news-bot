@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:8866059196152006898": {
-      "ts": "2026-06-17T17:21:12+00:00",
-      "title": "Binance Set to Lose EU Access as Greece Moves to Reject MiCA Licence - Technology Org",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.technology.org/2026/06/17/binance-eu-licence-mica-greece-rejection/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32V3-0mOjhGNO-oaZf1wZV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10466672333165460923": {
       "ts": "2026-06-17T19:54:27+00:00",
       "title": "SMWB data is now directly available in connectors and apps across: OpenAI, Anthropic ... - Reddit",
@@ -6326,6 +6319,13 @@
       "title": "How To Build A Website With <b>Manus AI</b> (FULL GUIDE) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVKIDTJpTjt8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw247R002BO_W4C4wsVsB9sj",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/ciso-guide-to-agentic-ai": {
+      "ts": "2026-07-17T00:00:00+00:00",
+      "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
+      "link": "https://claude.com/blog/ciso-guide-to-agentic-ai",
+      "source": "Claude Blog",
       "big": false
     }
   },
