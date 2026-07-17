@@ -1,24 +1,10 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10466672333165460923": {
-      "ts": "2026-06-17T19:54:27+00:00",
-      "title": "SMWB data is now directly available in connectors and apps across: OpenAI, Anthropic ... - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/Pennystock/comments/1u8k8rz/smwb_data_is_now_directly_available_in_connectors/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1CZFYxDCun5cUTSJxDD_ml",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "13c76a1c3d4d4ecb": {
       "ts": "2026-06-17T22:16:47+00:00",
       "title": "2.1.181",
       "link": "https://code.claude.com/docs/en/changelog#2-1-181",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17806992578872927299": {
-      "ts": "2026-06-17T19:34:32+00:00",
-      "title": "Please add LeadConnector as a native integration in <b>Manus AI</b> | Voters - GoHighLevel",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ideas.gohighlevel.com/integrations/p/please-add-leadconnector-as-a-native-integration-in-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2E24kRlP6oFxq3FPmYcOAS",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:17671322533980283944": {
@@ -6326,6 +6312,34 @@
       "title": "Zero risk isn't the job: a CISO's guide to agentic AI",
       "link": "https://claude.com/blog/ciso-guide-to-agentic-ai",
       "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16622349250642464113": {
+      "ts": "2026-07-17T18:08:10+00:00",
+      "title": "Why South Korea Just Banned New Leveraged ETFs for Samsung and SK Hynix | IBTimes",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/why-south-korea-just-banned-new-leveraged-etfs-samsung-sk-hynix-3805431&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17U-9oDZECek3XlPVvzF2E",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:673581001060920526": {
+      "ts": "2026-07-17T13:02:36+00:00",
+      "title": "manusai #aiagent #artificialintelligence #aitool #skillwaala - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/skillwaala_manusai-aiagent-artificialintelligence-activity-7483844844470083584-jtHL&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20hU9ooE-HpGd5wPpvnNt6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14566690739008014521": {
+      "ts": "2026-07-17T11:17:12+00:00",
+      "title": "Data Analyst - <b>Manus AI</b> - BeBee",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/sg/jobs/data-analyst-manus-ai-singapore--bs-sg-9a5c028d-0b15-4d17-bfb7-c94f03562482&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1X6XquGckte_M9m6amiurW",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6611715676949829183": {
+      "ts": "2026-07-16T22:11:00+00:00",
+      "title": "Goldinar Alternatives &amp; Competitors (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/goldinar/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Bc4V5OkHud4kNa_CXmBmW",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
