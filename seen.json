@@ -203,32 +203,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/enterprise-managed-auth": {
-      "ts": "2026-06-18T00:00:00+00:00",
-      "title": "Centrally manage authorization for MCP connectors",
-      "link": "https://claude.com/blog/enterprise-managed-auth",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/artifacts-in-claude-code": {
-      "ts": "2026-06-18T00:00:00+00:00",
-      "title": "Claude Code now supports artifacts",
-      "link": "https://claude.com/blog/artifacts-in-claude-code",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/chatgpt-enterprise-spend-controls": {
       "ts": "2026-06-18T17:00:00+00:00",
       "title": "New usage analytics and updated spend controls for enterprises",
       "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/": {
-      "ts": "2026-06-18T00:00:00+00:00",
-      "title": "How A2A is Building a World of Collaborative Agents",
-      "link": "https://developers.googleblog.com/how-a2a-is-building-a-world-of-collaborative-agents/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:5122746531879981805": {
@@ -6360,6 +6339,20 @@
       "ts": "2026-07-17T20:40:45+00:00",
       "title": "Ascendea Boosts Productivity 90x Using <b>Manus AI</b> 'James' - Blockchain News",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://blockchain.news/news/ascendea-manus-ai-productivity-boost&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00a5x-oHrcVLpMabsYs94L",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12418445119600311771": {
+      "ts": "2026-07-17T07:50:34+00:00",
+      "title": "<b>Manus AI</b> vs Claude – Which AI Is Better (Full Comparison) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOTrTZIceqkc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HXKNNqlLzp0-pTc0mu_Qe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:945857750199503585": {
+      "ts": "2026-07-17T04:46:09+00:00",
+      "title": "This is both fascinating and a little scary. China's AI agent Manus is getting a lot of attention for one ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jaiganeshdm/videos/-this-is-both-fascinating-and-a-little-scary-chinas-ai-agent-manus-is-getting-a-/1701911547803455/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2KP4y0cNAuHMXIruKMMXhT",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
