@@ -63,13 +63,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "https://openai.com/index/improving-health-intelligence-in-chatgpt": {
-      "ts": "2026-06-18T11:00:00+00:00",
-      "title": "Improving health intelligence in ChatGPT",
-      "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10834616078269376743": {
       "ts": "2026-06-18T17:05:41+00:00",
       "title": "PostHog Review: Product Analytics + Session Replay + Feature Flags in One Platform",
@@ -6318,6 +6311,13 @@
       "ts": "2026-07-17T22:43:39+00:00",
       "title": "Boosting Productivity with <b>Manus AI</b> Training in Wales, United Kingdom - ProgNXT",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prognxt.com/events/boosting-productivity-with-manus-ai-training/wales&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ckl4PzBYCY_WzINTQ0bKH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14928332091944178308": {
+      "ts": "2026-07-18T11:00:51+00:00",
+      "title": "Comment MANUS and I'll send you link (free credits) + the prompt to try it yourself Most of ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Da7oM8isILA/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0axZuYNXHAv7GmFyT01P8d",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
