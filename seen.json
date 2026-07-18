@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://openai.com/index/diagnose-rare-childhood-diseases": {
-      "ts": "2026-06-18T08:00:00+00:00",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2386134236195196468": {
       "ts": "2026-06-18T15:19:27+00:00",
       "title": "Godfather of AI Calls Elon Musk's xAI a Failure That Can't Compete with OpenAI - TipRanks",
@@ -6329,5 +6322,5 @@
       "big": false
     }
   },
-  "last_digest_date": "2026-07-17"
+  "last_digest_date": "2026-07-18"
 }
