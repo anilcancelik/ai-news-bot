@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:2156792108730081725": {
-      "ts": "2026-06-18T11:58:01+00:00",
-      "title": "What the ThreatLabz 2026 Phishing and Initial Access Report Means for the Public Sector",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zscaler.com/blogs/security-research/what-threatlabz-2026-phishing-and-initial-access-report-means-public-sector&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0yncIfEKylG7OqNpsv_xs0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2386134236195196468": {
       "ts": "2026-06-18T15:19:27+00:00",
       "title": "Godfather of AI Calls Elon Musk's xAI a Failure That Can't Compete with OpenAI - TipRanks",
@@ -133,13 +126,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:18046135013549827073": {
-      "ts": "2026-06-18T12:06:13+00:00",
-      "title": "How to Convert a Photo to Cartoon Style in <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAmTm8katyD8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2sEtPJw75Am7vDFao96K_b",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/chatgpt-enterprise-spend-controls": {
       "ts": "2026-06-18T17:00:00+00:00",
       "title": "New usage analytics and updated spend controls for enterprises",
@@ -158,13 +144,6 @@
       "ts": "2026-06-18T16:35:00+00:00",
       "title": "Sachin O.'s Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/sachinohal007_ai-meta-china-activity-7473388100791001088-sSJ1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3j_a1JvQfyN-tk3jl65PBM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15470963445622468726": {
-      "ts": "2026-06-18T12:25:41+00:00",
-      "title": "Top 10 Gamma Alternatives in 2026: AI Presentation Tools Hands-On Reviewed - Powerdrill Bloom",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://powerdrill.ai/ru/blog/top-gamma-alternatives-ai-presentation-tools-hands-on-reviewed&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3kifQW8rLk1lZXz4cvjYBq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
