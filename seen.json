@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4455801707346334594": {
-      "ts": "2026-06-18T03:44:19+00:00",
-      "title": "What caused Meta to destroy its iconic engineering culture? - GIGAZINE",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://gigazine.net/gsc_news/en/20260618-why-meta-destroying-engineering-organization/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vVtxgPG1_UOCS9xnARRVm",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4077225974533086424": {
-      "ts": "2026-06-18T02:35:05+00:00",
-      "title": "<b>Manus AI</b> for Thesis Data Analysis: My 4-Step Workflow #Shorts - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/kLx5AR5_FEE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23u4ps9VPucbmUUpZEg_Ah",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9669716108339034278": {
-      "ts": "2026-06-18T01:37:37+00:00",
-      "title": "Meta's &quot;AI for Work&quot; Chief Steps Down Amid Internal Backlash Over Job-Replacing AI Push",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bizzbuzz.news/technology/ai/metas-ai-for-work-chief-steps-down-amid-internal-backlash-over-job-replacing-ai-push-1394754&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1tS_1wSHx4MPjwEswARRGs",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13242357197621894894": {
-      "ts": "2026-06-18T01:32:57+00:00",
-      "title": "OpenOdds Ai - DappBay",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dappbay.bnbchain.org/detail/openodds-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qH1yzGWE11pPzNaTNmNKd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2156792108730081725": {
       "ts": "2026-06-18T11:58:01+00:00",
       "title": "What the ThreatLabz 2026 Phishing and Initial Access Report Means for the Public Sector",
@@ -6354,6 +6326,13 @@
       "title": "This is both fascinating and a little scary. China's AI agent Manus is getting a lot of attention for one ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jaiganeshdm/videos/-this-is-both-fascinating-and-a-little-scary-chinas-ai-agent-manus-is-getting-a-/1701911547803455/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2KP4y0cNAuHMXIruKMMXhT",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "61205dda9852c635": {
+      "ts": "2026-07-18T01:29:37+00:00",
+      "title": "2.1.214",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-214",
+      "source": "Claude Code changelog",
       "big": false
     }
   },
