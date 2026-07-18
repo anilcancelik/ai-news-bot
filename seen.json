@@ -7,20 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:11808450489055304327": {
-      "ts": "2026-06-18T04:17:04+00:00",
-      "title": "China Forced Meta To Unwind A $2 Billion Meta-<b>Manus AI</b> Deal - Amebopreneur",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://amebopreneur.com/china-stops-massive-2-billion-meta-manus-deal/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1IQweb5oGlum9ulY0W8vw5",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16718742399249384357": {
-      "ts": "2026-06-18T03:58:04+00:00",
-      "title": "Manus is trash. Meta is sunsetting the deal and app completely. Why isn't meta fighting to keep it?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Mattganzak/videos/manus-is-trash-meta-is-sunsetting-the-deal-and-app-completely-why-isnt-meta-figh/1766791657783160/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ABpHsF7Pfo-V9VgfBq6mS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/diagnose-rare-childhood-diseases": {
       "ts": "2026-06-18T08:00:00+00:00",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
@@ -6333,6 +6319,13 @@
       "title": "2.1.214",
       "link": "https://code.claude.com/docs/en/changelog#2-1-214",
       "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1110217273253392325": {
+      "ts": "2026-07-18T02:54:55+00:00",
+      "title": "CellCog vs <b>Manus: AI</b> Agent or AI Employee? (2026)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cellcog.ai/compare/cellcog-vs-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1dQw-l-2fyMTvwjDBbQHbl",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
