@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more": {
-      "ts": "2026-06-19T00:00:00+00:00",
-      "title": "Steering Claude Code: CLAUDE.md files, skills, hooks, rules, subagents and more",
-      "link": "https://claude.com/blog/steering-claude-code-skills-hooks-rules-subagents-and-more",
-      "source": "Claude Blog",
-      "big": false
-    },
     "c6025ba4de3e7b72": {
       "ts": "2026-06-19T01:27:29+00:00",
       "title": "2.1.183",
@@ -6115,6 +6108,20 @@
       "ts": "2026-07-18T16:05:10+00:00",
       "title": "Blogs - The Web Navigators",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://thewebnavigators.com/blogs%3Fpage%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rFGiO0o4F7Fm8uYO2JlXg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1422327461493838588": {
+      "ts": "2026-07-18T19:49:53+00:00",
+      "title": "China's “<b>Manus” AI</b> Agent Is Turning Heads in the U.S., and Raising New Data Security Fears",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://infos-it.fr/english/10056/chinas-manus-ai-agent-is-turning-heads-in-the-u-s-and-raising-new-data-security-fears/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0W3sWs5LIdESq1mo0Bqd59",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6061904979019715717": {
+      "ts": "2026-07-18T04:17:09+00:00",
+      "title": "Manus—a general AI agent integrated with Meta, compresses... | SeoAIu",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://seoaiu.com/en/tool-detail/manus-meta-general-ai-agent-task-accelerator.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JGeHsB3nxgTmbTMi9d6do",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
