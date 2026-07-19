@@ -119,13 +119,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:18096938044190402405": {
-      "ts": "2026-06-19T04:27:33+00:00",
-      "title": "Manus' Revenue Soars as Original Investors Move to Reverse Meta Deal | MergerLinks",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/mergerlinks_manus-revenue-soars-as-original-investors-activity-7473577811371495424-At0R&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3kuVkXZae220atwbl6LAba",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12808673363014147808": {
       "ts": "2026-06-19T16:51:18+00:00",
       "title": "Hannah Pingree beats Nirav Shah for the Democratic Maine governor nomination",
@@ -6119,5 +6112,5 @@
       "big": false
     }
   },
-  "last_digest_date": "2026-07-18"
+  "last_digest_date": "2026-07-19"
 }
