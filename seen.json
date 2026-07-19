@@ -1,19 +1,5 @@
 {
   "seen": {
-    "c6025ba4de3e7b72": {
-      "ts": "2026-06-19T01:27:29+00:00",
-      "title": "2.1.183",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-183",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:365108728937394549": {
-      "ts": "2026-06-19T02:42:48+00:00",
-      "title": "Senate Republicans push back against Trump's demands - The American Bazaar",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://americanbazaaronline.com/2026/06/18/senate-republicans-push-back-against-trumps-demands-483079/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2NR53f_te4lNVKAfVtKY7c",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:11991828915690134116": {
       "ts": "2026-06-19T11:01:22+00:00",
       "title": "NVIDIA joins $54M bet on startup that gets AI data centres online three years faster",
@@ -60,13 +46,6 @@
       "ts": "2026-06-19T08:09:11+00:00",
       "title": "Meta (META) Stock; Rises as Chinese Investors Push $2B Manus Deal Reversal",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://coincentral.com/meta-stock-rises-as-chinese-investors-push-manus-deal-reversal-2b-meta-acquisition-ai-news/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nd2yYVdDlehIINctCiQ-T",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15820151834080336192": {
-      "ts": "2026-06-19T03:23:16+00:00",
-      "title": "Tim Cook says Apple price hike is 'unavoidable' amid surge in chip costs",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://americanbazaaronline.com/2026/06/18/tim-cook-says-apple-price-hike-is-unavoidable-amid-surge-in-chip-costs-483045/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wAxGLYxH79pTXQLh63lxQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6122,6 +6101,20 @@
       "ts": "2026-07-18T04:17:09+00:00",
       "title": "Manus—a general AI agent integrated with Meta, compresses... | SeoAIu",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://seoaiu.com/en/tool-detail/manus-meta-general-ai-agent-task-accelerator.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JGeHsB3nxgTmbTMi9d6do",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "26d6bbb55fe548cf": {
+      "ts": "2026-07-19T03:02:05+00:00",
+      "title": "2.1.215",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-215",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17109573021581606032": {
+      "ts": "2026-07-18T09:34:31+00:00",
+      "title": "<b>Manus AI</b> Explained: The AI Agent That Can Work for You! - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DUjvBKJdi8aE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw036d7_yatrdMvk7zZuQVrK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
