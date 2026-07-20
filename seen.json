@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:11182009771812739865": {
-      "ts": "2026-06-20T18:16:34+00:00",
-      "title": "Pankaj U.'s Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/updypankaj_your-ai-can-describe-any-brand-in-seconds-activity-7473738084292079616-ymJW&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2vYruRyfAMcXLi2No8_m-s",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15205048045538196238": {
-      "ts": "2026-06-20T17:13:02+00:00",
-      "title": "Ranking AI tools - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZ0LteEiTmn/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw088QnE2fvmtH9xlBljB7vo",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:424092527171580233": {
       "ts": "2026-06-20T20:07:29+00:00",
       "title": "Build Your Startup in 4 Hours Hackathon — by <b>Manus AI</b>, Cairo | Ibrahim Sobh - LinkedIn",
@@ -25,20 +11,6 @@
       "ts": "2026-06-20T19:57:45+00:00",
       "title": "The New East India Companies: How Tech Giants Are Colonizing the Global South for AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/2026/06/20/the-new-east-india-companies-how-tech-giants-are-colonizing-the-global-south-for-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YGOMoooTaG4axU1TajA8e",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12706770966365222038": {
-      "ts": "2026-06-20T18:17:31+00:00",
-      "title": "PapersWithCode Review: Trending AI Papers with Working Code. - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/paperswithcode-review-trending-ai-papers-with-working-code&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3F9o6nnmCaEBEQ3Cjf0ESZ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3450618939006239396": {
-      "ts": "2026-06-20T17:18:08+00:00",
-      "title": "How to Do Outreach &amp; Prospecting with AI Agents (<b>Manus AI</b> Tutorial 2026) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3CRR4Isv76I&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3vfQhLSKHUWcLlR-SKO3qe",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5996,6 +5968,41 @@
       "ts": "2026-07-20T13:07:46+00:00",
       "title": "Kled AI: Earn Rewards by Sharing Your Data Ethically - Quasa.io",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/kled-ai-earn-rewards-by-sharing-your-data-ethically&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uK_3xbnkn0Jn3AotSX_NO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/rare-disease-research-grants": {
+      "ts": "2026-07-20T00:00:00+00:00",
+      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
+      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/safety-alignment-long-horizon-models": {
+      "ts": "2026-07-20T10:00:00+00:00",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://cursor.com/blog/agent-swarm-model-economics": {
+      "ts": "2026-07-20T12:00:00+00:00",
+      "title": "Agent swarms and the new model economics",
+      "link": "https://cursor.com/blog/agent-swarm-model-economics",
+      "source": "Cursor Blog",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:1855305999963850288": {
+      "ts": "2026-07-20T15:14:06+00:00",
+      "title": "#heimanus #ai #generativeai #aiagents | Joseph Ch'ng - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/josephchng_heimanus-ai-generativeai-activity-7484913658784010240-IkD2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xuTC4wn9QFFk8hjRnGmBh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12611056883123602816": {
+      "ts": "2026-07-20T06:20:48+00:00",
+      "title": "Why Everyone Is Suddenly Talking About Claude Techdogs - Full AGC | Newsroom",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nouvel.employe.fqm.ca/why-everyone-is-suddenly-talking-about-claude-techdogs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2uxQqi3281tWub3JfK18ow",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
