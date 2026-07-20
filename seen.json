@@ -1,19 +1,5 @@
 {
   "seen": {
-    "c42cef07d83adeb3": {
-      "ts": "2026-06-20T21:04:52+00:00",
-      "title": "2.1.185",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-185",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1614095576599721444": {
-      "ts": "2026-06-20T21:27:53+00:00",
-      "title": "Ponder AI: Turn Raw Footage into Pro Rough Cuts with One Prompt - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/ponder-ai-turn-raw-footage-into-pro-rough-cuts-with-one-prompt&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1OuNqAPs5Ac8hg7rt_4LcR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6558342387803806416": {
       "ts": "2026-06-21T00:26:00+00:00",
       "title": "Reel by <b>Manus AI</b> by Meta (@manus) · June 21, 2026 - Instagram",
@@ -6003,6 +5989,41 @@
       "ts": "2026-07-19T20:59:34+00:00",
       "title": "Team - D.A.T. | That Company",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://thatcompany.ai/team&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw341pnXTMOTXuPEGtFkCo4z",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14130783549266644218": {
+      "ts": "2026-07-20T21:09:51+00:00",
+      "title": "AI tools that are FINISHED or the FUTURE - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Da_R_5TFNjS/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cZFjSmhRlCb8HyKpGWU7r",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10244107837426736444": {
+      "ts": "2026-07-20T20:57:37+00:00",
+      "title": "<b>Manus AI's</b> Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_new-our-newly-launched-google-workspace-activity-7484985536248459264--l4P&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1DCrN01EuTK3hRObbSV1ce",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7441807743076311785": {
+      "ts": "2026-07-20T20:11:06+00:00",
+      "title": "Geneva AI Week - UN Global Dialog on AI Policy - AI for Good Summit | Yash Mukesh - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/yash-mukesh-ai_geneva-ai-week-un-global-dialog-on-ai-policy-activity-7484987523799080960-0rvO&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YCZObT7GfCVVeHsN3icCS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:288920090018828018": {
+      "ts": "2026-07-20T19:35:59+00:00",
+      "title": "Trevor Legwinski's Post - manusfellow - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/tlegwinski_manusfellow-activity-7485004458465316864-lA4E&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nZrJZGKtkVu7IQTb4yi41",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12992995458510772730": {
+      "ts": "2026-07-20T08:07:57+00:00",
+      "title": "Open Source Alternatives to Mocid (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/mocid/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uGVBdW33PuQqNsghl1r5G",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
