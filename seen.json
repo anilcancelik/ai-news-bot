@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:17081419874015526937": {
-      "ts": "2026-06-21T15:34:11+00:00",
-      "title": "do you spend 10 hrs?? I spent 2hrs with ‪@<b>Manus-AI</b>‬ #ai #tech #landingpage ... - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/juSct7--Nlc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ZbxstRD9kTxWUna5wcQRU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:18392047222350112430": {
       "ts": "2026-06-21T21:00:59+00:00",
       "title": "Can you guess the AI tools? - TikTok",
@@ -6052,6 +6045,55 @@
       "ts": "2026-07-20T23:04:32+00:00",
       "title": "Google Gemini - You Might Also Like - App Store - Apple",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/hr/app/6477489729%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3G8Iw1bAVhwjv8-F76ofru",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code": {
+      "ts": "2026-07-21T00:00:00+00:00",
+      "title": "How Datadog built a “universal machine tool” for Claude Code",
+      "link": "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": {
+      "ts": "2026-07-21T15:16:30+00:00",
+      "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/": {
+      "ts": "2026-07-17T15:00:11+00:00",
+      "title": "Introducing Gemini 3.5 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:84272426399663022": {
+      "ts": "2026-07-21T15:22:59+00:00",
+      "title": "AI Automation Specialist | Petra Brands | Jobs By Workable",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jobs.workable.com/view/vLwWf4iJT9dQiGU3NSP2fa/remote-ai-automation-specialist-in-serbia-at-petra-brands&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Uz2L1XmVcIiDVwDDiIB_3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10521368036359039231": {
+      "ts": "2026-07-21T13:51:18+00:00",
+      "title": "<b>Manus AI</b> Vs Claude Vs Genspark Which Is Smartest AI Writer (Easy Comparison Guide)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DEvcwPHY9w-8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1IP8sMhoyJr6VZNRTo_1x5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13505115485617141015": {
+      "ts": "2026-07-21T13:46:29+00:00",
+      "title": "How China's rise changed the logic of globalization - Asia Times",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://asiatimes.com/2026/07/how-chinas-rise-changed-the-logic-of-globalization/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw063KCDJAMRkcWb_j6BDSRX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13143124540458383455": {
+      "ts": "2026-07-21T10:44:56+00:00",
+      "title": "Gemini Notebook - You Might Also Like - App Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/us/app/gemini-notebook/id6737527615%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ezbxA36usHeL2DCzauQKr",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
