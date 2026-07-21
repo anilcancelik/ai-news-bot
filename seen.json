@@ -21,13 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6750691840463633121": {
-      "ts": "2026-06-21T18:08:57+00:00",
-      "title": "<b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQalRocd3Hg4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uoV8qX8gqbnE3BNIBkMnU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
       "ts": "2026-06-21T23:00:00+00:00",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -6129,6 +6122,20 @@
       "ts": "2026-07-21T04:53:34+00:00",
       "title": "Manus Review, Features, Pricing &amp; Alternatives (2026) - Tool Clash",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.toolclash.space/tools/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2bDo4BcRmf-alC5AkacMXi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16236721633931238335": {
+      "ts": "2026-07-21T17:18:01+00:00",
+      "title": "Evan Seech's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/evan-seech-307a59151_most-agencies-would-charge-10000-for-this-activity-7485369320714227712-kZRT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3CQPcUiE5kpQmsdtgcSODr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10946429295631744649": {
+      "ts": "2026-07-21T08:33:03+00:00",
+      "title": "Open Source Alternatives to Agentpixel (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/agentpixel/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Mmgx2ZI48OQ9n0Nvb6UlK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
