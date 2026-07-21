@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:18392047222350112430": {
-      "ts": "2026-06-21T21:00:59+00:00",
-      "title": "Can you guess the AI tools? - TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40danvmartell/video/7653956521012858120&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw19IWjcUVhFUOAjLFN-xyLf",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment": {
       "ts": "2026-06-21T23:00:00+00:00",
       "title": "Samsung Electronics brings ChatGPT and Codex to employees",
@@ -6143,6 +6136,34 @@
       "ts": "2026-07-21T19:10:29+00:00",
       "title": "is it possible for claude ai to fix <b>manus ai</b> created website without changing the layout and look?",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/claudecommunity/posts/1052649703942361/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ufLnjTAjrsMWAlVeqbJ-O",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "f1db2c4863071c75": {
+      "ts": "2026-07-21T21:44:04+00:00",
+      "title": "2.1.217",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-217",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13806837630886690533": {
+      "ts": "2026-07-21T21:25:12+00:00",
+      "title": "How to BUILD a WEBSITE with <b>Manus AI</b> (Step by Step) 2026 : r/Answerasap - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/Answerasap/comments/1v2u1vg/how_to_build_a_website_with_manus_ai_step_by_step/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3PNy3wLZ3faj-2CfFuv42a",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4651774764896692187": {
+      "ts": "2026-07-21T20:26:54+00:00",
+      "title": "How to CONTACT <b>Manus AI</b> (Step by Step) 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D73c5qP1BfSo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fiDyFujQqBxEz2fsWQJA3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2538689173028689315": {
+      "ts": "2026-07-21T19:55:46+00:00",
+      "title": "10 Best Manus Alternatives for AI Task Automation in 2026 (Free &amp; Paid)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://powerdrill.ai/blog/10-best-manus-alternatives-for-ai-task-automation-in-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3xn2NrZgx2xyQcqI6icKKt",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
