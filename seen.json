@@ -14,27 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:3284817106373433547": {
-      "ts": "2026-06-22T17:39:24+00:00",
-      "title": "Meta and Manus Investors Enter Buyback Talks as Beijing's Divestiture Order Moves to Execution",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techjacksolutions.com/ai-brief/update-meta-and-manus-investors-enter-buyback-talks-as-beiji/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mxiQRjdI4GZI5_i4zAvA0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16322006781861862248": {
-      "ts": "2026-06-22T17:39:16+00:00",
-      "title": "Cross-Border AI M&amp;A After Manus: What Due Diligence Needs When a Government Can ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techjacksolutions.com/ai-brief/cross-border-ai-ma-after-manus-what-due-diligence-needs-when/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2pxb1M5eHU8JglBvV9JdMo",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11870797670375523554": {
-      "ts": "2026-06-22T17:39:15+00:00",
-      "title": "From Divestiture to IPO: How Manus's Revenue Growth Changes Who Controls the Exit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techjacksolutions.com/ai-brief/from-divestiture-to-ipo-how-manuss-revenue-growth-changes-wh/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2EuSQw72g-mDpzFhMAUKsx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10493918907118320923": {
       "ts": "2026-06-22T20:26:15+00:00",
       "title": "What Is AI Visibility? Can AI Find and Recommend Your Business? - YouTube",
@@ -6067,6 +6046,48 @@
       "title": "Advancing the next era of national science",
       "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "source": "OpenAI News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/anthropic-economic-index-connector": {
+      "ts": "2026-07-22T00:00:00+00:00",
+      "title": "Ask Claude about the Anthropic Economic Index",
+      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/economic-futures-research-fund-agenda": {
+      "ts": "2026-07-22T00:00:00+00:00",
+      "title": "A research agenda for the Economic Futures Research Fund",
+      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills": {
+      "ts": "2026-07-22T00:00:00+00:00",
+      "title": "Building verification loops in Claude Code with skills",
+      "link": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/router": {
+      "ts": "2026-07-22T00:00:00+00:00",
+      "title": "Introducing Cursor Router",
+      "link": "https://cursor.com/blog/router",
+      "source": "Cursor Blog",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:15212731947695761405": {
+      "ts": "2026-07-22T15:59:12+00:00",
+      "title": "Why Britain nationalised British Steel despite Chinese outrage - ThinkChina.sg",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thinkchina.sg/politics/why-britain-nationalised-british-steel-despite-chinese-outrage&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zSRP5n8cIEm4FvkcRyXeO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15870931905423218506": {
+      "ts": "2026-07-22T13:18:39+00:00",
+      "title": "AI at an Inflection Point: Market Dynamics, Autonomous Systems, and the Future of Enterprise",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hackernoon.com/ai-at-an-inflection-point-market-dynamics-autonomous-systems-and-the-future-of-enterprise&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jOqMqRKTHAZTkYtRDNPhF",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
