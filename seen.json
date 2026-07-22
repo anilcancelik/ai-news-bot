@@ -1,19 +1,5 @@
 {
   "seen": {
-    "682541ca5141f746": {
-      "ts": "2026-06-22T20:45:17+00:00",
-      "title": "2.1.186",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-186",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10493918907118320923": {
-      "ts": "2026-06-22T20:26:15+00:00",
-      "title": "What Is AI Visibility? Can AI Find and Recommend Your Business? - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrH56eSLbDTE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3FYkT9NoFEDpd95nE3DNf1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/omio": {
       "ts": "2026-06-23T00:00:00+00:00",
       "title": "How Omio is building the future of conversational travel",
@@ -6117,6 +6103,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/Answerasap/comments/1v2twy7/how_to_contact_manus_ai_step_by_step_2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ZZ0GdYbGtFMoOEV62gqwd",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/how-news-organizations-are-using-ai": {
+      "ts": "2026-07-22T13:00:00+00:00",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17934291011759877187": {
+      "ts": "2026-07-22T18:17:14+00:00",
+      "title": "<b>Manus AI</b> Launches Plan Mode to Streamline Agent Tasks : r/aicuriosity - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aicuriosity/comments/1v3o1xc/manus_ai_launches_plan_mode_to_streamline_agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Z5lCDjT8J-S7w11o3O1Pp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-07-22"
