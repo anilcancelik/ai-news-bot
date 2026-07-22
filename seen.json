@@ -6117,6 +6117,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aicuriosity/comments/1v3o1xc/manus_ai_launches_plan_mode_to_streamline_agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Z5lCDjT8J-S7w11o3O1Pp",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "904079d4c5380694": {
+      "ts": "2026-07-22T21:34:59+00:00",
+      "title": "2.1.218",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-218",
+      "source": "Claude Code changelog",
+      "big": false
     }
   },
   "last_digest_date": "2026-07-22"
