@@ -56,13 +56,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13650285062856166710": {
-      "ts": "2026-06-22T00:10:45+00:00",
-      "title": "MiniMax - Your AI Agent - You Might Also Like - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/gm/app/minimax-your-ai-agent/id6742651446%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uWwEe-N3WWOa256Cu2HEE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/patch-the-planet": {
       "ts": "2026-06-22T10:00:00+00:00",
       "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
@@ -75,13 +68,6 @@
       "title": "Daybreak: Tools for securing every organization in the world",
       "link": "https://openai.com/index/daybreak-securing-the-world",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/measuring-what-matters-with-jules/": {
-      "ts": "2026-06-22T00:00:00+00:00",
-      "title": "Measuring What Matters with Jules",
-      "link": "https://developers.googleblog.com/measuring-what-matters-with-jules/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:4493122187039233687": {
@@ -189,20 +175,6 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://openai.com/index/codex-maxxing-long-running-work": {
-      "ts": "2026-06-22T00:00:00+00:00",
-      "title": "Codex-maxxing for long-running work",
-      "link": "https://openai.com/index/codex-maxxing-long-running-work",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/": {
-      "ts": "2026-06-22T00:00:00+00:00",
-      "title": "Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A",
-      "link": "https://developers.googleblog.com/build-cross-language-multi-agent-team-with-google-agent-development-kit-and-a2a/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2158445147385280572": {
       "ts": "2026-06-22T18:36:41+00:00",
       "title": "SEO still matters even with AI search. AI pulls from the same trust signals traditional ... - Instagram",
@@ -229,13 +201,6 @@
       "title": "From Divestiture to IPO: How Manus's Revenue Growth Changes Who Controls the Exit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://techjacksolutions.com/ai-brief/from-divestiture-to-ipo-how-manuss-revenue-growth-changes-wh/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2EuSQw72g-mDpzFhMAUKsx",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry": {
-      "ts": "2026-06-22T00:00:00+00:00",
-      "title": "The full Claude Desktop experience on AWS, Google Cloud, and Microsoft Foundry",
-      "link": "https://claude.com/blog/the-full-claude-desktop-experience-on-aws-google-cloud-and-microsoft-foundry",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:10493918907118320923": {
@@ -6185,6 +6150,20 @@
       "ts": "2026-07-21T16:52:25+00:00",
       "title": "[Hiring] AI Automation Specialist @Petra Brands - Remotive",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://remotive.com/remote/jobs/artificial-intelligence/ai-automation-specialist-5297635&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0otHWqEFVtU1qhGGYQNFOL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16461772844698575369": {
+      "ts": "2026-07-22T00:01:09+00:00",
+      "title": "Meta's unwinding of Manus shows even forced deals have merits - Financial Times",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/bdd09ed8-368c-4264-ac9f-936044a10213%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0KsvCSD1edto8uV8YlR_7L",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8564381259564576129": {
+      "ts": "2026-07-21T23:37:40+00:00",
+      "title": "How to SIGN UP for <b>Manus AI</b> (Step by Step) 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D87FXozTkXJ0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2h8NMxi_ERF_igXsa-plJJ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
