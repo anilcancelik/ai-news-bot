@@ -119,13 +119,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:17769829776265180769": {
-      "ts": "2026-06-22T09:26:44+00:00",
-      "title": "Mastering <b>Manus: AI</b> Automation for Marketing and Content ($34.99 to FREE) - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/Udemies/comments/1ucf6te/mastering_manus_ai_automation_for_marketing_and/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xi1JgKY26ae7M8bMjEFHw",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "682541ca5141f746": {
       "ts": "2026-06-22T20:45:17+00:00",
       "title": "2.1.186",
@@ -6136,6 +6129,20 @@
       "ts": "2026-07-22T03:32:06+00:00",
       "title": "A Data-Driven Model Of Satisfaction and Trust Formation In Agentic Artificial Intelligence",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aisel.aisnet.org/ecis2026/cog_hbis/cog_hbis/29&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Hqwmis-Mgmd8xzastRR5Z",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/donation-public-first-action": {
+      "ts": "2026-07-21T00:00:00+00:00",
+      "title": "Anthropic is donating another $20 million to Public First Action",
+      "link": "https://www.anthropic.com/news/donation-public-first-action",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6702504631674680537": {
+      "ts": "2026-07-22T08:35:17+00:00",
+      "title": "<b>Manus AI</b> Agent: What It's Actually Good For (And When You Might Want Something Else)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.danetsoft.com/post/manus-ai-agent-what-its-actually-good-for-and-when-you-might-want-something-else&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3M8CrvgPkTsuI38A7OPAcv",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
