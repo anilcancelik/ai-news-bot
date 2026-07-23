@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/omio": {
-      "ts": "2026-06-23T00:00:00+00:00",
-      "title": "How Omio is building the future of conversational travel",
-      "link": "https://openai.com/index/omio",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7311755643386729634": {
       "ts": "2026-06-23T04:35:49+00:00",
       "title": "Sahas Chopra | Comment AI, and I'll send you the whole list! - Instagram",
@@ -110,13 +103,6 @@
       "title": "<b>Manus AI</b> Agent Will BLOW Your Mind! The Future of AI is HERE - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVh8khcL9vZQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_aLqf4tMvEx8W_CQ_mR3J",
       "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "https://www.anthropic.com/news/introducing-claude-tag": {
-      "ts": "2026-06-23T00:00:00+00:00",
-      "title": "Introducing Claude Tag",
-      "link": "https://www.anthropic.com/news/introducing-claude-tag",
-      "source": "Anthropic News",
       "big": true
     },
     "https://claude.com/blog/agent-identity-access-model": {
@@ -6129,6 +6115,20 @@
       "ts": "2026-07-22T15:15:22+00:00",
       "title": "Generative AI Roadmap 2026 | Complete Beginner to Job Ready Guide - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3QeSrqmA2Q8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1pjVX6yU4JMKKqlLjDl9o3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/ntt-data": {
+      "ts": "2026-07-22T00:00:00+00:00",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "link": "https://openai.com/index/ntt-data",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15163053670229788491": {
+      "ts": "2026-07-22T17:19:51+00:00",
+      "title": "Meet <b>Manus AI</b>: The Agent That Does Your Work While You Sleep - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D18BiBzbGwV4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0p3DsrenU1r3NjOBfrcrxx",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
