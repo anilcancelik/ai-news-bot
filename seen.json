@@ -7,13 +7,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13495488211000763227": {
-      "ts": "2026-06-23T18:00:24+00:00",
-      "title": "Cred Says Data Won't Be Shared With Meta: Why Are Smart Users Still Worried? - ED Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtimes.in/cred-says-data-wont-be-shared-with-meta-why-are-smart-users-still-worried/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0m7saQ0Ew_9rjWFZQsBIc8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10661974400620522052": {
       "ts": "2026-06-23T20:57:54+00:00",
       "title": "SingularityNET: The Decentralized AI Marketplace Powering Beneficial AGI - Quasa",
@@ -32,13 +25,6 @@
       "ts": "2026-06-23T20:37:25+00:00",
       "title": "Paragraph Review: Own Your Audience and Ideas. - Quasa",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/paragraph-review-own-your-audience-and-ideas&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3L_0_RMWUE5b-t7Z5GO4_l",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18012702302376471083": {
-      "ts": "2026-06-23T17:35:03+00:00",
-      "title": "Infernary Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/infernary/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0obEzHwGs5TYqmCbjjueTC",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6033,6 +6019,34 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://pub.towardsai.net/all%3Ftopic%3Dai-revolution&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03EeSPrcERQAR3jmhPULgW",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15530531935179709711": {
+      "ts": "2026-07-23T15:25:38+00:00",
+      "title": "AI Chatbots &amp; Assistants Deals (July 2026) - Resourify",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://resourify.com/topics/ai-chatbots&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2V9k4rhC425YC1bnIrbuQP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11748281260305426827": {
+      "ts": "2026-07-23T15:12:06+00:00",
+      "title": "Pratibha Ahire - The AI Stack of 2026 - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pratibha-ahire-13536b33a_the-ai-stack-of-2026-work-smarter-build-activity-7486022803352342528-_NoP&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Cl2AxdtalQbWDixzi8ns4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8327061199059137769": {
+      "ts": "2026-07-23T13:05:14+00:00",
+      "title": "Manus Resets Credits? : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1v40qpr/manus_resets_credits/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Kly5iV0Fo1F--pqVWVFud",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15868939562309786849": {
+      "ts": "2026-07-22T22:54:10+00:00",
+      "title": "<b>Manus AI</b> Launches Plan Mode to Streamline Agent Tasks : r/ManusAiAgent - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusAiAgent/comments/1v3o352/manus_ai_launches_plan_mode_to_streamline_agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3JYjTwPAMut313HPPBVHHS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-07-23"
