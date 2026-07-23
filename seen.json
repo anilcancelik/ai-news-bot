@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4826782841062898802": {
-      "ts": "2026-06-23T13:31:26+00:00",
-      "title": "Kunal Shah's WhatsApp win; India bourses insulated from AI boom - The Economic Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/newsletters/tech-top-5/kunal-shahs-whatsapp-win-india-bourses-insulated-from-ai-boom/articleshow/131939384.cms&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3oZGqsxRinkPQLyWUD958e",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18073624550597520104": {
-      "ts": "2026-06-23T12:16:50+00:00",
-      "title": "Meta's Cred deal showcases new playbook: take stake, hire the founder",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/startups/metas-cred-deal-showcases-new-playbook-take-stake-hire-the-founder/articleshow/131936669.cms&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Xx0c44vMqBf2WeGoDQvlp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/gpt-5-immunology-mystery": {
       "ts": "2026-06-23T17:00:00+00:00",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
@@ -28,25 +14,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13842041410009186858": {
-      "ts": "2026-06-23T12:43:09+00:00",
-      "title": "<b>Manus AI</b> Agent Will BLOW Your Mind! The Future of AI is HERE - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVh8khcL9vZQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_aLqf4tMvEx8W_CQ_mR3J",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
     "https://claude.com/blog/agent-identity-access-model": {
       "ts": "2026-06-24T00:00:00+00:00",
       "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
       "link": "https://claude.com/blog/agent-identity-access-model",
       "source": "Claude Blog",
-      "big": false
-    },
-    "https://cursor.com/blog/coinbase": {
-      "ts": "2026-06-23T12:00:00+00:00",
-      "title": "Coinbase reduces time from idea to production by 90% with Cursor",
-      "link": "https://cursor.com/blog/coinbase",
-      "source": "Cursor Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:13495488211000763227": {
@@ -82,20 +54,6 @@
       "title": "Few days ago i showed how i used Claude Code to grow my instagram account to 4.4M ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/Axel_bitblaze69/status/2069424933030207488&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3I28Zo6OQswBf_M1eAiRZd",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16974020245592626536": {
-      "ts": "2026-06-23T12:06:40+00:00",
-      "title": "Manus Al Invitation Code / Referral Link - Get Free Bonus Credits! : r/promocodes - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/promocodes/comments/1uceyd5/manus_al_invitation_code_referral_link_get_free/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0LpJc2GGcL69MWS_dzoccH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai": {
-      "ts": "2026-06-23T13:00:00+00:00",
-      "title": "Helping build shared standards for advanced AI",
-      "link": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:10661974400620522052": {
@@ -2825,13 +2783,6 @@
       "ts": "2026-06-25T12:00:00+00:00",
       "title": "Designing Organisations That Can Keep Up With AI",
       "link": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows": {
-      "ts": "2026-06-23T12:00:00+00:00",
-      "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
-      "link": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
       "source": "OpenAI News",
       "big": false
     },
