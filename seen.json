@@ -6047,6 +6047,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusAiAgent/comments/1v3o352/manus_ai_launches_plan_mode_to_streamline_agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3JYjTwPAMut313HPPBVHHS",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "https://claude.com/blog/think-through-hard-problems-in-voice-mode": {
+      "ts": "2026-07-23T00:00:00+00:00",
+      "title": "Think through hard problems in voice mode",
+      "link": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
+      "source": "Claude Blog",
+      "big": false
     }
   },
   "last_digest_date": "2026-07-23"
