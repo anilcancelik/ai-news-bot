@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/gpt-5-immunology-mystery": {
-      "ts": "2026-06-23T17:00:00+00:00",
-      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
-      "link": "https://openai.com/index/gpt-5-immunology-mystery",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://claude.com/blog/agent-identity-access-model": {
       "ts": "2026-06-24T00:00:00+00:00",
       "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
@@ -18,13 +11,6 @@
       "ts": "2026-06-23T18:00:24+00:00",
       "title": "Cred Says Data Won't Be Shared With Meta: Why Are Smart Users Still Worried? - ED Times",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://edtimes.in/cred-says-data-wont-be-shared-with-meta-why-are-smart-users-still-worried/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0m7saQ0Ew_9rjWFZQsBIc8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1213412041388083596": {
-      "ts": "2026-06-23T17:09:22+00:00",
-      "title": "China overtakes US with world's fastest supercomputer not built for AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://americanbazaaronline.com/2026/06/23/china-overtakes-us-with-worlds-fastest-supercomputer-not-built-for-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vClS4KoFoK8x0oWZZd6xR",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -88,13 +74,6 @@
       "ts": "2026-06-23T23:02:06+00:00",
       "title": "Meta's Manus Mess: Why China Blocked the Deal and What It Means - MarketBeat",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketbeat.com/articles/metas-manus-mess-why-china-blocked-the-deal-and-what-happens-next/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qjspkBRk0DirsjsJIbana",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11341001480649104224": {
-      "ts": "2026-06-23T16:20:58+00:00",
-      "title": "Resynance Alternatives &amp; Competitors (2026) - StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/resynance/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2huCY3jXDrMRnbhin_dCYi",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6038,6 +6017,20 @@
       "ts": "2026-07-22T20:31:29+00:00",
       "title": "Stop Scrolling. This AI Business Made $3,400 Last Month. - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYIncJv4d3Wo%26vl%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ML6oOqVQtD6FUPOUdnvVk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/health-in-chatgpt": {
+      "ts": "2026-07-23T00:00:00+00:00",
+      "title": "Launching Health in ChatGPT",
+      "link": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:2151761039751972219": {
+      "ts": "2026-07-23T06:41:30+00:00",
+      "title": "Ai Revolution - Towards AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pub.towardsai.net/all%3Ftopic%3Dai-revolution&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03EeSPrcERQAR3jmhPULgW",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
