@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:12034701146288486013": {
-      "ts": "2026-06-24T05:44:49+00:00",
-      "title": "7 Best Free AI Tools For PowerPoint Presentations In 2026 - Flickonclick",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.flickonclick.com/free-ai-tools-for-powerpoint-presentations/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zlcz6bnYyMtAnMdX8SIfJ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip": {
-      "ts": "2026-06-24T06:00:00+00:00",
-      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-      "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-      "source": "OpenAI News",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:12767661001817885594": {
       "ts": "2026-06-24T14:25:25+00:00",
       "title": "Bee Network Update: $BEE Migrates to Bee Honey Ahead Launch | MEXC News",
@@ -91,20 +77,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6346523805391485601": {
-      "ts": "2026-06-24T07:29:43+00:00",
-      "title": "Personal AI: Your Private Second Brain and AI Twin - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/personal-ai-your-private-second-brain-and-ai-twin&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Fs3vK7rWGrp9V0Z0Gm4Er",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7375959405385412437": {
-      "ts": "2026-06-24T07:26:29+00:00",
-      "title": "Chinese Students Buy GPT-5 and Claude Access for 97% Off, Experts Warn of a Risky Catch",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.uk/chinese-developers-access-ai-models-discount-proxy-networks-1804689&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0X91sJJFwhxnN5FmCEbZIE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "1b52804247c081d0": {
       "ts": "2026-06-24T16:18:23+00:00",
       "title": "2.1.190",
@@ -144,13 +116,6 @@
       "ts": "2026-06-24T10:06:59+00:00",
       "title": "Meta is developing new app and it is completely different from Facebook and Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digit.in/news/general/meta-is-developing-new-app-and-it-is-completely-different-from-facebook-and-instagram.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2HV1LvlrgBhCWyo-lFZXbL",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11515915037089035736": {
-      "ts": "2026-06-24T07:59:40+00:00",
-      "title": "Otaria Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/otaria/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MLgPTpkptwEqb7MxGJNmq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6068,7 +6033,14 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://cataito.com/en/tool/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw11YdumF7a_yX9pRgmAMDnO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:553727230410726750": {
+      "ts": "2026-07-24T05:38:58+00:00",
+      "title": "BEE METAMASK LATEST UPDATE | KYC &amp; <b>MANUS AI</b> EXPLAINED - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D8kAOb-yRyes&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2qneVvbMYpa9DJyWHe4or0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-07-23"
+  "last_digest_date": "2026-07-24"
 }
