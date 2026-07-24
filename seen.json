@@ -28,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6886144780271660412": {
-      "ts": "2026-06-24T18:39:40+00:00",
-      "title": "Codex Tutorial for Beginner: The AI Agent That Can Do More Than ChatGPT - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D1Zp4P0yvqC0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1TSq7qfPL1Uic6JKmX4sDi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14802834990451916733": {
       "ts": "2026-06-24T22:14:16+00:00",
       "title": "AI Trends Archives - Page 6 of 6 - Lynn Raebsamen, CFA",
@@ -5955,6 +5948,27 @@
       "title": "<b>Manus AI</b> (Android 7.0+) APKs - APKMirror",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.apkmirror.com/apk/butterfly-effect-pte-ltd/manus-ai/variant-%257B%2522minapi_slug%2522%253A%2522minapi-24%2522%257D/page/13/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_cI0oB-TxUA-YhSFIyvuT",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case": {
+      "ts": "2026-07-24T00:00:00+00:00",
+      "title": "Claude models explained: choosing the best model for your use case",
+      "link": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
+      "ts": "2026-07-24T00:00:00+00:00",
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them": {
+      "ts": "2026-07-24T00:00:00+00:00",
+      "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
+      "link": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
+      "source": "Claude Blog",
       "big": false
     }
   },
