@@ -7,13 +7,6 @@
       "source": "Cursor Blog",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:9866524654581508966": {
-      "ts": "2026-06-24T19:34:40+00:00",
-      "title": "OpenAI Makes Custom AI Chip Debut With Jalapeño As Part of Broadcom Deal | IBTimes",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/openai-makes-custom-ai-chip-debut-jalapeno-part-broadcom-deal-3804514&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xhJmNVur-YRXoc0jdQ6M0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:9225365899735653413": {
       "ts": "2026-06-24T22:05:45+00:00",
       "title": "AI &amp; ChatGPT on Instagram: &quot;Comment “Tools” and I'll send you my full list Keep 5, Cut 5",
@@ -5969,6 +5962,20 @@
       "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
       "link": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
       "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3741077883401819290": {
+      "ts": "2026-07-24T15:07:03+00:00",
+      "title": "Europe Energy Crisis Threatens Industrial Recovery - Brussels Morning Newspaper",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://brusselsmorning.com/europe-energy-crisis-industrial-impact/101155/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw08D2e0eosNZEtIDDsfo1D4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10802776874560090569": {
+      "ts": "2026-07-24T00:03:34+00:00",
+      "title": "Cool devs don't gatekeep. Pt. 04 Comment “VIBE” and I'll send you all 4 Why do ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbJiyk2yA5J/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00yohq39ocfCzp2vFoGPQD",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
