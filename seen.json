@@ -1,26 +1,5 @@
 {
   "seen": {
-    "https://claude.com/blog/agent-identity-access-model": {
-      "ts": "2026-06-24T00:00:00+00:00",
-      "title": "Agent identity in Claude Tag: a new access model for autonomous, team-wide AI",
-      "link": "https://claude.com/blog/agent-identity-access-model",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "ecb3a5e361eb5617": {
-      "ts": "2026-06-24T00:12:09+00:00",
-      "title": "2.1.187",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-187",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1866582493665778680": {
-      "ts": "2026-06-23T23:56:44+00:00",
-      "title": "Opensynch Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/opensynch/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nhrzLKZ31HmVJDCG_ejzv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12034701146288486013": {
       "ts": "2026-06-24T05:44:49+00:00",
       "title": "7 Best Free AI Tools For PowerPoint Presentations In 2026 - Flickonclick",
@@ -187,13 +166,6 @@
       "title": "Otaria Alternatives &amp; Competitors (2026) | StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/otaria/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MLgPTpkptwEqb7MxGJNmq",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/building-effective-human-agent-teams": {
-      "ts": "2026-06-24T00:00:00+00:00",
-      "title": "Building effective human-agent teams",
-      "link": "https://claude.com/blog/building-effective-human-agent-teams",
-      "source": "Claude Blog",
       "big": false
     },
     "https://cursor.com/blog/notion": {
@@ -6052,6 +6024,34 @@
       "ts": "2026-07-23T23:01:44+00:00",
       "title": "Against Alternatives &amp; Competitors (2026) | StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/against/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mJsybyQZOttucamDWnLA0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/four-role-based-claude-certifications": {
+      "ts": "2026-07-23T00:00:00+00:00",
+      "title": "Four role-based certifications for the people who put Claude to work for customers",
+      "link": "https://claude.com/blog/four-role-based-claude-certifications",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2376214118360168930": {
+      "ts": "2026-07-24T00:13:48+00:00",
+      "title": "New Manus Plan Mode is INSANE! - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DNrcGo9AXr9A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0SjuOUC7gPQnkXmgSEr0cn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4752005034916086894": {
+      "ts": "2026-07-23T23:06:56+00:00",
+      "title": "New Manus Plan Mode is INSANE! - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D72iTrk2WPB8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3w5PYOEKex_ydtOWasqNxy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3881687100005844745": {
+      "ts": "2026-07-23T23:01:50+00:00",
+      "title": "Appliedintent Alternatives &amp; Competitors (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/appliedintent/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3k37EPtvp1crB-20iEdzsp",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
