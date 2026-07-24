@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6118882444449083293": {
-      "ts": "2026-06-24T21:21:19+00:00",
-      "title": "Comment “Apps” for the 40 best AI apps of 2026  ‍   #aitools #aiapps #manus #claude #aiforbeginners",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DZ-3S2_SFfp/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nY8jo-Td8KUWvJ2SEUeRz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14802834990451916733": {
       "ts": "2026-06-24T22:14:16+00:00",
       "title": "AI Trends Archives - Page 6 of 6 - Lynn Raebsamen, CFA",
@@ -5976,6 +5969,13 @@
       "title": "Cool devs don't gatekeep. Pt. 04 Comment “VIBE” and I'll send you all 4 Why do ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbJiyk2yA5J/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00yohq39ocfCzp2vFoGPQD",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://cursor.com/blog/grok-4-5-model-card": {
+      "ts": "2026-07-14T00:00:00+00:00",
+      "title": "Grok 4.5 Model Card",
+      "link": "https://cursor.com/blog/grok-4-5-model-card",
+      "source": "Cursor Blog",
       "big": false
     }
   },
