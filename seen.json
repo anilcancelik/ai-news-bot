@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1942386090539114224": {
-      "ts": "2026-06-26T18:41:39+00:00",
-      "title": "China's AI Surge Is Testing America's Strategy to Win the Global Tech Race: Report",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/chinas-ai-surge-testing-americas-strategy-win-global-tech-race-report-3804611&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fW8xbw4xLfO68XtpRh9XY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:502380727050611428": {
-      "ts": "2026-06-26T19:21:13+00:00",
-      "title": "<b>Manus AI</b> prompt caching is important! read about how we do it with deep agents",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/hwchase17/status/2070577381392482732&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3i2ihK8ffzwppH4tuoahjk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6352663898601800106": {
       "ts": "2026-06-26T22:46:49+00:00",
       "title": "I found an AI that actually works for you, not just with you. Most AI tools help you generate ...",
@@ -5723,6 +5709,20 @@
       "ts": "2026-07-26T04:58:53+00:00",
       "title": "celeris-1 generates via diffusion and claims a 157 ms median latency",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lhc.media/en/media/ai-watch/celeris-1-generates-via-diffusion-and-claims-a-157-ms-median-latency&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vZoaASHoPb1p6gAFimDBZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5880194357666436726": {
+      "ts": "2026-07-26T12:49:08+00:00",
+      "title": "Subquadratic Review on Quasa: The First Sub-Quadratic LLM",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/subquadratic-review-on-quasa-the-first-sub-quadratic-llm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3whzbHmCLuSvTiENkQ636k",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2204186007999633588": {
+      "ts": "2026-07-26T06:25:12+00:00",
+      "title": "AI tool use reaches 45.2% in 2025: CST - Argaam",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.argaam.com/en/article/articledetail/id/1923006%3Famp&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1t_tc4Qox-g3r216BEhnGG",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
