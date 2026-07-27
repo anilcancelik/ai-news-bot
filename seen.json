@@ -5676,6 +5676,13 @@
       "link": "https://www.anthropic.com/news/position-open-weights-models",
       "source": "Anthropic News",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17841722083425971647": {
+      "ts": "2026-07-27T16:07:52+00:00",
+      "title": "Taiwan - World's Cheapest Subscriptions - App Store Price",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://appstoreprice.org/en/discover/regions/TW&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TYNc4uFbVhdFwOBYmoyY7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-07-27"
