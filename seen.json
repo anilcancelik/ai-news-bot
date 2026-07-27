@@ -77,13 +77,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:7366149489085650419": {
-      "ts": "2026-06-27T21:40:49+00:00",
-      "title": "Create and Sell Apps Easily with Bubble.io and <b>Manus AI</b> - Contra",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://contra.com/community/OWQu94eW-create-and-sell-apps-easily-with&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2A2Mdci6YObKrSdgVjrcYR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13757189158094712675": {
       "ts": "2026-06-28T15:08:26+00:00",
       "title": "AI Tools Articles | Spectrum AI Labs",
@@ -5675,6 +5668,13 @@
       "title": "This NEW AI Agent DESTROYS <b>Manus AI</b> (Automate Anything Fast) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMu6bJaVsUDg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o9NcARSmyrEjBb6gzcFCW",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/position-open-weights-models": {
+      "ts": "2026-07-27T00:00:00+00:00",
+      "title": "Our position on open-weights models",
+      "link": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "Anthropic News",
       "big": false
     }
   },
