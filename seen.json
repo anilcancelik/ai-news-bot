@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:3837494864269216397": {
-      "ts": "2026-06-27T05:47:35+00:00",
-      "title": "AI: Blip 2.0++, OpenAI IPO now 2027, 'RAMAgeddon' reaches Apple. AI-RTZ #1130",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://michaelparekh.substack.com/p/ai-blip-20-openai-ipo-now-2027-ramageddon&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HILK1y6oom0aBKlpYXSrs",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2147432756575558298": {
       "ts": "2026-06-27T09:13:25+00:00",
       "title": "Denis Panjuta's Post - LinkedIn",
@@ -18,13 +11,6 @@
       "ts": "2026-06-27T09:42:26+00:00",
       "title": "What AI platforms are alternatives to Claude? - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/claudeaicommunity/posts/1312252157608615/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0qFEMK6KSBxyM12I_bahEl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4297621728516015710": {
-      "ts": "2026-06-27T07:35:13+00:00",
-      "title": "Nobody needs 50 AI tools. You need these 8 learned one at a time. #incrementallearning",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dd6Kj-r7vXck&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3E05z-zm5-9rJZAlcrT3xX",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -53,13 +39,6 @@
       "ts": "2026-06-27T14:03:32+00:00",
       "title": "Building a Website Under Pressure With <b>Manus AI</b> - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/gsBhKouj-vk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TxrdNzHp2_AmsmPrmaVez",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12340961307038482844": {
-      "ts": "2026-06-27T06:17:33+00:00",
-      "title": "Buy from Eleanniing – more than 8 offers on ggsel",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ggsel.net/en/sellers/141023499&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3On_wXhNZDcc_ws11CQ3B3",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5685,5 +5664,5 @@
       "big": false
     }
   },
-  "last_digest_date": "2026-07-26"
+  "last_digest_date": "2026-07-27"
 }
