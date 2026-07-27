@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:16737033758264576820": {
-      "ts": "2026-06-27T12:36:18+00:00",
-      "title": "it's about what actually ships. Here's the Output vs Hype breakdown for 7 major AI tools: . ChatGPT",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61570770655373/posts/the-ai-era-isnt-just-about-hype-its-about-what-actually-ships-heres-the-output-v/122114560244692355/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0dPx15J4-8IZzeqcYyBKv-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3302500426443169064": {
-      "ts": "2026-06-27T12:29:10+00:00",
-      "title": "How To Run <b>Manus AI</b> Locally (Step By Step 2026) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D98B_3VjrucY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Ba9_SeCGbvXRE1IrXHp1Y",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17222674539171309862": {
-      "ts": "2026-06-27T14:03:32+00:00",
-      "title": "Building a Website Under Pressure With <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/gsBhKouj-vk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TxrdNzHp2_AmsmPrmaVez",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:18159758329505883620": {
       "ts": "2026-06-27T17:17:01+00:00",
       "title": "Follow for more AI content. China isn't winning the AI race with better tech. They're ... - Instagram",
@@ -49,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:11884732467890728194": {
-      "ts": "2026-06-27T14:27:34+00:00",
-      "title": "AI That Creates Beautiful Presentations - Quasa.io",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/beautiful-ai-ai-that-creates-beautiful-presentations&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1PqmRBwTT_JhieEnxV_Nwf",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17455568930685605264": {
       "ts": "2026-06-27T21:32:31+00:00",
       "title": "Rows Review: The Modern AI Spreadsheet Platform - Quasa.io",
@@ -67,13 +39,6 @@
       "ts": "2026-06-28T00:43:14+00:00",
       "title": "AI Models &amp; Versions - Zignuts Technolab",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://zignuts.com/ai-models&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0mHIoBpmh9iRLX1UWUNGnP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9767742368414747859": {
-      "ts": "2026-06-27T14:50:11+00:00",
-      "title": "Dnsregistration Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/dnsregistration/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0SpSDuIrMVqtvXP37hlvYc",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5648,6 +5613,55 @@
       "link": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
       "source": "Google DeepMind News",
       "big": true
+    },
+    "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/": {
+      "ts": "2026-07-21T00:00:00+00:00",
+      "title": "Scaling Agentic RL: High-Throughput Agentic Training with Tunix",
+      "link": "https://developers.googleblog.com/scaling-agentic-rl-high-throughput-agentic-training-with-tunix/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/": {
+      "ts": "2026-07-27T00:00:00+00:00",
+      "title": "Reimagining Independence: How Meta’s AI Models Are Helping the University of Pittsburgh Transform Assistive Robotics",
+      "link": "https://ai.meta.com/blog/assistive-robotics-university-of-pittsburgh-sam-dino/",
+      "source": "AI at Meta Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:850800079158566586": {
+      "ts": "2026-07-27T11:33:07+00:00",
+      "title": "7 Best Genspark AI Alternatives in 2026 for Agents, Research, and PPT - MyClaw",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/blog/genspark-ai-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw169zcRB7qiIVcGZnUEab3H",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7173110955544705396": {
+      "ts": "2026-07-27T11:18:38+00:00",
+      "title": "How to Use <b>Manus AI</b> as a GTM Agent in 2026 - Explorium",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.explorium.ai/blog/building-ai-agents/how-to-use-manus-ai-as-a-gtm-sales-agent-2026-guide-for-revops-teams/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0QHQOUZP3sL3WqbG8OqgNw",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8529631559581190265": {
+      "ts": "2026-07-27T08:53:42+00:00",
+      "title": "<b>Manus AI</b> Review: Features, Use Cases, and Best Alternative - Pippit AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.pippit.ai/resource/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2r90oeMx77Cn5x1iN0vvKX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2635614594170989746": {
+      "ts": "2026-07-27T04:40:07+00:00",
+      "title": "How I Migrated 6 Skills From <b>Manus AI</b> to a Self-Hosted OpenClaw VPS - devglan",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.devglan.com/local/p/i70c8p2n-34768&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NMIwbL5QYA4hz5dB0yVq_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6218199553647576168": {
+      "ts": "2026-07-27T04:24:52+00:00",
+      "title": "The 5 Best Town.com alternatives in 2026 | Saner.AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.saner.ai/blogs/best-town-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LsvGrI5mb8ouNicUaoOGZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-07-27"
