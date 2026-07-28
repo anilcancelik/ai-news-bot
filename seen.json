@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:10636672071765192389": {
-      "ts": "2026-06-28T08:24:07+00:00",
-      "title": "Free Cloud &amp; API Credits - Resourify",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://resourify.com/category/credits&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3dh_r6WyW76kKWGiq-X31V",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9534401090524010113": {
       "ts": "2026-06-28T11:05:31+00:00",
       "title": "2026 Must-Have AIs: ChatGPT: Do anything Perplexity: Fastest research ✍️ Claude ... - Facebook",
@@ -53,13 +46,6 @@
       "ts": "2026-06-28T12:55:38+00:00",
       "title": "Breach of Confidence — 26 June 2026 - Security Boulevard",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://securityboulevard.com/2026/06/breach-of-confidence-26-june-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw219Yu0TSZscCkC7lHjcYRX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13228359539188107371": {
-      "ts": "2026-06-28T07:52:38+00:00",
-      "title": "Fotor: AI Photo Editor &amp; Image Generator. - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/fotor-ai-photo-editor-image-generator&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10Js84gnNwKgbxF0nM4YL8",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5683,7 +5669,14 @@
       "link": "https://cursor.com/blog/cursor-start",
       "source": "Cursor Blog",
       "big": true
+    },
+    "https://cursor.com/blog/cursor-start-india": {
+      "ts": "2026-07-28T12:00:00+00:00",
+      "title": "Introducing Cursor Start",
+      "link": "https://cursor.com/blog/cursor-start-india",
+      "source": "Cursor Blog",
+      "big": true
     }
   },
-  "last_digest_date": "2026-07-27"
+  "last_digest_date": "2026-07-28"
 }
