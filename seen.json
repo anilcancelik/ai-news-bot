@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:12627333705314150739": {
-      "ts": "2026-06-29T18:48:03+00:00",
-      "title": "Business Coach for Online Trainers | Follow @therealbrianmark for more value   Comment ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaLhFFczUC2/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-RIa9xx-htwghTO_PmcLv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4626301085382701372": {
-      "ts": "2026-06-29T19:22:03+00:00",
-      "title": "The best AI apps for 2026** **General Assistants** Claude • ChatGPT",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/sustainme_in/status/2071661959255405013&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0t2oBRsdo6Ho7wEPV70T7X",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:618142016972768331": {
       "ts": "2026-06-29T20:41:48+00:00",
       "title": "便利すぎる #pr #<b>manus #ai</b> #aitools #aiツール - YouTube",
@@ -32,13 +18,6 @@
       "ts": "2026-06-30T00:00:37+00:00",
       "title": "Comment &quot;Ai&quot; and I'll send over the links + my 100 favorite AI tools list 5 AI websites ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaMFZ93uaYc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zquFlJeyd3QpQcuX_k7MQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9026666565708726168": {
-      "ts": "2026-06-29T18:58:23+00:00",
-      "title": "<b>Manus AI</b> migrated over a million database tenants to TiDB in roughly two weeks. Not a ... - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pingcap_manus-ai-migrated-over-a-million-database-activity-7477423831846961152-GKsm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw226aAmEwtZyvynLlYovCK5",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -130,13 +109,6 @@
       "ts": "2026-06-30T13:01:08+00:00",
       "title": "React / Next.js Developer – B2B Website Rebuild (SEO + CRO) - Vibehackers",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://vibehackers.io/jobs/react-nextjs-developer-b2b-website-rebuild-seo-cro-platinum-finishing-systems&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Tw4_50E76Hnkrq3mhA0jh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16386567315464048596": {
-      "ts": "2026-06-29T19:26:25+00:00",
-      "title": "project deadline? No problem with <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/AK7TV2HIxgE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wfgSAFkLaZzHe73nZxBDB",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5598,6 +5570,13 @@
       "title": "Manus pozajmice - egfcefehhmez.club",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://egfcefehhmez.club/qtivtbloympqbegrildzerginmpppnj&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uAJ38Uft84WB-7bz_4OD0",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency": {
+      "ts": "2026-07-29T00:00:00+00:00",
+      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "source": "OpenAI News",
       "big": false
     }
   },
