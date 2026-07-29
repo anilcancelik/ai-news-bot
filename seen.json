@@ -1,32 +1,11 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:12189166259577679909": {
-      "ts": "2026-06-29T01:51:57+00:00",
-      "title": "VEED Review: The Best All-in-One AI Video Editor for Creators - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/veed-review-the-best-all-in-one-ai-video-editor-for-creators&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0iGXtkoBOX2WOEUnZBW7l8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/mapping-ai-jobs-transition-eu": {
       "ts": "2026-06-29T07:00:00+00:00",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
       "source": "OpenAI News",
       "big": false
-    },
-    "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/": {
-      "ts": "2026-06-29T00:00:00+00:00",
-      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-      "link": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/",
-      "source": "AI at Meta Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-in-microsoft-foundry": {
-      "ts": "2026-06-29T00:00:00+00:00",
-      "title": "Claude in Microsoft Foundry is now generally available",
-      "link": "https://claude.com/blog/claude-in-microsoft-foundry",
-      "source": "Claude Blog",
-      "big": true
     },
     "https://cursor.com/blog/ios-mobile-app": {
       "ts": "2026-06-29T12:00:00+00:00",
@@ -104,13 +83,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaLhFFczUC2/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-RIa9xx-htwghTO_PmcLv",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "https://claude.com/blog/introducing-the-claude-apps-gateway": {
-      "ts": "2026-06-29T00:00:00+00:00",
-      "title": "Introducing the Claude apps gateway for Amazon Bedrock and Google Cloud",
-      "link": "https://claude.com/blog/introducing-the-claude-apps-gateway",
-      "source": "Claude Blog",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:13016011288222669340": {
       "ts": "2026-06-29T12:41:52+00:00",
@@ -418,13 +390,6 @@
       "title": "I Found a Secret AI App That Blew My Mind! - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dd_qVpbBJzWo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WY7RK1Iq9fNvG7MF0MBbk",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://ollama.com/blog/faster-gemma-4-mlx-mtp": {
-      "ts": "2026-06-29T00:00:00+00:00",
-      "title": "Faster Gemma 4 on MLX with multi-token prediction",
-      "link": "https://ollama.com/blog/faster-gemma-4-mlx-mtp",
-      "source": "Ollama Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:18422702719273794435": {
@@ -5660,6 +5625,13 @@
       "ts": "2026-07-28T22:49:11+00:00",
       "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 28, 2026 - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbWpcJ9jjBG/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3SBerrqf8VCSkp3GZhtBRF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6818643835724366145": {
+      "ts": "2026-07-28T23:14:29+00:00",
+      "title": "AI Agents Are Everywhere Now — Here's How to Actually Decide Which One to Trust",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://itsupplychain.com/ai-agents-are-everywhere-now-heres-how-to-actually-decide-which-one-to-trust/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2mI0AOpYv5t9zofBruG_nH",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
