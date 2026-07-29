@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/mapping-ai-jobs-transition-eu": {
-      "ts": "2026-06-29T07:00:00+00:00",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "link": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://cursor.com/blog/ios-mobile-app": {
       "ts": "2026-06-29T12:00:00+00:00",
       "title": "Build from anywhere with Cursor for iOS",
@@ -46,13 +39,6 @@
       "ts": "2026-06-29T10:19:18+00:00",
       "title": "I let Manus do all the work on my pitch deck... #<b>Manus #AI</b> #PowerPoint #ad - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/0FbFT8eki1s&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1AnEGZ9iVcaAZOiMBQclaK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4428099798448595697": {
-      "ts": "2026-06-29T07:18:32+00:00",
-      "title": "The Valerie - artificialintelligence #hackathon - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/valerie-the_artificialintelligence-hackathon-activity-7477156401727922176-Ty2A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Alu3lCWii6IogKR6y6cay",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5608,5 +5594,5 @@
       "big": false
     }
   },
-  "last_digest_date": "2026-07-28"
+  "last_digest_date": "2026-07-29"
 }
