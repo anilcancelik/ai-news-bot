@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:2625443893165958260": {
-      "ts": "2026-06-30T00:29:36+00:00",
-      "title": "excuse me?! <b>Manus AI</b> can do what now?! - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DbDMuW3LNGMc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2iEOddIOzWoirj-FLeUjwK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6923743270664370143": {
-      "ts": "2026-06-30T00:00:37+00:00",
-      "title": "Comment &quot;Ai&quot; and I'll send over the links + my 100 favorite AI tools list 5 AI websites ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaMFZ93uaYc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zquFlJeyd3QpQcuX_k7MQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6071943145299452337": {
-      "ts": "2026-06-30T01:30:27+00:00",
-      "title": "LMGi FacilityFix Pitch Video for <b>Manus Ai</b> Wasabi Learn Build Win Startup Project June 29th 2026",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/eEyZnBSDT2g&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3n-uE0LDBNR2sBKTl0X9RM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:18001985747762204097": {
       "ts": "2026-06-30T10:18:45+00:00",
       "title": "HOW TO USE <b>MANUS AI</b> - <b>MANUS AI</b> TUTORIAL (UPDATE 2026) - YouTube",
@@ -46,20 +25,6 @@
       "ts": "2026-06-30T02:52:25+00:00",
       "title": "I am the 1st to make Codex Control <b>Manus AI</b> Through an API — AI Agents Fixing Bugs Together #ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DDhwsz5HKrA0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Sg9XqCbttnC91xmpiO8Bd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14224248472378514118": {
-      "ts": "2026-06-30T01:48:22+00:00",
-      "title": "Lovable: Build Apps With AI - You Might Also Like",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/md/app/6757471107%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29U2UqCKguRkoksbB_-U0w",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1470030497919385341": {
-      "ts": "2026-06-30T01:05:35+00:00",
-      "title": "‎BUTTERFLY EFFECT PTE. LTD. for iPhone - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/jo/developer/butterfly-effect-pte-ltd/id1724709802%3Fplatform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WsuuSUxV9n1oIff0Lx-Tn",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -105,45 +70,10 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://www.anthropic.com/news/claude-science-ai-workbench": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Claude Science, an AI workbench for scientists, is now available",
-      "link": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "source": "Anthropic News",
-      "big": true
-    },
-    "https://claude.com/blog/getting-started-with-loops": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Getting started with loops",
-      "link": "https://claude.com/blog/getting-started-with-loops",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/how-chatgpt-adoption-has-expanded": {
       "ts": "2026-06-30T09:00:00+00:00",
       "title": "How ChatGPT adoption has expanded",
       "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/introducing-genebench-pro": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Introducing GeneBench-Pro",
-      "link": "https://openai.com/index/introducing-genebench-pro",
-      "source": "OpenAI News",
-      "big": true
-    },
-    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "link": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/genebench-pro/case-studies": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Inside Genebench-Pro",
-      "link": "https://openai.com/index/genebench-pro/case-studies",
       "source": "OpenAI News",
       "big": false
     },
@@ -152,20 +82,6 @@
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
       "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://developers.googleblog.com/announcing-adk-go-20/": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Build reliable multi-agent applications with ADK Go 2.0. Discover our new graph-based workflow engine, built-in human-in-the-loop, and dynamic orchestration",
-      "link": "https://developers.googleblog.com/announcing-adk-go-20/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Driving the Agent Quality Flywheel from Your Coding Agent",
-      "link": "https://developers.googleblog.com/driving-the-agent-quality-flywheel-from-your-coding-agent/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:17995666446576275387": {
@@ -209,13 +125,6 @@
       "link": "https://code.claude.com/docs/en/changelog#2-1-196",
       "source": "Claude Code changelog",
       "big": false
-    },
-    "https://www.anthropic.com/news/claude-sonnet-5": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Introducing Claude Sonnet 5",
-      "link": "https://www.anthropic.com/news/claude-sonnet-5",
-      "source": "Anthropic News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:12721769761149825344": {
       "ts": "2026-06-30T19:36:46+00:00",
@@ -271,13 +180,6 @@
       "title": "Zulfiqar Ahmed's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/zulfiqarahmed_well-after-3-weeks-of-trying-to-get-manus-activity-7477383839795900416-y_PG&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TXCjWww6HC0lJTyElMWjl",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/news/redeploying-fable-5": {
-      "ts": "2026-06-30T00:00:00+00:00",
-      "title": "Redeploying Fable 5",
-      "link": "https://www.anthropic.com/news/redeploying-fable-5",
-      "source": "Anthropic News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:6936767626932985465": {
@@ -5639,6 +5541,34 @@
       "ts": "2026-07-29T23:39:24+00:00",
       "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 29, 2026 - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbZUAnYgi6t/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nP7mHhyf_RBqDWm4R6SPU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11270090878564352706": {
+      "ts": "2026-07-29T23:59:37+00:00",
+      "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 29, 2026 - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbZWPNYEiyq/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2w11bdZ9q4fv5LcjWWdbfs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3090868229673669228": {
+      "ts": "2026-07-29T23:56:18+00:00",
+      "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 29, 2026 - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbZV-mVDnJc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1KFUv4ph_TtNNLZ28tz0rg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1410796577027492257": {
+      "ts": "2026-07-29T23:55:18+00:00",
+      "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 29, 2026 - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbZV16VDezI/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ezWzd7-NPJqkoC5ci876m",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2537655628067411084": {
+      "ts": "2026-07-29T23:53:11+00:00",
+      "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 29, 2026 - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbZVd14EhJP/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2QmCs2Be4bP4Q-vYUctyjc",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
