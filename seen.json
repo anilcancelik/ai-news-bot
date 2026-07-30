@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:13118498236474237546": {
-      "ts": "2026-06-30T13:23:31+00:00",
-      "title": "3. At the end of 2024, I decided to go all in on AI. Tried every single tool I could get my hands ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/jeditrinupab/status/2071927030397255987&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YSLQ_UVW1_UP6xDxpeNHB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7291755164464482590": {
-      "ts": "2026-06-30T13:17:19+00:00",
-      "title": "I Tried <b>Manus AI</b> in 2026… And I'm Not Doing My Own Work Anymore - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DW1L8y0xcumc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1C4pGP6wwDKWt6Ino4v92N",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9855896868375169639": {
-      "ts": "2026-06-30T13:07:17+00:00",
-      "title": "Let AI chatbots assist your business - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/au/iphone/story/id1892111837&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1EyWzzpPtD068LAQkkv5wN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8386407328579569114": {
-      "ts": "2026-06-30T13:01:08+00:00",
-      "title": "React / Next.js Developer – B2B Website Rebuild (SEO + CRO) - Vibehackers",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vibehackers.io/jobs/react-nextjs-developer-b2b-website-rebuild-seo-cro-platinum-finishing-systems&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Tw4_50E76Hnkrq3mhA0jh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": {
       "ts": "2026-06-30T16:02:40+00:00",
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
@@ -39,20 +11,6 @@
       "ts": "2026-06-30T16:01:24+00:00",
       "title": "Google's Gemini Omni Flash and Nano Banana 2 Lite support slick media content creation ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://siliconangle.com/2026/06/30/googles-gemini-omni-flash-nano-banana-2-lite-support-slick-media-content-creation-lower-costs/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jHjzDydo6HQ6IE8Y_vrJP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3842290720338628806": {
-      "ts": "2026-06-30T14:15:21+00:00",
-      "title": "Gemini vs <b>Manus AI</b> vs Claude: Which Is Best For Research? - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D84teX-1ngFk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jrujpCwsuug-1yA2Vjd2l",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8910647007688146519": {
-      "ts": "2026-06-30T12:25:10+00:00",
-      "title": "The Drop | How I rebuilt my brand this week. - BabicADesigns - The Balkanish AI Way",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.babicadesigns.blog/p/the-drop-how-i-rebuilt-my-brand-this&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_FB5dAVR6wVpwrS4tCpuK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
