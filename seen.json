@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/": {
-      "ts": "2026-06-30T16:02:40+00:00",
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "link": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17995666446576275387": {
-      "ts": "2026-06-30T16:01:24+00:00",
-      "title": "Google's Gemini Omni Flash and Nano Banana 2 Lite support slick media content creation ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://siliconangle.com/2026/06/30/googles-gemini-omni-flash-nano-banana-2-lite-support-slick-media-content-creation-lower-costs/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jHjzDydo6HQ6IE8Y_vrJP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "7a93225c056826b1": {
       "ts": "2026-06-30T18:47:17+00:00",
       "title": "2.1.197",
@@ -5492,6 +5478,55 @@
       "ts": "2026-07-29T22:12:56+00:00",
       "title": "<b>Manus AI</b> 개요 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/OP8d0vHcYUk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1I70LPeQL86TBE9nFXgZOk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/": {
+      "ts": "2026-07-30T15:00:59+00:00",
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "link": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/": {
+      "ts": "2026-07-28T13:21:37+00:00",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://cursor.com/blog/cloud-agent-environment": {
+      "ts": "2026-07-30T12:00:00+00:00",
+      "title": "How we set up our cloud agent environment",
+      "link": "https://cursor.com/blog/cloud-agent-environment",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7390489856683240878": {
+      "ts": "2026-07-30T15:33:44+00:00",
+      "title": "Stop designing anything with AI until you do this one thing! I used Re... - TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40nocode.joshua/video/7668059357879209223&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20ucIpnNMuNiO_QtpQEEVm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2146372037415237320": {
+      "ts": "2026-07-30T13:50:29+00:00",
+      "title": "Soo cute   . #ad #manuspartner #ai #vibecoding #explore - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dba1Xj2TyhD/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2m-Gba0Cy2No-Dox89XSPk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16184099571461929563": {
+      "ts": "2026-07-30T11:30:42+00:00",
+      "title": "Claude is good... but <b>Manus AI</b> is on another level. - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Sh6lRIA2tRc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3h5T1IPORR5kINBKffPfxc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16342322326774805031": {
+      "ts": "2026-07-30T02:20:30+00:00",
+      "title": "Compliance, During Development. Not After. | Neimo Inside <b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrwT8maK6ptk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0MgpTKLgXuoQ259gaP7v_x",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
