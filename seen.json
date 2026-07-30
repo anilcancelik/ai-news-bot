@@ -1,30 +1,9 @@
 {
   "seen": {
-    "7a93225c056826b1": {
-      "ts": "2026-06-30T18:47:17+00:00",
-      "title": "2.1.197",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-197",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "f4c9b9009e3e5466": {
-      "ts": "2026-06-30T18:47:17+00:00",
-      "title": "2.1.196",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-196",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12721769761149825344": {
       "ts": "2026-06-30T19:36:46+00:00",
       "title": "Similarweb (SMWB) Soars 10.4%: Is Further Upside Left in the Stock? - Yahoo Finance",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/markets/stocks/articles/similarweb-smwb-soars-10-4-181200279.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3p-nzfWzBDvw4xBIQ8AclT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3071632293886088145": {
-      "ts": "2026-06-30T18:14:51+00:00",
-      "title": "I Found a Secret AI App That Blew My Mind! - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dd_qVpbBJzWo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WY7RK1Iq9fNvG7MF0MBbk",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5535,6 +5514,20 @@
       "title": "How to use Google microbenchmarks for evaluating TPU performance",
       "link": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
       "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17211350238345434070": {
+      "ts": "2026-07-30T04:02:17+00:00",
+      "title": "Apple Creator Studio Alternatives — 12+ Best Options (2026) - Visalytica",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.visalytica.com/tool/apple-creator-studio/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0y4T226Y6A1cAg_eI-VQP0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18048432105238415356": {
+      "ts": "2026-07-30T01:06:50+00:00",
+      "title": "<b>Manus AI</b> تقييمات سلبية: ما يشتكي منه المستخدمون (Google Play) - Unstar.app",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://unstar.app/ar/app/tech.butterfly.app%3Fcountry%3Dkr%26platform%3Dandroid&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1iBWxKObH5VBcXrMKRUxte",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
