@@ -21,13 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13045442542810557740": {
-      "ts": "2026-06-30T17:47:17+00:00",
-      "title": "Ai Can Never Replace Your Creativity But it can only enhance what ... | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40effects_collins/video/7657235720855112974&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mIpMPd2v13oePQzyhT3ab",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3071632293886088145": {
       "ts": "2026-06-30T18:14:51+00:00",
       "title": "I Found a Secret AI App That Blew My Mind! - YouTube",
@@ -5528,6 +5521,20 @@
       "title": "Compliance, During Development. Not After. | Neimo Inside <b>Manus AI</b> - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrwT8maK6ptk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0MgpTKLgXuoQ259gaP7v_x",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
+      "ts": "2026-07-30T10:00:00+00:00",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/": {
+      "ts": "2026-07-30T00:00:00+00:00",
+      "title": "How to use Google microbenchmarks for evaluating TPU performance",
+      "link": "https://developers.googleblog.com/how-to-use-google-microbenchmarks-for-evaluating-tpu-performance/",
+      "source": "Google Developers Blog - AI",
       "big": false
     }
   },
