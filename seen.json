@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:2065359832854666646": {
-      "ts": "2026-07-01T09:59:30+00:00",
-      "title": "From Code Review to Dynamic Website: The Agentic AI Revolution - Meetup",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.meetup.com/en-au/perth-machine-learning-group/events/315098493/%3FrecId%3D2099e75f-a5fe-475e-8915-205266f01c67%26recSource%3Dml-popular-events-nearby-offline%26searchId%3D7d1877eb-9f8a-4393-9a76-6abe687aa6cc%26eventOrigin%3Dfind_page%2524all&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1tT4Y5zhaR7-RHIzrMrggq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15384663849625308361": {
-      "ts": "2026-07-01T09:13:05+00:00",
-      "title": "Excited to share I'll be joining as the Head of AI Experience for Istanbul Ignited by Slush'D ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/kaantaskent_excited-to-share-ill-be-joining-as-the-head-activity-7477809027473682433-taFf&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw204EmyDvIDfmSLF9a15ZHz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1567691761247601231": {
       "ts": "2026-07-01T13:02:48+00:00",
       "title": "Bee Network Price Prediction : <b>Manus AI</b> launch triggered - CoinGabbar",
@@ -5549,6 +5535,13 @@
       "title": "Open Source Alternatives to Clairetoclose (2026) | StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/clairetoclose/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1oZ74Zep7ZFSgW93eq59dz",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/unive": {
+      "ts": "2026-07-31T07:00:00+00:00",
+      "title": "Univé builds an AI-ready workforce",
+      "link": "https://openai.com/index/unive",
+      "source": "OpenAI News",
       "big": false
     }
   },
