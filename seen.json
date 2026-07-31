@@ -28,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:3303032801739491147": {
-      "ts": "2026-07-01T14:55:51+00:00",
-      "title": "Dnsswarmscheduler Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/dnsswarmscheduler/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rbt0VqMVDiMS0BLYIv204",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:8707555807963015870": {
       "ts": "2026-07-01T19:41:28+00:00",
       "title": "Meta is Opening a New Business Area Related To AI. Investors Are Elated. | IBTimes",
@@ -5520,6 +5513,13 @@
       "ts": "2026-07-31T07:00:00+00:00",
       "title": "Univé builds an AI-ready workforce",
       "link": "https://openai.com/index/unive",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/building-abundant-intelligence": {
+      "ts": "2026-07-31T15:00:00+00:00",
+      "title": "Building abundant intelligence",
+      "link": "https://openai.com/index/building-abundant-intelligence",
       "source": "OpenAI News",
       "big": false
     }
