@@ -70,13 +70,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:3936560845029533960": {
-      "ts": "2026-07-02T07:59:15+00:00",
-      "title": "Alan Chan's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/chanyinglunalan_still-buzzing-from-openai-founder-day-last-activity-7478337996996489216-nVui&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30Ub46Biiu4DGhgAvhGo2l",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9045524882807050666": {
       "ts": "2026-07-02T22:32:53+00:00",
       "title": "ChatGPT Claude Perplexity Syllaby CUT: Gemini Grok Manus NotebookLM Do you ... - Instagram",
@@ -88,13 +81,6 @@
       "ts": "2026-07-02T21:07:07+00:00",
       "title": "Claude/ <b>Manus AI</b> · The AI Advantage - Skool",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.skool.com/the-ai-advantage/claude-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jQMtuCySuTF0E2zwybWvO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9757235564127724652": {
-      "ts": "2026-07-02T06:21:24+00:00",
-      "title": "Claude Managed Agents Memory Alternatives — 12+ Best Options (2026) - Visalytica",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.visalytica.com/tool/claude-managed-agents-memory/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2N__-6PHWDS4Mv25L3kLTv",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -291,13 +277,6 @@
       "ts": "2026-07-03T20:38:40+00:00",
       "title": "Your comprehensive guide to using <b>Manus AI</b> (simplified explanation) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D7F-livRtCNg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05pGXCSmHGrHKhUDIddeZQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7613159991279135381": {
-      "ts": "2026-07-02T08:00:33+00:00",
-      "title": "Why Global AI Companies Are Hosting Events in Japan | Inside Manus &amp; Aqua Voice's 250+ ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://blog.btrax.com/manus-ai-event-japan/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0y38qLsRnPZNxZ-EwCYhnb",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5487,7 +5466,28 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/ai-advisors-ai/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OsBTpIqiJuW2Pm9hcbIIr",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/ten-advances-in-mathematics": {
+      "ts": "2026-08-01T00:00:00+00:00",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2157326955324854000": {
+      "ts": "2026-08-01T02:06:18+00:00",
+      "title": "HT AI Assistant — built with AI on Blink",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://blink.new/p/ht-ai-mobile-pl4a1nnb&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3V9rXL3BDu6PsdtWurC75L",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15617079419293394298": {
+      "ts": "2026-07-31T19:26:12+00:00",
+      "title": "Why Decagon Runs 90 Percent of Its Enterprise AI on Open Source - StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/ai-news/artificial-intelligence/2026/why-decagon-runs-90-percent-of-its-enterprise-ai-on-open-source&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3odJy8JoM6zvTTD7faiwYT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-07-31"
+  "last_digest_date": "2026-08-01"
 }
