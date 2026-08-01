@@ -1,19 +1,5 @@
 {
   "seen": {
-    "5d0d79aa2d59ac3e": {
-      "ts": "2026-07-02T00:31:39+00:00",
-      "title": "2.1.198",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-198",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend": {
-      "ts": "2026-07-02T00:00:00+00:00",
-      "title": "Giving admins more visibility and control over Claude spend",
-      "link": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-      "source": "Claude Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:115334713497103145": {
       "ts": "2026-07-02T13:30:27+00:00",
       "title": "Best AI Tools For Productivity, Content &amp; Research In 2026 - YouTube",
@@ -105,13 +91,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:2148248244044264598": {
-      "ts": "2026-07-02T02:37:40+00:00",
-      "title": "Super excited about this one: Mobbin is now an official integration on <b>Manus AI</b>! | Jian Jie Liau",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/liaujianjie_super-excited-about-this-one-mobbin-is-now-activity-7478269245332692992-w73W&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3fdgpRTHvNG34MHNov6bSD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9045524882807050666": {
       "ts": "2026-07-02T22:32:53+00:00",
       "title": "ChatGPT Claude Perplexity Syllaby CUT: Gemini Grok Manus NotebookLM Do you ... - Instagram",
@@ -138,20 +117,6 @@
       "title": "2.1.199",
       "link": "https://code.claude.com/docs/en/changelog#2-1-199",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "f7c9bae6ac2c60ee": {
-      "ts": "2026-07-02T00:31:39+00:00",
-      "title": "2.1.198",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-198",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework": {
-      "ts": "2026-07-02T00:00:00+00:00",
-      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-      "link": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "source": "Anthropic News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:12481174037751349338": {
@@ -5527,6 +5492,13 @@
       "ts": "2026-07-31T16:28:03+00:00",
       "title": "How to Create a Portfolio Website in <b>Manus AI</b> - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3Dtk84bgDB0ME&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1IM45DvgDvsIgIJhrmEKc1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8023451703670484246": {
+      "ts": "2026-07-31T11:46:13+00:00",
+      "title": "AI-Advisors.ai Alternatives &amp; Competitors (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/ai-advisors-ai/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OsBTpIqiJuW2Pm9hcbIIr",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
