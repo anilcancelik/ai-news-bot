@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:18169288329410800648": {
-      "ts": "2026-07-04T21:47:57+00:00",
-      "title": "Ask AI Chat Anything - ASOSpy",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://asospy.com/app/details/com.chatbot.ai.aichat.openaibot.chat/AI-Chat-Ask-AI-Chat-Anything&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Vxrdz9r7kIgUbnnL0eHsr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5524122762105107154": {
       "ts": "2026-07-05T00:21:28+00:00",
       "title": "An AI I've used for basically everything! #ai #entrepreneur #manus #manuspartner - Instagram",
@@ -5339,6 +5332,13 @@
       "title": "How we built a realtime system for responsive voice AI in six months",
       "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11078209132549998717": {
+      "ts": "2026-08-03T21:36:33+00:00",
+      "title": "AI summary features are getting out of hand #ryanreviews #gmail #aisummaries #ai #tech",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/realryankennedy/videos/ai-summary-features-are-getting-out-of-hand-ryanreviews-gmail-aisummaries-ai-tec/1569496821575655/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NM7rFMdfuWLZpFvfCdfGZ",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
