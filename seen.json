@@ -5333,6 +5333,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DblouD_iqUJ/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gCz9s3RWaooD7e9J6ZODi",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live": {
+      "ts": "2026-08-03T07:00:00+00:00",
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI News",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-03"
