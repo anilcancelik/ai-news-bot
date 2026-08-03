@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:13587413406370047079": {
-      "ts": "2026-07-04T18:34:14+00:00",
-      "title": "AI citations are useful, but they do not automatically mean leads, sal... - TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40nico_airanking/video/7658742229606862101&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2mTVEsWmOuW_hgAXzFB_Me",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17072320272283787255": {
-      "ts": "2026-07-04T18:32:41+00:00",
-      "title": "Tesla limits employee AI spending (TSLA:NASDAQ) - Seeking Alpha",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://seekingalpha.com/news/4611500-tesla-limits-employee-ai-spending&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uOhoJgOaGGMadGUxSY6-h",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3226069081742144492": {
       "ts": "2026-07-04T22:43:27+00:00",
       "title": "This stack will save you 50+ hours   - Instagram",
@@ -5331,6 +5317,20 @@
       "ts": "2026-08-03T12:05:51+00:00",
       "title": "These 20 FREE AI tools save me 20+ hours every week:   1. https://t.co/Mja5ptr1mT - writing",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/tom_brando82808/status/2084135428198646013&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xFc0Hq51u7ohnVWrTTjZR",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/": {
+      "ts": "2026-08-03T00:00:00+00:00",
+      "title": "Scaling real-time AI agents with session-aware load balancing",
+      "link": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3832890807325811094": {
+      "ts": "2026-08-03T18:30:38+00:00",
+      "title": "I'm pleased to share the latest edition of Dinis Guarda ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DblouD_iqUJ/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gCz9s3RWaooD7e9J6ZODi",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
