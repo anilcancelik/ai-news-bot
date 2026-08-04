@@ -7,20 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:1142960997994955926": {
-      "ts": "2026-07-05T16:06:34+00:00",
-      "title": "Stop Trading Time for Tasks (<b>Manus AI</b> Agent) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/-CvkaNJ28p8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0lB2yXc-ZqL9I7SB226XF1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8113976265154597626": {
-      "ts": "2026-07-05T15:36:45+00:00",
-      "title": "Ye AI Sirf Chat Nahi Karta... Puri Travel Website Bana Deta Hai! ✈️ | <b>Manus AI</b> #Shorts",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DONoGBqkcZuo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3spAlE44wH3sC5SkKP5NYu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5735790866689835725": {
       "ts": "2026-07-05T20:30:30+00:00",
       "title": "Your AI subscriptions are bleeding you. Here is the audit that shows y... | TikTok",
@@ -5395,6 +5381,48 @@
       "title": "Mixture-of-Kittens: our open-source MoE megakernel for NVL72s",
       "link": "https://cursor.com/blog/mixture-of-kittens",
       "source": "Cursor Blog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/tino-cuellar": {
+      "ts": "2026-08-04T00:00:00+00:00",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "link": "https://www.anthropic.com/news/tino-cuellar",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/learn-teach-chatgpt-work-codex": {
+      "ts": "2026-08-04T00:00:00+00:00",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/": {
+      "ts": "2026-08-04T00:00:00+00:00",
+      "title": "A unified API for AI model routing",
+      "link": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7958078620211240392": {
+      "ts": "2026-08-04T15:29:45+00:00",
+      "title": "Manus users: What are your best ways to save credits? : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1vfap7g/manus_users_what_are_your_best_ways_to_save/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WnPMcBhoKCV2JFu6SOiy1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16544262682779683524": {
+      "ts": "2026-08-04T15:07:37+00:00",
+      "title": "Day 29 of AI LA SAMBHAVAM . . AI for web search, research, data scraping . . #firecrawl #aivideo #ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dbn2IO4x1yw/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ZxibDcTDuUMLtGZIB-v66",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13424173215074699402": {
+      "ts": "2026-08-04T14:26:05+00:00",
+      "title": "1 AI Tool Every Day Quick &amp; Practical Demos Create Better Content Faster Save Time ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbnwiLyAPJy/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RBlnca_J4EMNR_JiXpVEl",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
