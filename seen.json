@@ -5424,6 +5424,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/mumbaiheritage/status/2084594827241607312&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2KiH99ATSviHryrjtClc0C",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
+      "ts": "2026-08-04T19:00:00+00:00",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "source": "OpenAI News",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-04"
