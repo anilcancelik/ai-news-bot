@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5524122762105107154": {
-      "ts": "2026-07-05T00:21:28+00:00",
-      "title": "An AI I've used for basically everything! #ai #entrepreneur #manus #manuspartner - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaWD2v6CZer/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw203PiIg6uXkKrbHGeHFpJq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14469374881624699875": {
       "ts": "2026-07-05T17:46:43+00:00",
       "title": "<b>Manus AI</b> Just Changed Everything - YouTube",
@@ -5359,6 +5352,34 @@
       "ts": "2026-08-03T17:40:55+00:00",
       "title": "<b>Manus AI</b>, Agent Skills, OpenClaw, and more: Part 2",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/issues/2026/aug/manus-ai-agent-skills-openclaw-and-more-part-2/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3fIQuzSm1nPS3gYEI6_crv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "9d582cb124764041": {
+      "ts": "2026-08-04T00:20:49+00:00",
+      "title": "2.1.221",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-221",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/circles": {
+      "ts": "2026-08-03T00:00:00+00:00",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "link": "https://openai.com/index/circles",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16210458903308239194": {
+      "ts": "2026-08-03T22:22:33+00:00",
+      "title": "Here are the Top 50 Most Used AI Tools in 2026 across writing, coding, design, video ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/tec_aryan/status/2084366456884736337&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2W5n4RZj3Ip4i7z3QMmDdv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13382943221361430717": {
+      "ts": "2026-08-03T09:09:58+00:00",
+      "title": "Perplexity vs You.com: Best Free AI Search Engine - Nexoda Tech",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nexodatech.com/perplexity-vs-you-com-free-ai-search/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nYZ1ZmjauOwK0sBZcMOYk",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
