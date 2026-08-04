@@ -28,20 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:14145502401460518141": {
-      "ts": "2026-07-05T06:49:04+00:00",
-      "title": "Open Source Alternatives to Polyengine (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/polyengine/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Xajbv_EydCwfJCroY57I_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13426083939824275570": {
-      "ts": "2026-07-05T06:47:09+00:00",
-      "title": "Open Source Alternatives to Blackconsultant (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/blackconsultant/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gIb_4YqunYEwvKjaTWCtp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5735790866689835725": {
       "ts": "2026-07-05T20:30:30+00:00",
       "title": "Your AI subscriptions are bleeding you. Here is the audit that shows y... | TikTok",
@@ -88,13 +74,6 @@
       "ts": "2026-07-06T00:06:00+00:00",
       "title": "5 free AI courses that give you an actual certificate for your resume ... - TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40nocode.joshua/video/7659045807852719367&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Usqsc-U5DmWt5SRWu2Tz4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3538886510994513327": {
-      "ts": "2026-07-05T06:47:02+00:00",
-      "title": "Open Source Alternatives to Ospera (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/ospera/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0-x73YjY5wf_TIOaYwCRdA",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5375,7 +5354,35 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://humatron.ai/build/guide/cursor&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0PXlUnMw8-Me4T0pC9hOvd",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/apple-is-getting-this-wrong": {
+      "ts": "2026-08-03T22:00:00+00:00",
+      "title": "Apple is getting this wrong",
+      "link": "https://openai.com/index/apple-is-getting-this-wrong",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16017412341554467499": {
+      "ts": "2026-08-04T04:54:04+00:00",
+      "title": "Dont go anywhere near <b>Manus AI</b> : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1vewnwe/dont_go_anywhere_near_manus_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-P2c1XFavSLrbCCX1lJz1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15544934507325458592": {
+      "ts": "2026-08-04T04:42:26+00:00",
+      "title": "Retell AI Tutorial (2026) | How to Build a Voice AI Agent &amp; Automate Calls - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMzcLm2X2emU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jf8h8QJkalyv5stI6VdpW",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6951317378015519499": {
+      "ts": "2026-08-03T18:32:00+00:00",
+      "title": "Google's AI assistant can &quot;use your logged-in accounts and saved passwords to handle ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Engadget/posts/googles-ai-assistant-can-use-your-logged-in-accounts-and-saved-passwords-to-hand/1582955800165776/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J5A_1cV9-xNiCut1SBpVu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-08-03"
+  "last_digest_date": "2026-08-04"
 }
