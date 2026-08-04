@@ -21,13 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6854613985791099782": {
-      "ts": "2026-07-05T14:29:41+00:00",
-      "title": "Manago AI shifts to agentic marketing automation for ecommerce - ContentGrip",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.contentgrip.com/manago-ai-agentic-marketing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1PORciGklQwAJPJ2Ap2G7S",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5735790866689835725": {
       "ts": "2026-07-05T20:30:30+00:00",
       "title": "Your AI subscriptions are bleeding you. Here is the audit that shows y... | TikTok",
@@ -39,13 +32,6 @@
       "ts": "2026-07-05T18:44:52+00:00",
       "title": "Comment &quot;MANUS&quot; and I'll send you the link Trip planning gets messy fast. Google Maps, TikTok sa",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/lXDa9qgtJP4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0yJq_9eke8kVW-ZSQ4pR16",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18372831271291505342": {
-      "ts": "2026-07-05T13:32:03+00:00",
-      "title": "AI Employee Trainer/Manager (Junior Analyst to Senior IC) - Banger Ideas",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bangerideas.com/ideas/vBgU5iWt-kQ-5-ai-employee-trainer-manager-junior-analyst-to-senior-ic&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rXIERLN1DfiOqQKUsQELt",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5402,6 +5388,13 @@
       "title": "ChatGPT is Useless for This? <b>Manus AI</b> Says Otherwise #shorts #AI #Tech - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/mwFNlyS6RYg%3Fvl%3Dru&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Bq7Lrj8kvgJ1Jccxof2II",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://cursor.com/blog/mixture-of-kittens": {
+      "ts": "2026-08-04T12:00:00+00:00",
+      "title": "Mixture-of-Kittens: our open-source MoE megakernel for NVL72s",
+      "link": "https://cursor.com/blog/mixture-of-kittens",
+      "source": "Cursor Blog",
       "big": false
     }
   },
