@@ -1,30 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5740347088109918910": {
-      "ts": "2026-07-06T18:12:25+00:00",
-      "title": "Visaworker Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/visaworker/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-mvahEBxeERzgfaoQgDye",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16773184914393338583": {
-      "ts": "2026-07-06T18:12:23+00:00",
-      "title": "Bihand Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/bihand/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0j68IBrRLiX9mBLEQ3OV76",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5864565025845375621": {
       "ts": "2026-07-06T18:29:23+00:00",
       "title": "Yash Mukesh's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/yash-mukesh-ai_manusai-manusfellow-bharatbuildswithmanusai-activity-7479537044914921472-LAUf&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0uFNlHKo7OQKtBEEyOzvqP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3098905760590548202": {
-      "ts": "2026-07-06T17:30:26+00:00",
-      "title": "SK Hynix Is Seeking To Capitalize The AI Boom Through One of The Biggest Tech Listings Ever",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/sk-hynix-seeking-capitalize-ai-boom-through-one-biggest-tech-listings-ever-3804976&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gnqiTVvCxfgMfPDvq22_g",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5423,6 +5402,13 @@
       "title": "Landing Page Expert (AI-Powered Direct Response) - DTC Agency (Remote) - Paired",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/ae/jobs/landing-page-expert-ai-powered-direct-response-dtc-agency-remote-paired-dubai--talent-628159799831561217&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2UrqCC81aWxt5acTV2KZra",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/claude-enterprise-inference-hooks": {
+      "ts": "2026-08-05T00:00:00+00:00",
+      "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
+      "link": "https://claude.com/blog/claude-enterprise-inference-hooks",
+      "source": "Claude Blog",
       "big": false
     }
   },
