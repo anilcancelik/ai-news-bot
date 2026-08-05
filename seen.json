@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5864565025845375621": {
-      "ts": "2026-07-06T18:29:23+00:00",
-      "title": "Yash Mukesh's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/yash-mukesh-ai_manusai-manusfellow-bharatbuildswithmanusai-activity-7479537044914921472-LAUf&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0uFNlHKo7OQKtBEEyOzvqP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10983718891371463585": {
-      "ts": "2026-07-06T18:46:50+00:00",
-      "title": "Agent Loop Explained in 4 Minutes | <b>Manus AI</b> Example - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DyYahldKCyj0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ksBEH_n3FQT6R2FQujveq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "190cba13b139ec38": {
       "ts": "2026-07-07T00:29:48+00:00",
       "title": "2.1.202",
@@ -32,13 +18,6 @@
       "ts": "2026-07-06T22:59:07+00:00",
       "title": "Comment “Manus” for 1000 credits for FREE @manus #ad #ManusAI #<b>Manus #AI</b> #AIAgent",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaeA8-POeTw/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3k9cI0TpFsr-KT28EJ3J1E",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17845921410160518319": {
-      "ts": "2026-07-06T19:34:36+00:00",
-      "title": "Don't build and sell ai websites if you don't know how to build websit... | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40rakos.media/video/7659500289724075278&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0V3ETO72j3p4yb-WAVxMER",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5409,6 +5388,13 @@
       "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
       "link": "https://claude.com/blog/claude-enterprise-inference-hooks",
       "source": "Claude Blog",
+      "big": false
+    },
+    "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/": {
+      "ts": "2026-08-05T00:00:00+00:00",
+      "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
+      "link": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
+      "source": "Google Developers Blog - AI",
       "big": false
     }
   },
