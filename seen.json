@@ -21,20 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:141325692195827037": {
-      "ts": "2026-07-07T13:51:44+00:00",
-      "title": "Why Nvidia's NemoClaw signals the true enterprise agent era - TechRadar",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techradar.com/pro/why-nvidias-nemoclaw-signals-the-true-enterprise-agent-era&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17R-_uAwzM4E24WPBkDF-N",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7250940800433074527": {
-      "ts": "2026-07-07T14:34:30+00:00",
-      "title": "Samsung Posted 1800% Profit Surge. But AI Spending Fears Sent Shares Tumbling Anyway",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/samsung-posted-1800-profit-surge-ai-spending-fears-sent-shares-tumbling-anyway-3805018&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Z0gg9C-Zs8zISA2upHh14",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1581636343386739067": {
       "ts": "2026-07-07T20:18:28+00:00",
       "title": "<b>Manus AI</b> 101 Welcome Video - YouTube",
@@ -5304,6 +5290,41 @@
       "title": "Millennium and Anthropic are building a digital risk analyst with Claude",
       "link": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
       "source": "Claude Blog",
+      "big": false
+    },
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": {
+      "ts": "2026-08-06T15:06:15+00:00",
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://cursor.com/blog/how-cursor-router-works": {
+      "ts": "2026-08-06T12:00:00+00:00",
+      "title": "How Cursor Router chooses the right model for the task",
+      "link": "https://cursor.com/blog/how-cursor-router-works",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14623250237714352948": {
+      "ts": "2026-08-06T13:34:28+00:00",
+      "title": "Here's how I set up my AI workflow to save me hours every morning on r... | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40vincentchanco/video/7670907838952344854&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0wkEf1pBO4ksZldgVX7Pz4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:645543910324574060": {
+      "ts": "2026-08-06T13:22:17+00:00",
+      "title": "Here's how I set up my AI workflow to save me hours every morning on research and news ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbszaxKRYlz/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2FN0DhHzfWDHlK_dke2lpp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13369408379170746705": {
+      "ts": "2026-08-06T07:10:35+00:00",
+      "title": "Manus Alternative: From AI Agents to AI Workflows - Kuse",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kuse.ai/compare/manus-alternative&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0oV6tBY0Q4mGfQrrciI8aq",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
