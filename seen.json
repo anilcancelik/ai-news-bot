@@ -14,31 +14,10 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8334628456132722214": {
-      "ts": "2026-07-08T03:28:23+00:00",
-      "title": "All-in-One AI Tool | AI Agent | Automation &amp; Website Builder | July 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DFxAj3M_3v6A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0y7V0JVIIM5fpdAM-ICMcF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18030502345616906704": {
-      "ts": "2026-07-08T03:04:30+00:00",
-      "title": "Manus vs Claude: Which AI Agent Should You Use? - MyClaw",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/blog/manus-vs-claude&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cw8EX8Mep3_0YowoARBf5",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4451925036248241289": {
       "ts": "2026-07-08T08:50:52+00:00",
       "title": "Comment “tool” &amp; I'll send you the link!! I found Anuma when I was dealing with the very ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DahoqO6pns3/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_ba6sPmjP1iNDkjNVIktG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8261685500728349912": {
-      "ts": "2026-07-08T01:16:51+00:00",
-      "title": "<b>Manus AI</b> Tutorial: The AI Agent That Actually Gets Work Done - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D5Mln1OxgzkU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0B5IcYd5Vb1_6Zn44wpHcA",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5311,6 +5290,13 @@
       "title": "This AI Tool Works Like A $300,000 McKinsey Consultant Brock Rechsteiner (jCNtEh09jC)",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://mshale.com/68d113fc/6b2f0d70CAVaJlwtbCQnWA4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3y_ZJfILxYV1R-Z-hUKOFD",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards": {
+      "ts": "2026-08-07T00:00:00+00:00",
+      "title": "Improving Fable 5's biology safeguards",
+      "link": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "source": "Anthropic News",
       "big": false
     }
   },
