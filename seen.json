@@ -1,19 +1,5 @@
 {
   "seen": {
-    "dcacadb16de445eb": {
-      "ts": "2026-07-08T06:51:58+00:00",
-      "title": "2.1.204",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-204",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "c98549b6501f7f19": {
-      "ts": "2026-07-08T06:51:58+00:00",
-      "title": "2.1.203",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-203",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4451925036248241289": {
       "ts": "2026-07-08T08:50:52+00:00",
       "title": "Comment “tool” &amp; I'll send you the link!! I found Anuma when I was dealing with the very ... - Instagram",
@@ -5298,7 +5284,35 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/UgkxwFl4okTTIOMDxIn3_tmURYLQdmYhyoMR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1KSInek3AEBzZy5eIRRSdU",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute": {
+      "ts": "2026-08-06T00:00:00+00:00",
+      "title": "Run Claude Code sessions on your own compute",
+      "link": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12818170381305565732": {
+      "ts": "2026-08-07T03:01:57+00:00",
+      "title": "Runner Lindy Genspark AI Manus ChatGPT Agent Comment &quot;AGENT&quot; and I'll send ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dbs_oIgCDzf/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39mEjCDKRJAVFXjHLanmvn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12198852819618293281": {
+      "ts": "2026-08-07T01:37:14+00:00",
+      "title": "I Tested <b>Manus AI</b> for Faith-Based Products (Results Shocked Me) #ai #faithbusiness #testing",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/TmZCt_KNLkU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nYnlo30YMVcZnOB7tb4mt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9968527363198835182": {
+      "ts": "2026-08-06T17:53:48+00:00",
+      "title": "<b>Manus AI</b> Tutorial: Turn Research Into Reports and Slides - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D0N92Cqr-E0I%26vl%3Did&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2XRl9R3UjvgBP9bTV9-390",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-08-06"
+  "last_digest_date": "2026-08-07"
 }
