@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:5191819288180099953": {
-      "ts": "2026-07-08T19:07:32+00:00",
-      "title": "<b>Manus AI</b> Vs Claude (Full Comparison 2026) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DFhQHYnbs_3c&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3CkR5VNwAzLnWmuN1uykPt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17595710903849033185": {
       "ts": "2026-07-08T21:44:24+00:00",
       "title": "Open Source Alternatives to Betheceo (2026) | StartupHub.ai",
@@ -144,13 +137,6 @@
       "ts": "2026-07-08T22:52:33+00:00",
       "title": "AI Automation Architect - Boomering Inc - BeBee",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/ph/jobs/ai-automation-architect-boomering-inc-angeles-city--techmap_ph_622640000068949368&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0JIIZa0WXNC7HwdFuYJHUx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5192360201149849416": {
-      "ts": "2026-07-08T19:07:35+00:00",
-      "title": "#tidb #agenticai #manus #databasemigration #contextengineering | TiDB, powered by PingCAP",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pingcap_tidb-agenticai-manus-activity-7480667043856285696-lvAI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RWryTqWyPur-RGwCnO2mZ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5248,6 +5234,27 @@
       "title": "Responding to the next frontier of critical cyber capabilities",
       "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
       "source": "OpenAI News",
+      "big": false
+    },
+    "https://claude.com/blog/auto-mode-in-production": {
+      "ts": "2026-08-07T00:00:00+00:00",
+      "title": "Running auto mode in production",
+      "link": "https://claude.com/blog/auto-mode-in-production",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/auto-mode-default-in-claude-code": {
+      "ts": "2026-08-07T00:00:00+00:00",
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "link": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9731343701972122272": {
+      "ts": "2026-08-07T12:59:59+00:00",
+      "title": "AI | Calm Agent",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.calmagent.com/t/ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3f17y8CMtkvJ4A9NlImXv3",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
