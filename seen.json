@@ -168,13 +168,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:15433384413724511362": {
-      "ts": "2026-07-08T17:16:43+00:00",
-      "title": "How to Grow Your YouTube Channel Faster (Simple Strategy) STEP BY STEP TUTORIAL",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/13xcO02BgrY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10xGPypJ7BfEeUeoODVUhW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot": {
       "ts": "2026-07-09T13:00:00+00:00",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
@@ -5262,6 +5255,13 @@
       "title": "I Used <b>Manus AI</b> To Build a Mario Kart Game (No Coding Required) - Invidious",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://invidious.logicism.tv/watch%3Fv%3D7-euUuMrUlk%26listen%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33OF-ihXAM4aX31z9J8cOH",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
+      "ts": "2026-08-07T15:20:00+00:00",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI News",
       "big": false
     }
   },
