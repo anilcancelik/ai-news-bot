@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4451925036248241289": {
-      "ts": "2026-07-08T08:50:52+00:00",
-      "title": "Comment “tool” &amp; I'll send you the link!! I found Anuma when I was dealing with the very ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DahoqO6pns3/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_ba6sPmjP1iNDkjNVIktG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5707883580356206453": {
       "ts": "2026-07-08T13:46:46+00:00",
       "title": "Google just dropped an AI Agent Builder with hundreds of pre-built tem... - TikTok",
@@ -67,13 +60,6 @@
       "ts": "2026-07-08T13:06:20+00:00",
       "title": "Stop Using ChatGPT for Everything! Meet <b>Manus AI</b> | AI Series Ep. 2 #shorts - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/UWIj1w5A_Ag&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw133O5WETh2mPhAbJ1UcmTr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2708703618680076225": {
-      "ts": "2026-07-08T08:55:51+00:00",
-      "title": "Lansing AI Lab - Meetup",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.meetup.com/ko-kr/ai-lab-workshop-greater-lansing/%3FeventOrigin%3Dcity_popular_groups&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2j1zfOW4veYuV9EFmgFtnK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5310,6 +5296,27 @@
       "ts": "2026-08-07T03:08:59+00:00",
       "title": "Science &amp; Technology Archives - Page 9 of 54 - Modern Diplomacy",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/category/tech-innovation/science-technology/page/9/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ZLpNy2hHEaTGWSAVyvmmp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/hsp-gruppe": {
+      "ts": "2026-08-07T09:00:00+00:00",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5127815308944472823": {
+      "ts": "2026-08-07T05:33:11+00:00",
+      "title": "anyone tried to compare manus vs claude - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/claudecommunity/posts/1082582227615775/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2vJbrFyU8PX6Yc2g5pZzka",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16124596632061851666": {
+      "ts": "2026-08-06T19:09:44+00:00",
+      "title": "Meta puts an AI agent in every chat - Mariano De Vitto",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://marianodevitto.com/blog/meta-ai-agent-every-chat/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03Fk8dm-TRR-kV4PaehmO9",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
