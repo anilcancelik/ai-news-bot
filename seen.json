@@ -7,41 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://www.anthropic.com/news/reflect-with-claude": {
-      "ts": "2026-07-09T00:00:00+00:00",
-      "title": "Introducing a way to reflect on how you use Claude",
-      "link": "https://www.anthropic.com/news/reflect-with-claude",
-      "source": "Anthropic News",
-      "big": true
-    },
-    "https://ollama.com/blog/all-aboard-open-models": {
-      "ts": "2026-07-09T00:00:00+00:00",
-      "title": "Ollama: all aboard open models",
-      "link": "https://ollama.com/blog/all-aboard-open-models",
-      "source": "Ollama Blog",
-      "big": false
-    },
-    "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/": {
-      "ts": "2026-07-09T00:00:00+00:00",
-      "title": "Introducing Muse Spark 1.1",
-      "link": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "source": "AI at Meta Blog",
-      "big": true
-    },
-    "https://www.anthropic.com/news/ben-bernanke": {
-      "ts": "2026-07-09T00:00:00+00:00",
-      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
-      "link": "https://www.anthropic.com/news/ben-bernanke",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://www.anthropic.com/news/hard-questions": {
-      "ts": "2026-07-09T00:00:00+00:00",
-      "title": "Inviting hard questions",
-      "link": "https://www.anthropic.com/news/hard-questions",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
       "ts": "2026-07-09T10:00:00+00:00",
       "title": "ChatGPT is now a partner for your most ambitious work",
@@ -103,13 +68,6 @@
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/": {
-      "ts": "2026-07-09T00:00:00+00:00",
-      "title": "LiteRT.js, Google's high performance Web AI Inference",
-      "link": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:4269249912099146252": {
@@ -180,13 +138,6 @@
       "title": "2.1.206",
       "link": "https://code.claude.com/docs/en/changelog#2-1-206",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://www.anthropic.com/news/ust-claude": {
-      "ts": "2026-07-09T00:00:00+00:00",
-      "title": "UST is bringing Claude to physical AI",
-      "link": "https://www.anthropic.com/news/ust-claude",
-      "source": "Anthropic News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:6159893595303203221": {
@@ -5219,6 +5170,13 @@
       "ts": "2026-08-07T18:35:18+00:00",
       "title": "“The Rise of AI Agents: 5 Powerful Tools That Actually Do Work for You” - PixelAizone",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://pixelaizone.com/the-rise-of-ai-agents-5-tools-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1tLjVZsNghINQyIAeHIZqg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5898890721823244542": {
+      "ts": "2026-08-07T21:31:52+00:00",
+      "title": "<b>Manus AI</b> - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/100081860658987/%3Flocale%3Dzh_CN&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23wHTmM4qTK3KFJ6g8IDDo",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
