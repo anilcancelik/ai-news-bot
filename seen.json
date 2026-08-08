@@ -1,26 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
-      "ts": "2026-07-09T10:00:00+00:00",
-      "title": "ChatGPT is now a partner for your most ambitious work",
-      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/bio-bug-bounty": {
-      "ts": "2026-07-09T10:00:00+00:00",
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "link": "https://openai.com/index/bio-bug-bounty",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/gpt-5-6": {
-      "ts": "2026-07-09T10:00:00+00:00",
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "link": "https://openai.com/index/gpt-5-6",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14781531650713125319": {
       "ts": "2026-07-09T16:27:31+00:00",
       "title": "The AI Race Between Washington And Beijing Continues. U.S. Lawmakers Are Scrutinizing ...",
@@ -5205,6 +5184,20 @@
       "ts": "2026-08-08T01:39:04+00:00",
       "title": "Manus: The General-Purpose AI Agent (2026 Guide)",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://bla5k.com/tools/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw38JyeZGzM36AOGqr4kJyBy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4552348602742348791": {
+      "ts": "2026-08-07T20:28:02+00:00",
+      "title": "<b>Manus Ai</b> Everything You Need To Know About The Revolutionary | Desertcart Bahamas",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bahamas.desertcart.com/products/848504137-manus-ai-everything-you-need-to-know-about-the-revolutionary&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3D30msNfbrnBtYcC-tS2nH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2427170921061295273": {
+      "ts": "2026-08-07T12:16:53+00:00",
+      "title": "I asked the AIs to gather info about 6 countries: USA, UK, France… | Clive Thompson - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/clive-thompson-661997251_how-good-is-the-average-llm-i-ran-a-test-activity-7491433793757700097-k2X-&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Gha1rMTMKft3252ULwHQk",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
