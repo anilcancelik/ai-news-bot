@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:15115786767499666765": {
-      "ts": "2026-07-09T06:04:10+00:00",
-      "title": "&quot;WARNING&quot; Manus Consuming Tokens and not Fixing Issues &quot; SCAM RED FLAG &quot; - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_Agents/comments/1urhl1v/warning_manus_consuming_tokens_and_not_fixing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1764_WgM-ZPZ-kEgbn0Kvn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/chatgpt-for-your-most-ambitious-work": {
       "ts": "2026-07-09T10:00:00+00:00",
       "title": "ChatGPT is now a partner for your most ambitious work",
@@ -5200,7 +5193,14 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://boonqo.com/automation/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TGlZf63O94NCuSadlH2QT",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7152468733603621045": {
+      "ts": "2026-08-07T05:04:44+00:00",
+      "title": "What progress has Manus made under 2025 PHA Rankings? - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/101556939992555/posts/3664287980386082/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1W_xRW9rzTt18QmDi_3yf9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-08-07"
+  "last_digest_date": "2026-08-08"
 }
