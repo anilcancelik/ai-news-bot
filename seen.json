@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10985398686993568535": {
-      "ts": "2026-07-10T03:11:49+00:00",
-      "title": "Tencent leads deal to unwind Meta's $2bn Manus acquisition - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/financialtimes/posts/tencent-leads-deal-to-unwind-metas-2bn-manus-acquisition/1436071128566260/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cJWsnj8OqDZ0bKimGFaX9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/deutsche-telekom": {
       "ts": "2026-07-10T07:00:00+00:00",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
@@ -5093,6 +5086,20 @@
       "ts": "2026-08-08T03:52:11+00:00",
       "title": "What do you guys hate about agentic Ai? : r/SaaS - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/SaaS/comments/1vib57f/what_do_you_guys_hate_about_agentic_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29igRgMNPlW4Z6OuYGuh2V",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16775241412563338756": {
+      "ts": "2026-08-09T01:31:04+00:00",
+      "title": "Tips for finding ethical manus? : r/streetwearstartup - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/streetwearstartup/comments/1vjb6ti/tips_for_finding_ethical_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17bkV5sw2p0Sgsf1DorO_p",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7276848007433246920": {
+      "ts": "2026-08-08T10:53:48+00:00",
+      "title": "Page 2 - checklistia.online",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://checklistia.online/en/page/2/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1TVJHB1X_l0GYktTTo1Qvr",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
