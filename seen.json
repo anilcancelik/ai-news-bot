@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/deutsche-telekom": {
-      "ts": "2026-07-10T07:00:00+00:00",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8135023125396436779": {
-      "ts": "2026-07-10T06:56:23+00:00",
-      "title": "You can fully own your AI website if you just connect it to Github, bu... | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40rinodeboer/video/7660788271244381473&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zl5nyKZw8E-S8Nk4j4AVz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:11269643012553380912": {
       "ts": "2026-07-10T09:07:37+00:00",
       "title": "Tencent moves to buy back AI startup Manus after China blocks Meta's $2B acquisition.",
