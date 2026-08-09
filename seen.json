@@ -7,13 +7,6 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:15006641806391018515": {
-      "ts": "2026-07-10T23:37:57+00:00",
-      "title": "YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/Ugkx5QHgslifd98y70ohCk3eOXGOU89ijMPT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1VJwa78aMErQ-YQOzqEc26",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12736777879054265626": {
       "ts": "2026-07-11T04:34:37+00:00",
       "title": "Most people waste time testing random AI tools. Here's the 2026 tier list after testing dozens ...",
@@ -4946,6 +4939,13 @@
       "ts": "2026-08-09T20:01:17+00:00",
       "title": "Avalanche: Build Your Own Blockchain | Quasa Review",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/avalanche-build-your-own-blockchain-quasa-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LlbaUvBci0MvhjQK9XpC7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1146640325500073668": {
+      "ts": "2026-08-09T10:13:41+00:00",
+      "title": "This AI Agent Can Plan &amp; Organize Your Work For You! | <b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/W2wH8anaAxQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1tOZ7eATG2VLHDD2jnCL32",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
