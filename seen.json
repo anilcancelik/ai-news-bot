@@ -126,13 +126,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:10889405110197816065": {
-      "ts": "2026-07-10T21:54:27+00:00",
-      "title": "#ai #artificialintelligence #ainews | Rene van Pelt - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/rene-van-pelt_ai-artificialintelligence-ainews-activity-7481384240941748224-V3kJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ChuU2498gbsNzW4BDIfe8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6272966189037967968": {
       "ts": "2026-07-11T07:53:24+00:00",
       "title": "Now Hiring: Enterprise AI &amp; Analytics, Executive Coach - RISE by BCG U | BeBee",
@@ -4960,6 +4953,13 @@
       "ts": "2026-08-09T18:26:38+00:00",
       "title": "<b>Manus AI</b> Review: Features, Pricing, Pros &amp; Cons",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://sureshlabs.com/manus-ai-review/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1F81003O7Fvr74fcAuZz4l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1969939450371496330": {
+      "ts": "2026-08-09T20:01:17+00:00",
+      "title": "Avalanche: Build Your Own Blockchain | Quasa Review",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/avalanche-build-your-own-blockchain-quasa-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LlbaUvBci0MvhjQK9XpC7",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
