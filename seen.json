@@ -28,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:3381177072722744660": {
-      "ts": "2026-07-11T17:16:15+00:00",
-      "title": "Can <b>Manus AI</b> apply for jobs? - ZipRecruiter",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ziprecruiter.com/e/Manus-Can-Manus-AI-apply-for-jobs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2c5bKRJzXeUnXTmtkUp5VY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15701591871247507657": {
       "ts": "2026-07-12T02:46:02+00:00",
       "title": "Claude Cowork vs. <b>Manus AI</b>: Which Autonomous Agent Wins? - YouTube",
@@ -4876,6 +4869,20 @@
       "ts": "2026-08-10T17:00:00+00:00",
       "title": "What building an AI-native finance function taught me",
       "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands": {
+      "ts": "2026-08-10T10:00:00+00:00",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/premium-seats-chatgpt-business": {
+      "ts": "2026-08-10T00:00:00+00:00",
+      "title": "Premium seats are coming to ChatGPT Business",
+      "link": "https://openai.com/index/premium-seats-chatgpt-business",
       "source": "OpenAI News",
       "big": false
     }
