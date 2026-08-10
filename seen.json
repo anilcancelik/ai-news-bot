@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:198211858219530019": {
-      "ts": "2026-07-11T16:19:57+00:00",
-      "title": "Manus &amp; Slack Integration",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://slack.com/intl/zh-tw/marketplace/A099N0AHEH1-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1s7EuZzvpfXsvzIF-Pnd7s",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5116175296321391270": {
       "ts": "2026-07-11T20:50:58+00:00",
       "title": "Meta's <b>Manus AI</b> Overview: The Best New AI Agent for Businesses? - YouTube",
@@ -39,13 +32,6 @@
       "ts": "2026-07-11T17:16:15+00:00",
       "title": "Can <b>Manus AI</b> apply for jobs? - ZipRecruiter",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ziprecruiter.com/e/Manus-Can-Manus-AI-apply-for-jobs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2c5bKRJzXeUnXTmtkUp5VY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11147648452314144752": {
-      "ts": "2026-07-11T16:44:30+00:00",
-      "title": "<b>Manus AI</b> (universal) APKs - APKMirror",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.apkmirror.com/apk/butterfly-effect-pte-ltd/manus-ai/variant-%257B%2522arches_slug%2522%253A%255B%2522arm64-v8a%2522%252C%2522armeabi-v7a%2522%252C%2522x86_64%2522%255D%257D/page/12/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mNqaJ8ZOHP8W8hB7ykNqg",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4884,6 +4870,13 @@
       "title": "I Built an App with <b>Manus AI</b> — From Idea to Working App - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DPh_NreJjjhA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2j3xN0H8CIN7rK_6mDtK9P",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/building-an-ai-native-finance-function": {
+      "ts": "2026-08-10T17:00:00+00:00",
+      "title": "What building an AI-native finance function taught me",
+      "link": "https://openai.com/index/building-an-ai-native-finance-function",
+      "source": "OpenAI News",
       "big": false
     }
   },
