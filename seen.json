@@ -28,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:4570715666308232806": {
-      "ts": "2026-07-11T12:02:11+00:00",
-      "title": "Zoom Launches Standalone AI Receptionist Service - The Technology Express",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thetechnologyexpress.com/zoom-launches-standalone-ai-receptionist-service/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HZEq67eC4vlNBpQSjgAVq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:13731631399730264665": {
       "ts": "2026-07-11T12:52:03+00:00",
       "title": "Sovereignagentplane Alternatives &amp; Competitors (2026) | StartupHub.ai",
@@ -4890,6 +4883,20 @@
       "ts": "2026-08-10T03:12:42+00:00",
       "title": "r/AI_Agents on Reddit: I've been testing hooks/scripts with Manus vs Claude and I like what ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_Agents/comments/1vk9ark/ive_been_testing_hooksscripts_with_manus_vs/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WGYnNyN9Clbo0UHh-7HLF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://ollama.com/blog/muse-glimmer": {
+      "ts": "2026-08-10T00:00:00+00:00",
+      "title": "Muse Glimmer from Meta Superintelligence Labs is now available on Ollama",
+      "link": "https://ollama.com/blog/muse-glimmer",
+      "source": "Ollama Blog",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:9803726999217243803": {
+      "ts": "2026-08-10T11:47:25+00:00",
+      "title": "Seven years of teaching method, pointed at AI agents. Full course insi... | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40tech_with_tim/video/7672367700357860616&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lFYw7pelu_FnA6L0eORQE",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
