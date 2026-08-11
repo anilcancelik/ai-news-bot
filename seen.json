@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:7603882059703898664": {
-      "ts": "2026-07-12T16:16:05+00:00",
-      "title": "<b>Manus AI</b>: The Ultimate Content Calendar Builder (Or a Credit Usage Trap?) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTs7p7mF8_GM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3CcSot3ymWgErY_-5bUlhW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7581020153758010186": {
       "ts": "2026-07-12T17:25:50+00:00",
       "title": "Tencent is in talks to become <b>Manus AI's</b> largest shareholder after Meta's proposed deal was ...",
@@ -4863,6 +4856,34 @@
       "title": "えろがぞうぷにぷに",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://wuejobber.de/information-center/news/exploration/2026/august/nerere-lokomu&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw13jzfHyfIZygwud0ruUHkq",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/testing-ads-in-chatgpt": {
+      "ts": "2026-08-11T10:00:00+00:00",
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/": {
+      "ts": "2026-08-11T00:00:00+00:00",
+      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
+      "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/": {
+      "ts": "2026-08-11T00:00:00+00:00",
+      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
+      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://ollama.com/blog/nemotron-3-5-lightning": {
+      "ts": "2026-08-11T00:00:00+00:00",
+      "title": "NVIDIA Nemotron 3.5 Lightning",
+      "link": "https://ollama.com/blog/nemotron-3-5-lightning",
+      "source": "Ollama Blog",
       "big": false
     }
   },
