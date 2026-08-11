@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:3236751952123103536": {
-      "ts": "2026-07-12T01:05:14+00:00",
-      "title": "Build a Mario Game &amp; Level Up Your Productivity with <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DKRIU49Vq_Ac&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1xR0LjPNEyS4FGNnODMFub",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15701591871247507657": {
       "ts": "2026-07-12T02:46:02+00:00",
       "title": "Claude Cowork vs. <b>Manus AI</b>: Which Autonomous Agent Wins? - YouTube",
@@ -4933,6 +4926,27 @@
       "title": "2.1.227",
       "link": "https://code.claude.com/docs/en/changelog#2-1-227",
       "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale": {
+      "ts": "2026-08-07T00:00:00+00:00",
+      "title": "How Anthropic's business development team uses Claude to run inbound and outbound at scale",
+      "link": "https://claude.com/blog/how-anthropics-business-development-team-uses-claude-to-run-inbound-and-outbound-at-scale",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3611649717922230019": {
+      "ts": "2026-08-11T00:23:32+00:00",
+      "title": "12 AI tools worth bookmarking in 2026 - Threads",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40unlock.ai.tools/post/Db29rJbAe_r/ai-tools-worth-bookmarking-in-claude-general-assistant-rec-cloud-com-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2etmr_La1-o6AIjVTFawnw",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5572616405637491309": {
+      "ts": "2026-08-10T21:27:53+00:00",
+      "title": "Manus General Autonomous AI Agent for Complex Work - Examples.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.examples.com/ai-agent-generator/manus-general-autonomous-ai-agent-for-complex-work-2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw27QQhnJg-kreW_UokIBoyL",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
