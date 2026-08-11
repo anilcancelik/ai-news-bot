@@ -4927,6 +4927,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/OpenSourceeAI/comments/1vksd8q/i_built_a_tool_to_visualize_ml_concepts_and_to/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lbo_zINDu1SeH_Jb2VgYi",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "e3e380054708b74d": {
+      "ts": "2026-08-10T23:37:33+00:00",
+      "title": "2.1.227",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-227",
+      "source": "Claude Code changelog",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-10"
