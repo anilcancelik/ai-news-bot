@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:12265177414197425731": {
-      "ts": "2026-07-13T23:14:27+00:00",
-      "title": "Ai is getting crazy... @emergent.sh #emergent #ai #business | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40theappbadger/video/7662152974537461014&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0TPWLheQP1jALCLXCLErlV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10768057053704178354": {
-      "ts": "2026-07-13T22:59:08+00:00",
-      "title": "Build a web app that people subscribe to with free APIs #ai | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40dr.erinjacques/video/7662149592355589390&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33IUuEQ9GPLW0eGkSDFx1F",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "6f8a5e42b3e7373a": {
       "ts": "2026-07-14T01:16:10+00:00",
       "title": "2.1.208",
@@ -235,13 +221,6 @@
       "ts": "2026-07-15T00:10:21+00:00",
       "title": "Why Manus matters: it builds agentic AI that does tasks, not just chat - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/uhLlyqmsN1A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ngFKGe_Gadul7FxNdKDEV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6847885218022534515": {
-      "ts": "2026-07-13T23:29:15+00:00",
-      "title": "Every successful build goes live without going through the menu",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lhc.media/en/media/ai-watch/every-successful-build-goes-live-without-going-through-the-menu&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kFWqC26EPXYl631v4eqTN",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5359,6 +5338,34 @@
       "ts": "2026-08-12T11:57:09+00:00",
       "title": "Anthropic To Add Invisible Watermark To Text Processed by Claude - Deccan Chronicle",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.deccanchronicle.com/amp/technology/anthropic-to-add-invisible-watermark-to-text-processed-by-claude-1978635&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15-zOoPubuxyz4iuFosER6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8978699721754845733": {
+      "ts": "2026-08-12T20:17:48+00:00",
+      "title": "<b>Manus AI's</b> $2B Deal Is Dead: What Users Need to Do Now - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DSHzYG8nGL4Q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ePYNLsGLqgDDu7lqeXI8_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10243935861002202532": {
+      "ts": "2026-08-12T20:07:48+00:00",
+      "title": "Full Shopify Store Design &amp; Build with <b>Manus AI</b> (MIND BLOWING Results) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYZ_Sim4iBnM%26vl%3Dta&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0HP1834Lcz8Mnt_D_HwRy6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:760584575633727951": {
+      "ts": "2026-08-12T19:29:28+00:00",
+      "title": "#humanfirst #businessoperations #aiconsulting #whatsleftpodcast | Kazka AI Consulting",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/kazka-ai-consulting_humanfirst-businessoperations-aiconsulting-activity-7493336991510745088-M9SH&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw13__nALcOihu7KTmpu__Y5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16499370246977129189": {
+      "ts": "2026-08-12T19:14:36+00:00",
+      "title": "Open Source Alternatives to Justinfunk (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/justinfunk/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vS0a9RKkKqdCUI5_5AqGz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
