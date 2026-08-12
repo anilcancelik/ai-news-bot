@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": true
     },
-    "tag:google.com,2013:googlealerts/feed:602615371444419552": {
-      "ts": "2026-07-13T15:50:14+00:00",
-      "title": "Tencent Reportedly Leads Buyback of Manus, Set to Become Largest Shareholder After ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/d739ec01-e7ac-4206-8d27-26bc357170d9&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0U5TZUsMT2zGkPnEEqbCIq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:866487024962530457": {
       "ts": "2026-07-13T17:58:07+00:00",
       "title": "This is the biggest AI Cheatcode and barely anyone is talking about it... - TikTok",
@@ -25,20 +18,6 @@
       "ts": "2026-07-13T16:33:33+00:00",
       "title": "Save this video for your next presentation @<b>Manus AI</b> by Meta #aiag... | TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40tonyppt_/video/7662051031479569694&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JoYUSqdKrwQgiD1FqVEId",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:821439957589154151": {
-      "ts": "2026-07-13T16:09:13+00:00",
-      "title": "Which is the best AI | chatgpt vs claude vs manus #aitools #ai - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/pyUEEcPSHMQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0SzpecPAyDZh8MP2jD588l",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5908172649571205606": {
-      "ts": "2026-07-13T16:08:19+00:00",
-      "title": "AI is most useful when it's connected to trusted data. The Semrush MCP integration for ... - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Semrush/videos/ai-is-most-useful-when-its-connected-to-trusted-datathe-semrush-mcp-integration-/887481287736753/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RgIkodSQUiftXj5LvTTTk",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -102,20 +81,6 @@
       "ts": "2026-07-14T00:05:16+00:00",
       "title": "Sauna AI vs Manus: Which AI Agent in 2026?",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.usecarly.com/blog/sauna-ai-vs-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MCgtPq-MfKXPwhDUiRDDj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2675347412296685091": {
-      "ts": "2026-07-13T15:42:46+00:00",
-      "title": "AI Studio – Build with Gemini APIs • GitHub Copilot – Coding help • Hugging Face",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/Hey_GraceWilson/status/2076670494561165554/photo/1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1HTIYQW8m1Wcd_Rbts6By9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2518411435352632982": {
-      "ts": "2026-07-13T15:35:30+00:00",
-      "title": "<b>Manus AI</b> - Define Media",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://definebh.com/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw19IvoTsGxh5NlgBYBKCMyE",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5263,6 +5228,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1vltvwe/manus_account_deletion_and_backups/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xyNMb0BgYdtCUb3hocH5n",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://cursor.com/blog/grok-4-6": {
+      "ts": "2026-08-12T00:00:00+00:00",
+      "title": "Introducing Grok 4.6",
+      "link": "https://cursor.com/blog/grok-4-6",
+      "source": "Cursor Blog",
+      "big": true
     }
   },
   "last_digest_date": "2026-08-12"
