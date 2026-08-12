@@ -5242,6 +5242,125 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/IndiaTodayTech/status/2087460016215167244&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2PKN192KB8XrItXNsas7Wq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/ringcentral": {
+      "ts": "2026-08-12T00:00:00+00:00",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "link": "https://openai.com/index/ringcentral",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex": {
+      "ts": "2026-07-14T00:00:00+00:00",
+      "title": "How data science teams use ChatGPT Work",
+      "link": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex": {
+      "ts": "2026-07-14T00:00:00+00:00",
+      "title": "How sales teams use ChatGPT Work",
+      "link": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17107177648524565515": {
+      "ts": "2026-08-12T21:37:03+00:00",
+      "title": "Similarweb Announces Second Quarter 2026 Results – Company Announcement - FT.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://markets.ft.com/data/announce/detail%3Fdockey%3D600-202608120700BIZWIRE_USPRX____20260812_BW027439-1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2voA4R1vTRRs3y2O3RjJfM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:6261142245154290873": {
+      "ts": "2026-08-12T21:23:26+00:00",
+      "title": "Singapore-based <b>Manus AI</b> to leave Meta as China blocks Meta's $2B acquisition",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technode.global/2026/08/12/singapore-based-manus-ai-to-leave-meta-as-china-blocks-metas-2b-acquisition/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1dq2IKKOTvUfUJ-0MKt6wt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7399766052770825429": {
+      "ts": "2026-08-12T19:59:59+00:00",
+      "title": "Londian Wason valued at $2 billion, biggest Chinese debut in New York in over a year | Reuters",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/legal/government/chinas-londian-wason-valued-2-billion-shares-rise-nyse-debut-2026-08-12/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1CApZ-XZhuCM5Xf0_1mlKm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:15863626076330146869": {
+      "ts": "2026-08-12T19:46:05+00:00",
+      "title": "Zuckerberg's 6,500-word AI letter never mentions advertising once - PPC Land",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ppc.land/zuckerbergs-6-500-word-ai-letter-never-mentions-advertising-once/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Jfn7OIlDqwcI-5sIuXtfq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8396398422779194968": {
+      "ts": "2026-08-12T19:45:58+00:00",
+      "title": "[FREE] <b>Manus AI</b> Agent Free Access (Manus 1.6 &amp; 1.6 Lite – No Credit Card Needed!)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/leonardoai/comments/1vmo527/free_manus_ai_agent_free_access_manus_16_16_lite/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2j0dvIrE8vTW0McdYyicfA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4218659149639588573": {
+      "ts": "2026-08-12T19:36:05+00:00",
+      "title": "Manus splits from Meta after China orders reversal of $2bn deal - Silicon Republic",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconrepublic.com/business/manus-splits-from-meta-after-china-orders-reversal-of-2bn-deal&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05JhHf3Wycm57hAAaonvBS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15519133092038260334": {
+      "ts": "2026-08-12T19:17:23+00:00",
+      "title": "Oracle layoffs 2026: What Indian employees may get in severance as new job cuts loom",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/tech/oracle-layoffs-2026-what-indian-employees-may-get-in-severance-as-new-job-cuts-loom-14037688.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rgC9t2axxJBMpXAgJsJoU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2308756090620807172": {
+      "ts": "2026-08-12T18:54:16+00:00",
+      "title": "India's July Retail Inflation Rises to 4.45% on Elevated Food Prices; 9th Consecutive Monthly Hike",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.deccanchronicle.com/amp/business/indias-july-retail-inflation-rises-to-445-on-elevated-food-prices-9th-consecutive-monthly-hike-1978728&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1X3s0A8GlvGagScXbRHENK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12028847853285923488": {
+      "ts": "2026-08-12T16:40:10+00:00",
+      "title": "AI startup Manus to resume independent operations as deal with Meta unwinds",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://enterpriseai.economictimes.indiatimes.com/news/industry/ai-startup-manus-to-resume-independent-operations-as-deal-with-meta-unwinds/133185518&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3l7oRMnZ6uIBbmEy2Cs9mi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2493027267148939635": {
+      "ts": "2026-08-12T15:57:54+00:00",
+      "title": "Meta faces 29 states in landmark US federal trial over alleged harm to children - Firstpost",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.firstpost.com/tech/meta-faces-29-states-in-landmark-us-federal-trial-over-alleged-harm-to-children-14037787.html/amp&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1OcuDXzHYhnu6-0TG3OUJZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3882076562864893585": {
+      "ts": "2026-08-12T15:56:42+00:00",
+      "title": "Meta Acquisition Officially Collapses, Manus Announces Return to Independent Operations ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/30e0d0ca-9072-45c1-adb9-397099dd6397&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1J6YikJ4lq9omrWrxwWlgc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:2612256301818614876": {
+      "ts": "2026-08-12T12:45:05+00:00",
+      "title": "OpenAI, Anthropic Face Climate Questions Ahead of Potential IPOs - Deccan Chronicle",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.deccanchronicle.com/amp/artificial-intelligence/openai-anthropic-face-climate-questions-ahead-of-potential-ipos-1978646&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2g9mllhbuzW6fX3AHi6c8z",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1840299868433114772": {
+      "ts": "2026-08-12T12:02:06+00:00",
+      "title": "India: The Continual Phishing Target Despite Declining Attack Volumes, ETCISO",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ciso.economictimes.indiatimes.com/news/cybercrime-fraud/india-retains-position-as-apjs-top-phishing-target-despite-falling-attack-volumes/133179050&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3eJG6q86Gu8J8dh2VCt7pJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17131529214226149369": {
+      "ts": "2026-08-12T11:57:09+00:00",
+      "title": "Anthropic To Add Invisible Watermark To Text Processed by Claude - Deccan Chronicle",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.deccanchronicle.com/amp/technology/anthropic-to-add-invisible-watermark-to-text-processed-by-claude-1978635&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15-zOoPubuxyz4iuFosER6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-12"
