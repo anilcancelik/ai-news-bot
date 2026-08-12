@@ -5228,6 +5228,20 @@
       "link": "https://claude.com/blog/cowork-chrome-side-panel",
       "source": "Claude Blog",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9349798165202212024": {
+      "ts": "2026-08-12T17:25:43+00:00",
+      "title": "<b>Manus AI</b> Data Deletion: Back Up Before Aug 23 | MoClaw Blog",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moclaw.ai/blog/manus-ai-data-deletion&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw09tGcH1Y2ZwnGH_5sAjCp0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8821928010456441286": {
+      "ts": "2026-08-12T13:25:24+00:00",
+      "title": "<b>Manus AI</b> is going independent after China stops Mark Zuckerberg from buying it",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/IndiaTodayTech/status/2087460016215167244&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2PKN192KB8XrItXNsas7Wq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-12"
