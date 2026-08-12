@@ -63,20 +63,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8612858989938577066": {
-      "ts": "2026-07-13T13:28:46+00:00",
-      "title": "China Forces Meta to Surrender $2B <b>Manus AI</b> Deal; Tencent Steps In | FAQ",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://faq.com.tw/en/policy/2026-07-13-china-forces-meta-divest-manus-tencent-buyback-en/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3iziGG_Pt2IXJSLAdYJWiL",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11510684972039117846": {
-      "ts": "2026-07-13T13:00:59+00:00",
-      "title": "Meta Bought <b>Manus AI</b> but Was Forced to Return It to China for Tencent #china #ai ... - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Iu7ciRRpuho&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nLOeuX2pMll57sUkNJooP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6426342081639795248": {
       "ts": "2026-07-13T19:23:07+00:00",
       "title": "AI Agents News Brief: July 13, 2026 - OpenAI, Security Threats, and Frameworks",
@@ -5240,6 +5226,41 @@
       "ts": "2026-08-12T07:29:55+00:00",
       "title": "Manus said it will soon operate independently again as Beijing tighten... - TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40techin.asia/photo/7673039027121032468&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2zORHoAfGiSFaFWBLpEzCX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/how-enterprises-put-ai-to-work": {
+      "ts": "2026-08-12T06:00:00+00:00",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/": {
+      "ts": "2026-08-12T14:01:59+00:00",
+      "title": "Putting sign language AI into users’ hands",
+      "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6821683212090980376": {
+      "ts": "2026-08-12T13:34:30+00:00",
+      "title": "Run Your Own <b>Manus AI</b> Agent for FREE - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DeSuRFufpV3E&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vhkjlPecs6JEy7dIRaKO6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6758704908483939378": {
+      "ts": "2026-08-12T11:39:00+00:00",
+      "title": "Breaking news: <b>Manus AI</b> will delete data created between December 2025 and August ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/camila.markson.7/posts/breaking-news-manus-ai-will-delete-data-created-between-december-2025-and-august/1607798504237052/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2zdlPTI2JZ96aFRMBLn9lI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7817974774488352033": {
+      "ts": "2026-08-12T09:26:03+00:00",
+      "title": "Free AI Agent: Where Each Free Tier Stops | MoClaw Blog",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moclaw.ai/blog/free-ai-agent&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UVis5E9TJkwpbcs7cvfjq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
