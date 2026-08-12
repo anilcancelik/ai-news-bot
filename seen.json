@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:6426342081639795248": {
-      "ts": "2026-07-13T19:23:07+00:00",
-      "title": "AI Agents News Brief: July 13, 2026 - OpenAI, Security Threats, and Frameworks",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiagentsdirectory.com/news/ai-agents-news-brief-july-13-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39DwlRQSz8_NtF7y5Fgpfl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12837676818457402398": {
-      "ts": "2026-07-13T18:34:55+00:00",
-      "title": "This AI Can Replace an Entire Team! | <b>Manus AI</b> Explained #technology #artificialintelligence",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/RWsiIX64CfA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1HA213nknECL0jY1GQlL4-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12265177414197425731": {
       "ts": "2026-07-13T23:14:27+00:00",
       "title": "Ai is getting crazy... @emergent.sh #emergent #ai #business | TikTok",
@@ -5226,6 +5212,13 @@
       "ts": "2026-08-12T09:26:03+00:00",
       "title": "Is <b>Manus AI</b> Free? What You Actually Get | MoClaw Blog",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://moclaw.ai/blog/manus-ai-free&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1N8ASGRLiO0e5pRS04T-I6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7602716359727786114": {
+      "ts": "2026-08-12T17:22:17+00:00",
+      "title": "Open Source Alternatives to Fdfl (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/fdfl/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UyL-DexJkttXe0jejH50l",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
