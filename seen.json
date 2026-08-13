@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:11368885086538348952": {
-      "ts": "2026-07-14T22:49:53+00:00",
-      "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 14, 2026 - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DaymaF-DE2c/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0u8TfaQ3gFcXnetLg4u2_u",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "f8947506cc9d5a2a": {
       "ts": "2026-07-14T23:53:00+00:00",
       "title": "2.1.210",
@@ -5366,6 +5359,41 @@
       "ts": "2026-08-13T22:11:51+00:00",
       "title": "#aiagents #manus #businesscontinuity #entrepreneurship #aistrategy | Jan Okonji - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/jan-okonji_aiagents-manus-businesscontinuity-activity-7493520794699005952-6XDB&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0uGRDEsQK8PtRFJm8N2Kw1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5": {
+      "ts": "2026-08-13T00:00:00+00:00",
+      "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
+      "link": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1219079718751295045": {
+      "ts": "2026-08-13T21:50:48+00:00",
+      "title": "Donte Johnson vs. Eric McConico: Method of Finish | Prediction Markets - Coinbase",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/predictions/event/KXUFCMOF-26AUG15JOHMCC&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2evzg1EWjns8IPocxETT4_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13738262480877136537": {
+      "ts": "2026-08-13T17:18:45+00:00",
+      "title": "Manus Separates From Meta as $2 Billion AI Deal Falls Apart | eWeek",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eweek.com/news/meta-manus-ai-deal-china-unwind-apac/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3qDrS3JVLta_mbge_RhRaZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5456966330368525979": {
+      "ts": "2026-08-13T15:33:26+00:00",
+      "title": "Multiagent Systems Platform Market Outlook (2026-2032) by Systems Type, Application, and ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/ai/articles/multiagent-systems-platform-market-outlook-145200646.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0dchmel8KJ7gK-Vo6liiDS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11091620020751041108": {
+      "ts": "2026-08-13T12:00:43+00:00",
+      "title": "Manus is leaving Meta. Users have until 24 August. Manus builds AI agents that finish tasks ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/thenextweb/posts/manus-is-leaving-meta-users-have-until-24-augustmanus-builds-ai-agents-that-fini/1502366201932161/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Nn_1oKW_TyXZ2xbRkqd24",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
