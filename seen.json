@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:9715567315856800551": {
-      "ts": "2026-07-14T18:09:24+00:00",
-      "title": "Manus generates .pptx directly. • Editable charts that redraw when you change a value •… - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-powerpoint-slides-on-manus-activity-7482813915215618048-Pa6h&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HitsjgfnuRudaq071oh5q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7688891139106227722": {
       "ts": "2026-07-14T21:10:01+00:00",
       "title": "This is the AI video tool that gives you control of the entire creativ... | TikTok",
@@ -5333,6 +5326,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Db80B2EJNzv/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Rrq2Ix-SXljCRL_cOrYPV",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions": {
+      "ts": "2026-08-13T00:00:00+00:00",
+      "title": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
+      "link": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/builders-guide-to-gpt-5-6": {
+      "ts": "2026-08-13T11:00:00+00:00",
+      "title": "The builder’s guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4504430519987058023": {
+      "ts": "2026-08-13T16:45:28+00:00",
+      "title": "<b>Manus AI</b> is now completely free until August 23st You have 10 days to launch and build anything",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61585600673719/posts/breaking-manus-ai-is-now-completely-free-until-august-23st-you-have-10-days-to-l/122142125829186689/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OEl9pWgyb-tIDPaRo_wd4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-08-13"
