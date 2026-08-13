@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:17640216187676007389": {
-      "ts": "2026-07-14T16:51:22+00:00",
-      "title": "Meta Has Fired Thousands Of Employees. A New Lawsuit Accuses It Of Using AI To target ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/meta-has-fired-thousands-employees-new-lawsuit-accuses-it-using-ai-target-workers-medical-3805287&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ncFCI78oNLzBvEmyJz3a0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13819544379941751024": {
-      "ts": "2026-07-14T16:40:53+00:00",
-      "title": "YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/UgkxLoMd2DTxai2hF76l-ShsjJzHPPJI1w-W&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2uqi3DhN4oH84Qf2P58L5A",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5128442443566066092": {
       "ts": "2026-07-14T18:55:29+00:00",
       "title": "Pocket AI Agents - Trend Hunter",
@@ -25,13 +11,6 @@
       "ts": "2026-07-14T18:09:24+00:00",
       "title": "Manus generates .pptx directly. • Editable charts that redraw when you change a value •… - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-powerpoint-slides-on-manus-activity-7482813915215618048-Pa6h&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HitsjgfnuRudaq071oh5q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1900533632077675345": {
-      "ts": "2026-07-14T17:12:01+00:00",
-      "title": "91% of Pastors Use AI. Only 6% Have a Policy. Here's How to Fix That | AI For Christians",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiforchristians.ai/91-of-pastors-use-ai-only-6-have-a-policy-heres-how-to-fix-that/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1n0csE04-wgUdkv7mEc2S3",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5277,6 +5256,83 @@
       "link": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
       "source": "Google Developers Blog - AI",
       "big": true
+    },
+    "https://openai.com/index/previewing-ultrafast": {
+      "ts": "2026-08-13T10:00:00+00:00",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
+      "ts": "2026-08-13T17:04:18+00:00",
+      "title": "Introducing Gemini 3.7 Flash",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://cursor.com/blog/builds": {
+      "ts": "2026-08-13T12:00:00+00:00",
+      "title": "Cloud agents start 3x faster with builds",
+      "link": "https://cursor.com/blog/builds",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6115630471074097686": {
+      "ts": "2026-08-13T15:25:27+00:00",
+      "title": "How to Use <b>Manus AI</b> Browser Operator for Automated Tasks - Snapchat",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.snapchat.com/%40mms-519/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYdGdxbXRmbWFsAZ_7tYw_AZ_7tDnMAAAAAQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2sBoQTNBPvOI09sHn3ijNO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2655246582553721304": {
+      "ts": "2026-08-13T14:15:38+00:00",
+      "title": "<b>Manus AI</b>: Your Business Goals, Automated in 5 Steps! - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DaCQ0XHqxTLY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WzaLgKc0EglY9k-u1bWwy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8312823895674032793": {
+      "ts": "2026-08-13T13:49:20+00:00",
+      "title": "China just blocked <b>Manus AI</b>, and the reason why is bigger than where the company is ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/alicialyttlejamaica/videos/china-just-blocked-manus-ai-and-the-reason-why-is-bigger-than-where-the-company-/1428026319181044/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2GPCufEKKq5yVWofbgMu9w",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11706966975499626892": {
+      "ts": "2026-08-13T12:36:37+00:00",
+      "title": "AI startup Manus said that it will resume operating as an independent company and ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Db-vCFak1vz/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jn0CD4GzfTiO87i8C7eGU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3364493956937556877": {
+      "ts": "2026-08-13T12:24:21+00:00",
+      "title": "China just blocked <b>Manus AI</b>, and the reason why is bigger than where the company is ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Db-uLBDxQ-S/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0GvBhzOHywx7K_wC6jSH69",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:195893112490569767": {
+      "ts": "2026-08-13T08:49:54+00:00",
+      "title": "Beetlo Alternatives &amp; Competitors (2026) | StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/beetlo/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1EIeRdzo3aIfyeqfAVg_53",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4205782505964515298": {
+      "ts": "2026-08-13T06:09:44+00:00",
+      "title": "25 AI Tools You Can't Ignore in 2026 From AI agents and coding to video, design, marketing ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/Hey_GraceWilson/status/2087730690154754410&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gHJ_JzrxKM1IQxY345VT5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15321989436302326764": {
+      "ts": "2026-08-12T22:25:42+00:00",
+      "title": "PART 1: Manus is splitting from Meta and if you received that notification, you need to know ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Db80B2EJNzv/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Rrq2Ix-SXljCRL_cOrYPV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-13"
