@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1587152719396864574": {
-      "ts": "2026-07-14T12:05:29+00:00",
-      "title": "I built a complete web app without writing the code Login, database, backend, study plans ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DavASY6sAQi/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1RAqQbNWMjZPTGNP4RHsY2",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17640216187676007389": {
       "ts": "2026-07-14T16:51:22+00:00",
       "title": "Meta Has Fired Thousands Of Employees. A New Lawsuit Accuses It Of Using AI To target ...",
@@ -5248,6 +5241,48 @@
       "title": "2.1.231",
       "link": "https://code.claude.com/docs/en/changelog#2-1-231",
       "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11436416032249354995": {
+      "ts": "2026-08-13T10:19:55+00:00",
+      "title": "Seedance 2.5 might be one of the biggest upgrades to AI video generati... | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40nocode.joshua/video/7673259814134336776&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0izWRXM6i8BDSZHk5A6tkd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6916088642689358991": {
+      "ts": "2026-08-13T09:16:26+00:00",
+      "title": "I Cancelled $440 Monthly Subscription on Workflow Tools. 6 AI Agents Replaced All of It",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://medium.com/no-time/i-cancelled-440-monthly-subscription-on-workflow-tools-6-ai-agents-replaced-all-of-it-ae8a0d2cf298&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw27GSO6iy4dRLchYbfKUwGU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15844378454054619904": {
+      "ts": "2026-08-13T08:54:51+00:00",
+      "title": "Shane Spencer's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ideasrealized_manus-ai-is-free-until-august-25-and-the-activity-7493580306713571328-T57-&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39LRI3DXiUa77UV6e7OmIr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2015801121383520365": {
+      "ts": "2026-08-13T08:25:04+00:00",
+      "title": "Manus: Best for AI Agent Navigation in PC Environments - Applied AI Tools",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://appliedai.tools/product/manus-best-ai-agent-in-computer/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03zYjcc_H8eBZh7EjBE9nh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2533669296245618647": {
+      "ts": "2026-08-13T07:15:10+00:00",
+      "title": "Comment MANUS if you want the backup steps Subscribe for more #<b>manus #ai</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/qGI8h2kvtTE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ZVdRYeiGAXne_YpDaLOgO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18019821893333822372": {
+      "ts": "2026-08-13T02:05:18+00:00",
+      "title": "Manus Free Trial: Use Manus 1.6 Free Until August 25 - Resourify",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://resourify.com/resources/manus-free-trial&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3DzjD8Rdq22oxy9znbLrxQ",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
