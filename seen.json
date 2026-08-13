@@ -14,34 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:2753880299560512128": {
-      "ts": "2026-07-14T16:10:17+00:00",
-      "title": "SuperNinja vs Manus: Which AI Agent to Pick in 2026? - Carly AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.usecarly.com/blog/ninja-vs-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fWAjGpRIlJhUw4A2RYK2i",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15323210378605374982": {
-      "ts": "2026-07-14T16:10:17+00:00",
-      "title": "Tasklet vs Manus: Which AI Agent to Pick in 2026?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.usecarly.com/blog/tasklet-vs-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw06qg6LJ7jN5la5qnYodYPE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15136268152706528641": {
-      "ts": "2026-07-14T16:10:16+00:00",
-      "title": "Devin vs Manus: Which Autonomous Agent to Pick in 2026? - Carly AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.usecarly.com/blog/devin-vs-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw22AUY7slJK2s45vxnYy96o",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16620106775271762441": {
-      "ts": "2026-07-14T16:10:16+00:00",
-      "title": "Claude Cowork vs Manus: Which AI Agent in 2026?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.usecarly.com/blog/claude-cowork-vs-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3r6wX-kfDWW2sCoEkxMmAC",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5128442443566066092": {
       "ts": "2026-07-14T18:55:29+00:00",
       "title": "Pocket AI Agents - Trend Hunter",
@@ -5284,6 +5256,27 @@
       "link": "https://cursor.com/blog/aiuc-1",
       "source": "Cursor Blog",
       "big": false
+    },
+    "https://openai.com/index/dali-rajic-chief-revenue-officer": {
+      "ts": "2026-08-13T09:00:00+00:00",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/": {
+      "ts": "2026-08-13T00:00:00+00:00",
+      "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
+      "link": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/": {
+      "ts": "2026-08-13T00:00:00+00:00",
+      "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
+      "link": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
+      "source": "Google Developers Blog - AI",
+      "big": true
     }
   },
   "last_digest_date": "2026-08-13"
