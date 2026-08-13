@@ -1,12 +1,5 @@
 {
   "seen": {
-    "6f8a5e42b3e7373a": {
-      "ts": "2026-07-14T01:16:10+00:00",
-      "title": "2.1.208",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-208",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:11107892802827436449": {
       "ts": "2026-07-14T01:46:43+00:00",
       "title": "Manus - downgrade : r/ManusOfficial - Reddit",
@@ -27,41 +20,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://toollions.com/ai-tools/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26bq-hAg48mLVM5fnb0onq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12794395277731568007": {
-      "ts": "2026-07-14T00:05:16+00:00",
-      "title": "Sauna AI vs Manus: Which AI Agent in 2026?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.usecarly.com/blog/sauna-ai-vs-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MCgtPq-MfKXPwhDUiRDDj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex": {
-      "ts": "2026-07-14T00:00:00+00:00",
-      "title": "How data science teams use ChatGPT Work",
-      "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex": {
-      "ts": "2026-07-14T00:00:00+00:00",
-      "title": "How sales teams use ChatGPT Work",
-      "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://www.anthropic.com/news/canadian-ai-research": {
-      "ts": "2026-07-14T00:00:00+00:00",
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "link": "https://www.anthropic.com/news/canadian-ai-research",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://www.anthropic.com/news/claude-for-teachers": {
-      "ts": "2026-07-14T00:00:00+00:00",
-      "title": "Introducing Claude for Teachers",
-      "link": "https://www.anthropic.com/news/claude-for-teachers",
-      "source": "Anthropic News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:1587152719396864574": {
       "ts": "2026-07-14T12:05:29+00:00",
@@ -102,13 +60,6 @@
       "ts": "2026-07-14T07:52:25+00:00",
       "title": "#PR #manuspartner I tried using Manus to build a website for a fictional seaside hotel ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D5D0q1Ok5MvI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0erl2Ow8FxHjfvdyYTzy1-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4753803815174396030": {
-      "ts": "2026-07-13T23:47:14+00:00",
-      "title": "<b>Manus AI</b> – Premium Plan - Digi Store",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digistore.cc/2026/07/manus-ai-premium-annual-plan.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yjebF3XgnP2Ifvu_hrDJW",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -1421,13 +1372,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "96bc15d9a49abe47": {
-      "ts": "2026-07-14T01:16:10+00:00",
-      "title": "2.1.208",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-208",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "https://claude.com/blog/how-anthropic-secures-its-ai-native-software-development-lifecycle": {
       "ts": "2026-07-21T00:00:00+00:00",
       "title": "How Anthropic Secures Its AI-Native Software Development Lifecycle",
@@ -2105,13 +2049,6 @@
       "title": "Cool devs don't gatekeep. Pt. 04 Comment “VIBE” and I'll send you all 4 Why do ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbJiyk2yA5J/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00yohq39ocfCzp2vFoGPQD",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://cursor.com/blog/grok-4-5-model-card": {
-      "ts": "2026-07-14T00:00:00+00:00",
-      "title": "Grok 4.5 Model Card",
-      "link": "https://cursor.com/blog/grok-4-5-model-card",
-      "source": "Cursor Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:7677429733069184070": {
@@ -5229,20 +5166,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex": {
-      "ts": "2026-07-14T00:00:00+00:00",
-      "title": "How data science teams use ChatGPT Work",
-      "link": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex": {
-      "ts": "2026-07-14T00:00:00+00:00",
-      "title": "How sales teams use ChatGPT Work",
-      "link": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17107177648524565515": {
       "ts": "2026-08-12T21:37:03+00:00",
       "title": "Similarweb Announces Second Quarter 2026 Results – Company Announcement - FT.com",
@@ -5367,6 +5290,13 @@
       "title": "Open Source Alternatives to Justinfunk (2026) | StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/justinfunk/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vS0a9RKkKqdCUI5_5AqGz",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "43b7d8d16395ce98": {
+      "ts": "2026-08-13T00:32:25+00:00",
+      "title": "2.1.229",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-229",
+      "source": "Claude Code changelog",
       "big": false
     }
   },
