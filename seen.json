@@ -42,13 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:363484629445268694": {
-      "ts": "2026-07-14T15:22:47+00:00",
-      "title": "#<b>manus #ai</b> #hackathon #cairo #startups #buildinpublic | Ahmed Ezzat (Mr.Ezzat) - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/mrezzat_manus-ai-hackathon-activity-7482810771253596161-VYbV&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1yndZj6nm1oExzojLUMWdN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5128442443566066092": {
       "ts": "2026-07-14T18:55:29+00:00",
       "title": "Pocket AI Agents - Trend Hunter",
@@ -5283,6 +5276,13 @@
       "title": "Claude Tag now reads even more of the room",
       "link": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
       "source": "Claude Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/aiuc-1": {
+      "ts": "2026-08-13T12:00:00+00:00",
+      "title": "Cursor earns AIUC-1 certification for agent security and reliability",
+      "link": "https://cursor.com/blog/aiuc-1",
+      "source": "Cursor Blog",
       "big": false
     }
   },
