@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:14987990037626334972": {
-      "ts": "2026-07-15T20:48:31+00:00",
-      "title": "<b>Manus AI</b> vs. Claude Code vs. OpenAI Codex: The Ultimate 2026 Comparison for Developers",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DSnn5TFnv6fU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zremQWkbRNH5Em8qp_2dY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "a2ee4a1a677c6faa": {
       "ts": "2026-07-16T00:32:37+00:00",
       "title": "2.1.211",
@@ -5473,6 +5466,13 @@
       "link": "https://www.anthropic.com/news/claude-text-watermark",
       "source": "Anthropic News",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1998239831932888631": {
+      "ts": "2026-08-14T12:45:56+00:00",
+      "title": "Namaste AI - Launches 15th August 11 AM IST #ai #memes #trend #viral #timesofindia ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DcBUbKfM3a1/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3JHkIZkrjUgt2JMTVhySkj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-08-14"
