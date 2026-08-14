@@ -5452,6 +5452,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DcBucyNERoj/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3T6sN_I8NuB_Cu5a2yGMO6",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "041a0753a5abc384": {
+      "ts": "2026-08-14T22:28:48+00:00",
+      "title": "2.1.233",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-233",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9610878467068348070": {
+      "ts": "2026-08-14T21:43:09+00:00",
+      "title": "Manus Meta acquisition blocked - Startup Fortune",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/tag/manus-meta-acquisition-blocked/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1JXpyskrkBZ4MUwJx7gPMi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-14"
