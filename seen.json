@@ -7,13 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:15630901426975990680": {
-      "ts": "2026-07-16T12:30:58+00:00",
-      "title": "YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/UgkxJt_sdKN7DsyV4auBVFaEd9RyRxGWNT6l&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0pAV7i40J3sBG0wD3e2Wd9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14396302157430918579": {
       "ts": "2026-07-16T17:39:26+00:00",
       "title": "These 4 AI tools are changing how I work Saner AI – Instantly captures notes, organizes ...",
@@ -5394,6 +5387,20 @@
       "ts": "2026-08-15T01:43:43+00:00",
       "title": "Tencent to acquire Meta's stake in Chinese AI startup Manus for $2 billion - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/TradedVC/posts/tencent-is-set-to-become-the-largest-shareholder-of-chinese-ai-startup-manus-by-/1746087034188418/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1DCJeAMeApMWC_Qc6MxIch",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6519893601181627430": {
+      "ts": "2026-08-15T12:04:02+00:00",
+      "title": "Meta's $2 billion AI deal just got unwound by China. Meta acquired Manus, a ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DcD2BWDP145/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Fr83unogtta98oZ0bX_qC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17842899854438761266": {
+      "ts": "2026-08-15T11:23:32+00:00",
+      "title": "How <b>manus AI</b> lost their $2bn deal with meta Catch Up on AI News - AI Free Forever",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://freeaiforever.substack.com/p/how-manus-ai-lost-their-2bn-deal&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wP1vF7ILpZPDeHtsTM06V",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
