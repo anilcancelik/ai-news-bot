@@ -1,26 +1,5 @@
 {
   "seen": {
-    "a2ee4a1a677c6faa": {
-      "ts": "2026-07-16T00:32:37+00:00",
-      "title": "2.1.211",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-211",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15029928591444553560": {
-      "ts": "2026-07-16T00:21:37+00:00",
-      "title": "Tencent Holdings TCEHY Tests TenPayGo As AI And Gaming Bets Shift - StocksToTrade",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://stockstotrade.com/news/tencent-holdings-ltd-adr-tcehy-news-2026_07_15/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2L_JPto3sNchmpdCcu_i0q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/": {
-      "ts": "2026-07-16T00:00:00+00:00",
-      "title": "Expanding Choice in Gemini Enterprise Agent Platform: Introducing Grounding with Parallel Web Search",
-      "link": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search/",
-      "source": "Google Developers Blog - AI",
-      "big": true
-    },
     "https://deepmind.google/blog/our-approach-to-bioresilience/": {
       "ts": "2026-07-16T09:30:42+00:00",
       "title": "Our approach to bioresilience",
@@ -56,31 +35,10 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork": {
-      "ts": "2026-07-16T00:00:00+00:00",
-      "title": "Working with Claude Fable 5 in Claude Cowork",
-      "link": "https://claude.com/blog/working-with-claude-fable-5-in-claude-cowork",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/": {
-      "ts": "2026-07-16T00:00:00+00:00",
-      "title": "Building scalable AI agents with modular prompt transpilation",
-      "link": "https://developers.googleblog.com/building-scalable-ai-agents-with-modular-prompt-transpilation/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "https://openai.com/index/why-teens-deserve-access-safe-ai": {
       "ts": "2026-07-16T16:00:00+00:00",
       "title": "Why teens deserve access to safe AI",
       "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/cars24": {
-      "ts": "2026-07-16T00:00:00+00:00",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "link": "https://openai.com/index/cars24",
       "source": "OpenAI News",
       "big": false
     },
@@ -140,13 +98,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/ai-code-migration": {
-      "ts": "2026-07-16T00:00:00+00:00",
-      "title": "How Anthropic runs large-scale code migrations with Claude Code",
-      "link": "https://claude.com/blog/ai-code-migration",
-      "source": "Claude Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14396302157430918579": {
       "ts": "2026-07-16T17:39:26+00:00",
       "title": "These 4 AI tools are changing how I work Saner AI – Instantly captures notes, organizes ...",
@@ -187,13 +138,6 @@
       "title": "Manus pricing review - The Agents Index",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://theagentsindex.com/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3imskIH7tjijLXfHecLaL2",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/": {
-      "ts": "2026-07-16T00:00:00+00:00",
-      "title": "Evolving Spec-Driven Development: Conductor Now Supports Antigravity",
-      "link": "https://developers.googleblog.com/evolving-spec-driven-development-conductor-now-supports-antigravity/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:3990980845380983423": {
@@ -5450,6 +5394,13 @@
       "ts": "2026-08-14T21:43:09+00:00",
       "title": "Manus Meta acquisition blocked - Startup Fortune",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/tag/manus-meta-acquisition-blocked/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1JXpyskrkBZ4MUwJx7gPMi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15687418162874142565": {
+      "ts": "2026-08-15T00:00:31+00:00",
+      "title": "Could AI-Made TV Channels Be The Future? Roku Is Already Trying It - AI For Real",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiforreal.substack.com/p/could-ai-made-tv-channels-be-the&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wv3FDruQJ5mFXRz-2ZBz-",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
