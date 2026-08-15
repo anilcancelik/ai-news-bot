@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:3990980845380983423": {
-      "ts": "2026-07-16T23:04:42+00:00",
-      "title": "Why national security - not market forces - will define the US-China AI race",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstimes.com.sg/opinion-features/why-national-security-not-market-forces-will-define-us-china-ai-race&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw14HjzW9EcpThykNQ_Zwxe0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4255697601896208032": {
-      "ts": "2026-07-16T22:55:09+00:00",
-      "title": "100+ Free AI Websites Every Creator Should Know | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40nwa.otu.network/video/7663122911049436434&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IBNKNSgkDChADh9p1Opf-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "e4deec786e26ccb9": {
       "ts": "2026-07-17T00:33:28+00:00",
       "title": "2.1.212",
@@ -5436,6 +5422,13 @@
       "ts": "2026-08-15T14:58:43+00:00",
       "title": "<b>Manus AI</b> Pricing Official - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-ai-pricing-official/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3cIC7zsKQLXys9xQr8RGyD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1079174100461565401": {
+      "ts": "2026-08-15T20:46:38+00:00",
+      "title": "A Single Missing Database Rule Exposed 181,000 tl;dv Meetings - Startup Fortune",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/a-single-missing-database-rule-exposed-181000-tldv-meetings/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_DyKljx5Dr5E2GqJ6AJia",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
