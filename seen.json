@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14396302157430918579": {
-      "ts": "2026-07-16T17:39:26+00:00",
-      "title": "These 4 AI tools are changing how I work Saner AI – Instantly captures notes, organizes ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Da0ZQ-WyqFA/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jyVV2i135ahjbEThlRyx2",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3990980845380983423": {
       "ts": "2026-07-16T23:04:42+00:00",
       "title": "Why national security - not market forces - will define the US-China AI race",
@@ -5436,6 +5429,13 @@
       "ts": "2026-08-15T10:28:43+00:00",
       "title": "AI-Voice-assistant alternatives - Whipscribe",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://whipscribe.com/audio/ai-voice-assistant-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0AviLTS7oqfH6PbzQLt5uN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5452400465410234100": {
+      "ts": "2026-08-15T15:31:27+00:00",
+      "title": "Unprompted, <b>Manus AI</b> has now begun refunding users. Crazy turn of events for a platform ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/herrmanndigital/status/2088629334491980180/photo/1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00i5U8Hl-gtSbzALwD_6qI",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
