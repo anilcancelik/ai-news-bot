@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:7742534706926869653": {
-      "ts": "2026-07-17T04:12:02+00:00",
-      "title": "Made a tool to convert Manus Desktop app from apple silicon to run on Intel Macs - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ZaiGLM/comments/1uyopk3/made_a_tool_to_convert_manus_desktop_app_from/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kvtvtopp0q3R_9RCpLofj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/a-scorecard-for-the-ai-age": {
       "ts": "2026-07-17T10:00:00+00:00",
       "title": "A scorecard for the AI age",
@@ -130,13 +123,6 @@
       "ts": "2026-07-17T07:50:34+00:00",
       "title": "<b>Manus AI</b> vs Claude – Which AI Is Better (Full Comparison) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOTrTZIceqkc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HXKNNqlLzp0-pTc0mu_Qe",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:945857750199503585": {
-      "ts": "2026-07-17T04:46:09+00:00",
-      "title": "This is both fascinating and a little scary. China's AI agent Manus is getting a lot of attention for one ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jaiganeshdm/videos/-this-is-both-fascinating-and-a-little-scary-chinas-ai-agent-manus-is-getting-a-/1701911547803455/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2KP4y0cNAuHMXIruKMMXhT",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5394,6 +5380,13 @@
       "ts": "2026-08-15T18:52:18+00:00",
       "title": "Free OpenSource Ai Assistant : r/OpenSourceeAI - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/OpenSourceeAI/comments/1vomcn8/free_opensource_ai_assistant/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3SaOyyGnfprwkztSTL1Knt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2593411909726301047": {
+      "ts": "2026-08-15T22:24:59+00:00",
+      "title": "Jay Mandel's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/jaymandel_i-used-manus-ai-before-meta-bought-it-i-activity-7494517221147320320-tT5q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0W8su0UnwDTNWA7bmk3pZy",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
