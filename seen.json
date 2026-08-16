@@ -602,13 +602,6 @@
       "source": "Google DeepMind News",
       "big": true
     },
-    "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/": {
-      "ts": "2026-07-17T15:00:11+00:00",
-      "title": "Introducing Gemini 3.5 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
-      "source": "Google DeepMind News",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:84272426399663022": {
       "ts": "2026-07-21T15:22:59+00:00",
       "title": "AI Automation Specialist | Petra Brands | Jobs By Workable",
@@ -5345,6 +5338,13 @@
       "ts": "2026-08-16T11:25:25+00:00",
       "title": "I Built a Game in 60 Seconds Using AI (Can You Beat My Score?) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/JAK9tLmwVf0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04A4fnOzqpIdfr00Lm7uSq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7113436674136959662": {
+      "ts": "2026-08-16T13:54:23+00:00",
+      "title": "The 20 Best AI Agent Frameworks and Tools for Developers in 2026 - StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/ai-news/insights/2026/best-ai-agent-frameworks-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Ffe13e-S3XQTQXujFcUGg",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
