@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:680342162500349290": {
-      "ts": "2026-07-18T21:10:57+00:00",
-      "title": "<b>Manus AI</b> API Scraper",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.erpweb.com/apiscrapper.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SyVZhIehmfjBozjQJ4d6T",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "26d6bbb55fe548cf": {
       "ts": "2026-07-19T03:02:05+00:00",
       "title": "2.1.215",
@@ -46,13 +39,6 @@
       "ts": "2026-07-19T00:52:32+00:00",
       "title": "As prendas de Natal da NVIDIA e da META - Project Zeros",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.projectzeros.com/shutdown/096-as-prendas-de-natal-da-nvidia-e-da-meta&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wJ6wiPaFGiAjs7FO9cciH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17742714679306405038": {
-      "ts": "2026-07-18T21:11:53+00:00",
-      "title": "Personal AI Agent API - Build Customized AI Assistants",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://agentsapis.com/personal-ai-agent-api/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37kYkeE5Ack73VOarNl5cu",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5409,6 +5395,13 @@
       "title": "Tongguan Copper Foil's Market Cap Tops 100 Billion Yuan as Board Secretary and CFO ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/aa1d3e49-05c2-4d1c-a5a5-ac06b2a0d9c8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cYSzTqJwM8HfuaH02oKHX",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "0ea1ea0503c48c7b": {
+      "ts": "2026-08-17T21:06:05+00:00",
+      "title": "2.1.234",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-234",
+      "source": "Claude Code changelog",
       "big": false
     }
   },
