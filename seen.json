@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14928332091944178308": {
-      "ts": "2026-07-18T11:00:51+00:00",
-      "title": "Comment MANUS and I'll send you link (free credits) + the prompt to try it yourself Most of ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Da7oM8isILA/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0axZuYNXHAv7GmFyT01P8d",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3343142923750101603": {
       "ts": "2026-07-18T14:11:08+00:00",
       "title": "<b>Manus AI</b> Kya Hai? | Understand AI Agents in 1 Minute! #shorts #aitool - YouTube",
@@ -5402,6 +5395,13 @@
       "title": "All AI Courses - 300+ Tutorials - AI Academy",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://academy.techpresso.co/courses%3Fpage%3D2%26category%3Dmarketing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw125xzrENp-KROBLiKpXeJJ",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
+      "ts": "2026-08-17T03:15:00+00:00",
+      "title": "New policy ideas for the Intelligence Age",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "source": "OpenAI News",
       "big": false
     }
   },
