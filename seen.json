@@ -1,12 +1,5 @@
 {
   "seen": {
-    "61205dda9852c635": {
-      "ts": "2026-07-18T01:29:37+00:00",
-      "title": "2.1.214",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-214",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1110217273253392325": {
       "ts": "2026-07-18T02:54:55+00:00",
       "title": "CellCog vs <b>Manus: AI</b> Agent or AI Employee? (2026)",
@@ -5387,6 +5380,13 @@
       "ts": "2026-08-16T15:08:26+00:00",
       "title": "<b>Manus AI</b> Agent Price | MANUSAI to USD Live Price Index - CoinTracker",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cointracker.com/price/manus-ai-agent-c1hwg2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0yBifNQ6ubp_E0LJY57Jh_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1671631394386540551": {
+      "ts": "2026-08-16T06:08:19+00:00",
+      "title": "SOCIAL BOT AI – Telegram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://t.me/s/socialbotaii%3Fbefore%3D1482&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yu5509x_T2Idu8h0AWXeB",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
