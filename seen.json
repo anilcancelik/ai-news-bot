@@ -28,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:30315530372513127": {
-      "ts": "2026-07-19T00:52:32+00:00",
-      "title": "As prendas de Natal da NVIDIA e da META - Project Zeros",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.projectzeros.com/shutdown/096-as-prendas-de-natal-da-nvidia-e-da-meta&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wJ6wiPaFGiAjs7FO9cciH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10629765796538545993": {
       "ts": "2026-07-19T15:11:08+00:00",
       "title": "AI MASTERY VIDEO COURSE PLR Review by williamreview1 - StackBlitz",
@@ -5416,6 +5409,20 @@
       "title": "Build zero-trust AI agents with Google's Agent Development Kit",
       "link": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit/",
       "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6059879133218285929": {
+      "ts": "2026-08-17T21:56:09+00:00",
+      "title": "<b>Manus AI</b> Explained: How It Works, Uses, Pricing &amp; More - Bleap",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bleap.finance/en-us/blog/manus-ai-explained&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Ot1n3Px6jrg9egEDI5oBN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18187866226286929567": {
+      "ts": "2026-08-17T01:15:12+00:00",
+      "title": "<b>Manus AI</b> (마누스) - 범용 AI 에이전트は安全で信頼できる？レビュー分析（App Store）| Unstar",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://unstar.app/ja/app/6740909540/is-it-legit%3Fcountry%3Dkr%26platform%3Dios&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1FO4k-6pfr2P58HNr8llRc",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
