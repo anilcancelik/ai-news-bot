@@ -5424,6 +5424,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://nextgenaicoach.com/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xpgxfPlJTrZOfQMkkN65W",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/nvidia/chatgpt-work": {
+      "ts": "2026-08-18T00:00:00+00:00",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "link": "https://openai.com/index/nvidia/chatgpt-work",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14566260011606269620": {
+      "ts": "2026-08-18T23:16:16+00:00",
+      "title": "Follow and comment STACK - Which AI tool is worth paying for? - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DcMh-RnlWPD/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vcpK7pAKaJfQaYAp9pvtz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-18"
