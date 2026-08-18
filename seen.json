@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13253258528079600144": {
-      "ts": "2026-07-19T22:41:42+00:00",
-      "title": "European Business Exposure to Ecosystem Degradation: Sector Risk, Financial Impact, and ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://docsi.ai/reports/10514734-8967-41a1-835c-4a774e9d9d75&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2g4io10DuEQSBtb-yaU774",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15464681595116515019": {
       "ts": "2026-07-20T11:39:00+00:00",
       "title": "Alibaba Launches Qwen3.8 Max 2.4 Trillion-Parameter AI Model - The Technology Express",
@@ -5408,6 +5401,27 @@
       "ts": "2026-08-18T17:25:08+00:00",
       "title": "China forces Meta to unwind $2 billion acquisition of <b>Manus AI</b> as startup returns to ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.technewshub.co.uk/post/china-forces-meta-to-unwind-2-billion-acquisition-of-manus-ai-as-startup-returns-to-independent-ope&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Z_F_37SkM5dfrxjTPh5Wo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "a32d3a44f9dc69cc": {
+      "ts": "2026-08-18T22:28:55+00:00",
+      "title": "2.1.235",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-235",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14681365743910185815": {
+      "ts": "2026-08-18T17:16:44+00:00",
+      "title": "<b>Manus AI</b> Pricing Plans 2026 Credits - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-ai-pricing-plans-2026-credits/%3Flocale%3Duk_UA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37_QNe4HhlgLl5CpTnhSQ8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11801714411640421034": {
+      "ts": "2026-08-18T06:17:56+00:00",
+      "title": "Manus - nextgenaicoach.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nextgenaicoach.com/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xpgxfPlJTrZOfQMkkN65W",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
