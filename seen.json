@@ -5424,6 +5424,20 @@
       "link": "https://openai.com/index/asana",
       "source": "OpenAI News",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13047435259017657405": {
+      "ts": "2026-08-18T16:16:50+00:00",
+      "title": "Harvard Graduate Robert S. Shumake PhD Completes Harvard Data - openPR.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4606803/harvard-graduate-robert-s-shumake-phd-completes-harvard-data&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IzhBlmCK850oC5aiDLWAT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8576040393506366902": {
+      "ts": "2026-08-17T22:31:36+00:00",
+      "title": "<b>Manus AI</b> Asset Profile | Preqin",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.preqin.com/data/profile/asset/manus-ai/739228&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o0vSTBPp2Mdx63hx7ceER",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-18"
