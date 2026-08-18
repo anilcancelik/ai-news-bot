@@ -5417,6 +5417,13 @@
       "link": "https://openai.com/index/chatgpt-for-teens",
       "source": "OpenAI News",
       "big": true
+    },
+    "https://claude.com/blog/the-claude-science-product-guide": {
+      "ts": "2026-08-18T00:00:00+00:00",
+      "title": "The Claude Science product guide",
+      "link": "https://claude.com/blog/the-claude-science-product-guide",
+      "source": "Claude Blog",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-18"
