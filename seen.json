@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:11386268260943205043": {
-      "ts": "2026-07-19T20:35:36+00:00",
-      "title": "The Freedom Pyramid in 2026! {ChatGPT, Claude, Hermes, Stripe, Higgsfield, Canva AI ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Da_OjIrk6-q/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1T4xhKleqIgamSy7agjhE2",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14614103478218422819": {
-      "ts": "2026-07-19T20:39:52+00:00",
-      "title": "Bitrue Launched Stellar XLM Yield Farming ⏬️ https://t.co/15 | KuCoin",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kucoin.com/news/trends/XLM/6a59ef8bf8866c0007a550ba&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01uN2_znq-yw1VT2IM1dQB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:15675946154626266737": {
       "ts": "2026-07-20T06:32:19+00:00",
       "title": "Open Source Alternatives to Empiretek (2026) | StartupHub.ai",
@@ -5430,6 +5416,13 @@
       "title": "Strengthening Democratic Oversight in National Security",
       "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
       "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1502760214883005004": {
+      "ts": "2026-08-18T17:25:08+00:00",
+      "title": "China forces Meta to unwind $2 billion acquisition of <b>Manus AI</b> as startup returns to ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.technewshub.co.uk/post/china-forces-meta-to-unwind-2-billion-acquisition-of-manus-ai-as-startup-returns-to-independent-ope&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Z_F_37SkM5dfrxjTPh5Wo",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
