@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:14267022802537665807": {
-      "ts": "2026-07-19T11:15:27+00:00",
-      "title": "How to Create a 3D Gaming Room Background with <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DkFStU48_UDU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2l7slgd-G6Ss4lWEacvQoS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10629765796538545993": {
       "ts": "2026-07-19T15:11:08+00:00",
       "title": "AI MASTERY VIDEO COURSE PLR Review by williamreview1 - StackBlitz",
@@ -5438,6 +5431,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://chambers.com/articles/offshore-shell-onshore-roots-jurisdiction-in-the-meta-manus-transaction&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2y6j-HIjUnkNcwGzQ3_VGw",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/partnering-with-codeai": {
+      "ts": "2026-08-18T11:00:00+00:00",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "link": "https://openai.com/index/partnering-with-codeai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/chatgpt-for-teens": {
+      "ts": "2026-08-18T11:00:00+00:00",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "link": "https://openai.com/index/chatgpt-for-teens",
+      "source": "OpenAI News",
+      "big": true
     }
   },
   "last_digest_date": "2026-08-18"
