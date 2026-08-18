@@ -98,13 +98,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:5497674199590577684": {
-      "ts": "2026-07-19T16:42:43+00:00",
-      "title": "Open Source Alternatives to Dowarmy (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/dowarmy/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zveCz7tnmsP88V9vvNHAH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://claude.com/blog/working-at-the-frontier-rakuten": {
       "ts": "2026-07-20T00:00:00+00:00",
       "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
@@ -5423,6 +5416,13 @@
       "title": "The Claude Science product guide",
       "link": "https://claude.com/blog/the-claude-science-product-guide",
       "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/asana": {
+      "ts": "2026-08-18T07:00:00+00:00",
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "link": "https://openai.com/index/asana",
+      "source": "OpenAI News",
       "big": false
     }
   },
