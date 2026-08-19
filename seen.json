@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:7441807743076311785": {
-      "ts": "2026-07-20T20:11:06+00:00",
-      "title": "Geneva AI Week - UN Global Dialog on AI Policy - AI for Good Summit | Yash Mukesh - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/yash-mukesh-ai_geneva-ai-week-un-global-dialog-on-ai-policy-activity-7484987523799080960-0rvO&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YCZObT7GfCVVeHsN3icCS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "25269223dd031ed5": {
       "ts": "2026-07-20T22:21:07+00:00",
       "title": "2.1.216",
@@ -32,13 +25,6 @@
       "ts": "2026-07-20T21:54:30+00:00",
       "title": "<b>Manus Ai</b> for Content Scripts | TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/discover/manus-ai-for-content-scripts&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3I2jReBXFNMeEOuKO4tKxJ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10697004354149420147": {
-      "ts": "2026-07-20T20:14:38+00:00",
-      "title": "How To Cancel Your Emergent AI Subscription (Step-By-Step) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBwobjVh-cNg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BInNOTMyISUO2ZfT1i1ip",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5373,6 +5359,13 @@
       "ts": "2026-08-19T19:00:00+00:00",
       "title": "Offering Zero Data Retention for frontier models",
       "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models": {
+      "ts": "2026-08-19T19:00:00+00:00",
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI News",
       "big": false
     }
