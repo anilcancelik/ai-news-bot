@@ -5382,6 +5382,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.databahn.com/blogs/fortune-500-org-charts/youre-overfeeding-ai-wrong-the-one-afternoon-fix-for-your-top-10-account-plans&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15v-j9D8YzN9PkOGiipvAz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/our-commitment-to-zero-data-retention": {
+      "ts": "2026-08-19T19:00:00+00:00",
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "source": "OpenAI News",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-19"
