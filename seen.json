@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8425382710061505105": {
-      "ts": "2026-07-20T21:47:02+00:00",
-      "title": "weedooit - GitHub Gist",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://gist.github.com/weedooit%3Fdirection%3Dasc%26sort%3Dupdated&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw320xl4GfZcz4V25pHOz6O1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4894148025343540081": {
       "ts": "2026-07-20T23:42:35+00:00",
       "title": "<b>Manus AI</b> Vs Claude Which AI Thinks Smarter (Easy Comparison) - YouTube",
@@ -5346,6 +5339,13 @@
       "title": "Offering Zero Data Retention for frontier models",
       "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4489390791932231222": {
+      "ts": "2026-08-19T12:09:26+00:00",
+      "title": "<b>Manus AI</b> Mastery Bootcamp: Automate &amp; Accelerate Your Workflow - TimTis",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.timtis.com/course/manus-ai-mastery-bootcamp-automate-accelerate-your-workflow/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1sAPIzAl6N0hYRkulWmvH5",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
