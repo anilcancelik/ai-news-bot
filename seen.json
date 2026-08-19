@@ -42,13 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13302832438097057970": {
-      "ts": "2026-07-20T23:04:32+00:00",
-      "title": "Google Gemini - You Might Also Like - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/hr/app/6477489729%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3G8Iw1bAVhwjv8-F76ofru",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://claude.com/blog/how-datadog-built-a-universal-machine-tool-for-claude-code": {
       "ts": "2026-07-21T00:00:00+00:00",
       "title": "How Datadog built a “universal machine tool” for Claude Code",
@@ -5332,6 +5325,13 @@
       "title": "A Practical 2026 Guide to Browser Research Session Planning | AI Tools Galaxy",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aitoolsgalaxyofficial.com/blog/a-practical-2026-guide-to-browser-research-session-planning&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17EYcNgtnahHFeN8p4g_rC",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "4d57132b7c1db4cc": {
+      "ts": "2026-08-19T22:51:18+00:00",
+      "title": "2.1.236",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-236",
+      "source": "Claude Code changelog",
       "big": false
     }
   },
