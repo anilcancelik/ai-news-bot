@@ -35,13 +35,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://openai.com/index/safety-alignment-long-horizon-models": {
-      "ts": "2026-07-20T10:00:00+00:00",
-      "title": "Safety and alignment in an era of long-horizon models",
-      "link": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://cursor.com/blog/agent-swarm-model-economics": {
       "ts": "2026-07-20T12:00:00+00:00",
       "title": "Agent swarms and the new model economics",
@@ -5409,6 +5402,20 @@
       "title": "ChatGPT Ads expands across Europe",
       "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6916261318330917435": {
+      "ts": "2026-08-19T06:05:51+00:00",
+      "title": "what I actually want from a Manus alternative: don't lose the plot halfway through - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_Agents/comments/1vsdff0/what_i_actually_want_from_a_manus_alternative/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1KNfNKDAHgDhsU1XTdsL3B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7122253643810137308": {
+      "ts": "2026-08-18T11:36:37+00:00",
+      "title": "One of the most powerful AI agent tools is FREE; but only for a limited time. If you've been ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jonahtebaa/videos/one-of-the-most-powerful-ai-agent-tools-is-free-but-only-for-a-limited-time-if-y/1817003176382279/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zNXUDzpSBSC_30j7yvL5G",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
