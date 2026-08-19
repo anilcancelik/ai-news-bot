@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4894148025343540081": {
-      "ts": "2026-07-20T23:42:35+00:00",
-      "title": "<b>Manus AI</b> Vs Claude Which AI Thinks Smarter (Easy Comparison) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D2b8aK6AgPgc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1O0FICQP8qelxIJ5biOdt2",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14821615109905442026": {
-      "ts": "2026-07-20T23:24:34+00:00",
-      "title": "The U.S. May Not Ban Chinese AI. Washington Has a Different Plan to Compete With Beijing",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.com/us-may-not-ban-chinese-ai-washington-has-different-plan-compete-beijing-3805508&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0mCmmHZ_uxL1pBOooXinhO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:18218670126100344678": {
       "ts": "2026-07-21T00:23:30+00:00",
       "title": "How to Scale Your CPG Brand with AI — Manus for SMB Webinar Recording - YouTube",
@@ -25,13 +11,6 @@
       "ts": "2026-07-21T00:04:02+00:00",
       "title": "How to Win in Real Estate with AI — Manus for SMB Webinar Recording - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DZnGuBBJDV4E&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2qcnCTIFyViTL3ujRi2p_E",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13561313229383683677": {
-      "ts": "2026-07-20T23:26:28+00:00",
-      "title": "<b>Manus AI</b> Vs Claude 3.5 Which Is Faster [Quick Comparison Guide] - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dj4e2_gxgXxg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1JTy8OPq9QY-Hbj0ScazAz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5332,6 +5311,13 @@
       "title": "2.1.236",
       "link": "https://code.claude.com/docs/en/changelog#2-1-236",
       "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4674384135931134666": {
+      "ts": "2026-08-19T14:31:12+00:00",
+      "title": "The best AI tool depends on what you're actually trying to do. For writing, I'd take Claude ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DcOaDlglgA7/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0PBz0GGBZE_1VokePhFMcq",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
