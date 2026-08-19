@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4320020189678740719": {
-      "ts": "2026-07-20T14:26:39+00:00",
-      "title": "Top 3 AI stocks to buy as Kimi K3 reshapes chip design - Investing.com",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.investing.com/news/stock-market-news/top-3-ai-stocks-to-buy-as-kimi-k3-reshapes-chip-design-93CH-4800313&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3MrATRKe0AImJZZSaiEB__",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1855305999963850288": {
       "ts": "2026-07-20T15:14:06+00:00",
       "title": "#heimanus #ai #generativeai #aiagents | Joseph Ch'ng - LinkedIn",
@@ -5374,6 +5367,13 @@
       "title": "One of the most powerful AI agent tools is FREE; but only for a limited time. If you've been ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jonahtebaa/videos/one-of-the-most-powerful-ai-agent-tools-is-free-but-only-for-a-limited-time-if-y/1817003176382279/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zNXUDzpSBSC_30j7yvL5G",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/replit": {
+      "ts": "2026-08-19T07:00:00+00:00",
+      "title": "Replit expands access to software creation with GPT-5.6 Luna",
+      "link": "https://openai.com/index/replit",
+      "source": "OpenAI News",
       "big": false
     }
   },
