@@ -35,32 +35,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:955373102094609675": {
-      "ts": "2026-07-20T00:23:55+00:00",
-      "title": "How to Measure AI Search Visibility (Tools &amp; Methods) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DUP7A2mRHZko%26vl%3Dpa&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fgzWcqkXV0nh2nDJQNh_w",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9657313799918461936": {
       "ts": "2026-07-20T13:37:36+00:00",
       "title": "7 Best AI Presentation Makers to Turn Text into Slides | Gamma.app",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://gamma.app/fa/explore/content/guides/7-best-ai-presentation-makers-to-turn-text-into-slides&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0WMDyFATG40snxY_D5fUUK",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/working-at-the-frontier-rakuten": {
-      "ts": "2026-07-20T00:00:00+00:00",
-      "title": "Working at the frontier: How Rakuten builds agents overnight with Claude Fable 5",
-      "link": "https://claude.com/blog/working-at-the-frontier-rakuten",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/": {
-      "ts": "2026-07-20T00:00:00+00:00",
-      "title": "Run Ray on TPU, Part 1: The foundations",
-      "link": "https://developers.googleblog.com/run-ray-on-tpu-part-1-the-foundations/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:4320020189678740719": {
@@ -75,13 +54,6 @@
       "title": "Kled AI: Earn Rewards by Sharing Your Data Ethically - Quasa.io",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/kled-ai-earn-rewards-by-sharing-your-data-ethically&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uK_3xbnkn0Jn3AotSX_NO",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/news/rare-disease-research-grants": {
-      "ts": "2026-07-20T00:00:00+00:00",
-      "title": "Apply for Anthropic’s AI for Science rare disease research grants",
-      "link": "https://www.anthropic.com/news/rare-disease-research-grants",
-      "source": "Anthropic News",
       "big": false
     },
     "https://openai.com/index/safety-alignment-long-horizon-models": {
