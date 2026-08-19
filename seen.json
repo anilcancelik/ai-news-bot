@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1855305999963850288": {
-      "ts": "2026-07-20T15:14:06+00:00",
-      "title": "#heimanus #ai #generativeai #aiagents | Joseph Ch'ng - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/josephchng_heimanus-ai-generativeai-activity-7484913658784010240-IkD2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xuTC4wn9QFFk8hjRnGmBh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13604877004562786684": {
       "ts": "2026-07-20T18:33:34+00:00",
       "title": "Social media might stop being a place where we talk about work and start being a place where work",
@@ -123,13 +116,6 @@
       "ts": "2026-07-20T23:26:28+00:00",
       "title": "<b>Manus AI</b> Vs Claude 3.5 Which Is Faster [Quick Comparison Guide] - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dj4e2_gxgXxg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1JTy8OPq9QY-Hbj0ScazAz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2805104301199368072": {
-      "ts": "2026-07-20T15:14:53+00:00",
-      "title": "<b>Manus – AI</b> agents | AI Tool Box",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aibot-box.com/en/tool/manus-69322/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39FEz3wqi5hYUWo9TWfo9a",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
