@@ -5312,6 +5312,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/grxPH0tkKQk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0I7qKKLP-sPKziyxVTzcRz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/introducing-ai-futures": {
+      "ts": "2026-08-20T07:00:00+00:00",
+      "title": "Introducing AI Futures",
+      "link": "https://openai.com/index/introducing-ai-futures",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:15456397538891620226": {
+      "ts": "2026-08-20T02:19:01+00:00",
+      "title": "Irreplaceable attributes in an AI world — Q&amp;A with the CIMA president",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/podcast/irreplaceable-attributes-in-an-ai-world-qa-with-the-cima-president/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fHGFucKGQr6hVjAMLd9E8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-20"
