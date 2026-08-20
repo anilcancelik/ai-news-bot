@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:13588173916993092363": {
-      "ts": "2026-07-21T02:01:35+00:00",
-      "title": "Tag: <b>Manus AI</b> - Asia Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://asiatimes.com/tag/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NO87b6sEaGdniTjaBaDpN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/": {
       "ts": "2026-07-21T15:16:30+00:00",
       "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -5269,6 +5262,13 @@
       "title": "#nationalaichallenge #ai #techireland #manus #dublintech | Kevin Collins - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/kevincollinsirl_nationalaichallenge-ai-techireland-activity-7495932801024966656-OE9z&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1E51U-B_cm3ToayBrE18R-",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "c29a7e7771d28610": {
+      "ts": "2026-08-20T02:08:48+00:00",
+      "title": "2.1.237",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-237",
+      "source": "Claude Code changelog",
       "big": false
     }
   },
