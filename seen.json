@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/introducing-chatgpt-small-business-program": {
-      "ts": "2026-07-21T17:00:00+00:00",
-      "title": "Introducing the ChatGPT for small business program",
-      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "source": "OpenAI News",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:16236721633931238335": {
-      "ts": "2026-07-21T17:18:01+00:00",
-      "title": "Evan Seech's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/evan-seech-307a59151_most-agencies-would-charge-10000-for-this-activity-7485369320714227712-kZRT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3CQPcUiE5kpQmsdtgcSODr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14179390089418188363": {
       "ts": "2026-07-21T19:10:29+00:00",
       "title": "is it possible for claude ai to fix <b>manus ai</b> created website without changing the layout and look?",
@@ -67,13 +53,6 @@
       "ts": "2026-07-21T20:27:05+00:00",
       "title": "How to LOGIN to <b>Manus AI</b> (Step by Step) 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D6OonP9dOybU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1NwnThLnMOb7mxVC-6Pki7",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6014852672893775092": {
-      "ts": "2026-07-21T16:52:25+00:00",
-      "title": "[Hiring] AI Automation Specialist @Petra Brands - Remotive",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://remotive.com/remote/jobs/artificial-intelligence/ai-automation-specialist-5297635&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0otHWqEFVtU1qhGGYQNFOL",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5331,6 +5310,13 @@
       "ts": "2026-08-20T14:16:00+00:00",
       "title": "I Built an Entire Business With 1 Prompt | Manus Alternative | Full Workflow - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DGEoZGigMbGk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WT4DnKa36rCyINZfDePoa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2770414419873682778": {
+      "ts": "2026-08-20T14:49:53+00:00",
+      "title": "Ranking the Biggest AI Platforms From Best to Worst - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/grxPH0tkKQk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0I7qKKLP-sPKziyxVTzcRz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
