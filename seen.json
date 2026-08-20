@@ -140,13 +140,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13643339640177480353": {
-      "ts": "2026-07-21T16:16:43+00:00",
-      "title": "Meta to Acquire AI Startup Manus: There's an 'Arms Race' in AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://af.net/es/realtime/meta-to-acquire-ai-startup-manus-theres-an-arms-race-in-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0HBU2hi19C1GQQs3xvk6M9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/": {
       "ts": "2026-07-22T13:38:54+00:00",
       "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
@@ -5332,6 +5325,13 @@
       "title": "How ChatGPT Work helps Stampli move ideas to market",
       "link": "https://openai.com/index/stampli",
       "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8080099935010362492": {
+      "ts": "2026-08-20T14:16:00+00:00",
+      "title": "I Built an Entire Business With 1 Prompt | Manus Alternative | Full Workflow - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DGEoZGigMbGk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WT4DnKa36rCyINZfDePoa",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
