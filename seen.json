@@ -63,13 +63,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:9645617174678737276": {
-      "ts": "2026-07-22T20:31:29+00:00",
-      "title": "Stop Scrolling. This AI Business Made $3,400 Last Month. - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYIncJv4d3Wo%26vl%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ML6oOqVQtD6FUPOUdnvVk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/health-in-chatgpt": {
       "ts": "2026-07-23T00:00:00+00:00",
       "title": "Launching Health in ChatGPT",
@@ -5233,6 +5226,20 @@
       "ts": "2026-08-21T17:21:23+00:00",
       "title": "<b>Manus AI</b> - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_manus-activity-7496582126805614593-3Qr_&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3aCTN4MpF5FaP-Ayg20Xp8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8274822471409629901": {
+      "ts": "2026-08-21T19:37:19+00:00",
+      "title": "<b>Manus AI</b> เชื่อถือได้ไหม? ปลอดภัยหรือหลอกลวง? (Google Play) - Unstar.app",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://unstar.app/th/app/tech.butterfly.app/is-it-legit%3Fcountry%3Dus%26platform%3Dandroid&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw36YfnbSLmgk5Q04mUApptl",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14149656955340955597": {
+      "ts": "2026-08-21T18:35:01+00:00",
+      "title": "Finance AI Tools | The Rundown AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therundown.ai/tools-category/finance&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3nZtQdr8b60llRQ38bziw1",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
