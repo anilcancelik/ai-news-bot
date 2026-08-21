@@ -21,13 +21,6 @@
       "source": "Google DeepMind News",
       "big": false
     },
-    "https://openai.com/index/advancing-the-next-era-of-national-science": {
-      "ts": "2026-07-22T12:00:00+00:00",
-      "title": "Advancing the next era of national science",
-      "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15212731947695761405": {
       "ts": "2026-07-22T15:59:12+00:00",
       "title": "Why Britain nationalised British Steel despite Chinese outrage - ThinkChina.sg",
@@ -5262,6 +5255,13 @@
       "title": "Shopify + GemPages Developer — Integrate AI-Built Pages 1713691 - OnlineJobs.ph",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.onlinejobs.ph/jobseekers/job/shopify-gempages-developer-integrate-ai-built-pages-1713691&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3t_xzhKTXoQFLRk9woZdT3",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
+      "ts": "2026-08-21T11:59:48+00:00",
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "source": "Google DeepMind News",
       "big": false
     }
   },
