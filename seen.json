@@ -21,13 +21,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/introducing-openai-presence": {
-      "ts": "2026-07-22T05:30:00+00:00",
-      "title": "Introducing OpenAI Presence",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "source": "OpenAI News",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:5322623789681346238": {
       "ts": "2026-07-22T13:20:10+00:00",
       "title": "8 AI updates you missed this week Kimi K3 landed and shook the leaderboards. Codex ... - Facebook",
