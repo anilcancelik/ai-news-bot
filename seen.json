@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:16461772844698575369": {
-      "ts": "2026-07-22T00:01:09+00:00",
-      "title": "Meta's unwinding of Manus shows even forced deals have merits - Financial Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/bdd09ed8-368c-4264-ac9f-936044a10213%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0KsvCSD1edto8uV8YlR_7L",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16112745737644526254": {
       "ts": "2026-07-22T04:28:49+00:00",
       "title": "What Hong Kong's Go Global Lawyers Need to Know About the Northern Metropolis",
@@ -84,47 +77,12 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude": {
-      "ts": "2026-07-22T00:00:00+00:00",
-      "title": "How Outtake built a cyber investigator on Claude",
-      "link": "https://claude.com/blog/how-outtake-built-a-cyber-investigator-on-claude",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/advancing-the-next-era-of-national-science": {
       "ts": "2026-07-22T12:00:00+00:00",
       "title": "Advancing the next era of national science",
       "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
       "source": "OpenAI News",
       "big": false
-    },
-    "https://www.anthropic.com/news/anthropic-economic-index-connector": {
-      "ts": "2026-07-22T00:00:00+00:00",
-      "title": "Ask Claude about the Anthropic Economic Index",
-      "link": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://www.anthropic.com/news/economic-futures-research-fund-agenda": {
-      "ts": "2026-07-22T00:00:00+00:00",
-      "title": "A research agenda for the Economic Futures Research Fund",
-      "link": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills": {
-      "ts": "2026-07-22T00:00:00+00:00",
-      "title": "Building verification loops in Claude Code with skills",
-      "link": "https://claude.com/blog/building-verification-loops-in-claude-code-with-skills",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://cursor.com/blog/router": {
-      "ts": "2026-07-22T00:00:00+00:00",
-      "title": "Introducing Cursor Router",
-      "link": "https://cursor.com/blog/router",
-      "source": "Cursor Blog",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:15212731947695761405": {
       "ts": "2026-07-22T15:59:12+00:00",
@@ -208,13 +166,6 @@
       "title": "Generative AI Roadmap 2026 | Complete Beginner to Job Ready Guide - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3QeSrqmA2Q8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1pjVX6yU4JMKKqlLjDl9o3",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/ntt-data": {
-      "ts": "2026-07-22T00:00:00+00:00",
-      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
-      "link": "https://openai.com/index/ntt-data",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:15163053670229788491": {
