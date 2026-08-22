@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8327061199059137769": {
-      "ts": "2026-07-23T13:05:14+00:00",
-      "title": "Manus Resets Credits? : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1v40qpr/manus_resets_credits/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Kly5iV0Fo1F--pqVWVFud",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12652203294183439106": {
       "ts": "2026-07-23T20:40:25+00:00",
       "title": "See What AI Tells Buyers About You in 20 Minutes - YouTube",
@@ -5192,6 +5185,69 @@
       "title": "Build an AI Overview Tracker for Your Brand - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhH6Ja0hH-k0%26vl%3Dpt-BR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ib1bh1jWmj-IuCMDlsLbM",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/the-ai-native-sdlc-playbook": {
+      "ts": "2026-08-21T00:00:00+00:00",
+      "title": "The AI-Native SDLC playbook",
+      "link": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders": {
+      "ts": "2026-08-21T00:00:00+00:00",
+      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
+      "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/computer-use-skills-api-files-api": {
+      "ts": "2026-08-20T00:00:00+00:00",
+      "title": "Build production agents with computer use, the Skills API, and the Files API",
+      "link": "https://claude.com/blog/computer-use-skills-api-files-api",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-code-guide-for-startups": {
+      "ts": "2026-08-20T00:00:00+00:00",
+      "title": "The Claude Code guide for startups",
+      "link": "https://claude.com/blog/claude-code-guide-for-startups",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate": {
+      "ts": "2026-08-20T00:00:00+00:00",
+      "title": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
+      "link": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai": {
+      "ts": "2026-08-20T00:00:00+00:00",
+      "title": "Anthropic’s approach to teaching and learning AI",
+      "link": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams": {
+      "ts": "2026-08-19T00:00:00+00:00",
+      "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
+      "link": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/ai-ci-cd-on-call": {
+      "ts": "2026-08-18T00:00:00+00:00",
+      "title": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
+      "link": "https://claude.com/blog/ai-ci-cd-on-call",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/git-at-any-scale": {
+      "ts": "2026-08-18T12:00:00+00:00",
+      "title": "Git at any scale",
+      "link": "https://cursor.com/blog/git-at-any-scale",
+      "source": "Cursor Blog",
       "big": false
     }
   },
