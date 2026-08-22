@@ -42,13 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://openai.com/index/health-in-chatgpt": {
-      "ts": "2026-07-23T00:00:00+00:00",
-      "title": "Launching Health in ChatGPT",
-      "link": "https://openai.com/index/health-in-chatgpt",
-      "source": "OpenAI News",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:2151761039751972219": {
       "ts": "2026-07-23T06:41:30+00:00",
       "title": "Ai Revolution - Towards AI",
@@ -75,13 +68,6 @@
       "title": "Manus Resets Credits? : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1v40qpr/manus_resets_credits/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Kly5iV0Fo1F--pqVWVFud",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/think-through-hard-problems-in-voice-mode": {
-      "ts": "2026-07-23T00:00:00+00:00",
-      "title": "Think through hard problems in voice mode",
-      "link": "https://claude.com/blog/think-through-hard-problems-in-voice-mode",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:12652203294183439106": {
@@ -117,13 +103,6 @@
       "title": "Against Alternatives &amp; Competitors (2026) | StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/against/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mJsybyQZOttucamDWnLA0",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/four-role-based-claude-certifications": {
-      "ts": "2026-07-23T00:00:00+00:00",
-      "title": "Four role-based certifications for the people who put Claude to work for customers",
-      "link": "https://claude.com/blog/four-role-based-claude-certifications",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:2376214118360168930": {
@@ -5233,6 +5212,13 @@
       "ts": "2026-08-21T18:39:01+00:00",
       "title": "OpenClaw vs. <b>Manus AI</b>: Open-Source Control vs. Cloud Convenience | MyClaw.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/ar/blog/openclaw-vs-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BkTvGly2uBN4t2hDlVTF8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5292560664309982346": {
+      "ts": "2026-08-21T20:41:57+00:00",
+      "title": "Barebone AI Review on Quasa: Wall Street Research for Everyone",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/barebone-ai-review-on-quasa-wall-street-research-for-everyone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2wUDlb6KbZy7N-hx4uuz0G",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
