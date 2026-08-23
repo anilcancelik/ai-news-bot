@@ -1,30 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:2376214118360168930": {
-      "ts": "2026-07-24T00:13:48+00:00",
-      "title": "New Manus Plan Mode is INSANE! - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DNrcGo9AXr9A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0SjuOUC7gPQnkXmgSEr0cn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:11958339255515999329": {
       "ts": "2026-07-24T01:58:57+00:00",
       "title": "The 10-Minute Scorecard for Buying Any AI Tool - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dl8JB5MgK_yk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BtWjAZaVFVw_sGcTZAWoN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7854182472727887885": {
-      "ts": "2026-07-24T00:42:50+00:00",
-      "title": "App name &quot;Weargen&quot; #trending - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbHy4cePgI0/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LAFrkn-F7jyIQY12qvCKF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7757155827790576126": {
-      "ts": "2026-07-24T00:31:51+00:00",
-      "title": "Still manually building presentations in 2026? Stop. <b>Manus AI</b> is the first general agent that ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/FellMentKE/status/2080347454579614047&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ZckJalmM4isfTXPY3wr_-",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -63,20 +42,6 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://www.anthropic.com/news/claude-opus-5": {
-      "ts": "2026-07-24T00:00:00+00:00",
-      "title": "Introducing Claude Opus 5",
-      "link": "https://www.anthropic.com/news/claude-opus-5",
-      "source": "Anthropic News",
-      "big": true
-    },
-    "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/": {
-      "ts": "2026-07-24T00:00:00+00:00",
-      "title": "Run Ray on TPU, Part 2: Ray AI libraries",
-      "link": "https://developers.googleblog.com/run-ray-on-tpu-part-2-ray-ai-libraries/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:11265969553286347917": {
       "ts": "2026-07-24T05:25:41+00:00",
       "title": "<b>Manus AI</b> (Android 7.0+) APKs - APKMirror",
@@ -84,38 +49,10 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case": {
-      "ts": "2026-07-24T00:00:00+00:00",
-      "title": "Claude models explained: choosing the best model for your use case",
-      "link": "https://claude.com/blog/claude-models-explained-choosing-the-best-model-for-your-use-case",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models": {
-      "ts": "2026-07-24T00:00:00+00:00",
-      "title": "The new rules of context engineering for Claude 5 generation models",
-      "link": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them": {
-      "ts": "2026-07-24T00:00:00+00:00",
-      "title": "How the product designer who built Claude Design uses it to explore ideas before building them",
-      "link": "https://claude.com/blog/how-the-product-designer-who-built-claude-design-uses-it-to-explore-ideas-before-building-them",
-      "source": "Claude Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3741077883401819290": {
       "ts": "2026-07-24T15:07:03+00:00",
       "title": "Europe Energy Crisis Threatens Industrial Recovery - Brussels Morning Newspaper",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://brusselsmorning.com/europe-energy-crisis-industrial-impact/101155/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw08D2e0eosNZEtIDDsfo1D4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10802776874560090569": {
-      "ts": "2026-07-24T00:03:34+00:00",
-      "title": "Cool devs don't gatekeep. Pt. 04 Comment “VIBE” and I'll send you all 4 Why do ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbJiyk2yA5J/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00yohq39ocfCzp2vFoGPQD",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5317,6 +5254,13 @@
       "ts": "2026-08-21T22:02:51+00:00",
       "title": "Is <b>Manus - AI</b> Agent &amp; Automation Safe for Kids? Parents Guide (App Store) | Unstar",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://unstar.app/app/6740909540/safe-for-kids%3Fcountry%3Den-US%26platform%3Dios&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3U5u_t2wmxrDsHmix2v5Ue",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2946772721192163181": {
+      "ts": "2026-08-22T21:03:56+00:00",
+      "title": "Omg #ad #manuspartner #<b>manus #ai</b> #howitworks - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/28d4p5KekhM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0WfavHwPRBeQtQbUJVx8W5",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
