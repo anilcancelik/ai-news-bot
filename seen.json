@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6482387150116931149": {
-      "ts": "2026-07-24T17:53:33+00:00",
-      "title": "AI Assistants - Global AI Product Index",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://globalaiproductindex.com/categories/ai-assistants/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2zLrrNclqSKn8PasUrXuGm",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "d816e0eac88acbae": {
       "ts": "2026-07-25T01:40:30+00:00",
       "title": "2.1.220",
@@ -5247,6 +5240,13 @@
       "ts": "2026-08-23T12:43:14+00:00",
       "title": "Origin Review on Quasa: All-in-One AI Financial Platform",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/origin-review-on-quasa-all-in-one-ai-financial-platform&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3VC39_IzZyGHcoNPOccvP_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17758845139563665579": {
+      "ts": "2026-08-23T11:27:47+00:00",
+      "title": "Genspark Vs Manus - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/genspark-vs-manus/%3Flocale%3Dfa_IR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MPi1aSJiKgymYuOmGUTTb",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
