@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5691916956664074853": {
-      "ts": "2026-07-25T20:47:46+00:00",
-      "title": "Asmaa Buniyasen's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/asmaa-buniyasen-7a2b8a166_just-wrapped-up-a-hands-on-session-on-claude-activity-7486792356785205248-tNEs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gWbORMN-MJYm8GYSxzW4f",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:8403732238689030194": {
       "ts": "2026-07-26T03:31:53+00:00",
       "title": "Open Source Alternatives to FinNotes Intelligence (2026) | StartupHub.ai",
@@ -5276,6 +5269,55 @@
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "link": "https://openai.com/index/gpt-5-6-in-kiro",
       "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4006812602577264311": {
+      "ts": "2026-08-24T18:07:36+00:00",
+      "title": "Running On-Device LLMs in .NET MAUI with `Microsoft.Maui.Essentials.Ai` - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/dotnetMAUI/comments/1vx8fhw/running_ondevice_llms_in_net_maui_with/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2AYHB_mDy-mardDATvoE-B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10754494862137247555": {
+      "ts": "2026-08-24T17:49:30+00:00",
+      "title": "manus #fail #anger #frustration #ai #stupidity #poorux #communication #timezonefail | Cory R. Cox",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/corycoxsalesandmarketing_manus-fail-anger-activity-7497366563390459908-0mnp&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2F4ruYoDQdoLLh5GjpiJNt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3091671010221577402": {
+      "ts": "2026-08-24T17:37:57+00:00",
+      "title": "AI investment rises, but business value lags - Financial Management magazine",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/news/2026/aug/ai-investment-rises-but-business-value-lags/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Y7JB7eBIS77wLxex2q6qJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16349748992583687968": {
+      "ts": "2026-08-24T17:28:37+00:00",
+      "title": "How to Use <b>Manus AI</b> Desktop to Automate Your Computer - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DuKF2Cqv0rtg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0EJfJqb_ArNVoQENaxDEHA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16949429620636949871": {
+      "ts": "2026-08-24T06:24:51+00:00",
+      "title": "<b>Manus AI</b> Past Events - Prosple Hong Kong",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.prosple.com/graduate-employers/manus-ai/events/past&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_gpe6o7yRQrP5CLW1TuyI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15286218870183131623": {
+      "ts": "2026-08-24T05:32:44+00:00",
+      "title": "stop scraping Apollo.io for the same leads as everyone else use these instead",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/pengirlchetna_stop-scraping-apolloio-for-the-same-leads-activity-7497522341091008512-mO04&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hVC4HXtQ49a9j-WLy4lIc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:696803893660099844": {
+      "ts": "2026-08-24T04:09:10+00:00",
+      "title": "treyleo16/manus - Ollama",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ollama.com/treyleo16/manus:latest&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1HrCoFQRXLpD-sboq_JAMp",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
