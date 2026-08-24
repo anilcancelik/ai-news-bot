@@ -5270,6 +5270,13 @@
       "link": "https://developers.googleblog.com/how-to-evaluate-live-voice-agents-in-adk/",
       "source": "Google Developers Blog - AI",
       "big": false
+    },
+    "https://openai.com/index/gpt-5-6-in-kiro": {
+      "ts": "2026-08-24T12:00:00+00:00",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "link": "https://openai.com/index/gpt-5-6-in-kiro",
+      "source": "OpenAI News",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-24"
