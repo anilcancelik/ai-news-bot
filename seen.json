@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:6608815611387434740": {
-      "ts": "2026-07-25T15:15:31+00:00",
-      "title": "Anthropic released 50+ official prompt templates for developers. 5️⃣ <b>Manus AI</b>: Turns ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbLpVZzEgle/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1xO-GvgtdtBP_Sgr4uzcuO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:18420891541798783791": {
       "ts": "2026-07-25T16:15:25+00:00",
       "title": "Video Editing in Minutes with <b>Manus AI</b> - YouTube",
@@ -5220,6 +5213,13 @@
       "title": "What Is the Best AI That Can Set Its Own Goals Without Human Input? - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/what-is-the-best-ai-that-can-set-its-own-goals-without-human-input/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw14e-824SsZpSitmyMdzXLE",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep": {
+      "ts": "2026-08-24T00:00:00+00:00",
+      "title": "How an Anthropic field marketer uses Claude Code to send weekly personalized updates to every sales rep",
+      "link": "https://claude.com/blog/how-an-anthropic-field-marketer-uses-claude-code-to-send-weekly-personalized-updates-to-every-sales-rep",
+      "source": "Claude Blog",
       "big": false
     }
   },
