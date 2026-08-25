@@ -5410,6 +5410,13 @@
       "link": "https://openai.com/index/introducing-admin-plugin",
       "source": "OpenAI News",
       "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:15188095211305258329": {
+      "ts": "2026-08-25T04:02:22+00:00",
+      "title": "UltraPoint vs <b>Manus AI</b> (2026): Purpose-Built Decks vs a General Agent",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ultrapoint.ai/compare/ultrapoint-vs-manus.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xliJr-rmFDvRASn4LaX3R",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-25"
