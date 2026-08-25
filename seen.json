@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:8403732238689030194": {
-      "ts": "2026-07-26T03:31:53+00:00",
-      "title": "Open Source Alternatives to FinNotes Intelligence (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/finnotes-intelligence/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2YTjwSHxzOXfzZLYXo2X6l",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2001078499298944812": {
       "ts": "2026-07-26T05:56:01+00:00",
       "title": "‎BUTTERFLY EFFECT PTE. LTD. for iPhone - App Store - Apple",
@@ -5346,6 +5339,20 @@
       "title": "IMDEX consolidates geological data platforms in months with Cursor",
       "link": "https://cursor.com/blog/imdex",
       "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5393313998967612775": {
+      "ts": "2026-08-25T01:56:52+00:00",
+      "title": "<b>Manus AI</b> Review: Pros, Cons, and Everything It Builds (2026) - Emergent",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://emergent.sh/learn/manus-ai-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_9AINbRzhTeiWnBDMYBhD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7751584359761375788": {
+      "ts": "2026-08-25T00:48:03+00:00",
+      "title": "WorkerKit Directory - Awesome MCP Servers",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mcpservers.org/servers/mcp-workerkit-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0O-LQxbUhxOpAmHXshxo7f",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
