@@ -5382,6 +5382,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfEIxDGl3O9w&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ZNYIvF0FtExSVcLFWX7B5",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://www.anthropic.com/news/wellbeing-research-grants": {
+      "ts": "2026-08-25T00:00:00+00:00",
+      "title": "Funding better evaluations of AI’s impact on wellbeing",
+      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1864211612607512082": {
+      "ts": "2026-08-25T16:14:01+00:00",
+      "title": "ISSB requests feedback on proposed digital taxonomy updates",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/news/2026/aug/issb-requests-feedback-on-proposed-digital-taxonomy-updates/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J-tESOv64pW_dt1zbZmPz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-25"
