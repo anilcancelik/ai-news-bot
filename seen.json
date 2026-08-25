@@ -49,13 +49,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8020082566704137411": {
-      "ts": "2026-07-26T04:58:53+00:00",
-      "title": "celeris-1 generates via diffusion and claims a 157 ms median latency",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lhc.media/en/media/ai-watch/celeris-1-generates-via-diffusion-and-claims-a-157-ms-median-latency&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vZoaASHoPb1p6gAFimDBZ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5880194357666436726": {
       "ts": "2026-07-26T12:49:08+00:00",
       "title": "Subquadratic Review on Quasa: The First Sub-Quadratic LLM",
