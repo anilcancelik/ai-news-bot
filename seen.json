@@ -5396,6 +5396,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/news/2026/aug/issb-requests-feedback-on-proposed-digital-taxonomy-updates/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J-tESOv64pW_dt1zbZmPz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it": {
+      "ts": "2026-08-25T00:00:00+00:00",
+      "title": "Claude's memory works everywhere, and you decide what's in it",
+      "link": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/introducing-admin-plugin": {
+      "ts": "2026-08-25T00:00:00+00:00",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "link": "https://openai.com/index/introducing-admin-plugin",
+      "source": "OpenAI News",
+      "big": true
     }
   },
   "last_digest_date": "2026-08-25"
