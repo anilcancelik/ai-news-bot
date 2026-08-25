@@ -5368,6 +5368,20 @@
       "link": "https://openai.com/index/jalapeno-first-results",
       "source": "OpenAI Engineering News",
       "big": false
+    },
+    "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
+      "ts": "2026-08-25T07:05:00+00:00",
+      "title": "The full stack behind abundant intelligence",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9544801875357616598": {
+      "ts": "2026-08-25T10:07:50+00:00",
+      "title": "<b>Manus AI</b> MOD – Turn Simple Prompts into Complete AI Workflows - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfEIxDGl3O9w&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ZNYIvF0FtExSVcLFWX7B5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-25"
