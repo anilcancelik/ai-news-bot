@@ -5368,6 +5368,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/subscriptioninsider/posts/news-the-global-ai-subscription-company-is-separating-from-meta-after-china-orde/1670260308436169/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1YwtET0oNqZf_xt2Qqsk_O",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner": {
+      "ts": "2026-08-25T00:00:00+00:00",
+      "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
+      "link": "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/jalapeno-first-results": {
+      "ts": "2026-08-25T07:00:00+00:00",
+      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "link": "https://openai.com/index/jalapeno-first-results",
+      "source": "OpenAI Engineering News",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-25"
