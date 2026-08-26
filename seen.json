@@ -21,13 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:2635614594170989746": {
-      "ts": "2026-07-27T04:40:07+00:00",
-      "title": "How I Migrated 6 Skills From <b>Manus AI</b> to a Self-Hosted OpenClaw VPS - devglan",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.devglan.com/local/p/i70c8p2n-34768&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NMIwbL5QYA4hz5dB0yVq_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13596926398732649957": {
       "ts": "2026-07-27T16:00:08+00:00",
       "title": "Business Coach for Online Trainers | Share this to a friend that needs to see this And ... - Instagram",
@@ -5388,6 +5381,13 @@
       "title": "Claude Desktop support with Ollama",
       "link": "https://ollama.com/blog/claude-desktop",
       "source": "Ollama Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11229226308241649159": {
+      "ts": "2026-08-25T21:18:05+00:00",
+      "title": "Welp! After my ACN AI, Manus is officially my favorite, then Claude, then ChatGPT and ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/MrsMico/posts/welp-after-my-acn-ai-manus-is-officially-my-favorite-then-claude-then-chatgpt-an/10163740824472060/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IJgr3Te5PonQ6kC9FV12w",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
