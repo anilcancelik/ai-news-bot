@@ -1,23 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:2442348602808828578": {
-      "ts": "2026-07-27T17:42:03+00:00",
-      "title": "How to Build a <b>Manus AI</b> Skill for GTM Prospecting (2026) - Explorium",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.explorium.ai/blog/building-ai-agents/how-to-build-a-manus-ai-skill-for-gtm-prospecting-2026-for-ai-agent-builders/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3vcizIe-M6EiKpkrbbjUQt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:8239992505873617720": {
       "ts": "2026-07-27T19:33:36+00:00",
       "title": "7 <b>Manus AI</b> Features That Actually Do Your Work For You - Gadget Review",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gadgetreview.com/manus-ai-features-that-actually-do-your-work-for-you&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30yyNJ6R4_0D-MDks0pP0h",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5960562948175415469": {
-      "ts": "2026-07-27T17:48:24+00:00",
-      "title": "This NEW AI Agent DESTROYS <b>Manus AI</b> (Automate Anything Fast) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMu6bJaVsUDg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o9NcARSmyrEjBb6gzcFCW",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5366,6 +5352,83 @@
       "ts": "2026-08-26T02:36:31+00:00",
       "title": "META - Blockchain.News",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://blockchain.news/tag/%2520meta/amp&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0re2Md7bslCnLwn6R99GaY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude": {
+      "ts": "2026-08-26T00:00:00+00:00",
+      "title": "How Warp builds self-improving agents on Claude",
+      "link": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-in-chrome-generally-available": {
+      "ts": "2026-08-26T00:00:00+00:00",
+      "title": "Claude in Chrome is generally available",
+      "link": "https://claude.com/blog/claude-in-chrome-generally-available",
+      "source": "Claude Blog",
+      "big": true
+    },
+    "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts": {
+      "ts": "2026-08-26T10:00:00+00:00",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/learning-never-stops": {
+      "ts": "2026-08-26T10:00:00+00:00",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
+      "ts": "2026-08-26T17:01:00+00:00",
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/": {
+      "ts": "2026-08-26T00:00:00+00:00",
+      "title": "Enterprise-Grade Precision for Long-Context Multimodal Embedding Inference on Cloud TPU",
+      "link": "https://developers.googleblog.com/enterprise-grade-precision-for-long-context-multimodal-embedding-inference-on-cloud-tpu/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7106986756142500648": {
+      "ts": "2026-08-26T16:33:30+00:00",
+      "title": "Meta to pay up to $18bn to settle children's social media harm case - Financial Times",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/21dcbd96-ee57-445c-a9ba-0938c49b91c0%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0LMJH2SPpSnMFcMGfb2ujV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14826552070877044009": {
+      "ts": "2026-08-26T16:07:47+00:00",
+      "title": "Meta to pay up to $18 billion over social media claims - Ad Age",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://adage.com/technology/meta/aa-agrees-to-pay-18-billion-social-media-claims/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1-xiyvzos5KE8NzEK0NpjH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5230219412415309224": {
+      "ts": "2026-08-26T14:10:46+00:00",
+      "title": "The 20 Best AI Agent Platforms for Production in 2026 - StartupHub.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/ai-news/insights/2026/best-ai-agent-deployment-platforms-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1f37YpYqlUJAIQwpkQwijc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4260420101219602878": {
+      "ts": "2026-08-26T12:42:27+00:00",
+      "title": "Some Meta advertisers lose placement controls, with bid cuts capped at 90% - PPC Land",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ppc.land/some-meta-advertisers-lose-placement-controls-with-bid-cuts-capped-at-90/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0TuNyzavjFoE0CC1eQshat",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:551082600232273748": {
+      "ts": "2026-08-26T02:25:46+00:00",
+      "title": "Beste #ad #manuspartner #<b>manus #ai</b> #howitworks - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/My_Yzf7I4_4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2QC7SdsZtq1BDk6CjbpMLa",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
