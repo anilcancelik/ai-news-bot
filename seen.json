@@ -5431,6 +5431,41 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/p/AI-Insider-Hub-61579474961006/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kfEPMM0yTEShzWRWLS_D0",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://claude.com/blog/cowork-built-in-browser": {
+      "ts": "2026-08-26T00:00:00+00:00",
+      "title": "Claude gets its own browser in Cowork",
+      "link": "https://claude.com/blog/cowork-built-in-browser",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/introducing-intelligence-age": {
+      "ts": "2026-08-20T07:00:00+00:00",
+      "title": "Introducing Intelligence Age",
+      "link": "https://openai.com/index/introducing-intelligence-age",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:1089630224940153975": {
+      "ts": "2026-08-26T19:38:42+00:00",
+      "title": "Best AI for beginners and professionals - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/aitrendz.xyz1/posts/best-ai-for-beginners-and-professionals/122195021114603416/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ETyByD7KTXq0Pa2YAzMSg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6348402663992807898": {
+      "ts": "2026-08-26T19:09:28+00:00",
+      "title": "The AI Agent That Can Actually Do the Work #aitech #aiagents #ainow - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/-njxkd2wnA0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3lCriz0dLIgbxzxYu2VZMx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4087894324849370941": {
+      "ts": "2026-08-26T00:21:52+00:00",
+      "title": "Ai - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/playlist%3Flist%3DPLSdYVaGS6bwAOw7nzBzwxKktSy5BLpmTK&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3f5ACLAdIkYsQg5UieATXO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-08-26"
