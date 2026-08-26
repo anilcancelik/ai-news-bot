@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:13596926398732649957": {
-      "ts": "2026-07-27T16:00:08+00:00",
-      "title": "Business Coach for Online Trainers | Share this to a friend that needs to see this And ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DbTBbkCh_XY/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3imxOAPb6p0GhdnFvQgmFE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2442348602808828578": {
       "ts": "2026-07-27T17:42:03+00:00",
       "title": "How to Build a <b>Manus AI</b> Skill for GTM Prospecting (2026) - Explorium",
@@ -25,13 +18,6 @@
       "ts": "2026-07-27T17:48:24+00:00",
       "title": "This NEW AI Agent DESTROYS <b>Manus AI</b> (Automate Anything Fast) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMu6bJaVsUDg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o9NcARSmyrEjBb6gzcFCW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17841722083425971647": {
-      "ts": "2026-07-27T16:07:52+00:00",
-      "title": "Taiwan - World's Cheapest Subscriptions - App Store Price",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://appstoreprice.org/en/discover/regions/TW&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TYNc4uFbVhdFwOBYmoyY7",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5367,6 +5353,20 @@
       "title": "How loveholidays is making everyone a builder with Codex",
       "link": "https://openai.com/index/loveholidays",
       "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8904056260934945448": {
+      "ts": "2026-08-26T10:38:48+00:00",
+      "title": "10 Best AI Agent Tools in 2026 Tested &amp; Ranked for Every Use",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.heloaitools.com/best-ai-agent-tools/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1M5aqgEuCs9W6YNHf_bqiE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3428495166026359664": {
+      "ts": "2026-08-26T02:36:31+00:00",
+      "title": "META - Blockchain.News",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://blockchain.news/tag/%2520meta/amp&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0re2Md7bslCnLwn6R99GaY",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
