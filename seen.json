@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:8239992505873617720": {
-      "ts": "2026-07-27T19:33:36+00:00",
-      "title": "7 <b>Manus AI</b> Features That Actually Do Your Work For You - Gadget Review",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gadgetreview.com/manus-ai-features-that-actually-do-your-work-for-you&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30yyNJ6R4_0D-MDks0pP0h",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3986589373623272483": {
       "ts": "2026-07-28T00:43:54+00:00",
       "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 28, 2026 - Instagram",
@@ -39,13 +32,6 @@
       "ts": "2026-07-28T12:01:47+00:00",
       "title": "Everyone keeps asking me... “What's the best AI tool right now?” Honestly? Most people are ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DbVYheZgm6-/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SLSjVeiuKvO35MFtYK2kv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16887133814381427982": {
-      "ts": "2026-07-27T18:12:59+00:00",
-      "title": "Post from Gen Z Vision Hub - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/Ugkxw6HXUuiDx5AKuRxqVK2CgJQQeaXAhrVQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0rzRVFbUCSXIcXfw8byCqD",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5429,6 +5415,20 @@
       "ts": "2026-08-26T02:25:46+00:00",
       "title": "Beste #ad #manuspartner #<b>manus #ai</b> #howitworks - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/My_Yzf7I4_4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2QC7SdsZtq1BDk6CjbpMLa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead": {
+      "ts": "2026-08-26T00:00:00+00:00",
+      "title": "The Hugging Face incident and the road ahead",
+      "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2828471166288839112": {
+      "ts": "2026-08-26T09:12:58+00:00",
+      "title": "AI Insider Hub - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/p/AI-Insider-Hub-61579474961006/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kfEPMM0yTEShzWRWLS_D0",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
