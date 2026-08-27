@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:3986589373623272483": {
-      "ts": "2026-07-28T00:43:54+00:00",
-      "title": "Reel by <b>Manus AI</b> by Meta (@manus) · July 28, 2026 - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbURzeNDjnq/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw335Fs0otftjQHEpBSE7max",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://cursor.com/blog/cursor-start": {
       "ts": "2026-07-28T12:00:00+00:00",
       "title": "Introducing Cursor Start",
@@ -21,25 +14,11 @@
       "source": "Cursor Blog",
       "big": true
     },
-    "tag:google.com,2013:googlealerts/feed:5861325396696943215": {
-      "ts": "2026-07-28T08:07:48+00:00",
-      "title": "Adversaire Alternatives &amp; Competitors (2026) - StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/adversaire/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw364yDTUrLlJLlyduze9fEq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3971763291459464630": {
       "ts": "2026-07-28T12:01:47+00:00",
       "title": "Everyone keeps asking me... “What's the best AI tool right now?” Honestly? Most people are ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DbVYheZgm6-/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SLSjVeiuKvO35MFtYK2kv",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude": {
-      "ts": "2026-07-28T00:00:00+00:00",
-      "title": "Bringing MCP 2026-07-28 to Claude",
-      "link": "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/scientific-computing-agentic-ai": {
@@ -5466,7 +5445,28 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/playlist%3Flist%3DPLSdYVaGS6bwAOw7nzBzwxKktSy5BLpmTK&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3f5ACLAdIkYsQg5UieATXO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "d07c3e974229847c": {
+      "ts": "2026-08-27T01:16:59+00:00",
+      "title": "2.1.247",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-247",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18000868211944322506": {
+      "ts": "2026-08-27T01:15:05+00:00",
+      "title": "Timeline Visualization",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://peacock.techinasia.com/api/timeline/f50b22a6-d55d-4838-9e73-c4a835a37b8f&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0GvjdTVINOK4D5v97KT7Mj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11310163267887763054": {
+      "ts": "2026-08-26T22:40:03+00:00",
+      "title": "Manus Autonomous AI What Can It Do - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-autonomous-ai-what-can-it-do/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28paNW1Wo2AalGHeAbEezA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-08-26"
+  "last_digest_date": "2026-08-27"
 }
