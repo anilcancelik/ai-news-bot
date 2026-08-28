@@ -1,53 +1,11 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:748127015365606334": {
-      "ts": "2026-07-29T03:51:04+00:00",
-      "title": "Manus Pro credits make the paid experience feel almost the same as free - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1v9i90g/manus_pro_credits_make_the_paid_experience_feel/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0TNv04OCrBufa9jJt8yLNB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:899533844103864259": {
-      "ts": "2026-07-29T09:50:31+00:00",
-      "title": "<b>Manus - AI</b> Agent &amp; Automation - Ratings &amp; Reviews - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/no/app/6740909540%3Fsee-all%3Dreviews%26platform%3Dipad&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ejR9lmr8lVOq1wXePBlpT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/": {
       "ts": "2026-07-29T16:02:10+00:00",
       "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
       "link": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
       "source": "Google DeepMind News",
       "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:12491371125515690533": {
-      "ts": "2026-07-29T13:25:39+00:00",
-      "title": "<b>Manus AI</b> 개요 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/hE7ZwCBzECA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1lFN3MUcHXZcD30mpsyVX3",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4756206556144023431": {
-      "ts": "2026-07-29T12:11:58+00:00",
-      "title": "<b>Manus AI</b> 개요 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/NvPY4Rknq-k&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TcE6P0X5qtrSf2U4LEF0U",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/chatgpt-for-academic-researchers": {
-      "ts": "2026-07-29T10:00:00+00:00",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "link": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6302629189282138616": {
-      "ts": "2026-07-29T10:43:09+00:00",
-      "title": "Manus pozajmice - egfcefehhmez.club",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://egfcefehhmez.club/qtivtbloympqbegrildzerginmpppnj&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uAJ38Uft84WB-7bz_4OD0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
     },
     "tag:google.com,2013:googlealerts/feed:1416053353393151906": {
       "ts": "2026-07-29T19:21:02+00:00",
@@ -89,20 +47,6 @@
       "title": "Ejaz Bashir's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ejaz-bashir_ai-tools-are-everywhere-now-but-using-more-activity-7488167695721373696-B--z&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw19lMdpsKYNbaCWuX_cMf_x",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1827093577152539419": {
-      "ts": "2026-07-29T14:33:03+00:00",
-      "title": "Exact workflow to create NO SLOP website using AI #aiwebsites - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/okAU5hjd2ck&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2rz-U6XeAQrDA9X3fnl26A",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores": {
-      "ts": "2026-07-29T15:00:00+00:00",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:11190312150423584365": {
@@ -151,13 +95,6 @@
       "ts": "2026-07-30T05:31:02+00:00",
       "title": "Master AI. Work smarter. Grow faster. Join the free webinar at https:/... | TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40khataacademy/video/7667916063920622869&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1pSovXSpKHOA_Xc0c7kBVZ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:89560422336844960": {
-      "ts": "2026-07-29T11:51:46+00:00",
-      "title": "Women Outpace Men in AI Tool Usage in Saudi Arabia at 52.8% - The Saudi Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thesauditimes.net/en/women-outpace-men-in-ai-tool-usage-in-saudi-arabia-at-52-8/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Qeur6er6X8NQEJ3yn5gXQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5515,7 +5452,77 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://expresspayai.shop/product/manus-ai-extended/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3AOeV5hc16Q9J-nOiZCAOO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/supporting-next-generation-ai-startups-thailand": {
+      "ts": "2026-08-28T02:00:00+00:00",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10456992231190292081": {
+      "ts": "2026-08-28T15:25:26+00:00",
+      "title": "How AI is changing the art of business presentations - Financial Management magazine",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/issues/2026/aug/how-ai-is-changing-the-art-of-business-presentations/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1P-4gkmi7aOjvFm2Y1L6gQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13812001151555894773": {
+      "ts": "2026-08-28T11:48:22+00:00",
+      "title": "#aifounderstowatch #aiagents #artificialintelligence | AI Founders to Watch - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ai-founders-to-watch_aifounderstowatch-aiagents-artificialintelligence-activity-7499005655694028800-DYAX&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IO0QIKRCeOsAuGgUHlhpI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11714991713287507194": {
+      "ts": "2026-08-28T10:47:15+00:00",
+      "title": "how to enable google sheets mcp server in <b>manus ai</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DRB9SrRRmwFg%26vl%3Dde&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0n4Iq5aL7pO0szAAYlBDd2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:38431712420757627": {
+      "ts": "2026-08-28T08:27:41+00:00",
+      "title": "AI Agents Explained: OpenClaw, Hermes, Claude &amp; Codex | VM0",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vm0.ai/en/blog/posts/ai-agents-explained-openclaw-hermes-claude-codex&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3__vsIguGQWGW5ZlMtaaXc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17297736105011274472": {
+      "ts": "2026-08-28T04:11:37+00:00",
+      "title": "Philippines, Meta agree on child-safety measures and rapid-response group after ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technode.global/2026/08/28/philippines-meta-agree-on-child-safety-measures-and-rapid-response-group-after-zamboanga-shooting/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0BrAgEDBEyqw9fOU0PKoRs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12109483486982934328": {
+      "ts": "2026-08-28T01:48:56+00:00",
+      "title": "Timeline Visualization",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://peacock.techinasia.com/api/timeline/7ba49ece-ca41-4d41-8308-90ae96aba86f&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2VfF0W8Jo0bOYEX39XicrK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17034080498344110568": {
+      "ts": "2026-08-27T22:28:55+00:00",
+      "title": "I Tested 6 AI on My Birthday… Which One Actually Cared? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DmzZkyZG-I1M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2PmEujjGT5PxzmAM0gyrOt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4715881073148671830": {
+      "ts": "2026-08-27T16:49:59+00:00",
+      "title": "The Shocking Truth About Ai Auto Topic (Daily Dynamic) | Full AI Documentary &amp; Deep Dive",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DpE9yJWGVvx8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03O_MfTHHJO1v92xjE5yRL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3939041697057117984": {
+      "ts": "2026-08-27T15:27:47+00:00",
+      "title": "Building a system with AI tools for productivity - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/staxxnyc/posts/ai-tools-are-everywhere-strategy-is-still-the-advantagethis-is-how-im-currently-/10227031003920835/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28wn2L7D00Omo8fOeub82L",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-08-27"
+  "last_digest_date": "2026-08-28"
 }
