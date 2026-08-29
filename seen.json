@@ -35,13 +35,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:11835193169909036385": {
-      "ts": "2026-07-30T20:31:54+00:00",
-      "title": "Open Source Alternatives to Clairetoclose (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/clairetoclose/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1oZ74Zep7ZFSgW93eq59dz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/unive": {
       "ts": "2026-07-31T07:00:00+00:00",
       "title": "Univé builds an AI-ready workforce",
@@ -5429,6 +5422,13 @@
       "ts": "2026-08-29T04:48:53+00:00",
       "title": "Understanding <b>Manus AI</b>: An Overview - SaaS PumP",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://saaspump.com/understanding-manus-ai-an-overview/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1C0q1xL-7eIN1vH9REYht7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16999194198772927805": {
+      "ts": "2026-08-29T16:29:27+00:00",
+      "title": "AI &amp; Neural Network Logos — SVG &amp; PNG - Trace Logo's",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://trace-logos.ru/en/collections/neural-networks/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0hJsX54HMXDNajc6os9cjE",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
