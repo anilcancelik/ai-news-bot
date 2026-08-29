@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4449825508467417536": {
-      "ts": "2026-07-30T05:31:02+00:00",
-      "title": "Master AI. Work smarter. Grow faster. Join the free webinar at https:/... | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40khataacademy/video/7667916063920622869&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1pSovXSpKHOA_Xc0c7kBVZ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8901770354854194136": {
-      "ts": "2026-07-30T02:07:11+00:00",
-      "title": "<b>Manus AI</b> 개요 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/01mcYtIL5i4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Sg1BSEh7pQHGefUJYbEdq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/": {
       "ts": "2026-07-30T15:00:59+00:00",
       "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
@@ -49,32 +35,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:16342322326774805031": {
-      "ts": "2026-07-30T02:20:30+00:00",
-      "title": "Compliance, During Development. Not After. | Neimo Inside <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrwT8maK6ptk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0MgpTKLgXuoQ259gaP7v_x",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6": {
       "ts": "2026-07-30T10:00:00+00:00",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17211350238345434070": {
-      "ts": "2026-07-30T04:02:17+00:00",
-      "title": "Apple Creator Studio Alternatives — 12+ Best Options (2026) - Visalytica",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.visalytica.com/tool/apple-creator-studio/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0y4T226Y6A1cAg_eI-VQP0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18048432105238415356": {
-      "ts": "2026-07-30T01:06:50+00:00",
-      "title": "<b>Manus AI</b> تقييمات سلبية: ما يشتكي منه المستخدمون (Google Play) - Unstar.app",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://unstar.app/ar/app/tech.butterfly.app%3Fcountry%3Dkr%26platform%3Dandroid&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1iBWxKObH5VBcXrMKRUxte",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:17566427409703573536": {
@@ -5431,7 +5396,56 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/magnific-review-creative-upscaling-plus-a-full-ai-suite&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hiPGKl9DWanDdfNGNC9-4",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex": {
+      "ts": "2026-08-28T06:00:00+00:00",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9188104183255544712": {
+      "ts": "2026-08-29T01:04:16+00:00",
+      "title": "7 Best Genspark AI Alternatives in 2026 for Agents, Research, and PPT - MyClaw",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/ar/blog/genspark-ai-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1FSQPmB5coLWlJCVSpfHZF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4850447954932169612": {
+      "ts": "2026-08-29T00:28:03+00:00",
+      "title": "API Spend &amp; Usage — Aug 27 — $2993/mo fixed, $1146 flagged - Buttondown",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://buttondown.com/galluccinet-api-spend/archive/api-spend-usage-aug-27-2993mo-fixed-1146-flagged/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IG_IcpuWvaMyfN6KManJ6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3379879708651997567": {
+      "ts": "2026-08-28T23:46:40+00:00",
+      "title": "Ai 소스 중국 <b>Manus AI</b> 소스코드가 털렸다고 브런치스토리털린 정보에는 | UK News | Sky News",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://kufurediyor3.tw/kufurediyor3/d88adb-2026-d4af14&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2DMY7ofMZb2BPNTMIFMiWT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3689471358899899035": {
+      "ts": "2026-08-28T23:26:07+00:00",
+      "title": "Meta Closes a Second Loophole That Let Ray-Ban Glasses Record in Secret",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/meta-closes-a-second-loophole-that-let-ray-ban-glasses-record-in-secret/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2GACyCzeJcqTtl4rFKtSX4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16950880544175159613": {
+      "ts": "2026-08-28T21:51:28+00:00",
+      "title": "10 Best Manus Alternatives in 2026 - Hostinger",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hostinger.com/in/tutorials/manus-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw31C6yU2mjdxLpqWCFyqWlM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5594265664869796346": {
+      "ts": "2026-08-28T12:25:13+00:00",
+      "title": "All AI Courses - 300+ Tutorials - AI Academy",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://academy.techpresso.co/courses%3Fpage%3D1%26category%3Dsales&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UMmCE_q-VmYoI2b-h2nvU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-08-28"
+  "last_digest_date": "2026-08-29"
 }
