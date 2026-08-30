@@ -56,20 +56,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/": {
-      "ts": "2026-07-31T00:00:00+00:00",
-      "title": "Enable on-demand expertise with Agent Skills in Genkit Go",
-      "link": "https://developers.googleblog.com/enable-on-demand-expertise-with-agent-skills-in-genkit-go/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/": {
-      "ts": "2026-07-31T00:00:00+00:00",
-      "title": "Agent and Model Evaluations in Gemini Enterprise Agent Platform are now GA",
-      "link": "https://developers.googleblog.com/agent-and-model-evaluations-in-gemini-enterprise-agent-platform-are-now-ga/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9465508095466423717": {
       "ts": "2026-07-31T16:16:47+00:00",
       "title": "AI tools tier list - last ones my favorite ⚡️ - Instagram",
@@ -137,13 +123,6 @@
       "ts": "2026-07-31T02:09:33+00:00",
       "title": "Comidoc on X: &quot;Create Professional Online Courses with <b>Manus AI</b> ⏱️ 1.5 hours 4.05 ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/comidoc/status/2082935061683339766&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3L1VSoAbPurYOe4rBdPbfU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14604044448266155442": {
-      "ts": "2026-07-30T23:14:03+00:00",
-      "title": "AI-Native Organization: Infrastructure Reference Model - AIKm Hong Kong",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aikm.ai/guides/ai-native-organization&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Z5D5JcvebAbBxv5uIpeLg",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5429,6 +5408,34 @@
       "ts": "2026-08-29T16:29:27+00:00",
       "title": "AI &amp; Neural Network Logos — SVG &amp; PNG - Trace Logo's",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://trace-logos.ru/en/collections/neural-networks/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0hJsX54HMXDNajc6os9cjE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6947813011085213811": {
+      "ts": "2026-08-29T17:32:36+00:00",
+      "title": "4 most helpful AI to use as a founder - by Ethan Vale",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ethanvalefounder.substack.com/p/4-most-helpful-ai-to-use-as-a-founder&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wPnA-9KgkRdt0PcJ4OXYc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14243916986633004297": {
+      "ts": "2026-08-29T10:57:43+00:00",
+      "title": "<b>Manus AI</b> - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/people/Manus-AI/100086428870689/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3XU5CCeQ8exZBjIWFrM9mj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9929307427817750275": {
+      "ts": "2026-08-29T10:41:02+00:00",
+      "title": "$2 Biliion to problems   China blocked two founders from leaving the country just ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/the.deepakmamgai/videos/2-biliion-to-problemschina-blocked-two-founders-from-leaving-the-country-just-be/2316797632059732/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3z7M2BF09IgiQzOxdI_tmW",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11467974974327006467": {
+      "ts": "2026-08-29T10:00:43+00:00",
+      "title": "Meet the Chinese founders behind <b>Manus AI</b>, who reportedly built an AI startup that caught ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dcm3lKAymcz/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23OpDmBJsYdNZhXL_osxyD",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
