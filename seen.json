@@ -7,13 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/ten-advances-in-mathematics": {
-      "ts": "2026-08-01T00:00:00+00:00",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "link": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2157326955324854000": {
       "ts": "2026-08-01T02:06:18+00:00",
       "title": "HT AI Assistant — built with AI on Blink",
@@ -53,13 +46,6 @@
       "ts": "2026-08-01T03:56:52+00:00",
       "title": "Natnik Alternatives &amp; Competitors (2026) - StartupHub.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/natnik/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rwxUUDIq00wHYEZNC84PX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15923197306835629637": {
-      "ts": "2026-07-31T23:23:55+00:00",
-      "title": "How I made 1000 bucks today by doing a quick Shopify reload with Claud... | digital marketing",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40nick.ogd/video/7668463807781522701&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw19uQhvVp5zfQlADN44RdQ9",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5366,6 +5352,20 @@
       "ts": "2026-08-29T21:22:14+00:00",
       "title": "Sojusz Visa i Dunamu przenosi koszty stablecoinów na instytucjonalnych partnerów ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.malagahoy.es/semanasanta/Siga-traslado-Cautivo-video_0_1124888200.html%3Flive-blog-32255430-2026-08-29-sojusz-visa-i-dunamu-przenosi-koszty-stablecoinow-na-instytucjonalnych&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Af0U-aNbKCXU2shvtS4Qq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7936729451755480759": {
+      "ts": "2026-08-30T10:57:16+00:00",
+      "title": "Global AI subscription prices · Network Check Lab",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://v4v6.online/ai-pricing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2c-iIXkIyu1zF4wcGpuksl",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18016705283243855766": {
+      "ts": "2026-08-30T10:47:35+00:00",
+      "title": "Explorador do Índice IA: 11 anos de cobertura de IA - AI Weekly",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiweekly.co/pt/ai-news-today/explore&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ets0l0YxdpVF5IeyihSRF",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
