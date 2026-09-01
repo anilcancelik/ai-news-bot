@@ -7,20 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:3875271373706976329": {
-      "ts": "2026-08-02T21:13:46+00:00",
-      "title": "Stop Using ChatGPT for Everything, Try These 7 AI Tools Instead - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/VnhdTRg6T0o&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3CXKKDGERrBuzHLvPeUtek",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13922746695033219270": {
-      "ts": "2026-08-02T20:28:22+00:00",
-      "title": "Cloud security engineer — incident response &amp; automation - <b>Manus AI</b> | BeBee",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/sg/jobs/cloud-security-engineer-incident-response-automation-manus-ai-singapore--jobmesh-20607d52-bd69-4673-a465-74449f60aa3d&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1PuoCAlfPvTn4zHU67HcAM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10530075595010034407": {
       "ts": "2026-08-03T11:47:59+00:00",
       "title": "Will AI Take Your Job? Edition #13 | Manthan Kachhadiyaa - LinkedIn",
@@ -32,13 +18,6 @@
       "ts": "2026-08-03T11:46:39+00:00",
       "title": "Kuber Mehta's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/kubermehta_an-interesting-pattern-ive-started-to-observe-activity-7489929118705438720-6ip5&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw283ajRffaW8jT7i50-eLNW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10412455755707750974": {
-      "ts": "2026-08-02T20:28:23+00:00",
-      "title": "Security engineer - <b>Manus AI</b> - BeBee",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/sg/jobs/security-engineer-manus-ai-singapore--jobmesh-4fb711c6-9bd0-44ae-9379-ca4c9d968572&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3MoYCIlhLp5im8p16SLTlE",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5443,6 +5422,34 @@
       "ts": "2026-09-01T00:31:11+00:00",
       "title": "<b>Manus AI</b> Is Offering Free Access for a Limited Time! | The Net Chronicle",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thenetchronicle.com/post/khxg6GRbEi4FeFS7aE3w/%25F0%259F%259A%25A8-manus-ai-is-offering-free-access-for-a-limited-time&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aOs7-uzz-SAd92olNAaX8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "64a38e73ae78f7f8": {
+      "ts": "2026-09-01T22:39:34+00:00",
+      "title": "2.1.258",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-258",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/path-to-astra": {
+      "ts": "2026-09-01T13:00:00+00:00",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4949731661829211537": {
+      "ts": "2026-09-01T21:10:39+00:00",
+      "title": "Comment &quot;NEED&quot; and I'll send you the exact prompts I used. You are sleeping on <b>Manus AI</b> ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DcwZ7fSAkrd/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02ra7eekMcZWSFlKxElCIc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13613611488226601269": {
+      "ts": "2026-09-01T16:18:49+00:00",
+      "title": "Meta AI Advertising Tools New Features: What's Next?",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://agentiveaiagents.com/meta-ai-advertising-tools-february-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3De_n25yYjS4PLnqurBrMu",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
