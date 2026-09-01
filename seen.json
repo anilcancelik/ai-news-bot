@@ -7,13 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:17031383976356842546": {
-      "ts": "2026-08-02T18:49:57+00:00",
-      "title": "Keyagents Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/keyagents/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1AA8vqYF1OngJByTcTzGjv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3875271373706976329": {
       "ts": "2026-08-02T21:13:46+00:00",
       "title": "Stop Using ChatGPT for Everything, Try These 7 AI Tools Instead - YouTube",
@@ -5366,6 +5359,90 @@
       "ts": "2026-09-01T06:57:47+00:00",
       "title": "Dhyey Mavani's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/dhyey-mavani_fresh-off-the-press-manus-ai-startup-activity-7500410852026511361-CzGJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3cMa6DXz4ujYWAKKhqlVC_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "794eff30130ecd3d": {
+      "ts": "2026-09-01T18:00:15+00:00",
+      "title": "2.1.257",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-257",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/enterprise-frontier-safeguards": {
+      "ts": "2026-09-01T00:00:00+00:00",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/ai-native-company-workflows": {
+      "ts": "2026-09-01T17:00:00+00:00",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
+      "ts": "2026-09-01T12:00:00+00:00",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/": {
+      "ts": "2026-09-01T17:08:51+00:00",
+      "title": "Introducing agentic video understanding with Gemini",
+      "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:9006104414576096125": {
+      "ts": "2026-09-01T19:01:51+00:00",
+      "title": "The Meta settlement is regulation by enforcement - Financial Times",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/34318a35-b2ad-4f0f-af74-c5d09bfcd23e%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3C0CGPK1AIMbX0ypvC_kXH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12862290740957471030": {
+      "ts": "2026-09-01T18:47:54+00:00",
+      "title": "You Handed Your To-Do List On <b>Manus AI</b> For A Week — Here's What Changed - KHTS Radio",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hometownstation.com/featured-stories/you-handed-your-to-do-list-on-manus-ai-for-a-week-heres-what-changed-607933&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mVQwQ2mlg9qkVpuMfpZuS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18024243589719637652": {
+      "ts": "2026-09-01T18:19:42+00:00",
+      "title": "4 BEST AI Agents to sell in 2026 (for beginners) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DTlDHVrTXKKw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1IdgVHyd49-48K72V5JQ_4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15110439331242515336": {
+      "ts": "2026-09-01T18:13:06+00:00",
+      "title": "Peregrine Technologies Helped San Bernardino Detectives Identify A Homicide Suspect In An Hour",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hometownstation.com/featured-stories/peregrine-technologies-helped-san-bernardino-detectives-identify-a-homicide-suspect-in-an-hour-607930&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rxfr2i5E5Sr-U01VZVE7B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5548607156497851411": {
+      "ts": "2026-09-01T16:54:17+00:00",
+      "title": "Locker Room Nudity and America's Fear of Being Naked - Quillette",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quillette.com/2026/09/01/naked-in-america-nudism-usa-culture/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw24OxGVlCof2tfGhUeAKsan",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13601403569561569281": {
+      "ts": "2026-09-01T12:29:16+00:00",
+      "title": "Get Tasks Out of Your Head | Quasa Video Review",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/get-tasks-out-of-your-head-quasa-video-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0BZK5JaMRPZBcVuPIVLssb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15715934875072918819": {
+      "ts": "2026-09-01T00:31:11+00:00",
+      "title": "<b>Manus AI</b> Is Offering Free Access for a Limited Time! | The Net Chronicle",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thenetchronicle.com/post/khxg6GRbEi4FeFS7aE3w/%25F0%259F%259A%25A8-manus-ai-is-offering-free-access-for-a-limited-time&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aOs7-uzz-SAd92olNAaX8",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
