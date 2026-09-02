@@ -7,13 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:3832890807325811094": {
-      "ts": "2026-08-03T18:30:38+00:00",
-      "title": "I'm pleased to share the latest edition of Dinis Guarda ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DblouD_iqUJ/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gCz9s3RWaooD7e9J6ZODi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:11078209132549998717": {
       "ts": "2026-08-03T21:36:33+00:00",
       "title": "AI summary features are getting out of hand #ryanreviews #gmail #aisummaries #ai #tech",
@@ -32,13 +25,6 @@
       "ts": "2026-08-03T21:01:37+00:00",
       "title": "Top 10 FREE AI Tools 2026 Every Student &amp; YouTuber Must Use! | Hindi",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhhNPk_7XSvw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0mt4pV4ieJO6lFPZ8oah-b",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10766254604469222595": {
-      "ts": "2026-08-03T19:00:00+00:00",
-      "title": "AI - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLWFZcj5rIxmw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3M46N5lxQBkHXePXtylzrP",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -63,13 +49,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8003375330767378895": {
-      "ts": "2026-08-03T18:46:05+00:00",
-      "title": "Build Cursor Cloud Agent AI Worker - Humatron - Future of Work",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://humatron.ai/build/guide/cursor&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0PXlUnMw8-Me4T0pC9hOvd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/apple-is-getting-this-wrong": {
       "ts": "2026-08-03T22:00:00+00:00",
       "title": "Apple is getting this wrong",
@@ -88,13 +67,6 @@
       "ts": "2026-08-04T04:42:26+00:00",
       "title": "Retell AI Tutorial (2026) | How to Build a Voice AI Agent &amp; Automate Calls - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMzcLm2X2emU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jf8h8QJkalyv5stI6VdpW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6951317378015519499": {
-      "ts": "2026-08-03T18:32:00+00:00",
-      "title": "Google's AI assistant can &quot;use your logged-in accounts and saved passwords to handle ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Engadget/posts/googles-ai-assistant-can-use-your-logged-in-accounts-and-saved-passwords-to-hand/1582955800165776/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J5A_1cV9-xNiCut1SBpVu",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5541,6 +5513,34 @@
       "ts": "2026-09-02T00:47:29+00:00",
       "title": "Mistral AI Pitch Deck (Seed, 2023) - Round Funded",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.roundfunded.com/en/pitch-deck/mistral&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2GtrNWnFqn_BSgcVf8dvxY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://cursor.com/blog/nokia": {
+      "ts": "2026-09-02T12:00:00+00:00",
+      "title": "Nokia analyzes 50M+ lines of code in two weeks with Cursor",
+      "link": "https://cursor.com/blog/nokia",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/self-hosted-machines": {
+      "ts": "2026-09-02T12:00:00+00:00",
+      "title": "Run cloud agents on machines you manage",
+      "link": "https://cursor.com/blog/self-hosted-machines",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11417812991829082923": {
+      "ts": "2026-09-01T10:38:03+00:00",
+      "title": "Vaibhav Sisinty on X: &quot;Manus is back. Independent. After one of the wildest startup stories in ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/VaibhavSisinty/status/2094729114435674535&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1epyRuFm9soOOfWVffq-hK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13032328239066085088": {
+      "ts": "2026-09-01T08:16:02+00:00",
+      "title": "<b>Manus AI</b> Alternatives: 9 Options Compared by Workflow | Moda",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moda.app/blog/manus-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1f9tiKq-6umfA782bDQdVC",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
