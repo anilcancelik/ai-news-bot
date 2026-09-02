@@ -35,13 +35,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://openai.com/index/continuous-voice-interaction-with-gpt-live": {
-      "ts": "2026-08-03T07:00:00+00:00",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:11078209132549998717": {
       "ts": "2026-08-03T21:36:33+00:00",
       "title": "AI summary features are getting out of hand #ryanreviews #gmail #aisummaries #ai #tech",
@@ -95,13 +88,6 @@
       "ts": "2026-08-03T22:22:33+00:00",
       "title": "Here are the Top 50 Most Used AI Tools in 2026 across writing, coding, design, video ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/tec_aryan/status/2084366456884736337&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2W5n4RZj3Ip4i7z3QMmDdv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13382943221361430717": {
-      "ts": "2026-08-03T09:09:58+00:00",
-      "title": "Perplexity vs You.com: Best Free AI Search Engine - Nexoda Tech",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nexodatech.com/perplexity-vs-you-com-free-ai-search/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nYZ1ZmjauOwK0sBZcMOYk",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5494,7 +5480,28 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/discover/fryta-operator-instagram&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Z3veZpdodJzJ1iwwkZbSO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13254790058001824763": {
+      "ts": "2026-09-02T06:34:53+00:00",
+      "title": "Cole Ruud-Johnson on X: &quot;I accidentally launched a company where real estate investors ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/coleruudjohnson/status/2094924043392565665&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1afBXZmv4wpEw8t_dd-T5A",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:10718697865222335978": {
+      "ts": "2026-09-02T02:30:10+00:00",
+      "title": "AI tools &amp; workflows - Moda",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moda.app/blog/category/ai-tools-workflows&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RCK4weYIPL2hDtZDUjWxt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17381041144573083249": {
+      "ts": "2026-09-02T01:58:25+00:00",
+      "title": "Manus Independent Again: Post-Meta Transition (Sep 2026) | explainx.ai Blog",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.explainx.ai/blog/manus-independent-operations-resumed-september-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0-5oCPwMFPUO49amz-tV0P",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-01"
+  "last_digest_date": "2026-09-02"
 }
