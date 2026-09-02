@@ -28,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/": {
-      "ts": "2026-08-03T00:00:00+00:00",
-      "title": "Scaling real-time AI agents with session-aware load balancing",
-      "link": "https://developers.googleblog.com/scaling-real-time-ai-agents-with-session-aware-load-balancing/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3832890807325811094": {
       "ts": "2026-08-03T18:30:38+00:00",
       "title": "I'm pleased to share the latest edition of Dinis Guarda ... - Instagram",
@@ -96,13 +89,6 @@
       "title": "2.1.221",
       "link": "https://code.claude.com/docs/en/changelog#2-1-221",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/circles": {
-      "ts": "2026-08-03T00:00:00+00:00",
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "link": "https://openai.com/index/circles",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:16210458903308239194": {
@@ -5450,6 +5436,27 @@
       "ts": "2026-09-01T16:18:49+00:00",
       "title": "Meta AI Advertising Tools New Features: What's Next?",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://agentiveaiagents.com/meta-ai-advertising-tools-february-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3De_n25yYjS4PLnqurBrMu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4122637218772384964": {
+      "ts": "2026-09-01T21:56:00+00:00",
+      "title": "You're sleeping on <b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/sBxQfPv0vlA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vVezD_t0hWWHKUv_cavie",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15035452953612836947": {
+      "ts": "2026-09-01T21:33:53+00:00",
+      "title": "Companies' financial value from AI holds firm in 2026",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/news/2026/sep/companies-financial-value-from-ai-holds-firm-in-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3iSxz-wVvw78PMuebIpFFy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5618870642204203899": {
+      "ts": "2026-09-01T21:08:08+00:00",
+      "title": "Business Banking Built Around Your Business — KHTS Radio — Santa Clarita Radio",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hometownstation.com/khts-featured/business-banking-built-around-your-business-608013&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2PVmJiz7P9F1cjhjQaP3QK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
