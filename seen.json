@@ -42,20 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:14465121660899393240": {
-      "ts": "2026-08-03T17:41:55+00:00",
-      "title": "Alloy Review on Quasa: AI Identity &amp; Fraud Prevention Platform",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/alloy-review-on-quasa-ai-identity-fraud-prevention-platform&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2w8LfpKRsbqnAuN224nDN0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13002680852280752227": {
-      "ts": "2026-08-03T17:40:55+00:00",
-      "title": "<b>Manus AI</b>, Agent Skills, OpenClaw, and more: Part 2",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/issues/2026/aug/manus-ai-agent-skills-openclaw-and-more-part-2/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3fIQuzSm1nPS3gYEI6_crv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "9d582cb124764041": {
       "ts": "2026-08-04T00:20:49+00:00",
       "title": "2.1.221",
@@ -5485,6 +5471,76 @@
       "ts": "2026-09-02T08:30:21+00:00",
       "title": "Best AI Agents and Agent Platforms (2026) - The Rundown AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therundown.ai/best-ai-tools/best-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wUMaLY70rUagh9bQu00Sg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/claude-for-commerce-agents": {
+      "ts": "2026-09-02T00:00:00+00:00",
+      "title": "Building commerce agents with Claude",
+      "link": "https://claude.com/blog/claude-for-commerce-agents",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/the-anatomy-of-effective-commerce-agents": {
+      "ts": "2026-09-02T00:00:00+00:00",
+      "title": "A guide to the anatomy of effective commerce agents",
+      "link": "https://claude.com/blog/the-anatomy-of-effective-commerce-agents",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": {
+      "ts": "2026-09-02T16:24:24+00:00",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": {
+      "ts": "2026-09-02T16:18:31+00:00",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/": {
+      "ts": "2026-09-02T17:58:00.135204+00:00",
+      "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
+      "link": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9442127796006866437": {
+      "ts": "2026-09-02T17:20:12+00:00",
+      "title": "What Happened To <b>Manus AI</b>? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Df6uc9-L4ZOY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw25JHtBHAtio0ah7-ZnOARh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7386368951355234363": {
+      "ts": "2026-09-02T12:03:17+00:00",
+      "title": "12 AI tools worth bookmarking in 2026 - Threads",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40ai.tools_list/post/DcyMQZUFJzI/ai-tools-worth-bookmarking-in-claude-general-assistant-rec-cloud-video/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3hGXXjynf417YKldJq7gpm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12174165036755696394": {
+      "ts": "2026-09-02T11:15:02+00:00",
+      "title": "Manus vs Zapier Agents vs n8n: Our Buy or Build Verdict - IV Consulting",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ivconsulting.in/blogs/manus-vs-zapier-agents-vs-n8n-buy-or-build/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01_DRJb27TShdbGrFbAECL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11616166111102661281": {
+      "ts": "2026-09-02T11:03:52+00:00",
+      "title": "AI Tool #4/50: Meet <b>Manus AI</b>: The AI Agent That Does the Work For You - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/CaEqc4oJZt4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ZYfZfbFCH-_DVG9kZWwdI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7264044110768767361": {
+      "ts": "2026-09-02T00:47:29+00:00",
+      "title": "Mistral AI Pitch Deck (Seed, 2023) - Round Funded",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.roundfunded.com/en/pitch-deck/mistral&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2GtrNWnFqn_BSgcVf8dvxY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
