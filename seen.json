@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models": {
-      "ts": "2026-08-04T19:00:00+00:00",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "source": "OpenAI News",
-      "big": false
-    },
     "51b29e148f2c850f": {
       "ts": "2026-08-04T22:46:55+00:00",
       "title": "2.1.222",
@@ -5527,6 +5520,27 @@
       "ts": "2026-09-03T03:32:38+00:00",
       "title": "Serpentshumultiply/<b>manus-ai</b>-premium — GitHub trending stats &amp; insights | Trendshift",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://trendshift.io/repositories/183849&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_O9ruJmE-hu6fyxpifYuA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/daybreak-for-frontline-defenders": {
+      "ts": "2026-09-03T13:15:00+00:00",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/safety-overview-gpt-6-astra": {
+      "ts": "2026-09-03T00:00:00+00:00",
+      "title": "Safety overview: GPT-6 Astra",
+      "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7044622453164837381": {
+      "ts": "2026-09-03T06:33:52+00:00",
+      "title": "<b>Manus AI</b> x January Capital mini hackathon",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nuza.dev/hackathons/manus-january-capital/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MR6yW_DqD6efSDaZAM1fb",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
