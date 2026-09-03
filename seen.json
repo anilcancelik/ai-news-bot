@@ -1,26 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation": {
-      "ts": "2026-08-04T00:00:00+00:00",
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "9d582cb124764041": {
-      "ts": "2026-08-04T00:20:49+00:00",
-      "title": "2.1.221",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-221",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18017722343811914739": {
-      "ts": "2026-08-03T23:35:54+00:00",
-      "title": "ElevenLabs in Manus | <b>Manus AI</b> - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_elevenlabs-in-manus-activity-7490171040111751169-ovqs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cSSMtJCnadMrjJeID5tHc",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16017412341554467499": {
       "ts": "2026-08-04T04:54:04+00:00",
       "title": "Dont go anywhere near <b>Manus AI</b> : r/ManusOfficial - Reddit",
@@ -56,39 +35,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:11391355157507003004": {
-      "ts": "2026-08-04T00:37:28+00:00",
-      "title": "ChatGPT is Useless for This? <b>Manus AI</b> Says Otherwise #shorts #AI #Tech - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/mwFNlyS6RYg%3Fvl%3Dru&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Bq7Lrj8kvgJ1Jccxof2II",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://cursor.com/blog/mixture-of-kittens": {
       "ts": "2026-08-04T12:00:00+00:00",
       "title": "Mixture-of-Kittens: our open-source MoE megakernel for NVL72s",
       "link": "https://cursor.com/blog/mixture-of-kittens",
       "source": "Cursor Blog",
-      "big": false
-    },
-    "https://www.anthropic.com/news/tino-cuellar": {
-      "ts": "2026-08-04T00:00:00+00:00",
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "link": "https://www.anthropic.com/news/tino-cuellar",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://openai.com/index/learn-teach-chatgpt-work-codex": {
-      "ts": "2026-08-04T00:00:00+00:00",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/": {
-      "ts": "2026-08-04T00:00:00+00:00",
-      "title": "A unified API for AI model routing",
-      "link": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:7958078620211240392": {
@@ -145,13 +96,6 @@
       "title": "2.1.222",
       "link": "https://code.claude.com/docs/en/changelog#2-1-222",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude": {
-      "ts": "2026-08-04T00:00:00+00:00",
-      "title": "A guide to cost visibility and control in Claude",
-      "link": "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:15368243795027765173": {
@@ -5506,6 +5450,27 @@
       "ts": "2026-09-01T08:16:02+00:00",
       "title": "<b>Manus AI</b> Alternatives: 9 Options Compared by Workflow | Moda",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://moda.app/blog/manus-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1f9tiKq-6umfA782bDQdVC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "05593631f38155c7": {
+      "ts": "2026-09-02T22:54:50+00:00",
+      "title": "2.1.259",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-259",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/atv-big-air-tour": {
+      "ts": "2026-09-02T12:00:00+00:00",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "link": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6552088121590344798": {
+      "ts": "2026-09-02T17:34:57+00:00",
+      "title": "<b>Manus AI</b> Resumes Independent Operations After Beijing Blocks Meta Deal | tech360tv",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tech360.tv/manus-ai-resumes-independent-operations-after-beijing-blocks-meta-deal-2026-02-09&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw06D9VJGFL5rmDGSe01Y19X",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
