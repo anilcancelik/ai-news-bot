@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14155963638990236047": {
-      "ts": "2026-08-04T08:54:36+00:00",
-      "title": "<b>Manus AI</b> PRO Standard/Custom/Expanded 1M Subscription | Upgrade | + Warranty - ggsel",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ggsel.net/en/catalog/product/manus-ai-pro-standard-custom-expanded-1m-podpiska-obnovlenie-g-arantiia-102360305&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jNQ0GCaR1RSAfYthkx1dL",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16542930703717040714": {
-      "ts": "2026-08-04T08:52:22+00:00",
-      "title": "10 Free vs Paid AI Tools That Are Worth Using in 2026 1. AI Writing Assistant Google Gemini ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40sunny_aitech/post/DbnLTTuFCTt/free-vs-paid-ai-tools-that-are-worth-using-in-ai-writing-assistant-google/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02efeVZtCIrdqqAORdUV-x",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14492263864165528982": {
-      "ts": "2026-08-04T08:34:34+00:00",
-      "title": "100+ premium-quality UI blocks you can drop straight into your project. Bklit UI ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbnJKsHsv_I/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rECtcQyfY4OlIeKyan6CK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://cursor.com/blog/mixture-of-kittens": {
       "ts": "2026-08-04T12:00:00+00:00",
       "title": "Mixture-of-Kittens: our open-source MoE megakernel for NVL72s",
@@ -88,13 +67,6 @@
       "ts": "2026-08-04T12:53:28+00:00",
       "title": "#ad Every workshop presentation we create is built on Gamma; what used to take hours now ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbnmyKJTWmt/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RobVznUroSFmOxu-xuq8F",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11501011686774485319": {
-      "ts": "2026-08-04T07:00:05+00:00",
-      "title": "Join Manus now and claim free credits! : r/findareferralcode - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/findareferralcode/comments/1vf2rzq/join_manus_now_and_claim_free_credits/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1JxJBOPESQXjHxmkGg2by9",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5494,7 +5466,21 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://devbytes.co.in/news/why-supporting-firefox-is-crucial-for-a-healthy-web-ecosystem&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_FrEJeg1d_bjD0npiumGO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15013183811274570850": {
+      "ts": "2026-09-03T04:25:51+00:00",
+      "title": "From co-founder at Anthropic to becoming an assistant advisor at Kimi - Threads",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40aiagently/post/Dcyts5ojaDD/from-co-founder-at-anthropic-to-becoming-an-assistant-advisor-at-kimi-bros/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Lw0_SiD3xZcPrr2Zd5lyG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:443087293302974212": {
+      "ts": "2026-09-03T02:44:14+00:00",
+      "title": "What AI have you built for AppFolio owner statements - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/andrew.burnett.77964/posts/i-recently-built-out-a-simple-ai-agent-to-pull-the-numbers-from-our-owner-statem/1608801560595262/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2KCbv5kNwbOAyltsisLb9a",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-02"
+  "last_digest_date": "2026-09-03"
 }
