@@ -5473,6 +5473,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://blockchain.news/tag/automation&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2tM0Euvb8iT-h5zu6L1SyP",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/": {
+      "ts": "2026-09-04T18:45:28.150991+00:00",
+      "title": "Driving Developer Excellence: Inside the Program Sprints",
+      "link": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://cursor.com/blog/basis": {
+      "ts": "2026-09-04T12:00:00+00:00",
+      "title": "How Basis builds long-horizon accounting agents with Cursor",
+      "link": "https://cursor.com/blog/basis",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13650315629719690178": {
+      "ts": "2026-09-03T21:18:19+00:00",
+      "title": "Tech News – Telegram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://t.me/s/tech_news_bds%3Fbefore%3D1687&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35r5rN4BjNwJHetxQQwR-B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-09-04"
