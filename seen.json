@@ -1,31 +1,10 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5345688842439600166": {
-      "ts": "2026-08-05T20:24:08+00:00",
-      "title": "Manus vs traditional team project development cost comparison - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/vibecodinglife/posts/2102329160355610/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1I6fkewzIdYA9gcEwlTQLx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5332440082878062465": {
-      "ts": "2026-08-05T19:59:49+00:00",
-      "title": "Comment “100” for the full list   #ai #tools - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dbq77_wqr32/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw38OydgaGr4rMFHPrEq-D2T",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "4d3ab790d7390796": {
       "ts": "2026-08-06T00:58:48+00:00",
       "title": "2.1.223",
       "link": "https://code.claude.com/docs/en/changelog#2-1-223",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12532384872686915332": {
-      "ts": "2026-08-05T18:53:39+00:00",
-      "title": "FM August: Agent behaviour, AI and early careers, business jargon",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/podcast/fm-august-agent-behaviour-ai-and-early-careers-business-jargon/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw13uC9Kqh8ocT_fq8-CX1NN",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:7800473548838371306": {
@@ -5492,6 +5471,27 @@
       "ts": "2026-09-03T21:18:19+00:00",
       "title": "Tech News – Telegram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://t.me/s/tech_news_bds%3Fbefore%3D1687&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35r5rN4BjNwJHetxQQwR-B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "2b315a8d23b7baaa": {
+      "ts": "2026-09-04T20:04:29+00:00",
+      "title": "2.1.261",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-261",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7518140708913055713": {
+      "ts": "2026-09-04T16:36:03+00:00",
+      "title": "Evan Seech's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/evan-seech-307a59151_after-spending-1000000-on-static-ads-activity-7501665583042686976-zeLK&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0qCiz9Ad26n8GphENaVdjw",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13551352798074746419": {
+      "ts": "2026-09-04T11:35:01+00:00",
+      "title": "All AI Courses - 300+ Tutorials - AI Academy",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://academy.techpresso.co/courses%3Fpage%3D1%26category%3Dfinance&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3FRpOijz222BAR88kSuwGh",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
