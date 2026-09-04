@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4921883302048346416": {
-      "ts": "2026-08-05T00:16:02+00:00",
-      "title": "Microsoft Copilot - You Might Also Like - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/ye/app/6472538445%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JqbrqX3-7a_SsQQ0z6wRz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9513091756229476": {
-      "ts": "2026-08-05T00:13:48+00:00",
-      "title": "ElevenLabs Vs <b>Manus AI</b> Who Has The Best Voice AI [Best Choice Guide] - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D9XTKbar7uGs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3DcNyWc8phBYxNQm99_0wI",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7604556848335739705": {
       "ts": "2026-08-05T05:04:57+00:00",
       "title": "Post from Basic IT Academy - YouTube",
@@ -103,20 +89,6 @@
       "title": "Comment for all the links! - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbpzMetBpJt/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2eQKWqPAZ1HP1DF2YkZ73c",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/claude-enterprise-inference-hooks": {
-      "ts": "2026-08-05T00:00:00+00:00",
-      "title": "Inference hooks: inline data loss prevention for Claude Enterprise",
-      "link": "https://claude.com/blog/claude-enterprise-inference-hooks",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/": {
-      "ts": "2026-08-05T00:00:00+00:00",
-      "title": "Scaling AI Agent Infrastructure with the MCP Stateless updates",
-      "link": "https://developers.googleblog.com/scaling-ai-agent-infrastructure-with-the-mcp-stateless-updates/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:5345688842439600166": {
@@ -5527,6 +5499,20 @@
       "ts": "2026-09-03T06:33:52+00:00",
       "title": "<b>Manus AI</b> x January Capital mini hackathon",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://nuza.dev/hackathons/manus-january-capital/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MR6yW_DqD6efSDaZAM1fb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "17b82a3f6f746882": {
+      "ts": "2026-09-03T23:55:10+00:00",
+      "title": "2.1.260",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-260",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17107759513628457866": {
+      "ts": "2026-09-03T21:13:10+00:00",
+      "title": "AI Engineer CODE 2025 - AIE Talks",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aietalks.com/conferences/ai-engineer-code-2025&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1WW-3VBmbC8cV7xWg9JZpR",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
