@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:7604556848335739705": {
-      "ts": "2026-08-05T05:04:57+00:00",
-      "title": "Post from Basic IT Academy - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/UgkxzRfRxCBWDQEF2i0w6qnEYRhhV5lwfyer&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00oMGDgXN4nsF0pdRIFjio",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3327784119746306597": {
-      "ts": "2026-08-05T04:21:45+00:00",
-      "title": "Build websites • Make presentations • Design logos • Clone voices • Edit videos Most of ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DbnlSAfSn8p/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zZVQQQtGAf_XJUI0M5Lnq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2507210476835474489": {
-      "ts": "2026-08-05T04:06:32+00:00",
-      "title": "Open Source Alternatives to Superpairs (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/superpairs/open-source-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YEyp8zwAHBgkCWOoQICcl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:8311350320513413506": {
       "ts": "2026-08-05T09:53:42+00:00",
       "title": "Everyone is chasing the newest AI. Very few are asking a better question - Instagram",
@@ -32,13 +11,6 @@
       "ts": "2026-08-05T08:20:34+00:00",
       "title": "<b>Manus AI</b> Tutorial: Basic Understanding For All Beginners - Automation Rule: AI World",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.atomrule.com/2026/08/05/manus-ai-tutorial/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw196XXAL9zcPuizYaTnR9AM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3551938884693863430": {
-      "ts": "2026-08-05T05:51:27+00:00",
-      "title": "JustDone AI Review: Can It Improve Your Writing?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ai-websitesbuilder.com/justdone-ai-review/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2p79CxWZWmxzmqIF4NwV4X",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -74,13 +46,6 @@
       "ts": "2026-08-05T13:20:53+00:00",
       "title": "Make beautiful AI websites using these 6 skills | TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40swikar.codes/video/7670535126719220999&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2k8BGBKONbMWzb8z_tz48Y",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15794870233653254755": {
-      "ts": "2026-08-05T02:15:23+00:00",
-      "title": "AutoAgents.AI · SVTR - AI 创投的信号源",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://svtr.ai/orgs/weilaishizhineng%3Flang%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0B76oRfYzfY8A2nvEHQA--",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5515,7 +5480,14 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aietalks.com/conferences/ai-engineer-code-2025&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1WW-3VBmbC8cV7xWg9JZpR",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17324361297694446519": {
+      "ts": "2026-09-02T20:05:39+00:00",
+      "title": "Exclusive Prompts, Real Use Cases & Business Workflows for Manus AI - Manus Insider",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.manusinsider.com/capabilities&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3tCW6wYn0wTyZueRqFE8F3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-03"
+  "last_digest_date": "2026-09-04"
 }
