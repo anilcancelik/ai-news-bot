@@ -210,13 +210,6 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:3911414625528874652": {
-      "ts": "2026-08-05T22:48:09+00:00",
-      "title": "Post from Amy - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/post/UgkxwFl4okTTIOMDxIn3_tmURYLQdmYhyoMR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1KSInek3AEBzZy5eIRRSdU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute": {
       "ts": "2026-08-06T00:00:00+00:00",
       "title": "Run Claude Code sessions on your own compute",
