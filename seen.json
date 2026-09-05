@@ -1,12 +1,5 @@
 {
   "seen": {
-    "4d3ab790d7390796": {
-      "ts": "2026-08-06T00:58:48+00:00",
-      "title": "2.1.223",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-223",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7800473548838371306": {
       "ts": "2026-08-06T02:44:16+00:00",
       "title": "Genspark vs <b>Manus AI</b>: Which One Should You Choose in 2026? - MyClaw",
@@ -33,13 +26,6 @@
       "title": "MCP Servers for <b>Manus AI</b>: Google Sheets &amp; Slides Setup - viaSocket",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://viasocket.com/blog/enable-google-sheets-slides-mcp-server-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1pxgeC3r2vNK049OHEIK7D",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude": {
-      "ts": "2026-08-06T00:00:00+00:00",
-      "title": "Millennium and Anthropic are building a digital risk analyst with Claude",
-      "link": "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
-      "source": "Claude Blog",
       "big": false
     },
     "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/": {
@@ -89,20 +75,6 @@
       "title": "Working with the American Psychological Association on youth mental health and AI",
       "link": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work": {
-      "ts": "2026-08-06T00:00:00+00:00",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "link": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/": {
-      "ts": "2026-08-06T00:00:00+00:00",
-      "title": "Agent Plugins package your skills, tools, and more",
-      "link": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:15157316763693070039": {
@@ -208,13 +180,6 @@
       "title": "2.1.224",
       "link": "https://code.claude.com/docs/en/changelog#2-1-224",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute": {
-      "ts": "2026-08-06T00:00:00+00:00",
-      "title": "Run Claude Code sessions on your own compute",
-      "link": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:12818170381305565732": {
