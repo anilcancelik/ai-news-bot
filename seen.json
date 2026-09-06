@@ -5263,6 +5263,20 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJ_ohd-LSzVY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fUBDKdQCInWCI0j78OUwL",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/an-alien-mind": {
+      "ts": "2026-09-06T09:00:00+00:00",
+      "title": "An Alien Mind",
+      "link": "https://openai.com/index/an-alien-mind",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15855888738285132427": {
+      "ts": "2026-09-06T15:10:20+00:00",
+      "title": "NEAR 15 min · $2.2370 target | Prediction Markets - Coinbase",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXNEAR15M-26SEP052300&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SJkkvkW7m1Tuj-B-nzOE8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-09-06"
