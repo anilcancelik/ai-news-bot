@@ -1,33 +1,5 @@
 {
   "seen": {
-    "7d7a80020d9a14e1": {
-      "ts": "2026-08-07T04:08:07+00:00",
-      "title": "2.1.224",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-224",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12818170381305565732": {
-      "ts": "2026-08-07T03:01:57+00:00",
-      "title": "Runner Lindy Genspark AI Manus ChatGPT Agent Comment &quot;AGENT&quot; and I'll send ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dbs_oIgCDzf/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39mEjCDKRJAVFXjHLanmvn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12198852819618293281": {
-      "ts": "2026-08-07T01:37:14+00:00",
-      "title": "I Tested <b>Manus AI</b> for Faith-Based Products (Results Shocked Me) #ai #faithbusiness #testing",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/TmZCt_KNLkU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nYnlo30YMVcZnOB7tb4mt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14558762142731590683": {
-      "ts": "2026-08-07T03:08:59+00:00",
-      "title": "Science &amp; Technology Archives - Page 9 of 54 - Modern Diplomacy",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moderndiplomacy.eu/category/tech-innovation/science-technology/page/9/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ZLpNy2hHEaTGWSAVyvmmp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/hsp-gruppe": {
       "ts": "2026-08-07T09:00:00+00:00",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -53,13 +25,6 @@
       "ts": "2026-08-07T08:53:57+00:00",
       "title": "AI Academy in Bali: Building With Claude, Manus &amp; Supabase | Hans EPS 2 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dzl4kePysPJU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03bZJ51jfR_pK6XL1L61Jb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4573652980904790010": {
-      "ts": "2026-08-07T03:04:58+00:00",
-      "title": "I Used <b>Manus AI</b> To Build a Mario Kart Game (No Coding Required) - Invidious",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://invidious.logicism.tv/watch%3Fv%3D7-euUuMrUlk%26listen%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33OF-ihXAM4aX31z9J8cOH",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -109,13 +74,6 @@
       "ts": "2026-08-07T15:23:21+00:00",
       "title": "Automation AI Tools",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://boonqo.com/automation/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TGlZf63O94NCuSadlH2QT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7152468733603621045": {
-      "ts": "2026-08-07T05:04:44+00:00",
-      "title": "What progress has Manus made under 2025 PHA Rankings? - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/101556939992555/posts/3664287980386082/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1W_xRW9rzTt18QmDi_3yf9",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5304,6 +5262,13 @@
       "title": "META (Meta Platforms) News - Blockchain.News",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://blockchain.news/tag/meta&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1VSgDfDyPnLJCnBlBt7Ay3",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "799ec08c80886b74": {
+      "ts": "2026-09-06T03:01:03+00:00",
+      "title": "2.1.263",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-263",
+      "source": "Claude Code changelog",
       "big": false
     }
   },
