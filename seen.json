@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities": {
-      "ts": "2026-08-07T15:20:00+00:00",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3736939412027866412": {
       "ts": "2026-08-07T18:35:18+00:00",
       "title": "“The Rise of AI Agents: 5 Powerful Tools That Actually Do Work for You” - PixelAizone",
@@ -33,13 +26,6 @@
       "title": "2.1.225",
       "link": "https://code.claude.com/docs/en/changelog#2-1-225",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15768844730993260569": {
-      "ts": "2026-08-07T15:23:21+00:00",
-      "title": "Automation AI Tools",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://boonqo.com/automation/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TGlZf63O94NCuSadlH2QT",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:14118380305821757825": {
@@ -5247,6 +5233,34 @@
       "ts": "2026-09-06T07:17:42+00:00",
       "title": "BUILD YOUR FIRST AI GTM AGENT IN 90 MINUTES: Online, 13 Sept",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startupgrantsindia.com/events/build-your-first-ai-gtm-agent-in-90-minutes&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2S8djr5VRL8V6R78NZRkJz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/research-acceleration-view-inside-openai": {
+      "ts": "2026-09-06T08:00:00+00:00",
+      "title": "Research acceleration: The view inside OpenAI",
+      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8050610378331607050": {
+      "ts": "2026-09-06T13:30:14+00:00",
+      "title": "Learn to Write Perfect AI Prompts for App Building | No-Code Guide (Hindi) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMhtqOqTlju8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3pMwHCZzq5xdvbUPe81anu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2591103835315913497": {
+      "ts": "2026-09-06T12:47:10+00:00",
+      "title": "How to Change Theme in <b>Manus AI</b> 2026? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D4WLbo3kZ0uo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1UuSsRwefrB1z2kqx3oo1G",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4020090096833620345": {
+      "ts": "2026-09-06T11:56:04+00:00",
+      "title": "How to Manage <b>Manus AI</b> Pro Plan 2026? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJ_ohd-LSzVY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fUBDKdQCInWCI0j78OUwL",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
