@@ -49,24 +49,10 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:7276848007433246920": {
-      "ts": "2026-08-08T10:53:48+00:00",
-      "title": "Page 2 - checklistia.online",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://checklistia.online/en/page/2/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1TVJHB1X_l0GYktTTo1Qvr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7963485854741200044": {
       "ts": "2026-08-09T04:14:04+00:00",
       "title": "Manus: Refund still pending since June 22 — MXN $7,227.76 : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1vjd72z/manus_refund_still_pending_since_june_22_mxn/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2tYANt9GnoS_uUcPuDYzVa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5960999564078472393": {
-      "ts": "2026-08-08T08:05:47+00:00",
-      "title": "Christine Yu And <b>Manus Ai</b> Yu - Search Books | Ryefield Books",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ryefieldbooks.com/products/books%3Fauthor%3Dchristine%2520yu%2520and%2520manus%2520ai%2520yu&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1GmuSPUdl557P--Wos9tVh",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5249,7 +5235,21 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sagittera.eu/what-we-catch/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30kev3nWY2sVyw7T2Btb9v",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/supporting-independent-journalism-in-ukraine": {
+      "ts": "2026-09-07T00:00:00+00:00",
+      "title": "Supporting independent journalism in Ukraine",
+      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16236424748597635548": {
+      "ts": "2026-09-07T07:22:05+00:00",
+      "title": "Man Group combined its quant businesses into a $156 billion giant as AI changes how ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40businessinsider/post/Dc-jUHtFX8j/man-group-combined-its-quant-businesses-into-a-billion-giant-as-ai-changes-how&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0DPfy5fwm2MpYx4lnAt_1U",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-06"
+  "last_digest_date": "2026-09-07"
 }
