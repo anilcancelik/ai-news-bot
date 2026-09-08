@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:6748564283733502026": {
-      "ts": "2026-08-09T23:22:53+00:00",
-      "title": "<b>Manus Ai</b> Platform - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLck6B6olWpV-79VrfDYbQMLCVAqLSyUCv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2gEmU7ePAd2QdXi-WwAdBL",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14600995276241799304": {
       "ts": "2026-08-10T03:12:42+00:00",
       "title": "r/AI_Agents on Reddit: I've been testing hooks/scripts with Manus vs Claude and I like what ...",
