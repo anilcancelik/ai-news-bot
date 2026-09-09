@@ -1,59 +1,10 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:9803726999217243803": {
-      "ts": "2026-08-10T11:47:25+00:00",
-      "title": "Seven years of teaching method, pointed at AI agents. Full course insi... | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40tech_with_tim/video/7672367700357860616&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lFYw7pelu_FnA6L0eORQE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/model-ml": {
-      "ts": "2026-08-10T12:00:00+00:00",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "link": "https://openai.com/index/model-ml",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/responsible-ai-infrastructure-texas": {
-      "ts": "2026-08-10T14:00:00+00:00",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11379537328870885990": {
-      "ts": "2026-08-10T12:57:50+00:00",
-      "title": "Moonshot AI Overhauls Structure Under Beijing Pressure, Delaying Hong Kong IPO",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://en.sedaily.com/international/2026/08/10/moonshot-ai-overhauls-structure-under-beijing-pressure&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1GnMySxZm3w_jVDgCxIPiF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7983711349646565519": {
-      "ts": "2026-08-10T12:59:29+00:00",
-      "title": "Comment “tools” for my complete AI stack in 2026   Best AI for writing? Claude Best AI ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Db3DeWkPilR/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2US5MItvhqUkbcxYbhZqdz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14732948433041287756": {
-      "ts": "2026-08-10T11:43:23+00:00",
-      "title": "lets cook with <b>manus #ai</b> #coding #vibecoding #manusai - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Z0JDcnCzsbs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2f9L7asdfKBH1JD9lnwx_4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/building-an-ai-native-finance-function": {
       "ts": "2026-08-10T17:00:00+00:00",
       "title": "What building an AI-native finance function taught me",
       "link": "https://openai.com/index/building-an-ai-native-finance-function",
       "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5551703822958092807": {
-      "ts": "2026-08-10T15:38:37+00:00",
-      "title": "Beyond ChatGPT: 10 Hidden AI Tools Every Freelancer Should Try in 2026 - Medium",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://medium.com/technology-hits/beyond-chatgpt-10-hidden-ai-tools-every-freelancer-should-try-in-2026-0f468ac45179&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3SHZudhgY4rGwUBGDm9ycX",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:10047251356249393561": {
@@ -5361,6 +5312,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.workfromhome.id/jobs/677983449-landing-page-expert-ai-powered-direct-response-dtc-agency-remote&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1i9by4adSNQkERP4wtOJBO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/": {
+      "ts": "2026-09-09T15:46:24.392999+00:00",
+      "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
+      "link": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
+      "source": "Google Developers Blog - AI",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:3800174282867705309": {
+      "ts": "2026-09-09T12:53:08+00:00",
+      "title": "The timing of launch makes it more interesting because I thought Apple might just take ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DdDvUGdp7_Y/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fRey_RPZW-O8NG9hgHdFc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:2305849411450435565": {
+      "ts": "2026-09-09T12:45:55+00:00",
+      "title": "META KA MUSE AI AGENT IS HERE! Ye sirf chat nahi karta… aapke kaam ko ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DdESYFsywjc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aIksqBisVbDhOhTFgyI7t",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-09-09"
