@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14600995276241799304": {
-      "ts": "2026-08-10T03:12:42+00:00",
-      "title": "r/AI_Agents on Reddit: I've been testing hooks/scripts with Manus vs Claude and I like what ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_Agents/comments/1vk9ark/ive_been_testing_hooksscripts_with_manus_vs/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WGYnNyN9Clbo0UHh-7HLF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9803726999217243803": {
       "ts": "2026-08-10T11:47:25+00:00",
       "title": "Seven years of teaching method, pointed at AI agents. Full course insi... | TikTok",
@@ -95,13 +88,6 @@
       "ts": "2026-08-10T19:04:11+00:00",
       "title": "6 Best Gemini Spark Alternatives (Free and Paid) in 2026 | MyClaw.ai",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/blog/gemini-spark-alternative&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1hkRaXRkIDdmRJ3pXZivcl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8707062457161918486": {
-      "ts": "2026-08-10T04:19:42+00:00",
-      "title": "Reports indicate ByteDance is developing an AI model that could potentially surpass ... - GIGAZINE",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://gigazine.net/gsc_news/en/20260810-bytedance-mega-ai-model&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rDBBmz9VJHCg0tjmnLvpy",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5354,7 +5340,28 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dw.com/en/tradition-teaches-ugandan-children-a-conservation-lesson/video-78893886&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0l6tNmvOy8jqTw9pny3CeQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17174308333888017470": {
+      "ts": "2026-09-09T02:31:16+00:00",
+      "title": "Can't use Manus at all : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wal2cf/cant_use_manus_at_all/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fcU-IzIQKIb2n_nZVYWaO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9889155826495485985": {
+      "ts": "2026-09-09T02:21:29+00:00",
+      "title": "<b>Manus AI</b> Music Generator - Tad AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tad.ai/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2w3MVkFOFyNyW3_YbF_CiI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1745665363750193285": {
+      "ts": "2026-09-08T10:50:52+00:00",
+      "title": "The NEXT Deepseek? Meet StepFun AI from China! - 데브허브 | DEVHUB",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dev-hub.dev/youtube/video/cICLROHIWUI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28vaf5Utkjw1NLqGDIRk0D",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-08"
+  "last_digest_date": "2026-09-09"
 }
