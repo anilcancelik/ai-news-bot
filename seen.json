@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://ollama.com/blog/muse-glimmer": {
-      "ts": "2026-08-10T00:00:00+00:00",
-      "title": "Muse Glimmer from Meta Superintelligence Labs is now available on Ollama",
-      "link": "https://ollama.com/blog/muse-glimmer",
-      "source": "Ollama Blog",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:9803726999217243803": {
       "ts": "2026-08-10T11:47:25+00:00",
       "title": "Seven years of teaching method, pointed at AI agents. Full course insi... | TikTok",
@@ -77,13 +70,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/premium-seats-chatgpt-business": {
-      "ts": "2026-08-10T00:00:00+00:00",
-      "title": "Premium seats are coming to ChatGPT Business",
-      "link": "https://openai.com/index/premium-seats-chatgpt-business",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows": {
       "ts": "2026-08-10T10:00:00+00:00",
       "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
@@ -117,20 +103,6 @@
       "title": "Reports indicate ByteDance is developing an AI model that could potentially surpass ... - GIGAZINE",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://gigazine.net/gsc_news/en/20260810-bytedance-mega-ai-model&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rDBBmz9VJHCg0tjmnLvpy",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/zapier": {
-      "ts": "2026-08-10T00:00:00+00:00",
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "link": "https://openai.com/index/zapier",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/virgin-atlantic/chatgpt-work": {
-      "ts": "2026-08-10T00:00:00+00:00",
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "link": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:7034733890498995542": {
@@ -5366,6 +5338,20 @@
       "ts": "2026-09-08T18:09:15+00:00",
       "title": "אופירה אסייג בגד ים",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://yfb2anq9qkci.sevaa.it/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw315HEJKse51Eb1Au_wbhS3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "9964f7b8945b0327": {
+      "ts": "2026-09-09T00:02:54+00:00",
+      "title": "2.1.266",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-266",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15474932127201133964": {
+      "ts": "2026-09-08T20:12:19+00:00",
+      "title": "How ancient totems could protect wildlife - DW.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dw.com/en/tradition-teaches-ugandan-children-a-conservation-lesson/video-78893886&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0l6tNmvOy8jqTw9pny3CeQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
