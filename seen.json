@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/building-an-ai-native-finance-function": {
-      "ts": "2026-08-10T17:00:00+00:00",
-      "title": "What building an AI-native finance function taught me",
-      "link": "https://openai.com/index/building-an-ai-native-finance-function",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10047251356249393561": {
-      "ts": "2026-08-10T15:58:25+00:00",
-      "title": "Best AI Agents in 2026: 15 Tested, Ranked, and Priced | AIFLOXIUM",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aifloxium.online/blog/best-ai-agents-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gx1Itcjx9AwBPIHn933VT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3121211660268825567": {
       "ts": "2026-08-10T19:04:11+00:00",
       "title": "6 Best Gemini Spark Alternatives (Free and Paid) in 2026 | MyClaw.ai",
@@ -5333,6 +5319,62 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DdESYFsywjc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aIksqBisVbDhOhTFgyI7t",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
+      "ts": "2026-09-09T17:00:00+00:00",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/": {
+      "ts": "2026-09-09T19:00:29.391008+00:00",
+      "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
+      "link": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12516535574079301401": {
+      "ts": "2026-09-09T18:28:25+00:00",
+      "title": "Meta Muse: The AI Agent That Could Actually Do Your Work #MetaMuse #MuseAI #AIAgent ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/BusinessToday/posts/meta-muse-the-ai-agent-that-could-actually-do-your-workmetamuse-museai-aiagent-a/1559932599514446/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3dHuCoSkAlvdVks4QiUk6s",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2735304044940410079": {
+      "ts": "2026-09-09T17:10:26+00:00",
+      "title": "AI-driven hack snags 375 Brazil government employee logins - Cybernews",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cybernews.com/security/brazil-data-breach-government-employee-logins/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0FzIRSVBLwX-HLYWg4LsOp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7076781576398655976": {
+      "ts": "2026-09-09T15:06:49+00:00",
+      "title": "Rishul Chanana's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/rishul-chanana_hack47-builders-just-got-a-lot-more-dangerous-activity-7503447721509478400-Wn8r&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw354xwwljbsfiiY7lFjNCC4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12886176429651218210": {
+      "ts": "2026-09-09T13:10:05+00:00",
+      "title": "<b>Manus AI</b> Tutorial - How to Actually Use AI Agents - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DshXbi_v40Gk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2wGnN8YR6NCAmdbQEohmyv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:367916524438650931": {
+      "ts": "2026-09-09T12:25:31+00:00",
+      "title": "Meta Launches AI Agent Muse! Meta ने 18 साल और उससे ज्यादा उम्र के यूजर्स के लिए ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DdD4wxMk4mW/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BIgVXFaKjEUiuhWPrUVJB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:9071222913353321006": {
+      "ts": "2026-09-09T04:01:34+00:00",
+      "title": "<b>Manus AI</b> (@manilson.manuel.73) - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/1334860426713088/user/100065207810216/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uysqn0aeL2nfN7c6--e23",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-09-09"
