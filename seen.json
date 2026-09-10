@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:3611649717922230019": {
-      "ts": "2026-08-11T00:23:32+00:00",
-      "title": "12 AI tools worth bookmarking in 2026 - Threads",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40unlock.ai.tools/post/Db29rJbAe_r/ai-tools-worth-bookmarking-in-claude-general-assistant-rec-cloud-com-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2etmr_La1-o6AIjVTFawnw",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10092100599480834591": {
       "ts": "2026-08-11T06:04:10+00:00",
       "title": "‎Grok AI - You Might Also Like - App Store",
@@ -21,53 +14,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:780660147981465845": {
-      "ts": "2026-08-11T01:27:46+00:00",
-      "title": "THREAT OF ROGUE AI by Paresh Nath - Cagle Cartoons",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cagle.com/cartoonist/paresh-nath/2026/08/10/310309/threat-of-rogue-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mk5fN9OQ0u5gtGS7BhfdH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14188706508210614140": {
-      "ts": "2026-08-11T00:19:39+00:00",
-      "title": "Nashvilleaicouncil Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/nashvilleaicouncil/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw08MGPAXm-TklyI2T6PxGGa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/testing-ads-in-chatgpt": {
       "ts": "2026-08-11T10:00:00+00:00",
       "title": "Testing ads in ChatGPT",
       "link": "https://openai.com/index/testing-ads-in-chatgpt",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/": {
-      "ts": "2026-08-11T00:00:00+00:00",
-      "title": "Mastering Edge AI on Raspberry Pi with LiteRT and Gemma",
-      "link": "https://developers.googleblog.com/mastering-edge-ai-on-raspberry-pi-with-litert-and-gemma/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/": {
-      "ts": "2026-08-11T00:00:00+00:00",
-      "title": "Why Go is an Ideal Language for AI-Assisted Software Engineering",
-      "link": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://ollama.com/blog/nemotron-3-5-lightning": {
-      "ts": "2026-08-11T00:00:00+00:00",
-      "title": "NVIDIA Nemotron 3.5 Lightning",
-      "link": "https://ollama.com/blog/nemotron-3-5-lightning",
-      "source": "Ollama Blog",
-      "big": false
-    },
-    "https://claude.com/blog/compliance-api-cowork-and-claude-code": {
-      "ts": "2026-08-11T00:00:00+00:00",
-      "title": "Compliance API coverage extends to Claude Cowork and Claude Code",
-      "link": "https://claude.com/blog/compliance-api-cowork-and-claude-code",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:15596423037412078411": {
@@ -144,13 +95,6 @@
       "ts": "2026-08-11T16:43:14+00:00",
       "title": "The Refund Email That Just Taught Entrepreneurs More About AI Than Any Course Breaking",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jonathanjmast/posts/the-refund-email-that-just-taught-entrepreneurs-more-about-ai-than-any-coursebre/28506544672284996/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BUkxh-VDzcJwCC0BoQawR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7364335088070327042": {
-      "ts": "2026-08-11T00:23:17+00:00",
-      "title": "How <b>Manus AI</b> Is Silently Reverse-Engineering the Web - AI Rabbit Blog",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://airabbit.blog/how-manus-ai-is-silently-reverse-engineering-the-web/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0u3SZIHvYQK3gLDZ2t8wUR",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5359,6 +5303,27 @@
       "ts": "2026-09-09T22:06:50+00:00",
       "title": "#FMTBusiness The company behind Facebook and Instagram says the Muse AI agent can ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/freemalaysiatoday/posts/fmtbusiness-the-company-behind-facebook-and-instagram-says-the-muse-ai-agent-can/1512430817582503/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CvDFxIeoeHh-gaVZAAU0Q",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/ai-policy-window": {
+      "ts": "2026-09-09T13:00:00+00:00",
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5024018771768798527": {
+      "ts": "2026-09-09T23:16:57+00:00",
+      "title": "AI Tools Articles: Reviews, Pricing &amp; Alternatives | Lindy Blog",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lindy.ai/blog-category/ai-tools&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qgP0jIxEDVodGa9HKMCxC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5911795404077599328": {
+      "ts": "2026-09-09T13:48:53+00:00",
+      "title": "Desperately seeking assistance. : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wadatn/desperately_seeking_assistance/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2EYj_BYpG1XO5TEFi6YDuw",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
