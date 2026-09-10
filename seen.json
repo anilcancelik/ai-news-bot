@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10092100599480834591": {
-      "ts": "2026-08-11T06:04:10+00:00",
-      "title": "‎Grok AI - You Might Also Like - App Store",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/ca/app/grok-ai/id6670324846%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3cP52aGzU6JRSODhDTeoyR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12333722650341055916": {
-      "ts": "2026-08-11T05:13:18+00:00",
-      "title": "things you didn't know you can do with AI (part 235) #practicalyai #digitalsamaritan #ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Db4zwXhR3IJ/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2SSGOvyClDSZ4XkZpOIf2p",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/testing-ads-in-chatgpt": {
       "ts": "2026-08-11T10:00:00+00:00",
       "title": "Testing ads in ChatGPT",
@@ -5326,7 +5312,14 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wadatn/desperately_seeking_assistance/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2EYj_BYpG1XO5TEFi6YDuw",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5473329220805127817": {
+      "ts": "2026-09-09T22:21:58+00:00",
+      "title": "best ai tools 735 (@bnnvc.57) | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40bnnvc.57&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2AQojb4DUZHhh70opCbOwk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-09"
+  "last_digest_date": "2026-09-10"
 }
