@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/testing-ads-in-chatgpt": {
-      "ts": "2026-08-11T10:00:00+00:00",
-      "title": "Testing ads in ChatGPT",
-      "link": "https://openai.com/index/testing-ads-in-chatgpt",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15596423037412078411": {
       "ts": "2026-08-11T17:07:03+00:00",
       "title": "Manus asks affected users to back up data before Meta separation - RuntimeWire",
@@ -32,34 +25,6 @@
       "ts": "2026-08-11T13:04:26+00:00",
       "title": "Important: Manus will resume operating as an independent company. To comply with ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Db5pu65DYOO/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1eiK4tJALzVqOUBgqIWYrl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1943632354604696813": {
-      "ts": "2026-08-11T12:36:41+00:00",
-      "title": "How <b>Manus AI</b> Is Silently Reverse-Engineering the Web | by AI Rabbit | CodeX - Medium",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://medium.com/codex/how-manus-ai-is-silently-reverse-engineering-the-web-87275ba105ac&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2V5MJcWc8GeZwgOc1VXSTk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17879864879906424251": {
-      "ts": "2026-08-11T12:09:51+00:00",
-      "title": "A OpenSource System for multiplayer ai : r/foss - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/foss/comments/1vldsdb/a_opensource_system_for_multiplayer_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cbDd5DY7xJzu_Eos5yEfM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13817642484034889410": {
-      "ts": "2026-08-11T08:30:16+00:00",
-      "title": "All | Search powered by Algolia",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hn.algolia.com/%3Fquery%3DHow%2520Claude%2520marks%2520AI-generated%2520content%26type%3Dstory%26dateRange%3Dall%26sort%3DbyDate%26storyText%3Dfalse%26prefix%26page%3D0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1hrGozQQ6nyoeDL3YZ413f",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12915897274040976782": {
-      "ts": "2026-08-11T08:03:58+00:00",
-      "title": "Manus Reviews 2026: Capabilities, Costs, and an Honest Verdict | MyClaw.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/blog/manus-reviews&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Oc_f5U1L2yO9bplBMhjr3",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -90,13 +55,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLFtCcCv9J5Ic&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3kUCIbDydMfEMlqEIwWzf6",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "https://openai.com/index/daybreak-models-are-now-available-on-aws": {
-      "ts": "2026-08-11T10:00:00+00:00",
-      "title": "Daybreak models are now available on AWS",
-      "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-      "source": "OpenAI News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:6557098064048210518": {
       "ts": "2026-08-11T21:46:11+00:00",
