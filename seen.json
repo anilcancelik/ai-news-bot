@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:15596423037412078411": {
-      "ts": "2026-08-11T17:07:03+00:00",
-      "title": "Manus asks affected users to back up data before Meta separation - RuntimeWire",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://runtimewire.com/article/manus-separates-from-meta-user-data-migration&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0hAkn1BcI4DmsYdyxo5XZE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16468931109105393969": {
-      "ts": "2026-08-11T17:43:03+00:00",
-      "title": "TIRF AI Show &amp; Tell Series (Part II) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLFtCcCv9J5Ic&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3kUCIbDydMfEMlqEIwWzf6",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6557098064048210518": {
       "ts": "2026-08-11T21:46:11+00:00",
       "title": "India's Godrej Consumer names new CEO after Sitapati's 'sudden' exit | Reuters",
@@ -130,20 +116,6 @@
       "ts": "2026-08-11T19:38:02+00:00",
       "title": "Facebook parent Meta to unwind US$2 billion <b>Manus AI</b> deal after Beijing block",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scmp.com/news/us/article/3363704/facebook-parent-meta-unwind-us2-billion-manus-ai-deal-after-beijing-block&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_QF5FU8XlEchgRBOZEw7W",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15557498693830116390": {
-      "ts": "2026-08-11T19:22:11+00:00",
-      "title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/business/nvidia-is-developing-nemotron-4-open-source-models-information-reports-2026-08-11/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Fr0u9-gMI55zLWBukHxWI",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18022254273482236624": {
-      "ts": "2026-08-11T18:53:01+00:00",
-      "title": "Rupee retreats to near two-week low as US-Iran standoff pushes oil higher | Reuters",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/india/rupee-set-slip-oil-pressure-relies-rbi-support-2026-08-11/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IqcCBnehc-AC_dql7ZPH-",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5289,6 +5261,55 @@
       "ts": "2026-09-09T17:11:23+00:00",
       "title": "Digital Economy - Amebopreneur",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://amebopreneur.com/category/digital-economy/page/3/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1X8UvPhSid8BxZSIEcvKkz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process": {
+      "ts": "2026-09-10T00:00:00+00:00",
+      "title": "T. Rowe Price brings more of Claude to its investment process",
+      "link": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/introducing-chatgpt-financial-services": {
+      "ts": "2026-09-10T07:00:00+00:00",
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
+      "ts": "2026-09-10T00:00:00+00:00",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8717360419860308787": {
+      "ts": "2026-09-10T16:18:48+00:00",
+      "title": "She Built Her Brother a Voice After Cancer Took His Vocal Cords | Amy Brimicombe",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/amybrimicombe_she-built-her-brother-a-voice-after-cancer-activity-7503552771044892672-jDCv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NJjN8yPCoGeQUrDwD2w76",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8654059449449985014": {
+      "ts": "2026-09-10T16:13:28+00:00",
+      "title": "3 <b>Manus AI</b> Systems That Make You So Good It Feels Unfair - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMJgzwObyR0Y&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw114TYM45qY-3Q5vqeeCOli",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9594707515643403941": {
+      "ts": "2026-09-10T13:20:17+00:00",
+      "title": "GenWrite vs Manus vs Autoblogging.ai vs RightBlogger - SEO Sandwitch",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://seosandwitch.com/genwrite-vs-manus-vs-autoblogging-vs-rightblogger/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yHN2diAks_Qs7CORHhqPx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18263481425628723338": {
+      "ts": "2026-09-10T04:15:12+00:00",
+      "title": "<b>Manus AI</b> দিয়ে Free Fire গেম বানানো কি সম্ভব? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D2oYjTjPupGw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2klovlEfe7O9WDkqicKTcR",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
