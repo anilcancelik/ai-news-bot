@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:6557098064048210518": {
-      "ts": "2026-08-11T21:46:11+00:00",
-      "title": "India's Godrej Consumer names new CEO after Sitapati's 'sudden' exit | Reuters",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reuters.com/world/india/indias-godrej-consumer-names-malbari-ceo-sitapati-exits-months-after-2026-08-11/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3tRY_CYe-qddJaUxYfniyk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "8a340b22d92b689e": {
       "ts": "2026-08-12T00:36:25+00:00",
       "title": "2.1.228",
@@ -137,13 +130,6 @@
       "ts": "2026-08-12T00:29:45+00:00",
       "title": "Meta to unwind $2b <b>Manus AI</b> deal on China order - Tech in Asia",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techinasia.com/news/meta-unwind-2b-manus-ai-deal-china-order&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2AsvVLmH61_37GugoRuJLg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14258265499677708639": {
-      "ts": "2026-08-11T23:03:16+00:00",
-      "title": "AI Firm Manus to Resume 'Independent' Operations after China Blocks Meta Deal",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jakartaglobe.id/tech/ai-firm-manus-to-resume-independent-operations-after-china-blocks-meta-deal&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3U4-EHW0hlSkedG8hZt-Wm",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5221,6 +5207,13 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/maggizine_building-her-brother-a-voice-with-ai-activity-7503564539452456961-2T6V&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vxKngUcy9RejO4uQBq2qY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://cursor.com/blog/projects": {
+      "ts": "2026-09-10T12:00:00+00:00",
+      "title": "Introducing Projects",
+      "link": "https://cursor.com/blog/projects",
+      "source": "Cursor Blog",
+      "big": true
     }
   },
   "last_digest_date": "2026-09-10"
