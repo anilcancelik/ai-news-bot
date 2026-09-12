@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://cursor.com/blog/aiuc-1": {
-      "ts": "2026-08-13T12:00:00+00:00",
-      "title": "Cursor earns AIUC-1 certification for agent security and reliability",
-      "link": "https://cursor.com/blog/aiuc-1",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
       "ts": "2026-08-13T17:04:18+00:00",
       "title": "Introducing Gemini 3.7 Flash",
@@ -14,45 +7,10 @@
       "source": "Google DeepMind News",
       "big": true
     },
-    "https://cursor.com/blog/builds": {
-      "ts": "2026-08-13T12:00:00+00:00",
-      "title": "Cloud agents start 3x faster with builds",
-      "link": "https://cursor.com/blog/builds",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6115630471074097686": {
       "ts": "2026-08-13T15:25:27+00:00",
       "title": "How to Use <b>Manus AI</b> Browser Operator for Automated Tasks - Snapchat",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.snapchat.com/%40mms-519/spotlight/W7_EDlXWTBiXAEEniNoMPwAAYdGdxbXRmbWFsAZ_7tYw_AZ_7tDnMAAAAAQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2sBoQTNBPvOI09sHn3ijNO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2655246582553721304": {
-      "ts": "2026-08-13T14:15:38+00:00",
-      "title": "<b>Manus AI</b>: Your Business Goals, Automated in 5 Steps! - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DaCQ0XHqxTLY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WzaLgKc0EglY9k-u1bWwy",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8312823895674032793": {
-      "ts": "2026-08-13T13:49:20+00:00",
-      "title": "China just blocked <b>Manus AI</b>, and the reason why is bigger than where the company is ... - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/alicialyttlejamaica/videos/china-just-blocked-manus-ai-and-the-reason-why-is-bigger-than-where-the-company-/1428026319181044/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2GPCufEKKq5yVWofbgMu9w",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11706966975499626892": {
-      "ts": "2026-08-13T12:36:37+00:00",
-      "title": "AI startup Manus said that it will resume operating as an independent company and ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Db-vCFak1vz/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jn0CD4GzfTiO87i8C7eGU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3364493956937556877": {
-      "ts": "2026-08-13T12:24:21+00:00",
-      "title": "China just blocked <b>Manus AI</b>, and the reason why is bigger than where the company is ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Db-uLBDxQ-S/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0GvBhzOHywx7K_wC6jSH69",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -119,13 +77,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:11091620020751041108": {
-      "ts": "2026-08-13T12:00:43+00:00",
-      "title": "Manus is leaving Meta. Users have until 24 August. Manus builds AI agents that finish tasks ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/thenextweb/posts/manus-is-leaving-meta-users-have-until-24-augustmanus-builds-ai-agents-that-fini/1502366201932161/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Nn_1oKW_TyXZ2xbRkqd24",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "28efb4c16e239b6c": {
       "ts": "2026-08-14T01:19:19+00:00",
       "title": "2.1.232",
@@ -137,13 +88,6 @@
       "ts": "2026-08-13T22:17:48+00:00",
       "title": "Less busywork. More time to think. With <b>Manus AI</b>, turn ideas into results #ad - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Dq9kUDfvNEY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2c8iBNlNzjjPTXmrZqxpvu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11926325851622628536": {
-      "ts": "2026-08-13T12:55:51+00:00",
-      "title": "<b>Manus AI</b> Agent vs. Real Bugs: Autonomous QA Testing | daily.dev",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://daily.dev/posts/manus-ai-agent-vs-real-bugs-autonomous-qa-testing-22amvxeqx&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HIBLHnBZX8kMNZfRFOUHJ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4722,6 +4666,69 @@
       "ts": "2026-09-11T23:09:17+00:00",
       "title": "What AI Advances Mean for Canada's Trade Strategy",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.asiapacific.ca/publication/what-ai-advances-mean-for-canadas-trade-strategy&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ScoIamJge-P4YWrapNyDs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2732846610769129871": {
+      "ts": "2026-09-12T12:46:52+00:00",
+      "title": "Here's every to I use to run my 7 figure business. Which ones are you using in yours? | Jedi Trinupab",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jeditrinupab/videos/heres-every-to-i-use-to-run-my-7-figure-business-which-ones-are-you-using-in-you/2556986634819179/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cVou5G5bPAdBgrkfYuNm4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7568613139507863855": {
+      "ts": "2026-09-12T11:30:54+00:00",
+      "title": "WordPress Expert Urgently – Recover Latest Website Version, Migrate from Manus to ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.upwork.com/freelance-jobs/apply/WordPress-Expert-Urgently-Recover-Latest-Website-Version-Migrate-from-Manus-WordPress-SEO_~022098705812376567944/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33fNjhcGjRPLLs_OhwJG-9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14464186806947289195": {
+      "ts": "2026-09-12T10:44:56+00:00",
+      "title": "Bee Network Info on X",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/i/status/2098657132446892282&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3tykeiinZxcU-tNU3FB7ZH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1288368342445209264": {
+      "ts": "2026-09-12T10:33:53+00:00",
+      "title": "<b>Manus AI</b> Company Status - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-ai-company-status/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Y_FgfmKhoW-MtoIc9pTd9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7819422573684016520": {
+      "ts": "2026-09-12T10:15:15+00:00",
+      "title": "OpenAI and Meta Take Separate Paths to Automating Marketing - MarketScale",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketscale.com/industries/marketing-tech/chatgpt-ads-and-metas-goal-only-pitch-are-pushing-marketing-ops-into-ai-governance&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Bv8EGMJKdMEwYg-ckPrhq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9546016333782491844": {
+      "ts": "2026-09-12T09:49:07+00:00",
+      "title": "Terry Williams' Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/terry-peter-williams-ucl-p37_i-need-your-help-sovereignty-ai-control-activity-7504465750296981504-zYfX&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3w2b8ST5Pbp9yCJkn8EXPe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11366843199604881521": {
+      "ts": "2026-09-12T03:39:41+00:00",
+      "title": "Anthropic Latest News, Top Stories - All news &amp; analysis about Anthropic - Hürriyet Daily News",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hurriyetdailynews.com/search/anthropic%3Fp%3D2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0oImj4Hjl0HDjOYwxEYtxN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11463116429455409273": {
+      "ts": "2026-09-11T23:16:23+00:00",
+      "title": "<b>MANUS AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D98n0dEP43Rs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1o_mJIyhkYgOW8wAuXYgMp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15285980584987097960": {
+      "ts": "2026-09-11T22:56:28+00:00",
+      "title": "<b>Manus AI</b> Pro Subscription Features and Capabilities - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-ai-pro-subscription-features-capabilities/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1VP-n7STK0qVZrPYVv0RsF",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
