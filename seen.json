@@ -1,12 +1,5 @@
 {
   "seen": {
-    "43b7d8d16395ce98": {
-      "ts": "2026-08-13T00:32:25+00:00",
-      "title": "2.1.229",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-229",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "6354605e344df4d1": {
       "ts": "2026-08-13T08:51:07+00:00",
       "title": "2.1.231",
@@ -49,20 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:18019821893333822372": {
-      "ts": "2026-08-13T02:05:18+00:00",
-      "title": "Manus Free Trial: Use Manus 1.6 Free Until August 25 - Resourify",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://resourify.com/resources/manus-free-trial&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3DzjD8Rdq22oxy9znbLrxQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room": {
-      "ts": "2026-08-13T00:00:00+00:00",
-      "title": "Claude Tag now reads even more of the room",
-      "link": "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://cursor.com/blog/aiuc-1": {
       "ts": "2026-08-13T12:00:00+00:00",
       "title": "Cursor earns AIUC-1 certification for agent security and reliability",
@@ -76,20 +55,6 @@
       "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "source": "OpenAI News",
       "big": false
-    },
-    "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/": {
-      "ts": "2026-08-13T00:00:00+00:00",
-      "title": "HeyGen x Google Cloud: Bringing Avatar IV to TPUs",
-      "link": "https://developers.googleblog.com/heygen-x-google-cloud-bringing-avatar-iv-to-tpus/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/": {
-      "ts": "2026-08-13T00:00:00+00:00",
-      "title": "Introducing Credentio: Open Source C++ Library for C2PA Content Credentials from Google",
-      "link": "https://developers.googleblog.com/introducing-credentio-open-source-c-library-for-c2pa-content-credentials-from-google/",
-      "source": "Google Developers Blog - AI",
-      "big": true
     },
     "https://openai.com/index/previewing-ultrafast": {
       "ts": "2026-08-13T10:00:00+00:00",
@@ -161,13 +126,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions": {
-      "ts": "2026-08-13T00:00:00+00:00",
-      "title": "Self-service data analytics in Slack: how Anthropic deploys Claude Tag for ad-hoc questions",
-      "link": "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/builders-guide-to-gpt-5-6": {
       "ts": "2026-08-13T11:00:00+00:00",
       "title": "The builder’s guide to GPT‑5.6",
@@ -222,13 +180,6 @@
       "title": "#aiagents #manus #businesscontinuity #entrepreneurship #aistrategy | Jan Okonji - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/jan-okonji_aiagents-manus-businesscontinuity-activity-7493520794699005952-6XDB&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0uGRDEsQK8PtRFJm8N2Kw1",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5": {
-      "ts": "2026-08-13T00:00:00+00:00",
-      "title": "Securing the frontier: How JetBrains evaluates and deploys Claude Fable 5",
-      "link": "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:1219079718751295045": {
@@ -4828,6 +4779,27 @@
       "title": "2.1.269",
       "link": "https://code.claude.com/docs/en/changelog#2-1-269",
       "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/perplexity-improving-accuracy-with-astra": {
+      "ts": "2026-09-14T00:00:00+00:00",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/cognition-devin-testing-with-astra": {
+      "ts": "2026-09-11T16:00:00+00:00",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12762877946655513920": {
+      "ts": "2026-09-11T22:06:16+00:00",
+      "title": "Manus, im finally done. : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wdk8dh/manus_im_finally_done/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3sOaswELv96AuOmBN8M_U4",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
