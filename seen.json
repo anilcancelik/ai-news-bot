@@ -1,59 +1,10 @@
 {
   "seen": {
-    "6354605e344df4d1": {
-      "ts": "2026-08-13T08:51:07+00:00",
-      "title": "2.1.231",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-231",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11436416032249354995": {
-      "ts": "2026-08-13T10:19:55+00:00",
-      "title": "Seedance 2.5 might be one of the biggest upgrades to AI video generati... | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40nocode.joshua/video/7673259814134336776&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0izWRXM6i8BDSZHk5A6tkd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6916088642689358991": {
-      "ts": "2026-08-13T09:16:26+00:00",
-      "title": "I Cancelled $440 Monthly Subscription on Workflow Tools. 6 AI Agents Replaced All of It",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://medium.com/no-time/i-cancelled-440-monthly-subscription-on-workflow-tools-6-ai-agents-replaced-all-of-it-ae8a0d2cf298&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw27GSO6iy4dRLchYbfKUwGU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15844378454054619904": {
-      "ts": "2026-08-13T08:54:51+00:00",
-      "title": "Shane Spencer's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ideasrealized_manus-ai-is-free-until-august-25-and-the-activity-7493580306713571328-T57-&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39LRI3DXiUa77UV6e7OmIr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2015801121383520365": {
-      "ts": "2026-08-13T08:25:04+00:00",
-      "title": "Manus: Best for AI Agent Navigation in PC Environments - Applied AI Tools",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://appliedai.tools/product/manus-best-ai-agent-in-computer/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03zYjcc_H8eBZh7EjBE9nh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://cursor.com/blog/aiuc-1": {
       "ts": "2026-08-13T12:00:00+00:00",
       "title": "Cursor earns AIUC-1 certification for agent security and reliability",
       "link": "https://cursor.com/blog/aiuc-1",
       "source": "Cursor Blog",
-      "big": false
-    },
-    "https://openai.com/index/dali-rajic-chief-revenue-officer": {
-      "ts": "2026-08-13T09:00:00+00:00",
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/previewing-ultrafast": {
-      "ts": "2026-08-13T10:00:00+00:00",
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "link": "https://openai.com/index/previewing-ultrafast",
-      "source": "OpenAI News",
       "big": false
     },
     "https://deepmind.google/blog/introducing-gemini-3-7-flash/": {
@@ -105,20 +56,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:195893112490569767": {
-      "ts": "2026-08-13T08:49:54+00:00",
-      "title": "Beetlo Alternatives &amp; Competitors (2026) | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/startups/beetlo/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1EIeRdzo3aIfyeqfAVg_53",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/builders-guide-to-gpt-5-6": {
-      "ts": "2026-08-13T11:00:00+00:00",
-      "title": "The builder’s guide to GPT‑5.6",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4504430519987058023": {
       "ts": "2026-08-13T16:45:28+00:00",
       "title": "<b>Manus AI</b> is now completely free until August 23st You have 10 days to launch and build anything",
@@ -151,13 +88,6 @@
       "ts": "2026-08-13T16:49:53+00:00",
       "title": "5 Best <b>Manus AI</b> Alternatives in 2026 (Free &amp; Paid) | Playyy",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://playyy.ai/blog/manus-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Ng78L5RdKkKUHswW6QXas",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15082710262656987673": {
-      "ts": "2026-08-13T07:38:38+00:00",
-      "title": "Afraem Ahsan's Post - Manus - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/afraemahsan_manus-data-backup-notice-for-independent-activity-7493547683618402304-b3CN&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3eHt_pbEnu24DZvjhOYl_z",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
