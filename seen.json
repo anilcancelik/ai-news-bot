@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:3034625419257003979": {
-      "ts": "2026-08-15T17:50:10+00:00",
-      "title": "Asean News Headlines at 10pm on Saturday (Aug 15, 2026) | The Star",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/15/asean-news-headlines-at-10pm-on-saturday-aug-15-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1l3AzC8cx_etvct1ybDShC",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1079174100461565401": {
-      "ts": "2026-08-15T20:46:38+00:00",
-      "title": "A Single Missing Database Rule Exposed 181,000 tl;dv Meetings - Startup Fortune",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/a-single-missing-database-rule-exposed-181000-tldv-meetings/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_DyKljx5Dr5E2GqJ6AJia",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6003147782827738343": {
-      "ts": "2026-08-15T20:23:44+00:00",
-      "title": "We gave OpenAI Realtime Voice full control of our open-source AI workspace - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/OpenSourceeAI/comments/1vpbzc5/we_gave_openai_realtime_voice_full_control_of_our/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fC_kRG7Z7He9A5FA9NRfu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15961870451615910613": {
-      "ts": "2026-08-15T18:52:18+00:00",
-      "title": "Free OpenSource Ai Assistant : r/OpenSourceeAI - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/OpenSourceeAI/comments/1vomcn8/free_opensource_ai_assistant/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3SaOyyGnfprwkztSTL1Knt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2593411909726301047": {
       "ts": "2026-08-15T22:24:59+00:00",
       "title": "Jay Mandel's Post - LinkedIn",
@@ -81,13 +53,6 @@
       "ts": "2026-08-16T10:38:40+00:00",
       "title": "#ai #manus #aitools #productivity #automation | Digvijay Chaudhari - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/digvijay-chaudhari-64b88325a_ai-manus-aitools-activity-7494280660468166656-45jh&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MDW0mTC3EoFNmQsLAIHVt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16534365394353960356": {
-      "ts": "2026-08-15T20:49:53+00:00",
-      "title": "Capable AI agent available for free this week",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/victoryaigbochie/posts/one-of-the-most-capable-ai-agents-is-temporarily-freeif-youve-been-curious-about/28338159275781969/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fXffkU4gGDifNE1yGuXsD",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4365,6 +4330,48 @@
       "ts": "2026-09-14T10:11:41+00:00",
       "title": "Writing — Notes on Building - Nemanja Jeremenkovic",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jeremenkovic.com/writing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3n2BUU7HBr4aDVEyRcGQpn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/deploying-ai-from-pilot-to-production": {
+      "ts": "2026-09-14T00:00:00+00:00",
+      "title": "Deploying AI from pilot to production",
+      "link": "https://claude.com/blog/deploying-ai-from-pilot-to-production",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-healthcare-organizations-use-claude-tag": {
+      "ts": "2026-09-14T00:00:00+00:00",
+      "title": "How healthcare organizations use Claude Tag",
+      "link": "https://claude.com/blog/how-healthcare-organizations-use-claude-tag",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic": {
+      "ts": "2026-09-14T00:00:00+00:00",
+      "title": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic",
+      "link": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:675007011629042000": {
+      "ts": "2026-09-14T18:13:09+00:00",
+      "title": "Manus for Teams | <b>Manus AI</b> - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_manus-for-teams-activity-7505309898335735809-oIhR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2qkFjF23eYH_mj1M_UrGkr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18201469810530591454": {
+      "ts": "2026-09-14T17:53:54+00:00",
+      "title": "Gabe Bo's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/gabebo_i-replaced-all-my-developers-with-ai-that-activity-7505286554064576512-7hE1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gl1VomAmESnRUPsVpXUIa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8380126982613988857": {
+      "ts": "2026-09-13T22:55:33+00:00",
+      "title": "hunter voss - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/%40buildingwhunter/shorts&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20LcLpW5utdFnLsuo__tlP",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
