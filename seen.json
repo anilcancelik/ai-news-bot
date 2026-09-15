@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:9613764740010346169": {
-      "ts": "2026-08-16T18:09:15+00:00",
-      "title": "Comment '100' and I'll send over the access… Can't believe I pay $100/month and then ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DcHDNNIRJ0Q/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zeNDqwd1b1q9Xk8EPQBxc",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7385693421065100407": {
-      "ts": "2026-08-16T17:37:20+00:00",
-      "title": "<b>Manus AI</b> on Reels - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/manus/videos/2411227432700199/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1CH81q9dkn1NH_1yyFn8Si",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16639279187389600507": {
       "ts": "2026-08-16T21:02:48+00:00",
       "title": "Your AI Isn't the Problem. Your Prompts Are. Fix Them &amp; Write Better AI Prompts for ...",
@@ -32,20 +18,6 @@
       "ts": "2026-08-16T20:11:06+00:00",
       "title": "HYPE 15 min · $57.2308 target | Prediction Markets - Coinbase",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/predictions/event/KXHYPE15M-26AUG160345&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3VuTUol6wE94WrZ5IFXz1g",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10485775081045278785": {
-      "ts": "2026-08-16T15:27:08+00:00",
-      "title": "Staying updated on Meta and <b>Manus AI</b> changes - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/adrianemayes/posts/manus-ai-and-meta-are-making-changesagain-it-is-important-to-listen-to-whats-goi/10162937311106464/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0TaWQrl0ZHNBUHSkRPeRaE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3419123819131876090": {
-      "ts": "2026-08-16T15:08:26+00:00",
-      "title": "<b>Manus AI</b> Agent Price | MANUSAI to USD Live Price Index - CoinTracker",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cointracker.com/price/manus-ai-agent-c1hwg2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0yBifNQ6ubp_E0LJY57Jh_",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4302,6 +4274,83 @@
       "ts": "2026-09-14T15:40:10+00:00",
       "title": "7 Insane Use Cases For <b>Manus AI</b> (with Zero Code) - SafeShare",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://watch.safeshare.tv/watch/86a40aef-3422-433a-ad7b-5bd765a2d7e7&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kypJ_M1NHK0oz1fC8h6_3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/building-an-ai-native-revenue-organization": {
+      "ts": "2026-09-15T00:00:00+00:00",
+      "title": "Building an AI-native revenue organization",
+      "link": "https://claude.com/blog/building-an-ai-native-revenue-organization",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/salesforce-in-claude": {
+      "ts": "2026-09-15T00:00:00+00:00",
+      "title": "Bringing Salesforce into Claude",
+      "link": "https://claude.com/blog/salesforce-in-claude",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": {
+      "ts": "2026-09-15T00:00:00+00:00",
+      "title": "Claude for Small Business launches new workflows, integrations, and training programs",
+      "link": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
+      "source": "Claude Blog",
+      "big": true
+    },
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": {
+      "ts": "2026-09-15T17:05:57+00:00",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/": {
+      "ts": "2026-09-15T18:19:58.838462+00:00",
+      "title": "Build zero-trust AI agents that judge intent, not just syntax",
+      "link": "https://developers.googleblog.com/build-zero-trust-ai-agents-that-judge-intent-not-just-syntax/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:298139520186001711": {
+      "ts": "2026-09-15T17:57:42+00:00",
+      "title": "Introducing Set Optimizer, an app I made in <b>Manus AI</b> that will give you pro feedback on the ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/orenj_introducing-set-optimizer-an-app-i-made-activity-7505648428106895360-Wy-X&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1M-GgcnOFGD7Hcx7N_i7PS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:3084968768171619698": {
+      "ts": "2026-09-15T13:53:56+00:00",
+      "title": "Manus support : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wgzbu0/manus_support/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kAFlPCboOilLyg_DDnf0J",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14885725432186890940": {
+      "ts": "2026-09-15T12:18:08+00:00",
+      "title": "Stop Doing Busywork! <b>Manus AI</b> Pro Revealed #Shorts - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/XlBtANaBs1w&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0shmH4jtQZMgXrm69TWG4c",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4819428832209443116": {
+      "ts": "2026-09-15T09:51:50+00:00",
+      "title": "Best Muse Alternatives in 2026 - Spinnable",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.spinnable.ai/blog/best-muse-alternatives-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0-F8alQMU_NHuPyJIO2lPM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12241523975373018182": {
+      "ts": "2026-09-15T07:05:43+00:00",
+      "title": "How to Connect Meta Ads Manager to <b>Manus AI</b> Workspace (2026 Guide)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hornetdynamics.com/blog/connect-meta-ads-manager-to-manus-ai-workspace-guide&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1U1SDg34bgYILL6B6JOt6d",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15339044143352420809": {
+      "ts": "2026-09-15T06:15:33+00:00",
+      "title": "BETTER Than Claude? for content creation #contentcreator - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/_Xm032iYUJA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10_KQsiUlsP1mYz28hpaSX",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
