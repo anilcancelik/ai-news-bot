@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:16639279187389600507": {
-      "ts": "2026-08-16T21:02:48+00:00",
-      "title": "Your AI Isn't the Problem. Your Prompts Are. Fix Them &amp; Write Better AI Prompts for ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dd4X24aRab2A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw09iJcxGeVi7aPX7trZVMrc",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18215668159718624543": {
-      "ts": "2026-08-16T20:11:07+00:00",
-      "title": "Arizona vs Atlanta: Home Runs | Prediction Markets - Coinbase",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/predictions/event/KXMLBHR-26AUG161335AZATL&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cAcpqzucbTcZE2ch1SyHM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13298320240886253695": {
-      "ts": "2026-08-16T20:11:06+00:00",
-      "title": "HYPE 15 min · $57.2308 target | Prediction Markets - Coinbase",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/predictions/event/KXHYPE15M-26AUG160345&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3VuTUol6wE94WrZ5IFXz1g",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:8606869600483310189": {
       "ts": "2026-08-17T05:30:45+00:00",
       "title": "The next China shock will come from open-source AI - Financial Times",
@@ -46,13 +25,6 @@
       "ts": "2026-08-17T02:15:31+00:00",
       "title": "Change owner of <b>manus.ai</b> : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1vqcdqc/change_owner_of_manusai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Gm8MSm4RIbbO-099iYYXf",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7230422714779443854": {
-      "ts": "2026-08-16T18:41:19+00:00",
-      "title": "All AI Courses - 300+ Tutorials - AI Academy",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://academy.techpresso.co/courses%3Fpage%3D2%26category%3Dmarketing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw125xzrENp-KROBLiKpXeJJ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4351,6 +4323,48 @@
       "ts": "2026-09-15T06:15:33+00:00",
       "title": "BETTER Than Claude? for content creation #contentcreator - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/_Xm032iYUJA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10_KQsiUlsP1mYz28hpaSX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "ca210a6940eddf77": {
+      "ts": "2026-09-15T20:30:45+00:00",
+      "title": "2.1.273",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-273",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12963000723015742537": {
+      "ts": "2026-09-15T19:23:12+00:00",
+      "title": "8 Better Tools Than Claude!? 1. ViralityAI.net: Go Viral in 24hrs 2. Drama.land: INSANE ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DdULOH1NRFt/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34RSR0VCVVi7iBJdwNoFE_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17086986846765555215": {
+      "ts": "2026-09-15T16:11:05+00:00",
+      "title": "Mistral AI Timeline: Model and Product Release History - ScriptByAI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scriptbyai.com/mistral-ai-timeline/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1CJ5YJfVm6w4AedAoc6R7C",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:733083915493763873": {
+      "ts": "2026-09-15T15:43:31+00:00",
+      "title": "What are AI agents, and how do they actually work - Quartz",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://qz.com/facts-about-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Icu46F9YzjXoAcIMTTVm9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6829508289015438376": {
+      "ts": "2026-09-15T15:29:07+00:00",
+      "title": "Chinese Tech Firms Race To Build AI That No Longer Needs Human Engineers | IBTimes UK",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.uk/chinese-researchers-ai-self-improvement-roadmap-1819681&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02wzaf_TlxxKGiQAKjXFLK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17512676208600218740": {
+      "ts": "2026-09-15T10:42:26+00:00",
+      "title": "10 Hidden AI Tools to Revolutionize Your Workflow in 2026 - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/1348711550214520/posts/1639794017772937/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IRu4xQxrW4jrCv22aYpyg",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
