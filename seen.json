@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:9635166781107780097": {
-      "ts": "2026-08-16T04:38:25+00:00",
-      "title": "Affected users were asked to back up their data from now until August 23, while unaffected ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40thestaronline/post/DcEBohIIOoA/affected-users-were-asked-to-back-up-their-data-from-now-until-august-while/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hW7U_khRVE8WczGTJLqJb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13675206453586685451": {
       "ts": "2026-08-16T11:25:25+00:00",
       "title": "I Built a Game in 60 Seconds Using AI (Can You Beat My Score?) - YouTube",
@@ -70,20 +63,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:12649291456651029869": {
-      "ts": "2026-08-16T07:55:50+00:00",
-      "title": "I will verifled claude code claude cowork ai agent claude coded apps kiaviyo automation",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fiverr.com/brandon_scott6/verifled-claude-code-claude-cowork-ai-agent-claude-coded-apps-kiaviyo-automation&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ac4aZ0muuRnGizM58gTnX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3407340067273011435": {
-      "ts": "2026-08-16T06:02:39+00:00",
-      "title": "Products — TechToolz",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techtoolz.pk/products%3Fcategory%3D4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hwGQJls9UFhM5y_VLe89Z",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:18215668159718624543": {
       "ts": "2026-08-16T20:11:07+00:00",
       "title": "Arizona vs Atlanta: Home Runs | Prediction Markets - Coinbase",
@@ -109,13 +88,6 @@
       "ts": "2026-08-16T15:08:26+00:00",
       "title": "<b>Manus AI</b> Agent Price | MANUSAI to USD Live Price Index - CoinTracker",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cointracker.com/price/manus-ai-agent-c1hwg2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0yBifNQ6ubp_E0LJY57Jh_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1671631394386540551": {
-      "ts": "2026-08-16T06:08:19+00:00",
-      "title": "SOCIAL BOT AI – Telegram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://t.me/s/socialbotaii%3Fbefore%3D1482&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yu5509x_T2Idu8h0AWXeB",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4367,7 +4339,14 @@
       "link": "https://code.claude.com/docs/en/changelog#2-1-272",
       "source": "Claude Code changelog",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16986198290573357038": {
+      "ts": "2026-09-14T15:40:10+00:00",
+      "title": "7 Insane Use Cases For <b>Manus AI</b> (with Zero Code) - SafeShare",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://watch.safeshare.tv/watch/86a40aef-3422-433a-ad7b-5bd765a2d7e7&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kypJ_M1NHK0oz1fC8h6_3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-14"
+  "last_digest_date": "2026-09-15"
 }
