@@ -1,40 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:8606869600483310189": {
-      "ts": "2026-08-17T05:30:45+00:00",
-      "title": "The next China shock will come from open-source AI - Financial Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/2f705a5a-2c4e-4bca-b08a-ed9372ef3b2e&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2mRLdeMrkotXVtwXDoIKdt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8043900676778666560": {
-      "ts": "2026-08-17T04:15:04+00:00",
-      "title": "Building a ChatGPT Clone with Manus.im - It Failed at 99% - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DEjwzI2JoZwQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3DZwKwXujpsrfAtS0waSra",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age": {
-      "ts": "2026-08-17T03:15:00+00:00",
-      "title": "New policy ideas for the Intelligence Age",
-      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/the-defenders-window": {
-      "ts": "2026-08-17T05:30:00+00:00",
-      "title": "The Defender’s Window",
-      "link": "https://openai.com/index/the-defenders-window",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/openai-joins-ports-pike-project": {
-      "ts": "2026-08-17T05:00:00+00:00",
-      "title": "OpenAI joins PORTS-Pike project",
-      "link": "https://openai.com/index/openai-joins-ports-pike-project",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:8217871364125341968": {
       "ts": "2026-08-17T13:41:52+00:00",
       "title": "If you're tired of burning AI credits on tasks that you have to repeat every week this ... - Instagram",
@@ -4346,7 +4311,84 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/evolutionunleashedai/posts/28191334673820916/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1BO_0vgH17hGl_TBzoJ2mg",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15335864831635591257": {
+      "ts": "2026-09-16T06:13:40+00:00",
+      "title": "Course attendees can select from a range of AI platforms, including ChatGPT Plus and <b>Manus AI</b>.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/thebusinesstimes/posts/course-attendees-can-select-from-a-range-of-ai-platforms-including-chatgpt-plus-/1398694229145268/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2tBXSMHpBkZICy1ktwWSXi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11249884818920494983": {
+      "ts": "2026-09-16T05:32:45+00:00",
+      "title": "Singapore launches over 200 training courses with free AI subscriptions, new skills centre",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.channelnewsasia.com/singapore/connect-swda-skillsfuture-careers-courses-free-ai-premium-tools-6387511&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01x1ryUnjjMg38Rdw5YUzX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:15645930726913136497": {
+      "ts": "2026-09-16T05:31:21+00:00",
+      "title": "Over 200 AI courses launched by Singapore workforce agency | The Straits Times",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.straitstimes.com/business/over-200-ai-courses-new-centre-launched-by-new-workforce-agency-to-boost-career-support-in-spore&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw389tYGV6u4ipuAeN658F54",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:12408863896432755472": {
+      "ts": "2026-09-16T05:01:07+00:00",
+      "title": "China has reportedly blocked Meta's proposed $2 billion acquisition of AI startup Manus ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Neewtoop/posts/china-has-reportedly-blocked-metas-proposed-2-billion-acquisition-of-ai-startup-/1113690281238830/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw18zy_MKl5NI63xWUyeBvvf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11209756885538633214": {
+      "ts": "2026-09-16T04:21:49+00:00",
+      "title": "Free 6 months' access to premium AI tools for S'poreans who take selected courses from Sep. 16",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mothership.sg/2026/09/free-6-months-access-premium-ai-tools-singapore/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03-nzRzHFfjTI-aLyhorgk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8991382716178963545": {
+      "ts": "2026-09-16T04:18:32+00:00",
+      "title": "Comment “Tools” and I'll send you my AI stack #ai #aitools #claude #chatgpt - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/maverickgpt/posts/comment-tools-and-ill-send-you-my-ai-stack-ai-aitools-claude-chatgpt/122147660691099080/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3hhyMbV14bl-XoNJwVWt1l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1783315203796082068": {
+      "ts": "2026-09-16T04:06:44+00:00",
+      "title": "New skills agency opens one-stop career hub, rolls out free premium AI tools for course-takers",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstimes.com.sg/singapore/new-skills-agency-opens-one-stop-career-hub-rolls-out-free-premium-ai-tools-course-takers%3Fref%3Dauthor&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2gP1EGLSvlhxm61LQF9jmj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3246823257354502327": {
+      "ts": "2026-09-16T03:37:13+00:00",
+      "title": "I built an OSRS Nhing AI so people can practice and get better at Nhing : r/Odablock - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/Odablock/comments/1whdjye/i_built_an_osrs_nhing_ai_so_people_can_practice/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fg11xoPdb1zHSrnCM1kOo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3945389394151193089": {
+      "ts": "2026-09-16T01:56:46+00:00",
+      "title": "same reflex. Open AI first. Think later. Or not at all. — Writing an email?… | RAJESH ADAPA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/rajeshadapa_we-think-were-controlling-ai-one-habit-activity-7505692358706094080-d1Kv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xHo0Dh1PAj23gHGuhxaYL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4515044140345375137": {
+      "ts": "2026-09-16T00:10:11+00:00",
+      "title": "Don't Get Left Behind: Learn AI SEO Now - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DoqhQDSI_x5A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UvOazHON3p7RnLzpkjivX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8622391758987415714": {
+      "ts": "2026-09-15T11:57:57+00:00",
+      "title": "Listen, If I was an Executive Virtual Assistant, I would use | Oladele Mojolaoluwa - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/oladele-mojolaoluwa_listen-if-i-was-an-executive-virtual-assistant-activity-7505557894701117440-rHg0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0pXSdJRvI-lqLEuI5E1ogE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-15"
+  "last_digest_date": "2026-09-16"
 }
