@@ -1,24 +1,10 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:290353650020201840": {
-      "ts": "2026-08-17T20:10:47+00:00",
-      "title": "How online fandom shaped our world - Financial Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/b07952da-9e06-4269-9b6c-c4dccbf5d087&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3iQHPME8zu-pZVzB8t58Ni",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "0ea1ea0503c48c7b": {
       "ts": "2026-08-17T21:06:05+00:00",
       "title": "2.1.234",
       "link": "https://code.claude.com/docs/en/changelog#2-1-234",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3176608526246242320": {
-      "ts": "2026-08-17T19:31:14+00:00",
-      "title": "What is Manus' problem? : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1vqrec3/what_is_manus_problem/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2DsKTbCNLbdy-tgDfP2Agc",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:6059879133218285929": {
@@ -4491,6 +4477,48 @@
       "ts": "2026-09-16T04:56:08+00:00",
       "title": "Discover <b>Manus AI</b>: AI Agent for Business and Productivity Tasks - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/alexander.sylvie/posts/-if-you-havent-tried-manus-ai-yet-check-it-outmanus-is-like-having-an-ai-agent-t/28641874072169683/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kB4sUCoZGtoHuqSCVbUOI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
+      "ts": "2026-09-16T12:00:00+00:00",
+      "title": "How to connect AI usage to business value",
+      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/": {
+      "ts": "2026-09-16T20:45:48.065692+00:00",
+      "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
+      "link": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4507863486735695853": {
+      "ts": "2026-09-16T17:18:06+00:00",
+      "title": "Redeem AI Subscription to Further Your AI Learning | Education, Career and Personal Development",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/redeem-ai-subscription.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aYbGCxQoITg4d1x-sA6lH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1635733705829138051": {
+      "ts": "2026-09-16T12:44:21+00:00",
+      "title": "Link X mart - Multi-Vendor Marketplace",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkxmart.com/products%3Fcategory%3Ddigital-products&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aPOTgzXvNmt3dI3iD8PgX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10107573189554252409": {
+      "ts": "2026-09-16T12:19:58+00:00",
+      "title": "Starting from today (Sept 16), those wishing to deepen their AI capabilities can choose from ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/asiaonecom/videos/starting-from-today-sept-16-those-wishing-to-deepen-their-ai-capabilities-can-ch/1397449108537878/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Tf0YXxrV0MIXl7vZUs-Wc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11788910626917966644": {
+      "ts": "2026-09-16T11:12:53+00:00",
+      "title": "<b>Manus AI's</b> Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_today-were-launching-learn-ai-with-manus-activity-7505905834883825665-cBhJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Zl3plShNPXzDzhvw4wZL_",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
