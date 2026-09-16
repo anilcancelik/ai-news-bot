@@ -1,19 +1,5 @@
 {
   "seen": {
-    "0ea1ea0503c48c7b": {
-      "ts": "2026-08-17T21:06:05+00:00",
-      "title": "2.1.234",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-234",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6059879133218285929": {
-      "ts": "2026-08-17T21:56:09+00:00",
-      "title": "<b>Manus AI</b> Explained: How It Works, Uses, Pricing &amp; More - Bleap",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bleap.finance/en-us/blog/manus-ai-explained&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Ot1n3Px6jrg9egEDI5oBN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17034268501996470841": {
       "ts": "2026-08-18T01:55:27+00:00",
       "title": "<b>Manus AI</b> keeps working even when you don't. Connect your desktop to y... | - TikTok",
@@ -81,13 +67,6 @@
       "ts": "2026-08-18T16:16:50+00:00",
       "title": "Harvard Graduate Robert S. Shumake PhD Completes Harvard Data - openPR.com",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4606803/harvard-graduate-robert-s-shumake-phd-completes-harvard-data&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IzhBlmCK850oC5aiDLWAT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8576040393506366902": {
-      "ts": "2026-08-17T22:31:36+00:00",
-      "title": "<b>Manus AI</b> Asset Profile | Preqin",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.preqin.com/data/profile/asset/manus-ai/739228&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o0vSTBPp2Mdx63hx7ceER",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4520,6 +4499,20 @@
       "title": "<b>Manus AI's</b> Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_today-were-launching-learn-ai-with-manus-activity-7505905834883825665-cBhJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Zl3plShNPXzDzhvw4wZL_",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/model-misalignment-reporting-framework": {
+      "ts": "2026-09-16T17:00:00+00:00",
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://cursor.com/blog/grab": {
+      "ts": "2026-09-15T12:00:00+00:00",
+      "title": "How Grab put Cursor in the hands of Design, Ops, and Engineering",
+      "link": "https://cursor.com/blog/grab",
+      "source": "Cursor Blog",
       "big": false
     }
   },
