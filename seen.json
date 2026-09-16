@@ -1,51 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:8217871364125341968": {
-      "ts": "2026-08-17T13:41:52+00:00",
-      "title": "If you're tired of burning AI credits on tasks that you have to repeat every week this ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DcJKjcsR-6J/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1OnGA9z_AyD1IRCyO8MR1p",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7432713955885383785": {
-      "ts": "2026-08-17T17:17:50+00:00",
-      "title": "Been using Manus for quite some time, looking for alternatives : r/AI_Agents - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_Agents/comments/1vqxzos/been_using_manus_for_quite_some_time_looking_for/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xHkogwlsSB-ZJNJsGyEJ-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:276053700257022324": {
-      "ts": "2026-08-17T16:19:13+00:00",
-      "title": "<b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/DHUDvX4qKyM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rr0R3RsA3cH8zW1wYpvdt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16860089773014998760": {
-      "ts": "2026-08-17T15:02:04+00:00",
-      "title": "Manus Review (Verified August 2026) - Omid Saffari",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://omidsaffari.com/blog/manus-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1t45W0epKs30YSg_By57OP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:290353650020201840": {
       "ts": "2026-08-17T20:10:47+00:00",
       "title": "How online fandom shaped our world - Financial Times",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/b07952da-9e06-4269-9b6c-c4dccbf5d087&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3iQHPME8zu-pZVzB8t58Ni",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3731656959652778181": {
-      "ts": "2026-08-17T17:49:18+00:00",
-      "title": "AI errors and poor data quality fuel investor scrutiny - Financial Management magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/news/2026/aug/ai-errors-and-poor-data-quality-fuel-investor-scrutiny/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20gSEy_nkrHPBBR3RF4PDH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6453906126353394919": {
-      "ts": "2026-08-17T16:46:24+00:00",
-      "title": "Tongguan Copper Foil's Market Cap Tops 100 Billion Yuan as Board Secretary and CFO ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/aa1d3e49-05c2-4d1c-a5a5-ac06b2a0d9c8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cYSzTqJwM8HfuaH02oKHX",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4428,6 +4386,111 @@
       "ts": "2026-09-15T22:44:52+00:00",
       "title": "<b>Manus AI</b> Agent Features and Pricing - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-ai-agent-features-pricing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0oFGfBWg8Wl8hZ35ghmxjC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/cowork-is-now-claude": {
+      "ts": "2026-09-16T00:00:00+00:00",
+      "title": "Claude Cowork and chat are now one Claude",
+      "link": "https://claude.com/blog/cowork-is-now-claude",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
+      "ts": "2026-09-16T16:00:00+00:00",
+      "title": "Helping older adults use AI in everyday life",
+      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/unlocking-new-ways-of-working": {
+      "ts": "2026-09-16T09:00:00+00:00",
+      "title": "How workers are unlocking new ways of working",
+      "link": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17163428682622398965": {
+      "ts": "2026-09-16T15:33:09+00:00",
+      "title": "I Tested The 1-Prompt Long Video Factory For 30 Days, And YouTube Did This...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBPTA6-7TY8I&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2C1ZRHaVUgxAHUObjj1Otd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2405913659772818704": {
+      "ts": "2026-09-16T15:05:56+00:00",
+      "title": "Singapore Rolls Out 200 AI Courses as Jobs Enter a New Era | NewFortuneTimes.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newfortunetimes.com/singapore-rolls-out-200-ai-courses-as-jobs-enter-a-new-era/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_IJul5CALJ6nUZKsxnJvF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7538031581490945843": {
+      "ts": "2026-09-16T12:38:53+00:00",
+      "title": "Goh Liyun's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/gohliyun_my-partner-is-a-robotics-engineer-i-work-activity-7505915562024415232-NYov&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cnugI6YygMk35nqvrbol5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15366228811444264909": {
+      "ts": "2026-09-16T11:54:12+00:00",
+      "title": "Glad to announce <b>Manus AI</b> is now part of the Singapore's national SkillsFuture AI ... - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/chanyinglunalan_glad-to-announce-manus-ai-is-now-part-of-activity-7505933427364421632-X-UY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qmAJYi-sraOjIpYDjk48g",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16313237179472172939": {
+      "ts": "2026-09-16T11:47:38+00:00",
+      "title": "Learn AI with Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://learnai.manus.im/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3jwTRRTHwvKcC6fjcJhvvj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16337686456612438827": {
+      "ts": "2026-09-16T11:20:10+00:00",
+      "title": "Singaporeans Can Get 6 Months of ChatGPT Plus or Other Premium AI Tools Free After ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://goodyfeed.com/singaporeans-can-get-6-months-of-chatgpt-plus-or-other-premium-ai-tools-free-after-taking-eligible-ai-course/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lq1LdKXgPnUVsqO-9z0ZO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4542404748653116762": {
+      "ts": "2026-09-16T10:32:04+00:00",
+      "title": "Expanding Access to Practical AI Learning - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/blog/learn-ai-with-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw31ScFvg_1FA_li29nil5N4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12723930277405246316": {
+      "ts": "2026-09-16T10:07:15+00:00",
+      "title": "PM Wong urges firms to plan for workers as SWDA rolls out over 200 AI courses",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.theonlinecitizen.com/2026/09/16/pm-wong-urges-firms-to-plan-for-workers-as-swda-rolls-out-over-200-ai-courses&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aLNpktqfmO-kgtK3Pfsls",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18219504016949541890": {
+      "ts": "2026-09-16T07:13:11+00:00",
+      "title": "How to get a Special Invitation Code for Manibus-X0309? - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/748054870699908/posts/1532279525610768/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0tid-mwvbcwPrvEGs85uWQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17519123101388646310": {
+      "ts": "2026-09-16T06:37:59+00:00",
+      "title": "Multimodal Algorithm Engineer at <b>Manus AI</b> - LinkedIn Singapore",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sg.linkedin.com/jobs/view/multimodal-algorithm-engineer-at-manus-ai-4467983004&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Qn-jc2RHBLHIOSMAsoXNG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10463201664230812363": {
+      "ts": "2026-09-16T06:04:55+00:00",
+      "title": "Singapore launches over 200 training courses with free AI subscriptions, new skills centre",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ground.news/article/singapore-launches-over-200-training-courses-with-free-ai-subscriptions-new-skills-centre&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0NS5vGqxBTvzHQsmkID5xV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:8916372109540785618": {
+      "ts": "2026-09-16T04:56:08+00:00",
+      "title": "Discover <b>Manus AI</b>: AI Agent for Business and Productivity Tasks - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/alexander.sylvie/posts/-if-you-havent-tried-manus-ai-yet-check-it-outmanus-is-like-having-an-ai-agent-t/28641874072169683/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kB4sUCoZGtoHuqSCVbUOI",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
