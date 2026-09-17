@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:9520805864543500757": {
-      "ts": "2026-08-17T23:49:32+00:00",
-      "title": "Is Manus 1.0 Lite a Safe AI Tool? - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/is-manus-10-lite-a-safe-ai-tool/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ATxYX54Y08EiWixHx9FlK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17710815626304946878": {
       "ts": "2026-08-18T03:21:43+00:00",
       "title": "How To Make a Google Chrome Extension With AI (Quick and Easy) - YouTube",
@@ -48,13 +41,6 @@
       "link": "https://openai.com/index/chatgpt-for-teens",
       "source": "OpenAI News",
       "big": true
-    },
-    "https://claude.com/blog/the-claude-science-product-guide": {
-      "ts": "2026-08-18T00:00:00+00:00",
-      "title": "The Claude Science product guide",
-      "link": "https://claude.com/blog/the-claude-science-product-guide",
-      "source": "Claude Blog",
-      "big": false
     },
     "https://openai.com/index/asana": {
       "ts": "2026-08-18T07:00:00+00:00",
@@ -110,13 +96,6 @@
       "title": "Manus - nextgenaicoach.com",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://nextgenaicoach.com/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xpgxfPlJTrZOfQMkkN65W",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/nvidia/chatgpt-work": {
-      "ts": "2026-08-18T00:00:00+00:00",
-      "title": "How NVIDIA scales expertise with ChatGPT Work",
-      "link": "https://openai.com/index/nvidia/chatgpt-work",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:14566260011606269620": {
@@ -725,13 +704,6 @@
       "ts": "2026-08-19T00:00:00+00:00",
       "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
       "link": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/ai-ci-cd-on-call": {
-      "ts": "2026-08-18T00:00:00+00:00",
-      "title": "Claude on call: How Claude Tag serves as Anthropic’s first responder for CI/CD failures",
-      "link": "https://claude.com/blog/ai-ci-cd-on-call",
       "source": "Claude Blog",
       "big": false
     },
@@ -4513,6 +4485,20 @@
       "title": "How Grab put Cursor in the hands of Design, Ops, and Engineering",
       "link": "https://cursor.com/blog/grab",
       "source": "Cursor Blog",
+      "big": false
+    },
+    "3f43c015369ec006": {
+      "ts": "2026-09-17T00:19:50+00:00",
+      "title": "2.1.274",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-274",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9794685609131384639": {
+      "ts": "2026-09-16T19:39:23+00:00",
+      "title": "Amid a Battery Squeeze at Home, CATL Pursues Europe's Big Rig Market",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theinformation.com/newsletters/the-electric/amid-battery-squeeze-home-catl-pursues-europes-big-rig-market&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0wsioBNvt6FXgCIs4ktzeS",
+      "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
   },
