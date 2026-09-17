@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:13047435259017657405": {
-      "ts": "2026-08-18T16:16:50+00:00",
-      "title": "Harvard Graduate Robert S. Shumake PhD Completes Harvard Data - openPR.com",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4606803/harvard-graduate-robert-s-shumake-phd-completes-harvard-data&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IzhBlmCK850oC5aiDLWAT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
       "ts": "2026-08-18T19:00:00+00:00",
       "title": "Strengthening Democratic Oversight in National Security",
@@ -26,13 +19,6 @@
       "title": "2.1.235",
       "link": "https://code.claude.com/docs/en/changelog#2-1-235",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14681365743910185815": {
-      "ts": "2026-08-18T17:16:44+00:00",
-      "title": "<b>Manus AI</b> Pricing Plans 2026 Credits - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-ai-pricing-plans-2026-credits/%3Flocale%3Duk_UA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37_QNe4HhlgLl5CpTnhSQ8",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:14566260011606269620": {
@@ -4484,6 +4470,34 @@
       "ts": "2026-09-17T01:48:41+00:00",
       "title": "Cookies - <b>Manus.ai</b> plan/pro with 640k credits | Pinoy Internet and Technology Forums",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://phcorner.org/threads/2604172/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MzvJRyov16ZqbADTWWSxD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://cursor.com/blog/imdex": {
+      "ts": "2026-08-25T12:00:00+00:00",
+      "title": "IMDEX uses Cursor to build integrated subsurface data and analytics platform in months, not years",
+      "link": "https://cursor.com/blog/imdex",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9291433816550599765": {
+      "ts": "2026-09-17T11:08:34+00:00",
+      "title": "Manus targets $4B valuation in $500M round after Meta split | Dealroom News",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dealroom.co/news/151507-manus-targets-4b-valuation-in-500m-round-after-meta-split/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2h0l_ESIJ5sw9cpQm0rCRs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16044879286139798136": {
+      "ts": "2026-09-17T04:15:32+00:00",
+      "title": "Parker Lyman's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/lyman-parker_today-we-launched-learn-ai-with-manus-a-activity-7506178285706489856-UlJE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IgtlGlUwfHkcfVS9AxnGe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6581626849302095205": {
+      "ts": "2026-09-16T15:45:09+00:00",
+      "title": "<b>Manus AI</b> – 12 Months - Siddharth Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://siddharthstore.com/products/manus-ai-12-months&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XWauXRcKu6g-TrdrB9_W6",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
