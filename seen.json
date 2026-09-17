@@ -1,23 +1,9 @@
 {
   "seen": {
-    "a32d3a44f9dc69cc": {
-      "ts": "2026-08-18T22:28:55+00:00",
-      "title": "2.1.235",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-235",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14566260011606269620": {
       "ts": "2026-08-18T23:16:16+00:00",
       "title": "Follow and comment STACK - Which AI tool is worth paying for? - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DcMh-RnlWPD/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vcpK7pAKaJfQaYAp9pvtz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8893616209643703234": {
-      "ts": "2026-08-18T22:22:11+00:00",
-      "title": "Manus 1 6 &amp; Manus 1 6 Lite Are FREE! - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dh3VefXNgZvM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0mbCM642wqZjF_5CC9jEVY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -33,13 +19,6 @@
       "title": "Link in pinned comment! #manusai #<b>manus #ai</b> #devops #programming #it #gamer #code Free AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/7iPftUr1Tw4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw099ac-GqcM3StinMip-YVP",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/chatgpt-ads-expands-across-europe": {
-      "ts": "2026-08-18T22:00:00+00:00",
-      "title": "ChatGPT Ads expands across Europe",
-      "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:6916261318330917435": {
@@ -4561,6 +4540,34 @@
       "ts": "2026-09-16T19:39:35+00:00",
       "title": "get your free Manus Pro subscription (worth S$300) with SkillsFuture SG It's the best deal ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/louiedooey/status/2100140567682552008&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uzixIXH4TMJLsg3PRZAi5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "88e9fb7351b003c4": {
+      "ts": "2026-09-17T22:42:21+00:00",
+      "title": "2.1.275",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-275",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5": {
+      "ts": "2026-09-17T00:00:00+00:00",
+      "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
+      "link": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8748057866498509129": {
+      "ts": "2026-09-17T08:49:03+00:00",
+      "title": "Singapore expands integrated support for skills and AI workforce development - HR ASIA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hr.asia/asean/singapore-expands-integrated-support-for-skills-and-ai-workforce-development/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2a6j0S_mbZj_SQgexDsEKV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9161053269432339699": {
+      "ts": "2026-09-17T06:15:37+00:00",
+      "title": "Asia Today: Fintech, AI, Trading, Digital Infrastructure &amp; Investments - Asia Business Outlook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dera.ai/news/1ec099d2-5a28-3bc7-d23b-a8901fcdc06f&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jsY7yZ7RNTUBuimiETv8B",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
