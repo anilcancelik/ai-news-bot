@@ -1,31 +1,10 @@
 {
   "seen": {
-    "https://openai.com/index/partnering-with-codeai": {
-      "ts": "2026-08-18T11:00:00+00:00",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "link": "https://openai.com/index/partnering-with-codeai",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/chatgpt-for-teens": {
-      "ts": "2026-08-18T11:00:00+00:00",
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "link": "https://openai.com/index/chatgpt-for-teens",
-      "source": "OpenAI News",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:13047435259017657405": {
       "ts": "2026-08-18T16:16:50+00:00",
       "title": "Harvard Graduate Robert S. Shumake PhD Completes Harvard Data - openPR.com",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.openpr.com/news/4606803/harvard-graduate-robert-s-shumake-phd-completes-harvard-data&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IzhBlmCK850oC5aiDLWAT",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/pacing-model-development-cyber-capabilities": {
-      "ts": "2026-08-18T11:00:00+00:00",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-      "source": "OpenAI News",
       "big": false
     },
     "https://openai.com/index/strengthening-democratic-oversight-in-national-security": {
@@ -102,13 +81,6 @@
       "ts": "2026-08-19T06:05:51+00:00",
       "title": "what I actually want from a Manus alternative: don't lose the plot halfway through - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_Agents/comments/1vsdff0/what_i_actually_want_from_a_manus_alternative/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1KNfNKDAHgDhsU1XTdsL3B",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7122253643810137308": {
-      "ts": "2026-08-18T11:36:37+00:00",
-      "title": "One of the most powerful AI agent tools is FREE; but only for a limited time. If you've been ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jonahtebaa/videos/one-of-the-most-powerful-ai-agent-tools-is-free-but-only-for-a-limited-time-if-y/1817003176382279/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zNXUDzpSBSC_30j7yvL5G",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -665,13 +637,6 @@
       "source": "Claude Blog",
       "big": false
     },
-    "https://cursor.com/blog/git-at-any-scale": {
-      "ts": "2026-08-18T12:00:00+00:00",
-      "title": "Git at any scale",
-      "link": "https://cursor.com/blog/git-at-any-scale",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16880304018732688869": {
       "ts": "2026-08-22T10:27:25+00:00",
       "title": "<b>Manus AI</b> Excel Master Scraper",
@@ -1090,13 +1055,6 @@
       "title": "Sorry Not sorry #howitworks #<b>manus #ai</b> #ad #manuspartner - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/O0IlwUrZcJQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12KTfBMvPuy0VE0KHvkjoH",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://cursor.com/blog/imdex": {
-      "ts": "2026-08-18T12:00:00+00:00",
-      "title": "IMDEX consolidates geological data platforms in months with Cursor",
-      "link": "https://cursor.com/blog/imdex",
-      "source": "Cursor Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:5393313998967612775": {
@@ -4484,6 +4442,48 @@
       "ts": "2026-09-16T16:09:22+00:00",
       "title": "Ian Yong Hoe Tan's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/iantan1976_which-freebie-ai-premium-tool-should-you-activity-7505975147678388224-pu21&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0BeMh4OcqzLIHv8PVishFK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6666965255038636756": {
+      "ts": "2026-09-17T10:16:57+00:00",
+      "title": "Want ChatGPT Plus without paying for six months? There's now an official SkillsFuture route to get it",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40trulysglah/post/DdYnpddDyeN/want-chat-gpt-plus-without-paying-for-six-months-theres-now-an-official-skills/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw18ZxrqHDGoG30AYzVv0m0-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15886715262811741693": {
+      "ts": "2026-09-17T09:02:11+00:00",
+      "title": "Manus Eyes $4 Billion Value in First Round Since Meta Breakup - Bloomberg",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-09-17/manus-eyes-4-billion-value-in-first-round-since-meta-breakup&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10Y8jwfMmVH6ebLd8hdpZT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8962267370890333740": {
+      "ts": "2026-09-17T08:09:59+00:00",
+      "title": "HRW: China's New Border Decree Curtails Right To Leave - Eurasia Review",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.eurasiareview.com/17092026-hrw-chinas-new-border-decree-curtails-right-to-leave/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3xeHIWTE71qjhvoCKEDl9b",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9828049708707691995": {
+      "ts": "2026-09-17T06:09:58+00:00",
+      "title": "Manus eyes $4 billion value in first round since Meta breakup - The Economic Times",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.economictimes.com/tech/artificial-intelligence/manus-eyes-4-billion-value-in-first-round-since-meta-breakup/articleshow/134303080.cms&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15QkdGotQ8R-0NvJMZbWEC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17468575361420547463": {
+      "ts": "2026-09-17T04:32:49+00:00",
+      "title": "SWDA opens Connect centre and 200+ AI courses with six months of free premium tools",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://littlebigreddot.com/swda-connect-ai-courses-free-premium-tools-skillsfuture-festival-16-september-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39kFASsINGhNPdgsRtgX4T",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6996670179685343734": {
+      "ts": "2026-09-17T01:48:41+00:00",
+      "title": "Cookies - <b>Manus.ai</b> plan/pro with 640k credits | Pinoy Internet and Technology Forums",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://phcorner.org/threads/2604172/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MzvJRyov16ZqbADTWWSxD",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
