@@ -1,12 +1,5 @@
 {
   "seen": {
-    "4d57132b7c1db4cc": {
-      "ts": "2026-08-19T22:51:18+00:00",
-      "title": "2.1.236",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-236",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "c29a7e7771d28610": {
       "ts": "2026-08-20T02:08:48+00:00",
       "title": "2.1.237",
@@ -74,13 +67,6 @@
       "ts": "2026-08-20T04:38:06+00:00",
       "title": "is the best Manus replacement actually 2 tools instead of 1? : r/aiagents - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aiagents/comments/1vspk6n/is_the_best_manus_replacement_actually_2_tools/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20HFsLs2EMUJMdg1W5-pvx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:452050059039889250": {
-      "ts": "2026-08-19T23:05:54+00:00",
-      "title": "Horus Flow Intelligence — Institutional Orderflow for AI Agents - - MCP Server",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://chat.mcp.so/zh/server/horus-flow-mcp/Horus%2520Tech%2520Ltd%3Ftab%3Dtools&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yZg6khErodKvn49tzh1Kb",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4673,6 +4659,48 @@
       "ts": "2026-09-18T13:12:22+00:00",
       "title": "I wanted to see how far <b>Manus AI</b> could take an idea beyond a simple chat response. So I ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/augustaegesi_i-wanted-to-see-how-far-manus-ai-could-take-activity-7506660997374414848-eQ7E&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QgiAVlIYAzWKzFXNkuZwN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/hex-gpt-6-astra": {
+      "ts": "2026-09-16T12:00:00+00:00",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "link": "https://openai.com/index/hex-gpt-6-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1853743342819107302": {
+      "ts": "2026-09-18T22:02:56+00:00",
+      "title": "AI Tools I'm Using in 2026 Dola — Smart Scheduling Kimi — Deep Research AirTap",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40ai.tools_list/post/DdcGsuigWag/ai-tools-im-using-in-dola-smart-scheduling-kimi-deep-research-air-tap-ai-action/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2KslGajiLmKn_Z1gbiILzu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:445225517869513660": {
+      "ts": "2026-09-18T20:57:33+00:00",
+      "title": "Master <b>Manus AI</b> Image Editing in 9 Minutes - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQyUFZGGzm3Q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1M-v-FO1juRuWrrqC3vJVL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2357352548873136009": {
+      "ts": "2026-09-18T20:54:11+00:00",
+      "title": "Master <b>Manus AI</b> Video Generation Tool in 8 Minutes - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dg_T6RFNccCM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zTLEFEZTok_h0O3qb5ay2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6164345113635452449": {
+      "ts": "2026-09-18T20:15:19+00:00",
+      "title": "Popular AI Tool Lists. How many under your daily AIGC ? My favorites are 1.Gemini 2 ... - Threads",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40mice718980/post/Dda0yZhmHa8/popular-ai-tool-lists-how-many-under-your-daily-aigc-my-favorites-are-gemini/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0r_N3K1ICKBjAcH5SlhHsz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16677992064422147392": {
+      "ts": "2026-09-18T12:46:03+00:00",
+      "title": "<b>Manus AI</b>",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://espiritxualidadesite.com.br/en/app/Manus-AI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0S1_RvEtsg_MQLrRreHQGm",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
