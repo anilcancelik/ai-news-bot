@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14566260011606269620": {
-      "ts": "2026-08-18T23:16:16+00:00",
-      "title": "Follow and comment STACK - Which AI tool is worth paying for? - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DcMh-RnlWPD/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vcpK7pAKaJfQaYAp9pvtz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3100471275720219437": {
-      "ts": "2026-08-19T01:06:43+00:00",
-      "title": "How to use <b>manus ai</b> for job search (@lilianho) | Lilian H. - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/lilianxho_how-to-use-manus-ai-for-job-search-lilianho-activity-7495057790122668032-NrEy&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0HOimgIulp3Q8YbFsWTOCh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13094061477223733354": {
-      "ts": "2026-08-19T00:10:09+00:00",
-      "title": "Link in pinned comment! #manusai #<b>manus #ai</b> #devops #programming #it #gamer #code Free AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/7iPftUr1Tw4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw099ac-GqcM3StinMip-YVP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6916261318330917435": {
       "ts": "2026-08-19T06:05:51+00:00",
       "title": "what I actually want from a Manus alternative: don't lose the plot halfway through - Reddit",
@@ -571,13 +550,6 @@
       "ts": "2026-08-20T00:00:00+00:00",
       "title": "Anthropic’s approach to teaching and learning AI",
       "link": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams": {
-      "ts": "2026-08-19T00:00:00+00:00",
-      "title": "Turning conversation into knowledge: how Slack builds human-agent teams",
-      "link": "https://claude.com/blog/turning-conversation-into-knowledge-how-slack-builds-human-agent-teams",
       "source": "Claude Blog",
       "big": false
     },
@@ -4568,6 +4540,20 @@
       "ts": "2026-09-17T06:15:37+00:00",
       "title": "Asia Today: Fintech, AI, Trading, Digital Infrastructure &amp; Investments - Asia Business Outlook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dera.ai/news/1ec099d2-5a28-3bc7-d23b-a8901fcdc06f&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jsY7yZ7RNTUBuimiETv8B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/cooley-gopublic": {
+      "ts": "2026-09-17T12:00:00+00:00",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "link": "https://openai.com/index/cooley-gopublic",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7559250829602220243": {
+      "ts": "2026-09-17T22:14:16+00:00",
+      "title": "<b>Manus AI</b> Stock Price, Valuation &amp; News - Stock Analysis",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://stockanalysis.com/private/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2EMFyxH3tL1cxupGgsog2i",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
