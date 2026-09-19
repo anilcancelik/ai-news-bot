@@ -49,13 +49,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:5652229903628037397": {
-      "ts": "2026-08-20T00:34:10+00:00",
-      "title": "Visions of AI: Automating repetitive grunt Coding tasks - AI Supremacy",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ai-supremacy.com/p/visions-of-ai-automating-repetitive-grunt-coding-tasks-2026-devin&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39JD9O_25pEeWaYnoHVLWY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12691613677125084206": {
       "ts": "2026-08-20T10:02:19+00:00",
       "title": "<b>Manus AI</b> Pricing 2026: Plans, Credits, and What You Pay - Emergent",
@@ -82,13 +75,6 @@
       "title": "Claude in Chrome | The Rundown AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therundown.ai/tools/claude-in-chrome&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0KLtBsPlsUE0RHBLV2nshl",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/stampli": {
-      "ts": "2026-08-20T00:00:00+00:00",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
-      "link": "https://openai.com/index/stampli",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:8080099935010362492": {
@@ -382,34 +368,6 @@
       "ts": "2026-08-21T00:00:00+00:00",
       "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
       "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/computer-use-skills-api-files-api": {
-      "ts": "2026-08-20T00:00:00+00:00",
-      "title": "Build production agents with computer use, the Skills API, and the Files API",
-      "link": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-code-guide-for-startups": {
-      "ts": "2026-08-20T00:00:00+00:00",
-      "title": "The Claude Code guide for startups",
-      "link": "https://claude.com/blog/claude-code-guide-for-startups",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate": {
-      "ts": "2026-08-20T00:00:00+00:00",
-      "title": "How monday.com transformed its platform into an agent-first product where humans and agents collaborate",
-      "link": "https://claude.com/blog/how-monday-com-transformed-its-platform-into-an-agent-first-product-where-humans-and-agents-collaborate",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai": {
-      "ts": "2026-08-20T00:00:00+00:00",
-      "title": "Anthropic’s approach to teaching and learning AI",
-      "link": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
       "source": "Claude Blog",
       "big": false
     },
@@ -4701,6 +4659,13 @@
       "ts": "2026-09-18T12:46:03+00:00",
       "title": "<b>Manus AI</b>",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://espiritxualidadesite.com.br/en/app/Manus-AI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0S1_RvEtsg_MQLrRreHQGm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18148660405413894006": {
+      "ts": "2026-09-18T21:12:05+00:00",
+      "title": "Menlo Ventures' Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/menlo-ventures_our-2026-state-of-consumer-ai-report-mapped-activity-7506771736500297728-0ltI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ldaJWDBRU25IVkxIBTsSh",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
