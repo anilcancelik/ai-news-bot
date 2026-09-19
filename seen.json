@@ -1,33 +1,5 @@
 {
   "seen": {
-    "c29a7e7771d28610": {
-      "ts": "2026-08-20T02:08:48+00:00",
-      "title": "2.1.237",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-237",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16115829540411821353": {
-      "ts": "2026-08-20T03:38:16+00:00",
-      "title": "A Chinese AI agent can manage up to 50 accounts simultaneously. According to the ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DcNZJ-ptiiP/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1hGM3lThJKK4EM3se3vd0N",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:97065099015018877": {
-      "ts": "2026-08-20T05:51:43+00:00",
-      "title": "MANUS USERS: BACK UP NOW! What You Need to Know + This Week in AI - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJHa5th2oGfc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ePZvzbQdDWRd918_st2-Y",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10673732876004669453": {
-      "ts": "2026-08-20T03:53:18+00:00",
-      "title": "If you are a <b>Manus AI</b> user, are you paying attention to the important email notifications ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/marismith/posts/if-you-are-a-manus-ai-user-are-you-paying-attention-to-the-important-email-notif/1680676990092724/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1z6DfbbJPkJtTn1DXuxlOF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13926072776312785834": {
       "ts": "2026-08-20T07:27:01+00:00",
       "title": "Timeline Visualization",
@@ -42,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:1415947277159329958": {
-      "ts": "2026-08-20T03:11:17+00:00",
-      "title": "Shyamal Geesawor - Mauritius AI Network",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mauritiusai.org/directory/shyamal-geesawor&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2YP5V2O5GXZe48-FUZUH9Q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12691613677125084206": {
       "ts": "2026-08-20T10:02:19+00:00",
       "title": "<b>Manus AI</b> Pricing 2026: Plans, Credits, and What You Pay - Emergent",
@@ -56,24 +21,10 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:1673967004183339841": {
-      "ts": "2026-08-20T04:38:06+00:00",
-      "title": "is the best Manus replacement actually 2 tools instead of 1? : r/aiagents - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aiagents/comments/1vspk6n/is_the_best_manus_replacement_actually_2_tools/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20HFsLs2EMUJMdg1W5-pvx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2452753876710663844": {
       "ts": "2026-08-20T12:45:28+00:00",
       "title": "This AI Tool Is Saving My Life (<b>Manus AI</b>) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/4nwqOPFAk00&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2OLcEgme6-G3an4pkN1PlB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15587128882005171562": {
-      "ts": "2026-08-20T05:03:34+00:00",
-      "title": "Claude in Chrome | The Rundown AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therundown.ai/tools/claude-in-chrome&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0KLtBsPlsUE0RHBLV2nshl",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -97,13 +48,6 @@
       "link": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI News",
       "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:15456397538891620226": {
-      "ts": "2026-08-20T02:19:01+00:00",
-      "title": "Irreplaceable attributes in an AI world — Q&amp;A with the CIMA president",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/podcast/irreplaceable-attributes-in-an-ai-world-qa-with-the-cima-president/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fHGFucKGQr6hVjAMLd9E8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
     },
     "ea3d1d928594a8e1": {
       "ts": "2026-08-20T21:52:40+00:00",
@@ -4668,7 +4612,35 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/menlo-ventures_our-2026-state-of-consumer-ai-report-mapped-activity-7506771736500297728-0ltI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ldaJWDBRU25IVkxIBTsSh",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "a09fa9a62b9b657c": {
+      "ts": "2026-09-19T03:19:41+00:00",
+      "title": "2.1.278",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-278",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/australian-youth-safety-blueprint": {
+      "ts": "2026-09-18T12:00:00+00:00",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:7616881421673595637": {
+      "ts": "2026-09-19T05:32:05+00:00",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40techcrunch/post/Ddb4YZRG3cK/manus-seeks-b-valuation-in-new-m-fundraise-as-it-resumes-independent-ops-utm/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1lSgYzeybwBaVvQnDq91Oz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2826605827049266350": {
+      "ts": "2026-09-18T22:31:55+00:00",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.winzheng.com/en/article/manus-500m-fundraise-4b-valuation&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3noX22Wh7wvwMsqYH8RIYe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-18"
+  "last_digest_date": "2026-09-19"
 }
