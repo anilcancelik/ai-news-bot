@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:13926072776312785834": {
-      "ts": "2026-08-20T07:27:01+00:00",
-      "title": "Timeline Visualization",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://peacock.techinasia.com/api/timeline/31b164b4-272c-4e06-af0b-bc1c6b8f056f&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vbEELL0QVpyOJ0n49gp-F",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16085504453633592001": {
-      "ts": "2026-08-20T07:03:44+00:00",
-      "title": "Gregory Ho's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/gregoryho_using-manus-to-build-a-campaign-brief-storyboard-activity-7496071723180650496-nzG8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1OfCIkfU8OviDVK_mFmMnF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12691613677125084206": {
-      "ts": "2026-08-20T10:02:19+00:00",
-      "title": "<b>Manus AI</b> Pricing 2026: Plans, Credits, and What You Pay - Emergent",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://emergent.sh/learn/manus-ai-pricing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nm0D4kLL8CBJgjrqwrk07",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2452753876710663844": {
       "ts": "2026-08-20T12:45:28+00:00",
       "title": "This AI Tool Is Saving My Life (<b>Manus AI</b>) - YouTube",
@@ -42,13 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://openai.com/index/introducing-ai-futures": {
-      "ts": "2026-08-20T07:00:00+00:00",
-      "title": "Introducing AI Futures",
-      "link": "https://openai.com/index/introducing-ai-futures",
-      "source": "OpenAI News",
-      "big": true
-    },
     "ea3d1d928594a8e1": {
       "ts": "2026-08-20T21:52:40+00:00",
       "title": "2.1.238",
@@ -60,13 +32,6 @@
       "ts": "2026-08-20T21:50:14+00:00",
       "title": "Oh man:/ #ad #<b>manus #ai</b> #manuspartner #howitworks - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/V2m_GDDm_bc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3nyDh72hHpjOMi5TTjPtuR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8443610116701789044": {
-      "ts": "2026-08-20T08:30:51+00:00",
-      "title": "Stop Guessing AI Prompts! Unlock the Secret Behind Stunning ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DcQLLEbgfZY/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YyxmnwDfsJ8VJmS77wg2_",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -1063,13 +1028,6 @@
       "link": "https://claude.com/blog/cowork-built-in-browser",
       "source": "Claude Blog",
       "big": false
-    },
-    "https://openai.com/index/introducing-intelligence-age": {
-      "ts": "2026-08-20T07:00:00+00:00",
-      "title": "Introducing Intelligence Age",
-      "link": "https://openai.com/index/introducing-intelligence-age",
-      "source": "OpenAI News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:1089630224940153975": {
       "ts": "2026-08-26T19:38:42+00:00",
@@ -4638,6 +4596,55 @@
       "ts": "2026-09-18T22:31:55+00:00",
       "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.winzheng.com/en/article/manus-500m-fundraise-4b-valuation&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3noX22Wh7wvwMsqYH8RIYe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8710214093931911355": {
+      "ts": "2026-09-19T07:07:45+00:00",
+      "title": "Six AI Startup Demos from SF Demo Night - Data Phoenix",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dataphoenix.info/videos/sf-demo-night-2026-09-03-w-the-ai-collective&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0N-T94xT3o4JZh0IZ1in14",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:91310744531053856": {
+      "ts": "2026-09-19T05:58:59+00:00",
+      "title": "<b>Manus AI</b> seeks $500 million, weighs Hong Kong IPO after Meta split - Quartz",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://qz.com/manus-ai-fundraising-500-million-hong-kong-ipo-meta-091826&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3H80nJOWEDphmPFEbwNrjO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9692143326976798084": {
+      "ts": "2026-09-19T04:33:29+00:00",
+      "title": "Unum Group Strengthens Capital Returns With New $1B Share Buyback - Quartz",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://qz.com/unum-group-strengthens-capital-returns-with-new-1b-share-buyback&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1FzKZb65T1tie_c7GoMpoV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8741182812043772038": {
+      "ts": "2026-09-19T03:42:32+00:00",
+      "title": "<b>Manus AI</b> Wants $500M After Beijing Killed Its Meta Deal After China's regulators ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DdcFHYUmyTg/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Ap4eO9Uorl0_3UjWwaLtN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5768566245821963332": {
+      "ts": "2026-09-18T19:09:56+00:00",
+      "title": "How to Create Jaw-Dropping Slide Deck in <b>Manus AI</b> with One MAGIC Prompt - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3D1-K8TwsmT20&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2KUbjVq6if2XBrU5ww8RE3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4310436245441694205": {
+      "ts": "2026-09-18T18:17:25+00:00",
+      "title": "<b>Manus AI</b> seeks $500 million, weighs Hong Kong IPO after Meta split - Yahoo Finance",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/ai/articles/manus-ai-seeks-500-million-175810693.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IPtUhRbyLc-DxH0TiW3OH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1088983747877955309": {
+      "ts": "2026-09-18T16:12:11+00:00",
+      "title": "AI for Marketing's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ai-for-marketings_ai-isnt-waiting-tool-selection-has-to-activity-7506734145839181824-PAIG&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0cX1aLhqdFA3-hgDfwb3d9",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
