@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:2452753876710663844": {
-      "ts": "2026-08-20T12:45:28+00:00",
-      "title": "This AI Tool Is Saving My Life (<b>Manus AI</b>) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/4nwqOPFAk00&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2OLcEgme6-G3an4pkN1PlB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8080099935010362492": {
-      "ts": "2026-08-20T14:16:00+00:00",
-      "title": "I Built an Entire Business With 1 Prompt | Manus Alternative | Full Workflow - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DGEoZGigMbGk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WT4DnKa36rCyINZfDePoa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2770414419873682778": {
       "ts": "2026-08-20T14:49:53+00:00",
       "title": "Ranking the Biggest AI Platforms From Best to Worst - YouTube",
@@ -4645,6 +4631,27 @@
       "ts": "2026-09-18T16:12:11+00:00",
       "title": "AI for Marketing's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ai-for-marketings_ai-isnt-waiting-tool-selection-has-to-activity-7506734145839181824-PAIG&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0cX1aLhqdFA3-hgDfwb3d9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16753985881801757379": {
+      "ts": "2026-09-19T09:16:17+00:00",
+      "title": "<b>Manus AI</b> Seeks $4B Valuation in New $500M Funding Round - Renascence",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.renascence.io/news/71399/manus-ai-seeks-4b-valuation-in-new-500m-funding-round&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1G9otcdabaPqNIcVrbVhWJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9918616684343988892": {
+      "ts": "2026-09-19T02:32:32+00:00",
+      "title": "<b>Manus AI</b> Acquisition, Valuation, Funding &amp; Investors - Multiples.vc",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://multiples.vc/private-comps/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gbe8GAWguXBTOY_YOzCJT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15548239769504022838": {
+      "ts": "2026-09-18T20:25:35+00:00",
+      "title": "Agents AI Tools — Page 6 | The Rundown AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therundown.ai/tools-category/agents%3Fpage%3D6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3SegbRsMhSmNmO6VTe0Lf5",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
