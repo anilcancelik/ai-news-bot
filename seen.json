@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10586342496141414401": {
-      "ts": "2026-08-21T07:22:17+00:00",
-      "title": "Sorry for the delay on this. The Manus to Vercel migration was harder than I expected. I've ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jhunter101/posts/sorry-for-the-delay-on-thisthe-manus-to-vercel-migration-was-harder-than-i-expec/4068895136744701/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fK2PlBoMOw3BCr5gC_vZ4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2014320597792695624": {
-      "ts": "2026-08-21T08:10:37+00:00",
-      "title": "36+ Book Summary Categories | Joyfully Learn in Minutes - Page 67 - BeFreed",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.befreed.ai/categories/ai/page67&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw22kiy_yre2W9_s8cLQd3BM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/": {
       "ts": "2026-08-21T11:59:48+00:00",
       "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
@@ -60,13 +46,6 @@
       "ts": "2026-08-21T13:17:59+00:00",
       "title": "Manus vs Claude: Which AI Agent Should You Use? - MyClaw",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/ar/blog/manus-vs-claude&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2YJgAr8ykWwppBW5IriNnZ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8904386266070819978": {
-      "ts": "2026-08-21T06:39:47+00:00",
-      "title": "<b>Manus AI</b> Pricing Plans - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-ai-pricing-plans/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0giKJE2yDb87wAJ5iuH9Jr",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4614,5 +4593,5 @@
       "big": false
     }
   },
-  "last_digest_date": "2026-09-19"
+  "last_digest_date": "2026-09-20"
 }
