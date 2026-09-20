@@ -28,13 +28,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:556552773419214768": {
-      "ts": "2026-08-20T23:37:44+00:00",
-      "title": "What Is Manus Used For - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/what-is-manus-used-for/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2LWIwGxGwRaJTMCznIoGSs",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10586342496141414401": {
       "ts": "2026-08-21T07:22:17+00:00",
       "title": "Sorry for the delay on this. The Manus to Vercel migration was harder than I expected. I've ...",
@@ -53,13 +46,6 @@
       "ts": "2026-08-21T08:10:37+00:00",
       "title": "36+ Book Summary Categories | Joyfully Learn in Minutes - Page 67 - BeFreed",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.befreed.ai/categories/ai/page67&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw22kiy_yre2W9_s8cLQd3BM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13161766696877728959": {
-      "ts": "2026-08-20T22:03:19+00:00",
-      "title": "Shopify + GemPages Developer — Integrate AI-Built Pages 1713691 - OnlineJobs.ph",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.onlinejobs.ph/jobseekers/job/shopify-gempages-developer-integrate-ai-built-pages-1713691&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3t_xzhKTXoQFLRk9woZdT3",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -215,20 +201,6 @@
       "title": "Build an AI Overview Tracker for Your Brand - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhH6Ja0hH-k0%26vl%3Dpt-BR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ib1bh1jWmj-IuCMDlsLbM",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/the-ai-native-sdlc-playbook": {
-      "ts": "2026-08-21T00:00:00+00:00",
-      "title": "The AI-Native SDLC playbook",
-      "link": "https://claude.com/blog/the-ai-native-sdlc-playbook",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders": {
-      "ts": "2026-08-21T00:00:00+00:00",
-      "title": "Bringing the cybersecurity capabilities of Claude Mythos 5 to more defenders",
-      "link": "https://claude.com/blog/bringing-claude-mythos-5-to-more-defenders",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:16880304018732688869": {
@@ -4666,6 +4638,13 @@
       "ts": "2026-09-19T17:51:28+00:00",
       "title": "Manus Prompt Injection: One Project Invite to Desktop Takeover - CodeAnt AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://codeant.ai/security-research/manus-prompt-injection-attack-desktop-takeover&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2vtr6L-Gxwu6WNx3W1xUKK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3917477253317581422": {
+      "ts": "2026-09-19T11:15:49+00:00",
+      "title": "Manus Vs Claude Vs ChatGPT Vs Gemini: Which AI Should You Use? - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-vs-claude-vs-chatgpt-vs-gemini/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2VRneva7GT2KKuhKu81yD2",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
