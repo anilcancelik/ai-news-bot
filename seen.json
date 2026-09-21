@@ -1,33 +1,5 @@
 {
   "seen": {
-    "6313175236d280c9": {
-      "ts": "2026-08-22T18:08:36+00:00",
-      "title": "2.1.240",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-240",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7881610024767548194": {
-      "ts": "2026-08-22T17:47:39+00:00",
-      "title": "NEAR 15 min · $1.9480 target | Prediction Markets - Coinbase",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXNEAR15M-26AUG220500&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1yGtIhMsRDgCEeANAGBPSk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10751208301118023691": {
-      "ts": "2026-08-22T17:47:39+00:00",
-      "title": "PFL: Gadzhi Rabadanov vs Tracy Reeder | Prediction Markets - Coinbase",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXMMAFIGHT-26AUG22RABADAREEDER&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SaUKYUgDm55shOdB1Sw1T",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3203378202171756760": {
-      "ts": "2026-08-22T19:34:13+00:00",
-      "title": "Monica - Multi-Model AI Assistant in Your Browser - Toolso.AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://toolso.ai/tool/monica-im&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JE78cbAfVm3V9hoLAXALK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:18144501091635360432": {
       "ts": "2026-08-22T22:08:44+00:00",
       "title": "Manus users: Backup data before August 22 deadline - Facebook",
@@ -39,13 +11,6 @@
       "ts": "2026-08-22T20:59:51+00:00",
       "title": "Nervig   #ad #manuspartner #<b>manus #ai</b> #howitworks - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/A7_FFn0ZRbs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3vPPfxPTNe62iWJPRFF9QT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1638969694008232571": {
-      "ts": "2026-08-22T20:20:21+00:00",
-      "title": "Mike Grandinetti - meta #manus #claude - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/mikegrandinetti_meta-manus-claude-activity-7497019613965168641-xw18&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3pWrjDA--jjrhiHdwGiD2C",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4554,6 +4519,48 @@
       "ts": "2026-09-20T19:03:03+00:00",
       "title": "What Is <b>Manus AI</b>? The Autonomous Agent, Honestly Assessed (2026) - Geminy AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://geminy.ai/2026/09/20/what-is-manus-ai-autonomous-agent-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1tKGFz6GOnUo-0uoe3jOSN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
+      "ts": "2026-09-21T12:00:00+00:00",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
+      "ts": "2026-09-21T12:00:00+00:00",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/building-standards-next-phase-ai": {
+      "ts": "2026-09-21T10:00:00+00:00",
+      "title": "Building standards for the next phase of AI",
+      "link": "https://openai.com/index/building-standards-next-phase-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
+      "ts": "2026-09-21T07:00:00+00:00",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14732397461217953531": {
+      "ts": "2026-09-21T20:17:50+00:00",
+      "title": "We're getting dangerously close to social media having more users than people. Manus is ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Ddj_4WxSYt5/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw008otiXUlsWbRsgQMZxbnp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6847715145513840834": {
+      "ts": "2026-09-21T18:03:49+00:00",
+      "title": "GDP on X: &quot;While Meta adds 1T USD valuation with this aquisition, it would be very ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/bookwormengr/status/2102092354912194828&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3-yFODMtX48sZbhSgHgcSU",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
