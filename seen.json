@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4006812602577264311": {
-      "ts": "2026-08-24T18:07:36+00:00",
-      "title": "Running On-Device LLMs in .NET MAUI with `Microsoft.Maui.Essentials.Ai` - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/dotnetMAUI/comments/1vx8fhw/running_ondevice_llms_in_net_maui_with/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2AYHB_mDy-mardDATvoE-B",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10754494862137247555": {
-      "ts": "2026-08-24T17:49:30+00:00",
-      "title": "manus #fail #anger #frustration #ai #stupidity #poorux #communication #timezonefail | Cory R. Cox",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/corycoxsalesandmarketing_manus-fail-anger-activity-7497366563390459908-0mnp&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2F4ruYoDQdoLLh5GjpiJNt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12230607090358370266": {
       "ts": "2026-08-24T21:13:34+00:00",
       "title": "Sorry Not sorry #howitworks #<b>manus #ai</b> #ad #manuspartner - YouTube",
@@ -81,20 +67,6 @@
       "ts": "2026-08-24T23:40:48+00:00",
       "title": "Manus access resumes August 25 2026 - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/isuru.alagiyawanna.2025/posts/due-to-chinese-government-causing-issues-on-the-deal-with-meta-regarding-nationa/2887024468349402/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3P988qd1pZWdz45g-JePpW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1826728156138402635": {
-      "ts": "2026-08-24T20:16:00+00:00",
-      "title": "<b>MANUS AI</b> | Squadbuilder - RenderZ",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://renderz.app/squadbuilder/2FquXn37wgDsEe1Gfi4EQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Voc0sp_aRjk3YtxV7c9tX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7439976372370120950": {
-      "ts": "2026-08-24T17:59:38+00:00",
-      "title": "<b>Manus AI</b> company separates from Meta, cancels subscriptions - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/subscriptioninsider/posts/news-the-global-ai-subscription-company-is-separating-from-meta-after-china-orde/1670260308436169/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1YwtET0oNqZf_xt2Qqsk_O",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4638,6 +4610,83 @@
       "ts": "2026-09-22T13:26:31+00:00",
       "title": "Manus' valuation reaches 4 billion yuan after going public - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/blayr.huang/posts/manus-independent-financing-from-being-acquired-to-going-public-on-its-own-manus/122200200572745202/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2CBHGTTpX0V6zVx5WnU54y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "54e99bdc974ea0ed": {
+      "ts": "2026-09-23T19:28:00+00:00",
+      "title": "2.1.281",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-281",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": {
+      "ts": "2026-09-23T00:00:00+00:00",
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://claude.com/blog/claude-marketplace": {
+      "ts": "2026-09-23T00:00:00+00:00",
+      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
+      "link": "https://claude.com/blog/claude-marketplace",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace": {
+      "ts": "2026-09-23T00:00:00+00:00",
+      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
+      "link": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
+      "ts": "2026-09-23T12:00:00+00:00",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
+      "ts": "2026-09-23T12:00:00+00:00",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/introducing-mentalhealthbench": {
+      "ts": "2026-09-23T10:00:00+00:00",
+      "title": "Introducing MentalHealthBench",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/airbnb-gpt-6-astra": {
+      "ts": "2026-09-23T01:00:00+00:00",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "link": "https://openai.com/index/airbnb-gpt-6-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18052166711398267378": {
+      "ts": "2026-09-23T17:40:09+00:00",
+      "title": "I built an MCP interface so an LLM/AI can control HOI4 autonomously(or automated scripts)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/RoadTo56/comments/1wo6xzo/i_built_an_mcp_interface_so_an_llmai_can_control/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw245v3w4D77O3Ux34tuIIPp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17145563457479835353": {
+      "ts": "2026-09-23T16:32:40+00:00",
+      "title": "InstaProLab AI Review Pricing Features and User Experience - Alboom",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bakoge7217.alboompro.com/post/instaprolab-ai-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BsUrfAtoi3Ma5JQh1HrVD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5273802571126749077": {
+      "ts": "2026-09-23T07:30:09+00:00",
+      "title": "Susan Li: Mark Zuckerberg to join tech leaders at Trump-Xi dinner amid China challenges",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/market-voices/show/3438836-zuckerberg-trump-xi-dinner/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0V06Rx7pVXS6k9EUWfrlX2",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
