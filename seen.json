@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:12230607090358370266": {
-      "ts": "2026-08-24T21:13:34+00:00",
-      "title": "Sorry Not sorry #howitworks #<b>manus #ai</b> #ad #manuspartner - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/O0IlwUrZcJQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12KTfBMvPuy0VE0KHvkjoH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5393313998967612775": {
       "ts": "2026-08-25T01:56:52+00:00",
       "title": "<b>Manus AI</b> Review: Pros, Cons, and Everything It Builds (2026) - Emergent",
@@ -144,13 +137,6 @@
       "ts": "2026-08-25T08:48:44+00:00",
       "title": "manus report analysis modes comparison / complete guide 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DLBF0VBEQBZI%26vl%3Dit&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12Vexs4zPyvduEmNcedvYb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15135911895868710866": {
-      "ts": "2026-08-24T23:00:28+00:00",
-      "title": "<b>Manus AI</b> | Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/people/Manus-AI/61586323032030/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw000d_vxVHnsZCSI-g9SyqT",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4687,6 +4673,41 @@
       "ts": "2026-09-23T07:30:09+00:00",
       "title": "Susan Li: Mark Zuckerberg to join tech leaders at Trump-Xi dinner amid China challenges",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://tradersunion.com/news/market-voices/show/3438836-zuckerberg-trump-xi-dinner/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0V06Rx7pVXS6k9EUWfrlX2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/sam-altman-un-security-council-remarks": {
+      "ts": "2026-09-23T12:00:00+00:00",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://cursor.com/blog/rollouts-and-security-reviewer": {
+      "ts": "2026-09-23T12:00:00+00:00",
+      "title": "Bots for the last mile: Rollouts, Security Review",
+      "link": "https://cursor.com/blog/rollouts-and-security-reviewer",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "https://cursor.com/blog/improved-token-efficiency": {
+      "ts": "2026-09-23T12:00:00+00:00",
+      "title": "Improved token efficiency for longer agent runs",
+      "link": "https://cursor.com/blog/improved-token-efficiency",
+      "source": "Cursor Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3999657783238980975": {
+      "ts": "2026-09-23T17:09:48+00:00",
+      "title": "Ai Councillor on Reels - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61554988015714/videos/1639854897854051/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0npBcovKztxsUaKufXSoIg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4660329478104187013": {
+      "ts": "2026-09-23T12:03:05+00:00",
+      "title": "Page 147 – Coverage of Disruptive Science and Technology - NextBigFuture.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nextbigfuture.com/page/147%3Fluicode%3D10000011%26lfid%3D100808819f78979f9e086c4baf480e2f2cc0e5_-_feed%26featurecode%3D10000326%26u%3Dhttps%253A%252F%252Fwww.nextbigfuture.com%252F&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IVyH-9bFt09yg7RaiRe32",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
