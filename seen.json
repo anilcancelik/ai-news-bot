@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1529670854977711051": {
-      "ts": "2026-08-25T18:28:20+00:00",
-      "title": "Crazy #ad #manuspartner #<b>manus #ai</b> #howitworks - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/iXAAiUlD0BI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XBoHozlpz6AKZu9-v8eGH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "d533578eddf216a8": {
       "ts": "2026-08-25T22:39:11+00:00",
       "title": "2.1.246",
@@ -25,13 +18,6 @@
       "ts": "2026-08-26T06:55:31+00:00",
       "title": "Best PCs for Local AI in 2026: How Much Power Do You Really Need? - Bleap",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bleap.finance/en-us/blog/best-pcs-local-ai-models&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3z-Om7NN68yd73BTU7Z7tr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5648165194870978753": {
-      "ts": "2026-08-25T19:00:36+00:00",
-      "title": "Samar Balousha's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/samar-balousha-58750a258_manus-productdesign-aiprojects-activity-7497625406074687489-u6tI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3EMsML-S4EgbqS8xkrQO_R",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4715,6 +4701,55 @@
       "ts": "2026-09-24T02:30:23+00:00",
       "title": "AI is getting seriously unsettling China's <b>Manus AI</b> reportedly managed 50 social media ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/peterchika.ugwuja/posts/-ai-is-getting-seriously-unsettling-chinas-manus-ai-reportedly-managed-50-social/4579677855630535/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw18S3UPRnZyS2bnW-CPINhe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "d2514dd17c2aa91e": {
+      "ts": "2026-09-24T18:46:38+00:00",
+      "title": "2.1.282",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-282",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14703841679386105290": {
+      "ts": "2026-09-24T17:18:16+00:00",
+      "title": "Google Gemini Can Now Call Businesses for Pixel 11 Owners - SQ Magazine",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/google-gemini-call-for-me-pixel-11/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rpsDyagca20zA6EtWQAOi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6020005000111097892": {
+      "ts": "2026-09-24T17:03:06+00:00",
+      "title": "Which is better: one detailed character or a whole cast? : r/RoleplayWithAIs - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/RoleplayWithAIs/comments/1worjkm/which_is_better_one_detailed_character_or_a_whole/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw36u2Xyo0sHnLWqhz1bGEHu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15200470740356661277": {
+      "ts": "2026-09-24T15:37:28+00:00",
+      "title": "<b>Manus AI</b> Agent Exposed by Prompt-Injection Bug - SQ Magazine",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/manus-prompt-injection-bug/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1m4ou30mzXDHfRPFjp2Jnu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9613996999782325720": {
+      "ts": "2026-09-24T15:10:27+00:00",
+      "title": "$14B Single-Person Valuation, Meta's $200B+ Market Cap Surge: Can Tencent Replicate ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://eu.36kr.com/en/p/3997058409437061&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2t-dB8ZzZEAcTKhBbNLiNb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6950332142601366516": {
+      "ts": "2026-09-24T14:01:15+00:00",
+      "title": "MINDEF: 3-Day Generative AI Training | Heicoders Academy - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/heicoders-academy_mindef-3-day-generative-ai-training-activity-7508758607400701952-rSzk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32B1ErYUejvMa735FPqxYR",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5814330383841064300": {
+      "ts": "2026-09-24T03:54:35+00:00",
+      "title": "NextGen Digitalworld   - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/%40nexgendigitalworld/videos&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hliIDz9jIPozwbDg5Xi7l",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
