@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5393313998967612775": {
-      "ts": "2026-08-25T01:56:52+00:00",
-      "title": "<b>Manus AI</b> Review: Pros, Cons, and Everything It Builds (2026) - Emergent",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://emergent.sh/learn/manus-ai-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_9AINbRzhTeiWnBDMYBhD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "7e0fe6e2a38c3fe4": {
       "ts": "2026-08-25T08:03:31+00:00",
       "title": "2.1.245",
@@ -19,34 +12,6 @@
       "title": "2.1.243",
       "link": "https://code.claude.com/docs/en/changelog#2-1-243",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8406175584464557750": {
-      "ts": "2026-08-25T06:57:26+00:00",
-      "title": "How To Use Emergent AI To Build An App: Complete Beginner Tutorial! - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DRcVguNmvx1Q%26vl%3Dpl&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2s8LbyoTuA2NJQUpAZosCc",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11841648757898825519": {
-      "ts": "2026-08-25T04:54:08+00:00",
-      "title": "10 Best Genspark Alternatives in 2026: Compared - Ampere.sh",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ampere.sh/blog/genspark-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2vmRa11h6ULxC_khUL-59t",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9270524147916641674": {
-      "ts": "2026-08-25T03:10:55+00:00",
-      "title": "Keith Wu's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/keith-wu-7870ab2b_proptech-propertymanagement-artificialintelligence-activity-7497804946508087296-y62h&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fNAoifRDPWZicfc-_vnAW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/jalapeno-first-results": {
-      "ts": "2026-08-25T07:00:00+00:00",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "link": "https://openai.com/index/jalapeno-first-results",
-      "source": "OpenAI Engineering News",
       "big": false
     },
     "https://openai.com/index/the-full-stack-behind-abundant-intelligence": {
@@ -67,13 +32,6 @@
       "ts": "2026-08-25T16:14:01+00:00",
       "title": "ISSB requests feedback on proposed digital taxonomy updates",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/news/2026/aug/issb-requests-feedback-on-proposed-digital-taxonomy-updates/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J-tESOv64pW_dt1zbZmPz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15188095211305258329": {
-      "ts": "2026-08-25T04:02:22+00:00",
-      "title": "UltraPoint vs <b>Manus AI</b> (2026): Purpose-Built Decks vs a General Agent",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ultrapoint.ai/compare/ultrapoint-vs-manus.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xliJr-rmFDvRASn4LaX3R",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4668,7 +4626,63 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aitoolway.com/instaprolab-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26Y0pgPxf5bWH2Cl9jaBmv",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
+      "ts": "2026-09-23T02:00:00+00:00",
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2071035173218722932": {
+      "ts": "2026-09-24T05:38:35+00:00",
+      "title": "Save this post now. Your 2026 AI stack in one carousel (with PROMPTS for quick ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DdqJsvDFEHT/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2PwMshuBxhSlYn9C5PWWjI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13009602819176690269": {
+      "ts": "2026-09-24T05:12:31+00:00",
+      "title": "Want a simple AI business idea? 1️⃣ Find a local business on Google Maps with no ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/joe.george.547727/videos/want-a-simple-ai-business-idea-1%25EF%25B8%258F%25E2%2583%25A3-find-a-local-business-on-google-maps-with-no-/1125323326831903/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3AElx-zulGmU4SoWe5SNt5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3842406431080259402": {
+      "ts": "2026-09-24T02:06:09+00:00",
+      "title": "Want a simple AI business idea? 1️⃣ Find a local business on Google Maps with no ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Ddpvi9dMR5M/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1A_kxiJyp_Xx9IP8Fg-R2n",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9366426874425282001": {
+      "ts": "2026-09-24T01:46:05+00:00",
+      "title": "China's AI agent, <b>Manus AI</b>, runs 50 social media accounts 24/7, completely on its own.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/TechGawker/comments/1wo9xxg/chinas_ai_agent_manus_ai_runs_50_social_media/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IEOJ-VgC5vBZ69d3DCi8q",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1336310913217174902": {
+      "ts": "2026-09-24T01:45:27+00:00",
+      "title": "<b>Manus AI</b> paid our security researcher a $7,000 bug bounty. Why? Sunder found a way to ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/amartya-jha_manus-ai-paid-our-security-researcher-a-7000-activity-7508454440014594048-X-rR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33axM7L-8uqGYo_5eHi41L",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4504641202430822625": {
+      "ts": "2026-09-24T00:22:42+00:00",
+      "title": "AI For Lawyers' Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ai-forlawyers_we-benchmarked-6-ai-tools-for-legal-market-activity-7508661488346349568-FyYm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CXUUcbLcvb5pmsEQvzcjh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3241849556778766891": {
+      "ts": "2026-09-23T22:54:41+00:00",
+      "title": "You can run your AI agnets live on the cloud now. Digital Ocean Managed Agents is in ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/kulwant.nagi/videos/you-can-run-your-ai-agnets-live-on-the-cloud-now-digital-ocean-managed-agents-is/954862477692972/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1xW0OwHxNrg7PxRcmdzfN4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-09-23"
+  "last_digest_date": "2026-09-24"
 }
