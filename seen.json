@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:7751584359761375788": {
-      "ts": "2026-08-25T00:48:03+00:00",
-      "title": "WorkerKit Directory - Awesome MCP Servers",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mcpservers.org/servers/mcp-workerkit-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0O-LQxbUhxOpAmHXshxo7f",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "7e0fe6e2a38c3fe4": {
       "ts": "2026-08-25T08:03:31+00:00",
       "title": "2.1.245",
@@ -26,13 +19,6 @@
       "title": "2.1.243",
       "link": "https://code.claude.com/docs/en/changelog#2-1-243",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia": {
-      "ts": "2026-08-25T00:00:00+00:00",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:8406175584464557750": {
@@ -56,20 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:5849594160217607994": {
-      "ts": "2026-08-24T23:40:48+00:00",
-      "title": "Manus access resumes August 25 2026 - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/isuru.alagiyawanna.2025/posts/due-to-chinese-government-causing-issues-on-the-deal-with-meta-regarding-nationa/2887024468349402/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3P988qd1pZWdz45g-JePpW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner": {
-      "ts": "2026-08-25T00:00:00+00:00",
-      "title": "Bain & Company joins the Claude Partner Network as a Global Premier partner",
-      "link": "https://claude.com/blog/bain-company-joins-the-claude-partner-network-as-a-global-premier-partner",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/jalapeno-first-results": {
       "ts": "2026-08-25T07:00:00+00:00",
       "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
@@ -91,33 +63,12 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://www.anthropic.com/news/wellbeing-research-grants": {
-      "ts": "2026-08-25T00:00:00+00:00",
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "link": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "source": "Anthropic News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1864211612607512082": {
       "ts": "2026-08-25T16:14:01+00:00",
       "title": "ISSB requests feedback on proposed digital taxonomy updates",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/news/2026/aug/issb-requests-feedback-on-proposed-digital-taxonomy-updates/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J-tESOv64pW_dt1zbZmPz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it": {
-      "ts": "2026-08-25T00:00:00+00:00",
-      "title": "Claude's memory works everywhere, and you decide what's in it",
-      "link": "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://openai.com/index/introducing-admin-plugin": {
-      "ts": "2026-08-25T00:00:00+00:00",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "link": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:15188095211305258329": {
       "ts": "2026-08-25T04:02:22+00:00",
@@ -152,13 +103,6 @@
       "title": "2.1.246",
       "link": "https://code.claude.com/docs/en/changelog#2-1-246",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://ollama.com/blog/claude-desktop": {
-      "ts": "2026-08-25T00:00:00+00:00",
-      "title": "Claude Desktop support with Ollama",
-      "link": "https://ollama.com/blog/claude-desktop",
-      "source": "Ollama Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:11229226308241649159": {
@@ -4708,6 +4652,20 @@
       "ts": "2026-09-23T12:03:05+00:00",
       "title": "Page 147 – Coverage of Disruptive Science and Technology - NextBigFuture.com",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nextbigfuture.com/page/147%3Fluicode%3D10000011%26lfid%3D100808819f78979f9e086c4baf480e2f2cc0e5_-_feed%26featurecode%3D10000326%26u%3Dhttps%253A%252F%252Fwww.nextbigfuture.com%252F&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IVyH-9bFt09yg7RaiRe32",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2076666184378122096": {
+      "ts": "2026-09-23T23:29:54+00:00",
+      "title": "AI is an opportunity to talk to the Chinese, says super-agent Ari Emanuel. - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/chicagotribune/posts/ai-is-an-opportunity-to-talk-to-the-chinese-says-super-agent-ari-emanuel/1133806609002141/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0sTSQHxiI1TN4KfHh01idr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:975738005539021341": {
+      "ts": "2026-09-23T18:38:54+00:00",
+      "title": "InstaProLab AI Review 2026 - Coupon Codes &amp; Honest Verdict - AIToolWay",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aitoolway.com/instaprolab-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26Y0pgPxf5bWH2Cl9jaBmv",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
