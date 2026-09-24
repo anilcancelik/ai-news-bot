@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1864211612607512082": {
-      "ts": "2026-08-25T16:14:01+00:00",
-      "title": "ISSB requests feedback on proposed digital taxonomy updates",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/news/2026/aug/issb-requests-feedback-on-proposed-digital-taxonomy-updates/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J-tESOv64pW_dt1zbZmPz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3167158768266901972": {
-      "ts": "2026-08-25T16:46:23+00:00",
-      "title": "Big news! For the first time ever, Istanbul Ignited by Slush'D is hosting <b>Manus AI</b> and ... - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/kaantaskent_big-news-for-the-first-time-ever-activity-7498033361886629889-zAqh&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nDD3upIIwqvl-byfC-zeV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1529670854977711051": {
       "ts": "2026-08-25T18:28:20+00:00",
       "title": "Crazy #ad #manuspartner #<b>manus #ai</b> #howitworks - YouTube",
@@ -4680,6 +4666,55 @@
       "ts": "2026-09-23T13:50:50+00:00",
       "title": "The Dead Internet Theory Is Getting Scarily Real! China-founded AI agent <b>Manus AI</b> is ... - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61554988015714/posts/-the-dead-internet-theory-is-getting-scarily-realchina-founded-ai-agent-manus-ai/122334880682166267/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_1KhwGfQCnKu0MQVj0hkQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context": {
+      "ts": "2026-09-24T00:00:00+00:00",
+      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
+      "link": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
+      "ts": "2026-09-24T16:20:39+00:00",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/": {
+      "ts": "2026-09-24T17:42:12.626473+00:00",
+      "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
+      "link": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/": {
+      "ts": "2026-09-24T17:42:12.626503+00:00",
+      "title": "Reproducing OLMo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
+      "link": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5437108803530191028": {
+      "ts": "2026-09-24T13:55:55+00:00",
+      "title": "I've been testing a new AI model called Jev, and the strange thing about it is that it can't write ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40codewithchris/post/DdrAIhplt9G/ive-been-testing-a-new-ai-model-called-jev-and-the-strange-thing-about-it-is/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3796_H_lWiC3tvDwz1vlqs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12308518490921183080": {
+      "ts": "2026-09-24T13:31:12+00:00",
+      "title": "China's AI agent, <b>Manus AI</b>, runs 50 social media accounts 24/7, completely on its own.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AIMain/comments/1wo9vkr/chinas_ai_agent_manus_ai_runs_50_social_media/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kXFN_5-Sio8v01EFp9tZU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4197053838232812733": {
+      "ts": "2026-09-24T02:30:23+00:00",
+      "title": "AI is getting seriously unsettling China's <b>Manus AI</b> reportedly managed 50 social media ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/peterchika.ugwuja/posts/-ai-is-getting-seriously-unsettling-chinas-manus-ai-reportedly-managed-50-social/4579677855630535/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw18S3UPRnZyS2bnW-CPINhe",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
