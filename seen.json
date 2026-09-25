@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1089630224940153975": {
-      "ts": "2026-08-26T19:38:42+00:00",
-      "title": "Best AI for beginners and professionals - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/aitrendz.xyz1/posts/best-ai-for-beginners-and-professionals/122195021114603416/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ETyByD7KTXq0Pa2YAzMSg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6348402663992807898": {
-      "ts": "2026-08-26T19:09:28+00:00",
-      "title": "The AI Agent That Can Actually Do the Work #aitech #aiagents #ainow - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/-njxkd2wnA0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3lCriz0dLIgbxzxYu2VZMx",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "d07c3e974229847c": {
       "ts": "2026-08-27T01:16:59+00:00",
       "title": "2.1.247",
@@ -4757,6 +4743,62 @@
       "ts": "2026-09-25T01:38:47+00:00",
       "title": "As our founder Manu says, building responsible AI isn't a final destination, it's an ... - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cogentinfo/posts/as-our-founder-manu-says-building-responsible-ai-isnt-a-final-destination-its-an/1722895579845778/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00RMAWK__miAwfkb8QNDPe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "61e6573ba60ee729": {
+      "ts": "2026-09-25T22:00:11+00:00",
+      "title": "2.1.283",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-283",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8137657705505898266": {
+      "ts": "2026-09-25T20:08:54+00:00",
+      "title": "ServiceNow Security Alert: Patch These Critical Flaws - SQ Magazine",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/servicenow-ai-platform-flaws-patch/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cbmVsFXxyK59f-nFod-sa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5963221833173339683": {
+      "ts": "2026-09-25T19:38:42+00:00",
+      "title": "Microsoft Will Deprecate Windows Deployment Services After Server 2025 - SQ Magazine",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/microsoft-deprecate-windows-deployment-services/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw21z1pGKP66G3DRgFc79msO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8351159920723657360": {
+      "ts": "2026-09-25T17:08:37+00:00",
+      "title": "Cyber-Attack on Welsh Police Force Disrupts Systems and Risks Staff Data Breach",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://oodaloop.com/briefs/cyber/cyber-attack-on-welsh-police-force-disrupts-systems-and-risks-staff-data-breach/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2pMvSbGIjl-ZXTjvybFuD6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1491155364081384338": {
+      "ts": "2026-09-25T17:08:35+00:00",
+      "title": "Prompt-Injection Vulnerability Hits $4B Agentic AI Platform <b>Manus AI</b> - OODAloop",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://oodaloop.com/briefs/cyber/prompt-injection-vulnerability-hits-4b-agentic-ai-platform-manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mT5m-PtfG7j1vG-IfJ_8m",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4392501500634089778": {
+      "ts": "2026-09-25T16:27:43+00:00",
+      "title": "Turn a Manus Site Into a Real Website (Free) - GeminiLaunch",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.geminilaunch.com/blogs/host-manus-website-custom-domain&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JtfMak6ECc6WrzPncX5ex",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:11215075408534321009": {
+      "ts": "2026-09-25T10:11:33+00:00",
+      "title": "AI for create a presentation | uptodAIt",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://uptodait.com/ai-for/create-a-presentation&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0f4b0ZQFyTJr7iuCRVLglD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11844168777139106685": {
+      "ts": "2026-09-25T09:25:17+00:00",
+      "title": "AI for build a website | uptodAIt",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://uptodait.com/ai-for/build-a-website&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1z1DNmK2MJLEiaXJRmBFp1",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
