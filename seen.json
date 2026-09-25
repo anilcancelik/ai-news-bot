@@ -1,26 +1,5 @@
 {
   "seen": {
-    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/": {
-      "ts": "2026-08-26T17:01:00+00:00",
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7106986756142500648": {
-      "ts": "2026-08-26T16:33:30+00:00",
-      "title": "Meta to pay up to $18bn to settle children's social media harm case - Financial Times",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ft.com/content/21dcbd96-ee57-445c-a9ba-0938c49b91c0%3Fsyn-25a6b1a6%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0LMJH2SPpSnMFcMGfb2ujV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14826552070877044009": {
-      "ts": "2026-08-26T16:07:47+00:00",
-      "title": "Meta to pay up to $18 billion over social media claims - Ad Age",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://adage.com/technology/meta/aa-agrees-to-pay-18-billion-social-media-claims/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1-xiyvzos5KE8NzEK0NpjH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1089630224940153975": {
       "ts": "2026-08-26T19:38:42+00:00",
       "title": "Best AI for beginners and professionals - Facebook",
@@ -4729,6 +4708,55 @@
       "ts": "2026-09-24T21:40:53+00:00",
       "title": "Manus: pricing, features and alternatives - Automate Basics",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://automatebasics.com/tools/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3FJxuQPmBWMBC16UjjVYVn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/build-plugins-for-claude": {
+      "ts": "2026-09-25T00:00:00+00:00",
+      "title": "Build plugins for Claude",
+      "link": "https://claude.com/blog/build-plugins-for-claude",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/proaction": {
+      "ts": "2026-09-25T19:00:00+00:00",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "link": "https://openai.com/index/proaction",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13288851525935275505": {
+      "ts": "2026-09-25T15:11:26+00:00",
+      "title": "Manus vs Claude: Which AI Tool Fits Your Workflow in 2026? - Layer3Labs",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.layer3labs.io/comparisons/manus-ai-vs-claude&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3PyiXdBbpROyVBxcGAty2X",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12675452636944328520": {
+      "ts": "2026-09-25T14:29:20+00:00",
+      "title": "<b>Manus AI</b> : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wpxs42/manus_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-E88H3K4FVZtQzSFE2QU4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16340077538683016786": {
+      "ts": "2026-09-25T12:44:09+00:00",
+      "title": "7 Best <b>Manus AI</b> Alternatives for Autonomous Work in 2026 - Layer3Labs",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.layer3labs.io/comparisons/manus-ai-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_3BwxSJANddrTJYXUlB1y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4706277362347368470": {
+      "ts": "2026-09-25T09:50:42+00:00",
+      "title": "Manus: Highest risk - Agent Trust Hub",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://agenttrusthub.ai/app/manus-im&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2qpG6ruUfaiDZOkgchhL3v",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16016263218703295393": {
+      "ts": "2026-09-25T01:38:47+00:00",
+      "title": "As our founder Manu says, building responsible AI isn't a final destination, it's an ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cogentinfo/posts/as-our-founder-manu-says-building-responsible-ai-isnt-a-final-destination-its-an/1722895579845778/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00RMAWK__miAwfkb8QNDPe",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
