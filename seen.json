@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:11310163267887763054": {
-      "ts": "2026-08-26T22:40:03+00:00",
-      "title": "Manus Autonomous AI What Can It Do - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-autonomous-ai-what-can-it-do/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28paNW1Wo2AalGHeAbEezA",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training": {
       "ts": "2026-08-27T09:00:00+00:00",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
@@ -47,13 +40,6 @@
       "title": "Piloting the world's first double-blind AI evaluations",
       "link": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
       "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/": {
-      "ts": "2026-08-27T00:00:00+00:00",
-      "title": "Decoding cosmic signals with deep learning and Keras",
-      "link": "https://developers.googleblog.com/decoding-cosmic-signals-with-deep-learning-and-keras/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:11431054075745709662": {
@@ -112,13 +98,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:646933533766493497": {
-      "ts": "2026-08-27T00:35:14+00:00",
-      "title": "User and Client Support Operations Customer Service Jobs Singapore - MyCareersFuture",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mycareersfuture.gov.sg/job/customer-service/user-client-support-operations-butterfly-effect-bcfaed85cf0cbbd08dd30ac578d454eb&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Y3mtzUNEaI3TGNego1o-x",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "efc25c5d5ccfa4fe": {
       "ts": "2026-08-28T00:55:45+00:00",
       "title": "2.1.250",
@@ -131,20 +110,6 @@
       "title": "2.1.248",
       "link": "https://code.claude.com/docs/en/changelog#2-1-248",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://www.anthropic.com/news/expanding-support-for-scientists": {
-      "ts": "2026-08-27T00:00:00+00:00",
-      "title": "Expanding our support for scientists",
-      "link": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://www.anthropic.com/news/model-hardware-standard-research-preview": {
-      "ts": "2026-08-27T00:00:00+00:00",
-      "title": "Previewing the Model Hardware Standard",
-      "link": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "source": "Anthropic News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:4312907226589771383": {
@@ -4799,6 +4764,20 @@
       "ts": "2026-09-25T09:25:17+00:00",
       "title": "AI for build a website | uptodAIt",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://uptodait.com/ai-for/build-a-website&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1z1DNmK2MJLEiaXJRmBFp1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16582006002909914296": {
+      "ts": "2026-09-25T20:49:24+00:00",
+      "title": "Reel by LEVELORA (@mm__ventures_) · September 24, 2026 - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Ddq-fijzwk6/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1y0JlFEZQzkbqNtU5ixj_b",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16553955006321913544": {
+      "ts": "2026-09-25T16:32:18+00:00",
+      "title": "<b>Manus AI</b>: the autonomous agent that writes its own procedures, scored 5.3 on the U365 CI ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.university-365.com/post/manus-ai-the-autonomous-agent-that-writes-its-own-procedures-scored-5-3-on-the-u365-ci-first-revie&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3l0e85NZkk2uQuQedrl7Im",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
