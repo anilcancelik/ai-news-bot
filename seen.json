@@ -1,12 +1,5 @@
 {
   "seen": {
-    "dbd15df93c4fa91b": {
-      "ts": "2026-08-28T18:33:46+00:00",
-      "title": "2.1.251",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-251",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9188104183255544712": {
       "ts": "2026-08-29T01:04:16+00:00",
       "title": "7 Best Genspark AI Alternatives in 2026 for Agents, Research, and PPT - MyClaw",
@@ -4617,6 +4610,27 @@
       "ts": "2026-09-27T10:13:36+00:00",
       "title": "An Email Was All It Took to Hijack a $4 Billion AI Agent",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.securityagainstai.com/blog/manus-ai-prompt-injection-hijack-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3OF2WkPWZ9KWQgz2Of6qip",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13022056555478812343": {
+      "ts": "2026-09-27T11:52:42+00:00",
+      "title": "How Chinekezi brothers JobSeeker squashed myth of AI as agent of future unemployment",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dailynewsngr.com.ng/2026/09/27/how-chinekezi-brothers-jobseeker-squashed-myth-of-ai-as-agent-of-future-unemployment/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-hB0gzZZeeLi1XRiD7s_A",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14629512040029708771": {
+      "ts": "2026-09-27T05:57:14+00:00",
+      "title": "Claude Code Vs <b>Manus AI</b>: Which Coding Agent Fits Your Workflow? - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/claude-code-vs-manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Jk_0huxgeKyItRKPHsN9M",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4221697670015236928": {
+      "ts": "2026-09-27T04:09:04+00:00",
+      "title": "Public WiFi Security Risks 2026: What's Real - SQ Magazine",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/public-wifi-security-risks/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Iq6sjVmcOprTH9gCnN_Sz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
