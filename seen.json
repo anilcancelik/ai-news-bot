@@ -1,31 +1,10 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10456992231190292081": {
-      "ts": "2026-08-28T15:25:26+00:00",
-      "title": "How AI is changing the art of business presentations - Financial Management magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fm-magazine.com/issues/2026/aug/how-ai-is-changing-the-art-of-business-presentations/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1P-4gkmi7aOjvFm2Y1L6gQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13812001151555894773": {
-      "ts": "2026-08-28T11:48:22+00:00",
-      "title": "#aifounderstowatch #aiagents #artificialintelligence | AI Founders to Watch - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ai-founders-to-watch_aifounderstowatch-aiagents-artificialintelligence-activity-7499005655694028800-DYAX&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2IO0QIKRCeOsAuGgUHlhpI",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "dbd15df93c4fa91b": {
       "ts": "2026-08-28T18:33:46+00:00",
       "title": "2.1.251",
       "link": "https://code.claude.com/docs/en/changelog#2-1-251",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15039374421523273452": {
-      "ts": "2026-08-28T15:25:19+00:00",
-      "title": "Magnific Review – Creative Upscaling Plus a Full AI Suite - Quasa",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/magnific-review-creative-upscaling-plus-a-full-ai-suite&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hiPGKl9DWanDdfNGNC9-4",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:9188104183255544712": {
@@ -60,13 +39,6 @@
       "ts": "2026-08-28T21:51:28+00:00",
       "title": "10 Best Manus Alternatives in 2026 - Hostinger",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hostinger.com/in/tutorials/manus-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw31C6yU2mjdxLpqWCFyqWlM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5594265664869796346": {
-      "ts": "2026-08-28T12:25:13+00:00",
-      "title": "All AI Courses - 300+ Tutorials - AI Academy",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://academy.techpresso.co/courses%3Fpage%3D1%26category%3Dsales&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UMmCE_q-VmYoI2b-h2nvU",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4638,6 +4610,13 @@
       "ts": "2026-09-27T07:45:07+00:00",
       "title": "<b>Manus: AI</b> News Week Ending 07/17/2026 - Ethan B. Holland",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://ethanbholland.com/2026/09/27/manus-ai-news-week-ending-07-17-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2pkE9TYiMaa6pOiEJTi7T8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3330480628807856446": {
+      "ts": "2026-09-27T10:13:36+00:00",
+      "title": "An Email Was All It Took to Hijack a $4 Billion AI Agent",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.securityagainstai.com/blog/manus-ai-prompt-injection-hijack-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3OF2WkPWZ9KWQgz2Of6qip",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
