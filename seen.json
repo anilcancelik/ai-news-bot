@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:5672967453073443072": {
-      "ts": "2026-08-30T05:37:08+00:00",
-      "title": "<b>Manus AI</b> for Small Business: 7 Ways to Cut Costs Without Cutting Corners - Amazon.in",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.amazon.in/Manus-AI-Small-Business-Without-ebook/dp/B0HGWGYR35&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2VficRd7ymaArG3sAER3mo",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6625029589869884707": {
       "ts": "2026-08-30T15:10:24+00:00",
       "title": "The 20 Best Tools for Building AI Agents in 2026 | StartupHub.ai",
@@ -25,20 +18,6 @@
       "ts": "2026-08-30T13:42:40+00:00",
       "title": "Uncovering the Secrets of the Universe with AI - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DouI59J-kQDg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kVJXZ4syYBCHz8Wn7KVHW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:135138820589790973": {
-      "ts": "2026-08-30T03:53:49+00:00",
-      "title": "Manus - AI Engineer Dex",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiengineerdex.com/organisation/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3fBcEoEYYk8YMXes1afVNu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9070289946300739013": {
-      "ts": "2026-08-30T02:25:14+00:00",
-      "title": "<b>Manus AI</b> - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/100081860658987/%3Flocale%3Dsw_KE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1-TTjsbo3u_N1UEaV8iK0D",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4703,7 +4682,35 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://pro.edgex.exchange/en-US/news/article/china-ai-chip-executive-exit-bans-families&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3mag5BR-NEfUvCUdoVLWtS",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/how-we-will-do-better-for-australia": {
+      "ts": "2026-09-28T19:00:00+00:00",
+      "title": "How we will do better for Australia",
+      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
+      "ts": "2026-09-28T19:00:00+00:00",
+      "title": "Towards safety cases for frontier AI training",
+      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16943892473389082376": {
+      "ts": "2026-09-28T23:41:11+00:00",
+      "title": "UNDERCODE TESTING on X: &quot;   Zero-Click #AI Agent Compromise: How a Single Email ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/UndercodeUpdate/status/2104658986989478268&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw267zAP6V4wSihJiBrCbGql",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17430044009931389755": {
+      "ts": "2026-09-28T23:21:02+00:00",
+      "title": "Cue Launches Personal AI Agents App from Manus : r/aicuriosity - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aicuriosity/comments/1wshxog/cue_launches_personal_ai_agents_app_from_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zkK1ZE3pO87uiKS5x3oV7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
-  "last_digest_date": "2026-09-28"
+  "last_digest_date": "2026-09-29"
 }
