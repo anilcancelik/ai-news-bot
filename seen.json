@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:6625029589869884707": {
-      "ts": "2026-08-30T15:10:24+00:00",
-      "title": "The 20 Best Tools for Building AI Agents in 2026 | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/ai-news/insights/2026/ai-agent-builder-tools&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fbvu_DhFewnXfe4jZWQSW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10999107009450264234": {
-      "ts": "2026-08-30T16:22:46+00:00",
-      "title": "I Tried This New AI Video Tool for 8 Days ( Shocked Results ) - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYsT_LIksCe4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1J5rfDDhDtHKn2VVpmDrNu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5031502903539678910": {
       "ts": "2026-08-31T00:09:11+00:00",
       "title": "Broken website on manus since data backup : r/ManusOfficial - Reddit",
@@ -4745,6 +4731,111 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Techmeme/posts/manus-debuts-manus-20-its-latest-ai-agent-and-cue-a-new-standalone-app-for-perso/1541566624672313/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3-kytPKYfgaS3S-nG6j69B",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude": {
+      "ts": "2026-09-29T00:00:00+00:00",
+      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
+      "link": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/devday-2026-recap": {
+      "ts": "2026-09-29T10:00:00+00:00",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/introducing-gpt-6-1-sol": {
+      "ts": "2026-09-29T10:00:00+00:00",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/introducing-dots": {
+      "ts": "2026-09-29T00:00:00+00:00",
+      "title": "Introducing dots",
+      "link": "https://openai.com/index/introducing-dots",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:16048074791086008800": {
+      "ts": "2026-09-29T16:49:09+00:00",
+      "title": "Manus: General-Purpose AI Agent With Automations and Cue - AI/TLDR",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ai-tldr.dev/tools/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1_l9yN2IaDlFwGVtkAMWIQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11337863817409321566": {
+      "ts": "2026-09-29T14:18:21+00:00",
+      "title": "Manus 2.0 launches with Studio, Cloud Computer and Cue - TestingCatalog",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.testingcatalog.com/manus-2-0-launches-with-studio-cloud-computer-and-cue/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2G4CpPaolG0e37orjjBxHO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:11636482494500857182": {
+      "ts": "2026-09-29T14:04:59+00:00",
+      "title": "Five Ways the US and China Clash Over AI - Bloomberg",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10bvTughtHSJiIlW45nOKq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13444286318184212541": {
+      "ts": "2026-09-29T13:57:45+00:00",
+      "title": "Careers at Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://careers.manus.im/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YpOkrlDg0DbAAndk7vRiP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15655886203623220550": {
+      "ts": "2026-09-29T13:03:47+00:00",
+      "title": "Manus Expands AI Tools in Renewed Push Into Agent Market - Yahoo Finance",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.yahoo.com/technology/ai/articles/manus-expands-ai-tools-renewed-175746537.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3H3JGW22S4dJ-XlDj-SQ-L",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10117297911113726527": {
+      "ts": "2026-09-29T11:59:39+00:00",
+      "title": "What if your AI assistant could actually use your computer for you? This open-source AI ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dd1yZG8MMV1/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0JNkO0fA7xLzl8eprsFzLb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8580737211197776605": {
+      "ts": "2026-09-29T10:08:18+00:00",
+      "title": "Damn. I tried to go to sleep early tonight, but I was doing a review of the new Manus 2.0 ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jhunter101/posts/damn-i-tried-to-go-to-sleep-early-tonight-but-i-was-doing-a-review-of-the-new-ma/4107964646171083/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QXd9Ns4RH3UEkmcJAQ9_9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13461055468666225119": {
+      "ts": "2026-09-29T10:06:35+00:00",
+      "title": "Excited to show you all what we've been working on :) | Red Xiao | 11 comments - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/red-xiao-9ab9a5165_excited-to-show-you-all-what-weve-been-working-activity-7510442934572359680-Ot6V&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0q7Od3WozfQQEWeC7rAd94",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16201111443214467149": {
+      "ts": "2026-09-29T07:53:44+00:00",
+      "title": "Join the team - Careers at Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://careers.manus.im/en/jobs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Jjl0ffJJQZce4Msd-lRJ-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12537973760662985571": {
+      "ts": "2026-09-29T04:07:48+00:00",
+      "title": "How to Use <b>Manus AI</b> for Free on Your First Real Task",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.layer3labs.io/guides/how-to-use-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RYx8AqvGTbgDyCAoZwN8D",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13192116521783879793": {
+      "ts": "2026-09-29T00:08:01+00:00",
+      "title": "ARK Invest's Cathie Wood on AI and Drug Development Costs - FourWeekMBA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fourweekmba.com/ai-ark-invest-cathie-wood-ai-drug-development-cost-forecast/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0dSKv7xuvyBTVYufCTvfx8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-09-29"
