@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5031502903539678910": {
-      "ts": "2026-08-31T00:09:11+00:00",
-      "title": "Broken website on manus since data backup : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1w2f0zd/broken_website_on_manus_since_data_backup/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Blli5hPrC_hZ8blv47wi0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1105027359659115464": {
       "ts": "2026-08-31T08:47:47+00:00",
       "title": "Reasons to Leave China - by Aaron Sarin - Quillette's Substack",
@@ -18,20 +11,6 @@
       "ts": "2026-08-31T03:02:55+00:00",
       "title": "shrisukhani's gists · GitHub",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://gist.github.com/shrisukhani&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02W6iDlPDxRbtqHB3Lhuk-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6272394934460108207": {
-      "ts": "2026-08-30T23:55:53+00:00",
-      "title": "REEMBOLSO <b>MANUS AI</b> : r/AI_Agents - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_Agents/comments/1w2xeg0/reembolso_manus_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12ZSZd1Cce7UUxlqaqSQvb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12721931186319300837": {
-      "ts": "2026-08-30T23:45:38+00:00",
-      "title": "<b>Manus AI</b> | Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/people/Manus-AI/61550682541756/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RigSx5Fj2bDudJBjaWP6c",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -84,13 +63,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8850069572689282570": {
-      "ts": "2026-08-31T00:20:29+00:00",
-      "title": "Is <b>Manus AI</b> Free? - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/is-manus-ai-free/%3Flocale%3Dit_IT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04IZuqoBBL4C3OV56T3Z3U",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "2b3afaad916ca033": {
       "ts": "2026-08-31T19:53:28+00:00",
       "title": "2.1.252",
@@ -98,25 +70,11 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://www.anthropic.com/news/improving-alignment-security-efforts": {
-      "ts": "2026-08-31T00:00:00+00:00",
-      "title": "Improving our alignment and security efforts",
-      "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://openai.com/index/polimill": {
       "ts": "2026-08-31T07:00:00+00:00",
       "title": "Polimill builds Japan's next-generation public AI infrastructure",
       "link": "https://openai.com/index/polimill",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://ollama.com/blog/transparent-pricing": {
-      "ts": "2026-08-31T00:00:00+00:00",
-      "title": "Ollama's transparent pricing",
-      "link": "https://ollama.com/blog/transparent-pricing",
-      "source": "Ollama Blog",
       "big": false
     },
     "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
@@ -4864,6 +4822,34 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/aisaas/posts/4637700879882624/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2M7vzslsp9iFlS1v55utwY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8730304696827597253": {
+      "ts": "2026-09-29T22:58:47+00:00",
+      "title": "World Labs' Fei-Fei Li Is Worth $1.6 Billion After AMD Deal - Bloomberg.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-09-29/world-labs-fei-fei-li-is-worth-1-6-billion-after-amd-deal&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1GIFZeBXpiAUmx7bzz7TM8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6788422270844362452": {
+      "ts": "2026-09-29T22:25:57+00:00",
+      "title": "OpenAI's Personal Agent, New Bloomberg MCP, Manus Returns, Alibaba Goes Viral",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/agentic-ai-foundation_openais-personal-agent-new-bloomberg-mcp-activity-7510808795195850753-MO9g&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3-F-T_bRqBEAciNB24YNv6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7853637169891621375": {
+      "ts": "2026-09-29T21:33:38+00:00",
+      "title": "MongoDB loses its CEO of 10 months to Meta's new enterprise AI unit - PPC Land",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ppc.land/mongodb-loses-its-ceo-of-10-months-to-metas-new-enterprise-ai-unit/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0WFhM5HIztkgCdVN5Ww6XL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5570662068044743876": {
+      "ts": "2026-09-29T20:59:29+00:00",
+      "title": "Meta's ex launches agent rival to Meta's Muse - InfoWorld",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infoworld.com/article/4228301/metas-ex-launches-agent-rival-to-metas-muse.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3PM2wpXaGV0BoOUKC37efb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-09-29"
