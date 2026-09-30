@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1105027359659115464": {
-      "ts": "2026-08-31T08:47:47+00:00",
-      "title": "Reasons to Leave China - by Aaron Sarin - Quillette's Substack",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quillette.substack.com/p/reasons-to-leave-china&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15qf9tAxmB_SeThiGZzV5B",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7008037618403405861": {
-      "ts": "2026-08-31T03:02:55+00:00",
-      "title": "shrisukhani's gists · GitHub",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://gist.github.com/shrisukhani&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02W6iDlPDxRbtqHB3Lhuk-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads": {
-      "ts": "2026-08-31T04:00:00+00:00",
-      "title": "A milestone in expanding access to AI",
-      "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:5332181606922348729": {
       "ts": "2026-08-31T17:01:08+00:00",
       "title": "rank higher on Google 8. Submagic.co – turn long videos into shorts 9. SlidesAI.io – makes ...",
@@ -56,32 +35,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13386305464085932317": {
-      "ts": "2026-08-31T04:34:17+00:00",
-      "title": "Meta Is Testing Robots to Take Over Cabling and Server Jobs at Its Data Centers",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://startupfortune.com/meta-is-testing-robots-to-take-over-cabling-and-server-jobs-at-its-data-centers/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nHh0vAgODIv0KP3_PWngY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "2b3afaad916ca033": {
       "ts": "2026-08-31T19:53:28+00:00",
       "title": "2.1.252",
       "link": "https://code.claude.com/docs/en/changelog#2-1-252",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/polimill": {
-      "ts": "2026-08-31T07:00:00+00:00",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "link": "https://openai.com/index/polimill",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety": {
-      "ts": "2026-08-31T07:00:00+00:00",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:2211358701630110885": {
@@ -4850,7 +4808,63 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infoworld.com/article/4228301/metas-ex-launches-agent-rival-to-metas-muse.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3PM2wpXaGV0BoOUKC37efb",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models": {
+      "ts": "2026-09-29T00:00:00+00:00",
+      "title": "Ollama now supports Jev-style decision models",
+      "link": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
+      "source": "Ollama Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11256753798867357612": {
+      "ts": "2026-09-30T04:43:10+00:00",
+      "title": "Download Cue by Manus Latest Version 26.17.2 Android APK File - APKPure",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apkpure.com/cue-by-manus/ai.manus.agents/download&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gDoTHB5WQ6gVN26ozkxgQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3494599689535967638": {
+      "ts": "2026-09-30T04:31:35+00:00",
+      "title": "WOULD YOU USE AN AI THAT CAN ACT FOR YOU? Manus was acquired by Meta in 2025 ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dd5eyFrGy3-/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0yhagQ79oT5GArpcZkkEAJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3805090688724388985": {
+      "ts": "2026-09-30T04:04:24+00:00",
+      "title": "always-on AI agents powered by GPT-6 Astra. Dots are built to go beyond answering ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dd5bjTPMEkq/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0xgNYqBBA_-lpKi2v32gI_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1145090563452254915": {
+      "ts": "2026-09-30T03:45:41+00:00",
+      "title": "Meta's ex launches agent rival to Meta's Muse | daily.dev",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://daily.dev/posts/meta-s-ex-launches-agent-rival-to-meta-s-muse-wh2aexxvq&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1EtqTNHWO__G-sVOUgYZ7u",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:17480189578700247281": {
+      "ts": "2026-09-30T03:39:36+00:00",
+      "title": "Manus 2.0 and Cue give AI agents their own email, phone and wallet | daily.dev",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://daily.dev/posts/manus-2-0-and-cue-give-ai-agents-their-own-email-phone-and-wallet-3knh28wzd&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RnSQwvix3Yd2WFluy3yUm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3571923682949470709": {
+      "ts": "2026-09-30T02:21:40+00:00",
+      "title": "LLM Algorithm Engineer | Singapore | JobLeads.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/llm-algorithm-engineer--singapore--e4a2e25d7df441804e4194c3f0c5d5d10&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Ws8ihpC56m_KwyO32MlWh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15059272519081918793": {
+      "ts": "2026-09-29T13:21:39+00:00",
+      "title": "Manus Announces &quot;Manus 2.0&quot; for Remote Execution of AI and Video Editing via Smartphone",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://venture-pitch-online.com/en/news/manus-2-0-launch&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0sxkvHjFg6KV6Om6lIMf-x",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
-  "last_digest_date": "2026-09-29"
+  "last_digest_date": "2026-09-30"
 }
