@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5332181606922348729": {
-      "ts": "2026-08-31T17:01:08+00:00",
-      "title": "rank higher on Google 8. Submagic.co – turn long videos into shorts 9. SlidesAI.io – makes ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dctkv5mDjJn/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1_5Gll2aJdubEszFHQ1mpK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2091818874793818620": {
-      "ts": "2026-08-31T15:39:11+00:00",
-      "title": "The 20 Best AI Agent Memory and Context Tools for P… | StartupHub.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.startuphub.ai/ai-news/insights/2026/ai-agent-memory-tools-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1TdEnprvDjuYCvaTEKUE-K",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "2b3afaad916ca033": {
-      "ts": "2026-08-31T19:53:28+00:00",
-      "title": "2.1.252",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-252",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2211358701630110885": {
       "ts": "2026-09-01T04:50:06+00:00",
       "title": "Manus Resumes Independent Operations | <b>Manus AI</b> - LinkedIn",
@@ -4862,6 +4841,160 @@
       "ts": "2026-09-29T03:01:13+00:00",
       "title": "AI Tensibility on Reels - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/AITensibility/videos/1734021554570766/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw374Mq6JL4Hi9xlGS6hIJvr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "b10cfe7d6e304c2d": {
+      "ts": "2026-09-30T19:19:18+00:00",
+      "title": "2.1.286",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-286",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-for-government-is-now-generally-available": {
+      "ts": "2026-09-30T00:00:00+00:00",
+      "title": "Claude for Government is now generally available",
+      "link": "https://claude.com/blog/claude-for-government-is-now-generally-available",
+      "source": "Claude Blog",
+      "big": true
+    },
+    "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign": {
+      "ts": "2026-09-30T10:30:00+00:00",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/helping-small-businesses-put-ai-to-work": {
+      "ts": "2026-09-30T10:00:00+00:00",
+      "title": "Helping small businesses put AI to work",
+      "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
+      "ts": "2026-09-30T20:01:45+00:00",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/": {
+      "ts": "2026-09-30T20:27:49.265771+00:00",
+      "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
+      "link": "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5666933943937335636": {
+      "ts": "2026-09-30T19:31:23+00:00",
+      "title": "<b>Manus AI</b> is reportedly running 50 social media accounts at once - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dd40dnCFly8/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2CvyGTD2KQEG3LpxgZIbKj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17600259363576562293": {
+      "ts": "2026-09-30T16:26:17+00:00",
+      "title": "Manus 2.0 Launches Cue, Rivalling Meta's Muse in AI Agents - Renascence",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.renascence.io/news/80688/manus-2-0-launches-cue-rivalling-metas-muse-in-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XCo-WwQ4K70GVnEzVCMuC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:3955424968365217479": {
+      "ts": "2026-09-30T14:17:58+00:00",
+      "title": "HOW TO HIDE FROM AI p.2 - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dd6gGT7KHyL/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw16Hgm9u7Md66s_R1dwAOwb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17565562960955113305": {
+      "ts": "2026-09-30T13:59:52+00:00",
+      "title": "Manus 2.0 Debuts Cascade Agent Harness and Cue App for Personal Agents - Pandaily",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pandaily.com/manus-2-0-cascade-agent-harness-cue-personal-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28h_laSywLJsgSNtJppKCs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:15477596743195155327": {
+      "ts": "2026-09-30T13:34:46+00:00",
+      "title": "Ewan MacLeod posted this - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ewanmacleod_when-it-comes-to-ai-agents-holly-joint-and-activity-7510755081164587009-2U7y&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34ee7VC9rhjNpBb23L1t0k",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8259368951109912610": {
+      "ts": "2026-09-30T13:14:23+00:00",
+      "title": "Manus Flex separates the model from the agent infrastructure",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lhc.media/en/media/ai-watch/manus-flex-separates-the-model-from-the-agent-infrastructure&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1phWPTEzv2ZTVhjjsX7PYG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1427912093193101788": {
+      "ts": "2026-09-30T10:38:20+00:00",
+      "title": "<b>Manus AI</b> agent now has its own phone number, email, and wallet #Manus2... - TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40automatedintelligenceai/video/7691150359506472206&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2h4eaAaNEe8G527zOSeVwi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9061936077100078534": {
+      "ts": "2026-09-30T10:29:13+00:00",
+      "title": "Coliving sector attracts $1.4b amidst asset conversion boom - Singapore Business Review",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sbr.com.sg/commercial-property/in-focus/coliving-sector-attracts-14b-amidst-asset-conversion-boom&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1miTmNC4mAMm6jVzUJtTi8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13191019701184803135": {
+      "ts": "2026-09-30T10:13:33+00:00",
+      "title": "Singapore Grade A Office Market Posts Strongest Quarterly Rental Growth Since 2022 as ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cbre.de/en-gb/press-releases/singapore-q3-2026-office-sector-updates&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Zvpgj1CRToAJlLJKofKh2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10605295572825932664": {
+      "ts": "2026-09-30T09:42:23+00:00",
+      "title": "Im searching about <b>manus ai</b> subscription who sell - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/2009320539617642/posts/2202864306929930/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05WrFk8R5mL2fcdm-BWNbg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3480698855080348857": {
+      "ts": "2026-09-30T07:14:40+00:00",
+      "title": "<b>Manus AI</b> Outperforms ChatGPT And Claude For Me - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/hOf30fVYwDA%3Fvl%3Dbn&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zUbGDLgunVWRIR292PSfJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18074020543926819759": {
+      "ts": "2026-09-30T06:53:19+00:00",
+      "title": "Cue by Manus for Android - AppBrain",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.appbrain.com/app/cue-by-manus/ai.manus.agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2dnmsJC2KD7KT6ARvgLAW6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3298463282941011606": {
+      "ts": "2026-09-30T06:15:08+00:00",
+      "title": "2hrs left, luckily got on @<b>manus #ai</b> #vibecoding #tech #manuspartner #ad - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Nmb9Rtzw6B4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1-BlwbVq_HLpN1wWO8Eybh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6278901095349356388": {
+      "ts": "2026-09-30T05:40:16+00:00",
+      "title": "5 AI Tools Smart Professionals Should Learn - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/pulse/5-ai-tools-smart-professionals-should-learn-lion-amirr-virani-a68ff&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0lVsKf-x7mvL_mIOHMxclx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2640845685867053461": {
+      "ts": "2026-09-30T05:28:20+00:00",
+      "title": "Manus 2.0 adds studio, video editor and game dev",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/uptechmediaofc/posts/-manus-ai-has-released-version-20-manus-has-released-manus-20-an-update-built-on/122281223336142550/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32XQztQXMU9XREuxwrDOwc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7029356035551819089": {
+      "ts": "2026-09-30T04:33:50+00:00",
+      "title": "Comment “MANUS” and I'll send you the link. Manus 2.0 Is More Than an AI Update It's ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ai.amirtech/videos/comment-manus-and-ill-send-you-the-linkmanus-20-is-more-than-an-ai-update-its-tu/1649623693472168/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YlJPTz0ey_Q2HHzqcp10H",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
