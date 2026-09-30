@@ -14,27 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:11292535900117562311": {
-      "ts": "2026-08-31T13:01:57+00:00",
-      "title": "Can Postiz AI Help You Organize Your Social Media in One Place? - Alphr",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.alphr.com/can-postiz-ai-help-you-organize-your-social-media-in-one-place/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23e0VCpqmfAbnrvMJMuSfU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14501668771267375613": {
-      "ts": "2026-08-31T12:50:57+00:00",
-      "title": "China's Exit Bans and the End of Its Dynamism - Quillette",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quillette.com/2026/08/31/reasons-to-leave-china/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3pkoe3VTvTV5bD7e4Bqqc6",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17674482161211202954": {
-      "ts": "2026-08-31T10:54:58+00:00",
-      "title": "<b>Manus AI</b> Pricing: What Credits Really Cost Per Task | Notis",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.notis.ai/blog/manus-ai-pricing-what-credits-really-cost-per-task/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1hyFzDr8o6cpnthnp9LADR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "2b3afaad916ca033": {
       "ts": "2026-08-31T19:53:28+00:00",
       "title": "2.1.252",
@@ -4864,6 +4843,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://venture-pitch-online.com/en/news/manus-2-0-launch&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0sxkvHjFg6KV6Om6lIMf-x",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents": {
+      "ts": "2026-09-30T00:00:00+00:00",
+      "title": "How Anthropic's sales team rebuilt inbound with Claude Managed Agents",
+      "link": "https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-synthid-bio/": {
+      "ts": "2026-09-30T15:03:07+00:00",
+      "title": "Introducing SynthID Bio",
+      "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:17088295674067241743": {
+      "ts": "2026-09-29T03:01:13+00:00",
+      "title": "AI Tensibility on Reels - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/AITensibility/videos/1734021554570766/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw374Mq6JL4Hi9xlGS6hIJvr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-09-30"
