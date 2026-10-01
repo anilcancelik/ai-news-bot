@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10216810038451230513": {
-      "ts": "2026-09-01T11:07:46+00:00",
-      "title": "<b>Manus AI</b> resumes operations after China blocks Meta's $2B deal - NewsBytes",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newsbytesapp.com/news/science/manus-ai-resumes-operations-after-china-blocks-meta-s-2b-deal/story&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0BdXCHTu6_f8GLX5250HEJ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15643024018794204276": {
-      "ts": "2026-09-01T08:40:58+00:00",
-      "title": "Android Apps on Google Play",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://play.google.com/store/apps/collection/cluster%3Fgsr%3DSmhqGGNDQWdDZVVKUytDcDBXTE8vUU1vNVE9PcICSAoVChFjb20uZGVlcHNlZWsuY2hhdBAHGAgwATgASiMIARAAGhdEZWVwU2VlayAtIEFJIEFzc2lzdGFudCAAKAAwAFAAWAFgALASAA%253D%253D:S:ANO1ljJKfMs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3JDAUTFpMxq3uF_hcVyF4l",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15996560692286030550": {
-      "ts": "2026-09-01T06:57:47+00:00",
-      "title": "Dhyey Mavani's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/dhyey-mavani_fresh-off-the-press-manus-ai-startup-activity-7500410852026511361-CzGJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3cMa6DXz4ujYWAKKhqlVC_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "794eff30130ecd3d": {
       "ts": "2026-09-01T18:00:15+00:00",
       "title": "2.1.257",
@@ -32,13 +11,6 @@
       "ts": "2026-09-01T17:00:00+00:00",
       "title": "How AI-native companies turn workflows into operating capability",
       "link": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources": {
-      "ts": "2026-09-01T12:00:00+00:00",
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "source": "OpenAI News",
       "big": false
     },
@@ -84,25 +56,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13601403569561569281": {
-      "ts": "2026-09-01T12:29:16+00:00",
-      "title": "Get Tasks Out of Your Head | Quasa Video Review",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/video/get-tasks-out-of-your-head-quasa-video-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0BZK5JaMRPZBcVuPIVLssb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "64a38e73ae78f7f8": {
       "ts": "2026-09-01T22:39:34+00:00",
       "title": "2.1.258",
       "link": "https://code.claude.com/docs/en/changelog#2-1-258",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/path-to-astra": {
-      "ts": "2026-09-01T13:00:00+00:00",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "link": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:4949731661829211537": {
@@ -158,13 +116,6 @@
       "ts": "2026-09-02T01:35:57+00:00",
       "title": "The Modern Index of AI HTML Code Generators (2026) | HTML Editor - htmleditor.live",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://htmleditor.live/directory&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gLEY6TNHQTDPNp3-5GlT1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11320537502310142470": {
-      "ts": "2026-09-01T13:22:11+00:00",
-      "title": "Fryta Operator Instagram - TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/discover/fryta-operator-instagram&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Z3veZpdodJzJ1iwwkZbSO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -278,20 +229,6 @@
       "title": "Run cloud agents on machines you manage",
       "link": "https://cursor.com/blog/self-hosted-machines",
       "source": "Cursor Blog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11417812991829082923": {
-      "ts": "2026-09-01T10:38:03+00:00",
-      "title": "Vaibhav Sisinty on X: &quot;Manus is back. Independent. After one of the wildest startup stories in ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/VaibhavSisinty/status/2094729114435674535&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1epyRuFm9soOOfWVffq-hK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13032328239066085088": {
-      "ts": "2026-09-01T08:16:02+00:00",
-      "title": "<b>Manus AI</b> Alternatives: 9 Options Compared by Workflow | Moda",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moda.app/blog/manus-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1f9tiKq-6umfA782bDQdVC",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "05593631f38155c7": {
@@ -5044,6 +4981,20 @@
       "ts": "2026-10-01T00:05:26+00:00",
       "title": "Manus 2.0 launched this week, and the real signal here is the architecture underneath it. For ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dd7gHP8E-QB/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1dpJOQKvYX0mIvyl4Yw6DZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "https://www.anthropic.com/news/barclays-scales-claude": {
+      "ts": "2026-10-01T00:00:00+00:00",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "link": "https://www.anthropic.com/news/barclays-scales-claude",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14853190701897724492": {
+      "ts": "2026-10-01T03:35:52+00:00",
+      "title": "Introducing Manus Video Editor - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DOSaWc0sBspA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw14izRqMAoE0PzghlthTxyt",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
     }
