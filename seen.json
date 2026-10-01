@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:2211358701630110885": {
-      "ts": "2026-09-01T04:50:06+00:00",
-      "title": "Manus Resumes Independent Operations | <b>Manus AI</b> - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_manus-resumes-independent-operations-activity-7500371920123637760-ybL0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3z74awAmyDXCtogyaQJux9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4880491778574314522": {
-      "ts": "2026-09-01T04:06:54+00:00",
-      "title": "How to create AI and business memes using Manus? - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/claudecommunity/posts/1105209978686333/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0HeM9WQWv2CRuj2aMjruRJ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10216810038451230513": {
       "ts": "2026-09-01T11:07:46+00:00",
       "title": "<b>Manus AI</b> resumes operations after China blocks Meta's $2B deal - NewsBytes",
@@ -105,13 +91,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:15715934875072918819": {
-      "ts": "2026-09-01T00:31:11+00:00",
-      "title": "<b>Manus AI</b> Is Offering Free Access for a Limited Time! | The Net Chronicle",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thenetchronicle.com/post/khxg6GRbEi4FeFS7aE3w/%25F0%259F%259A%25A8-manus-ai-is-offering-free-access-for-a-limited-time&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aOs7-uzz-SAd92olNAaX8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "64a38e73ae78f7f8": {
       "ts": "2026-09-01T22:39:34+00:00",
       "title": "2.1.258",
@@ -159,13 +138,6 @@
       "title": "Business Banking Built Around Your Business — KHTS Radio — Santa Clarita Radio",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hometownstation.com/khts-featured/business-banking-built-around-your-business-608013&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2PVmJiz7P9F1cjhjQaP3QK",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/gilbert-tobin": {
-      "ts": "2026-09-01T01:00:00+00:00",
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "link": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:5891049719084480404": {
@@ -5025,7 +4997,56 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/YxtmKor273Q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kbPBuJ9-QcGRO3BA9hvSK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3866157133099057116": {
+      "ts": "2026-10-01T03:46:39+00:00",
+      "title": "How to deploy an app with <b>Manus AI</b>[2026 Full Guide] - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D1FWItCe-V_g&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3L56bWTix1ksKP_WzkBfyq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11210354126553517755": {
+      "ts": "2026-10-01T03:35:52+00:00",
+      "title": "Introducing Manus Game Developer: Build a Game, Then Play It With Friends - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DoEgZUBVXRLY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kRFJRWAb_kUas7obV_vWq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:7919143392283328080": {
+      "ts": "2026-10-01T01:59:05+00:00",
+      "title": "OpenAI's Personal Agent, New Bloomberg MCP, Manus Returns, Alibaba Goes Viral | Alex Salkever",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/alexsalkever_openais-personal-agent-new-bloomberg-mcp-activity-7510820152242823168-oUVF&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LCESU5wwOPwHB4MBBsq8H",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14044321728466307943": {
+      "ts": "2026-10-01T01:14:25+00:00",
+      "title": "How to Use Manus 2.0 AI Complete Guide &amp; Best Features 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DkneR7F2Fe8g%26pp%3DugUEEgJlbtIHCQkuDAGHKiGM7w%253D%253D&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0nbJg-iHVpnVYf27dmZFqy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3361971080147559487": {
+      "ts": "2026-10-01T00:37:28+00:00",
+      "title": "How to do research with <b>Manus AI</b>[2026 Full Guide] - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMoswek94QXg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3pLPCsbNAC3gdW2S0sjGCv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1552941985672826581": {
+      "ts": "2026-10-01T00:14:26+00:00",
+      "title": "My first attempt at making a game with <b>Manus AI</b> got a little ridiculous : r/aigamedev - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aigamedev/comments/1wukm1e/my_first_attempt_at_making_a_game_with_manus_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3fcgy_ExhSJ7y7ZusH494m",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4996068450202254546": {
+      "ts": "2026-10-01T00:05:26+00:00",
+      "title": "Manus 2.0 launched this week, and the real signal here is the architecture underneath it. For ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dd7gHP8E-QB/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1dpJOQKvYX0mIvyl4Yw6DZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
-  "last_digest_date": "2026-09-30"
+  "last_digest_date": "2026-10-01"
 }
