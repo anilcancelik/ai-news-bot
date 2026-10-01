@@ -42,13 +42,6 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://www.anthropic.com/news/enterprise-frontier-safeguards": {
-      "ts": "2026-09-01T00:00:00+00:00",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "link": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://openai.com/index/ai-native-company-workflows": {
       "ts": "2026-09-01T17:00:00+00:00",
       "title": "How AI-native companies turn workflows into operating capability",
@@ -4995,6 +4988,41 @@
       "ts": "2026-09-30T04:33:50+00:00",
       "title": "Comment “MANUS” and I'll send you the link. Manus 2.0 Is More Than an AI Update It's ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ai.amirtech/videos/comment-manus-and-ill-send-you-the-linkmanus-20-is-more-than-an-ai-update-its-tu/1649623693472168/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YlJPTz0ey_Q2HHzqcp10H",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8401802713724265138": {
+      "ts": "2026-09-30T20:54:20+00:00",
+      "title": "Manus Flex Opens Manus to 3 New Inference Partners - SuperGok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://supergok.com/manus-flex-opens-manus-to-3-new-inference-partners/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XJL4bLuglZMqwxxjMeTsG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6314347337573547899": {
+      "ts": "2026-09-30T20:51:35+00:00",
+      "title": "<b>Manus AI</b>: The Autonomous AI Agent That Eases Workflows - Cyberclick",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cyberclick.net/numericalblogen/manus-ai-the-autonomous-ai-agent-that-eases-workflows%3Fhs_amp%3Dtrue&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2sBgjH4yk1vuGUoTEt-_Oz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15823860790207860867": {
+      "ts": "2026-09-30T18:52:45+00:00",
+      "title": "<b>MANUS AI</b> - split acc : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wub081/manus_ai_split_acc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kYSokc-_7aqfw1pAFNkP6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1173598471010141587": {
+      "ts": "2026-09-30T17:01:02+00:00",
+      "title": "Cue by Manus – Apps on Google Play",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://play.google.com/store/apps/details%3Fid%3Dai.manus.agents%26hl%3Den_ZA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YLbvtVbgGfg8SeM3jbihu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6754524190005496828": {
+      "ts": "2026-09-30T12:24:23+00:00",
+      "title": "project due in 2hrs need @<b>manus #ai</b> #vibecoding #manuspartner #tech - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/YxtmKor273Q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kbPBuJ9-QcGRO3BA9hvSK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
