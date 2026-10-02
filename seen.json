@@ -1,40 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:5891049719084480404": {
-      "ts": "2026-09-02T04:27:56+00:00",
-      "title": "Manus resumes independent operations after Meta deal collapses - digitimes",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitimes.com/news/a20260902VL214/manus-ai-agent-business-data-meta.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw25OxdDMQ-CE5bVaQcFdxvC",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8315110816441130525": {
-      "ts": "2026-09-02T03:52:42+00:00",
-      "title": "Naseem Competitors &amp; Alternatives (2026) | Product Hunt",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.producthunt.com/products/naseem-2/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Z_lvpFCbZAc6xyfiRSFiU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13254790058001824763": {
-      "ts": "2026-09-02T06:34:53+00:00",
-      "title": "Cole Ruud-Johnson on X: &quot;I accidentally launched a company where real estate investors ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/coleruudjohnson/status/2094924043392565665&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1afBXZmv4wpEw8t_dd-T5A",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:10718697865222335978": {
-      "ts": "2026-09-02T02:30:10+00:00",
-      "title": "AI tools &amp; workflows - Moda",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://moda.app/blog/category/ai-tools-workflows&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RCK4weYIPL2hDtZDUjWxt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1583249963936440553": {
-      "ts": "2026-09-02T08:30:21+00:00",
-      "title": "Best AI Agents and Agent Platforms (2026) - The Rundown AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.therundown.ai/best-ai-tools/best-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wUMaLY70rUagh9bQu00Sg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": {
       "ts": "2026-09-02T16:24:24+00:00",
       "title": "Proactive cyber defense for governments and enterprises",
@@ -144,13 +109,6 @@
       "ts": "2026-09-02T11:37:53+00:00",
       "title": "AI Operations &amp; Workflow Orchestration Directory (2026) - The AI Agent Market",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://theaiagentmarket.com/agents/operations&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ALE8IVkCkBLc1UZaeJ9aG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7980829083251765672": {
-      "ts": "2026-09-02T03:54:33+00:00",
-      "title": "Why supporting Firefox is crucial for a healthy web ecosystem - DevBytes",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://devbytes.co.in/news/why-supporting-firefox-is-crucial-for-a-healthy-web-ecosystem&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_FrEJeg1d_bjD0npiumGO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5074,7 +5032,28 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dd5PNcXoMjE/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YjbrvNt496llPnI7CaMw1",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:12302085399729755767": {
+      "ts": "2026-10-02T05:12:28+00:00",
+      "title": "Yasir Ai on X: &quot;   The dead internet is no longer a theory. China's <b>Manus AI</b>, the autonomous ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/AiwithYasir/status/2105879909847728577&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3e8aaRHg4EVjdpnYsMkp83",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4408872238907523541": {
+      "ts": "2026-10-01T23:24:57+00:00",
+      "title": "Manus Studio - Free download and install on Windows | Microsoft Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.microsoft.com/en-pk/p/manus-studio/9phv7m7v4s5l&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nCyaNvOedFUcAinyf6yFz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12651521982467292648": {
+      "ts": "2026-10-01T17:44:49+00:00",
+      "title": "Full Stack Engineer in Singapore - <b>Manus AI</b> - Trabajo.org",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sg.trabajo.org/job-4112-0af915595965cb3e8ac15bebd0c46163&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o5sXpkaz_tzipHAJdUGAy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-10-01"
+  "last_digest_date": "2026-10-02"
 }
