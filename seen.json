@@ -1,45 +1,10 @@
 {
   "seen": {
-    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/": {
-      "ts": "2026-09-02T16:24:24+00:00",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/": {
-      "ts": "2026-09-02T16:18:31+00:00",
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "source": "Google DeepMind News",
-      "big": true
-    },
-    "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/": {
-      "ts": "2026-09-02T17:58:00.135204+00:00",
-      "title": "4 engineering patterns behind the strongest AI Agents Challenge submissions",
-      "link": "https://developers.googleblog.com/4-engineering-patterns-behind-the-strongest-ai-agents-challenge-submissions/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9442127796006866437": {
-      "ts": "2026-09-02T17:20:12+00:00",
-      "title": "What Happened To <b>Manus AI</b>? - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Df6uc9-L4ZOY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw25JHtBHAtio0ah7-ZnOARh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "05593631f38155c7": {
       "ts": "2026-09-02T22:54:50+00:00",
       "title": "2.1.259",
       "link": "https://code.claude.com/docs/en/changelog#2-1-259",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6552088121590344798": {
-      "ts": "2026-09-02T17:34:57+00:00",
-      "title": "<b>Manus AI</b> Resumes Independent Operations After Beijing Blocks Meta Deal | tech360tv",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tech360.tv/manus-ai-resumes-independent-operations-after-beijing-blocks-meta-deal-2026-02-09&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw06D9VJGFL5rmDGSe01Y19X",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:163435903717409907": {
@@ -5044,6 +5009,104 @@
       "ts": "2026-10-01T17:33:56+00:00",
       "title": "<b>Manus AI</b> 1 Year | Powerful AI Agent at Discounted Price | MFA TOOL - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/fOrcxvznAcs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wa4Jy-PWGu21pzllS8Bbh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/claude-frontier-academy": {
+      "ts": "2026-10-02T00:00:00+00:00",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "link": "https://www.anthropic.com/news/claude-frontier-academy",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/practical-guide-building-gpt-6": {
+      "ts": "2026-10-02T16:15:00+00:00",
+      "title": "A model guide for the GPT-6 family",
+      "link": "https://openai.com/index/practical-guide-building-gpt-6",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/chatham-financial": {
+      "ts": "2026-10-02T00:00:00+00:00",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "link": "https://openai.com/index/chatham-financial",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4508645394088877818": {
+      "ts": "2026-10-02T17:30:38+00:00",
+      "title": "China Robotaxis Face Losses as Utilization Trails Waymo, BI Says - Bloomberg",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-10-02/china-robotaxis-face-losses-as-utilization-trails-waymo-bi-says&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XpT25JS7dy5psnMV85Dlu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15056975853259571226": {
+      "ts": "2026-10-02T17:04:15+00:00",
+      "title": "What do you use AI for? - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dd_-aRmHB_0/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw245LZGfvqw-U7G9pOnNh4z",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10571852751685325954": {
+      "ts": "2026-10-02T16:55:28+00:00",
+      "title": "Cue by Manus - Free download and install on Windows - Microsoft Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.microsoft.com/detail/9pdxfbwzntnj%3Fhl%3Den-US%26gl%3DBD&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1py49Su1FmIp3MF655Nlgf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14409678123952187019": {
+      "ts": "2026-10-02T16:20:49+00:00",
+      "title": "Gemini Notebook - You Might Also Like - App Store - Apple",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/nz/app/gemini-notebook/id6737527615%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1h3yNsFhkFw6hZPQFs5XwZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15865129432904005190": {
+      "ts": "2026-10-02T16:20:26+00:00",
+      "title": "Cue by Manus - Free download and install on Windows | Microsoft Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.microsoft.com/en-pk/p/cue-by-manus/9pdxfbwzntnj&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WPBACDBfuxSApvgafZHe4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11159585947577357999": {
+      "ts": "2026-10-02T15:07:55+00:00",
+      "title": "6 Jobs I'd Hand the New <b>Manus AI</b> Agent First : r/AISEOInsider - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AISEOInsider/comments/1wvv8wa/6_jobs_id_hand_the_new_manus_ai_agent_first/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10Eo131Gct2k9rxJPJwcFF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12936034161115801253": {
+      "ts": "2026-10-02T15:04:10+00:00",
+      "title": "New Manus 2.0 is CRAZY GOOD! | Julian Goldie - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/juliangoldieseo_new-manus-20-is-crazy-good-activity-7511792582453133312-LHiA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3O2N197M5xLZTeRINrY2eA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9732549398673704896": {
+      "ts": "2026-10-02T14:03:06+00:00",
+      "title": "Manus 2.0 AI: Build Games, Videos, Automations &amp; AI Agents Free - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/100084019087375/videos/comment-manus-and-ill-send-you-1000-free-credits-to-try-it-no-credit-card-needed/2006241540089367/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1seuzPsy0f4QMeGI8OX7ND",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2426717884967069687": {
+      "ts": "2026-10-02T12:21:52+00:00",
+      "title": "Arandu-AI looking for testers : r/AgriTech - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AgriTech/comments/1wvrj6p/aranduai_looking_for_testers/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw07z508xoSnJMxy_a2wBSHk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1150686622985745550": {
+      "ts": "2026-10-02T11:54:30+00:00",
+      "title": "Cue by Manus Competitors &amp; Alternatives (2026) | Product Hunt",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.producthunt.com/products/cue-by-manus/alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WozRt6QNaK1ogRtqZiey3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11523475578257623227": {
+      "ts": "2026-10-02T06:15:31+00:00",
+      "title": "<b>Manus AI</b> Agent Hijack Shows Guardrails Detect, Can't Stop - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/lifeboatfoundation/posts/10166951708158455/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3e2FSlbgidjJItJ6ggUZCo",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
