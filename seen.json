@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/": {
-      "ts": "2026-09-04T18:45:28.150991+00:00",
-      "title": "Driving Developer Excellence: Inside the Program Sprints",
-      "link": "https://developers.googleblog.com/driving-developer-excellence-inside-the-program-sprints/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "2b315a8d23b7baaa": {
-      "ts": "2026-09-04T20:04:29+00:00",
-      "title": "2.1.261",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-261",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13336368129200680633": {
       "ts": "2026-09-05T02:32:18+00:00",
       "title": "South Korea's $597bn AI budget meets the energy and water wall | Disrupts",
@@ -5205,6 +5191,363 @@
       "ts": "2026-10-03T22:42:35+00:00",
       "title": "AI Education Blog: Practical AI Guides for Australians - InstantConnect",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instantconnect.online/blog/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23MRhxyXXAUo5iBYDLGoMm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://mistral.ai/news/hallo-deutschland": {
+      "ts": "2026-09-28T15:57:59+00:00",
+      "title": "Hallo, Deutschland!",
+      "link": "https://mistral.ai/news/hallo-deutschland",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "https://mistral.ai/news/mistral-x-mozilla": {
+      "ts": "2026-09-16T12:00:00+00:00",
+      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
+      "link": "https://mistral.ai/news/mistral-x-mozilla",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "https://mistral.ai/news/mistral-x-cloudera": {
+      "ts": "2026-09-10T10:42:55+00:00",
+      "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
+      "link": "https://mistral.ai/news/mistral-x-cloudera",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "https://mistral.ai/news/legacy-code-modernization": {
+      "ts": "2026-09-09T12:00:46+00:00",
+      "title": "Modernizing complex legacy code with AI agents.",
+      "link": "https://mistral.ai/news/legacy-code-modernization",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier": {
+      "ts": "2026-09-08T12:00:22+00:00",
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "https://x.ai/news/team-bots": {
+      "ts": "2026-09-28T00:00:00+00:00",
+      "title": "Team Bots: shared AI teammates that learn as they work",
+      "link": "https://x.ai/news/team-bots",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://x.ai/news/grok-bot-customer-support": {
+      "ts": "2026-09-22T00:00:00+00:00",
+      "title": "How SpaceXAI is using Grok Bot to scale customer support",
+      "link": "https://x.ai/news/grok-bot-customer-support",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://x.ai/news/grok-4-7": {
+      "ts": "2026-09-21T00:00:00+00:00",
+      "title": "Introducing Grok 4.7",
+      "link": "https://x.ai/news/grok-4-7",
+      "source": "xAI News",
+      "big": true
+    },
+    "https://x.ai/news/grok-voice-transcribe-2": {
+      "ts": "2026-09-18T00:00:00+00:00",
+      "title": "Introducing Grok Voice Transcribe 2.0",
+      "link": "https://x.ai/news/grok-voice-transcribe-2",
+      "source": "xAI News",
+      "big": true
+    },
+    "https://x.ai/news/grok-build-memory": {
+      "ts": "2026-09-16T00:00:00+00:00",
+      "title": "Memory in Grok Build",
+      "link": "https://x.ai/news/grok-build-memory",
+      "source": "xAI News",
+      "big": false
+    },
+    "https://cohere.com/blog/rcp-ndcg": {
+      "ts": "2026-09-30T00:00:00+00:00",
+      "title": "RCP-nDCG@10: A more complete way to measure retrieval relevance",
+      "link": "https://cohere.com/blog/rcp-ndcg",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "https://cohere.com/blog/embed-5": {
+      "ts": "2026-09-30T00:00:00+00:00",
+      "title": "Introducing Embed 5—A new family of frontier embedding models",
+      "link": "https://cohere.com/blog/embed-5",
+      "source": "The Cohere Blog",
+      "big": true
+    },
+    "https://cohere.com/blog/compass-cloud-beta": {
+      "ts": "2026-09-25T00:00:00+00:00",
+      "title": "Compass is coming to the cloud",
+      "link": "https://cohere.com/blog/compass-cloud-beta",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "https://cohere.com/blog/ai-change-management": {
+      "ts": "2026-09-22T00:00:00+00:00",
+      "title": "AI change management: A human-centric approach",
+      "link": "https://cohere.com/blog/ai-change-management",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai": {
+      "ts": "2026-09-16T00:00:00+00:00",
+      "title": "Cohere and OpenText partner to bring trusted agentic AI to governments and regulated industries",
+      "link": "https://cohere.com/blog/cohere-and-open-text-partner-to-bring-trusted-ai",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement": {
+      "ts": "2026-09-16T00:00:00+00:00",
+      "title": "Cohere and Aleph Alpha sign agreement to become the first  transatlantic sovereign AI solution",
+      "link": "https://cohere.com/blog/cohere-and-aleph-alpha-sign-agreement",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai": {
+      "ts": "2026-09-13T00:00:00+00:00",
+      "title": "Who Gets to Define the Rules for AI?",
+      "link": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "https://cohere.com/blog/north-small-translate": {
+      "ts": "2026-09-10T00:00:00+00:00",
+      "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
+      "link": "https://cohere.com/blog/north-small-translate",
+      "source": "The Cohere Blog",
+      "big": true
+    },
+    "https://cohere.com/blog/megakernels": {
+      "ts": "2026-09-08T00:00:00+00:00",
+      "title": "Inside the megakernel serving engine for North Mini Code",
+      "link": "https://cohere.com/blog/megakernels",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/ai-maturity": {
+      "ts": "2026-10-02T00:00:00+00:00",
+      "title": "AI maturity: what it means for your organization",
+      "link": "https://www.perplexity.ai/hub/blog/ai-maturity",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/perplexity-and-american-express-make-ai-easier-for-growing-businesses": {
+      "ts": "2026-10-01T00:00:00+00:00",
+      "title": "Perplexity and American Express make AI easier for growing businesses",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-and-american-express-make-ai-easier-for-growing-businesses",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/ai-tools-for-consultants": {
+      "ts": "2026-10-01T00:00:00+00:00",
+      "title": "10 AI Tools for Consultants: Use Cases, Key Features, Pricing & Alternatives",
+      "link": "https://www.perplexity.ai/hub/blog/ai-tools-for-consultants",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/contextual-embedding-beyond-the-gold-passage": {
+      "ts": "2026-09-30T00:00:00+00:00",
+      "title": "Contextual embedding beyond the gold passage",
+      "link": "https://www.perplexity.ai/hub/blog/contextual-embedding-beyond-the-gold-passage",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents": {
+      "ts": "2026-09-29T00:00:00+00:00",
+      "title": "How we engineer safer agents",
+      "link": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/computer-adds-automations-for-ongoing-work": {
+      "ts": "2026-09-29T00:00:00+00:00",
+      "title": "Computer adds Automations for ongoing work",
+      "link": "https://www.perplexity.ai/hub/blog/computer-adds-automations-for-ongoing-work",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/mcp-vs-api": {
+      "ts": "2026-09-28T00:00:00+00:00",
+      "title": "MCP vs. API: A Full Technical Breakdown (Definitions, Differences, and Use Cases)",
+      "link": "https://www.perplexity.ai/hub/blog/mcp-vs-api",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents": {
+      "ts": "2026-09-28T00:00:00+00:00",
+      "title": "Agent API now supports reusable agents",
+      "link": "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/ai-alignment": {
+      "ts": "2026-09-25T00:00:00+00:00",
+      "title": "AI alignment: current research and debate",
+      "link": "https://www.perplexity.ai/hub/blog/ai-alignment",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/portable-computer-comes-to-amd-powered-agentic-pcs": {
+      "ts": "2026-09-24T00:00:00+00:00",
+      "title": "Portable Computer comes to AMD-powered agentic PCs",
+      "link": "https://www.perplexity.ai/hub/blog/portable-computer-comes-to-amd-powered-agentic-pcs",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/photon": {
+      "ts": "2026-09-24T00:00:00+00:00",
+      "title": "Photon: Building a retrieval and ranking engine from scratch",
+      "link": "https://www.perplexity.ai/hub/blog/photon",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/escaping-space-part-i": {
+      "ts": "2026-09-23T00:00:00+00:00",
+      "title": "Escaping SPACE: Part I",
+      "link": "https://www.perplexity.ai/hub/blog/escaping-space-part-i",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/ai-for-market-research": {
+      "ts": "2026-09-23T00:00:00+00:00",
+      "title": "AI for market research: a step-by-step guide",
+      "link": "https://www.perplexity.ai/hub/blog/ai-for-market-research",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/ai-literacy": {
+      "ts": "2026-09-22T00:00:00+00:00",
+      "title": "The AI literacy gap is growing. Here’s how to close it.",
+      "link": "https://www.perplexity.ai/hub/blog/ai-literacy",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience": {
+      "ts": "2026-09-21T00:00:00+00:00",
+      "title": "Learning from real-world experience",
+      "link": "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/computer-adds-effort-mode-for-model-selection": {
+      "ts": "2026-09-17T00:00:00+00:00",
+      "title": "Computer adds effort controls for model selection",
+      "link": "https://www.perplexity.ai/hub/blog/computer-adds-effort-mode-for-model-selection",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/ai-in-the-workplace": {
+      "ts": "2026-09-17T00:00:00+00:00",
+      "title": "AI in the workplace: A practical guide for knowledge workers",
+      "link": "https://www.perplexity.ai/hub/blog/ai-in-the-workplace",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/shadow-ai": {
+      "ts": "2026-09-15T00:00:00+00:00",
+      "title": "Shadow AI: Why employees go around IT, and what ends it",
+      "link": "https://www.perplexity.ai/hub/blog/shadow-ai",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/perplexity-comes-to-more-windows-pcs-with-hp": {
+      "ts": "2026-09-15T00:00:00+00:00",
+      "title": "Perplexity comes to more Windows PCs with HP",
+      "link": "https://www.perplexity.ai/hub/blog/perplexity-comes-to-more-windows-pcs-with-hp",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/ai-detector": {
+      "ts": "2026-09-15T00:00:00+00:00",
+      "title": "How AI detectors work and why a score alone can’t prove authorship",
+      "link": "https://www.perplexity.ai/hub/blog/ai-detector",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/portable-computer-for-windows-is-here": {
+      "ts": "2026-09-14T00:00:00+00:00",
+      "title": "Portable Computer for Windows is here",
+      "link": "https://www.perplexity.ai/hub/blog/portable-computer-for-windows-is-here",
+      "source": "Perplexity Blog",
+      "big": true
+    },
+    "https://www.perplexity.ai/hub/blog/cobbledb": {
+      "ts": "2026-09-14T00:00:00+00:00",
+      "title": "CobbleDB: Rebuilding AI search storage for lower latency and cost",
+      "link": "https://www.perplexity.ai/hub/blog/cobbledb",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/q2d-web": {
+      "ts": "2026-09-09T00:00:00+00:00",
+      "title": "Q2D-Web: Evaluating first-stage retrievers at scale",
+      "link": "https://www.perplexity.ai/hub/blog/q2d-web",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/ai-integration": {
+      "ts": "2026-09-07T00:00:00+00:00",
+      "title": "AI integration: Getting ROI from your AI investment",
+      "link": "https://www.perplexity.ai/hub/blog/ai-integration",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.10.48#3.10.48": {
+      "ts": "2026-09-29T00:00:00+00:00",
+      "title": "Windsurf 3.10.48",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-10-48",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.10.35#3.10.35": {
+      "ts": "2026-09-24T00:00:00+00:00",
+      "title": "Windsurf 3.10.35",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-10-35",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.10.31#3.10.31": {
+      "ts": "2026-09-16T00:00:00+00:00",
+      "title": "Windsurf 3.10.31",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-10-31",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.10.27#3.10.27": {
+      "ts": "2026-09-15T00:00:00+00:00",
+      "title": "Windsurf 3.10.27",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-10-27",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.10.23#3.10.23": {
+      "ts": "2026-09-10T00:00:00+00:00",
+      "title": "Windsurf 3.10.23",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-10-23",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.9.19#3.9.19": {
+      "ts": "2026-09-08T00:00:00+00:00",
+      "title": "Windsurf 3.9.19",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-9-19",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6157595284790086360": {
+      "ts": "2026-10-04T14:39:30+00:00",
+      "title": "AI Agent Detected the Attack — Then Executed It Anyway | Israel Defense",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.israeldefense.co.il/en/node/71285&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0t47eLnUeklxUyPggv0T0U",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1154814784026980282": {
+      "ts": "2026-10-04T06:28:41+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLKaLggBTC6Us&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0dyV48sFDGxIOITRhOT70M",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
