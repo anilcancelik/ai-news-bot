@@ -5774,6 +5774,83 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLDU9x0IAVhQE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1NsgI-eEtnGs86LG_Ur_ix",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://www.anthropic.com/news/cyber-verification-program": {
+      "ts": "2026-10-06T00:00:00+00:00",
+      "title": "Expanding the Cyber Verification Program",
+      "link": "https://www.anthropic.com/news/cyber-verification-program",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/jump-trading": {
+      "ts": "2026-10-06T12:00:00+00:00",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "link": "https://openai.com/index/jump-trading",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+      "ts": "2026-10-06T12:00:00+00:00",
+      "title": "Sharing AI progress in mathematics",
+      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+      "ts": "2026-10-06T19:57:04+00:00",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18396034436862821406": {
+      "ts": "2026-10-06T21:28:12+00:00",
+      "title": "I connected OpenCode via an MCP bridge with <b>Manus AI</b> using Termux so that Manus can ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/opencode/comments/1wzeqiv/i_connected_opencode_via_an_mcp_bridge_with_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26gRQwoF7yaiOKwnVkK-bB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14649515868471342976": {
+      "ts": "2026-10-06T20:55:36+00:00",
+      "title": "<b>Manus · AI</b> resources - PointCast",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pointcast.xyz/ai/services/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ucHhX9xr7x3hydMG3p22d",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14194447211597030853": {
+      "ts": "2026-10-06T20:21:43+00:00",
+      "title": "<b>Manus AI</b>. Manus doesn't just answer questions; it plans and gets real work… | Abdullah Rafique",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/abdullahrafiq_another-big-milestone-imagineart-manus-activity-7513285917143531521-tnIf&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1K42-Ew7aCtXmfSf0DB1rx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3296376129538836905": {
+      "ts": "2026-10-06T20:14:43+00:00",
+      "title": "<b>Manus AI</b> Latest APK Version - VNUA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vnua.edu.vn/content/100760493.aspx&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Q1A7yjWg-pVN2DF1JpPct",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15668815599773580085": {
+      "ts": "2026-10-06T15:57:15+00:00",
+      "title": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wx1GzrmVvjT9gFuTAB_u8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:2747156933838190380": {
+      "ts": "2026-10-06T15:38:32+00:00",
+      "title": "TikTok Brings Its Ads MCP to Claude, Perplexity and Six More",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thekeyword.co/news/tiktok-ads-mcp-connectors&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1WpnQ9OV0sEUtstVJIml-8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4463042191484306947": {
+      "ts": "2026-10-05T22:45:16+00:00",
+      "title": "Reviewing <b>Manus AI</b> video creation with Seedance 2.5 #manusia - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/shorts/mSHkZxj4wL0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hbCLu5EHyUzwmZBm9q5Ft",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-10-06"
