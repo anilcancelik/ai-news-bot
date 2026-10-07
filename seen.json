@@ -1,86 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:16948096115514253919": {
-      "ts": "2026-09-07T19:07:31+00:00",
-      "title": "Yichao 'Peak' Ji (@peakji) / X",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/peakji/all%3Fsort%3Dpopular&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0cxvd3_I-5SZCnmz_-ywQh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12567069604252581668": {
-      "ts": "2026-09-07T18:58:52+00:00",
-      "title": "AI News | TestingCatalog - X",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/testingcatalog/all%3Fsort%3Dpopular&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OYI4h4Bc8qmh02o7EJgBh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9397430649527157044": {
-      "ts": "2026-09-07T20:44:18+00:00",
-      "title": "Chrome Cat Price, CHROME Price, Live Charts, and Marketcap - Coinbase Germany",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/price/chrome-cat&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0R5EzS5SVzILfafrZf_f96",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16985028336065121343": {
-      "ts": "2026-09-07T20:37:56+00:00",
-      "title": "AUTSM Price, AU Price, Live Charts, and Marketcap - Coinbase Germany",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/price/autsm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1O6G_HaYI1F_3fhk7lSfsW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12765578073170842436": {
-      "ts": "2026-09-07T20:37:55+00:00",
-      "title": "size it Price, SIZE Price, Live Charts, and Marketcap - Coinbase Germany",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/price/size-it&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HAcfrdJSlnLuFmHJjHc0E",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5262381254046856120": {
-      "ts": "2026-09-07T20:35:57+00:00",
-      "title": "Touch Grass Price, GRASS Price, Live Charts, and Marketcap - Coinbase Germany",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/price/touch-grass-2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw071yUTCOcXcTCyeR2LA-QS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11090246833097633454": {
-      "ts": "2026-09-07T18:49:13+00:00",
-      "title": "Manus SMB Winners | <b>Manus AI</b> - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_manus-smb-winners-activity-7502773028532125696-m3pm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Nr8dvs8YO5RlgRNFdEwZm",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15700056981130471416": {
-      "ts": "2026-09-07T18:43:55+00:00",
-      "title": "SOL 15 min · $104.4350 target | Prediction Markets - Coinbase",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXSOL15M-26SEP070400&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3aWV0-6RrgWA1LM4MEig6t",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6060615239250237734": {
-      "ts": "2026-09-07T18:43:54+00:00",
-      "title": "Trento vs Lecco: Total Goals | Prediction Markets - Coinbase",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXSERIECTOTAL-26SEP07TRELEC&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1lgVLJzYmbtfCSFXCi2IKv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15809081890281434220": {
-      "ts": "2026-09-07T21:40:04+00:00",
-      "title": "Manus (@ManusAI) / X",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/ManusAI/all&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3sImoDk-to6_szeac8ecQE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1319088444853414822": {
       "ts": "2026-09-08T00:25:15+00:00",
       "title": "#manuspartner #ycombinator #ai | Delia Lazarescu - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/delialazarescu_manuspartner-ycombinator-ai-activity-7502857175535341568-KdVQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw14GtYGCCNs2YYaGCKnzc6R",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:92578444147484004": {
-      "ts": "2026-09-07T22:01:31+00:00",
-      "title": "Dankt mir später:) #ad #manuspartner #<b>manus #ai</b> #howitworks - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/ExrDn6LCpH4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LzU_UctAX4hH3ViUS8bWT",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -144,13 +67,6 @@
       "ts": "2026-09-08T05:45:17+00:00",
       "title": "Who I Am /Manus <b>Manus Ai</b> Manus Kosolwattana | Pattaya InteriorDesigner - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/pattaya.interiordesigner.2025/videos/who-i-am-manus-manus-ai-manus-kosolwattana/1710340194435111/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2vB-XSQqv7PaldJbHi8Sri",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3952769130067322314": {
-      "ts": "2026-09-07T18:43:54+00:00",
-      "title": "Al-Fateh vs Diriyah Club: Total Goals | Prediction Markets - Coinbase",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXSAUDIPLTOTAL-26SEP09FATDIR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2EM3la0nNNF9IJCbjbKeDY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5961,6 +5877,111 @@
       "ts": "2026-10-06T20:38:15+00:00",
       "title": "Pricing &amp; Plans - Cognix AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cognixai.co/pricing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37PvAc5P6rZ7_8JVrZ9UFg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "f9d07d7003b1320f": {
+      "ts": "2026-10-07T18:26:26+00:00",
+      "title": "2.1.293",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-293",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/claude-haiku-5-5": {
+      "ts": "2026-10-07T00:00:00+00:00",
+      "title": "Claude Haiku 5.5",
+      "link": "https://www.anthropic.com/claude-haiku-5-5",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/radisson": {
+      "ts": "2026-10-07T07:00:00+00:00",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "link": "https://openai.com/index/radisson",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/gpt-6-for-everyone": {
+      "ts": "2026-10-07T00:00:00+00:00",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "link": "https://openai.com/index/gpt-6-for-everyone",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/": {
+      "ts": "2026-10-07T00:00:00+00:00",
+      "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
+      "link": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/rag-vs-llm": {
+      "ts": "2026-10-07T00:00:00+00:00",
+      "title": "RAG vs. LLM: Technical Breakdown (Definitions, Differences, Use Cases)",
+      "link": "https://www.perplexity.ai/hub/blog/rag-vs-llm",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector": {
+      "ts": "2026-10-07T00:00:00+00:00",
+      "title": "Multimodal embeddings beyond a single vector",
+      "link": "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector",
+      "source": "Perplexity Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8343265444087823677": {
+      "ts": "2026-10-07T21:47:20+00:00",
+      "title": "jake     | Comment “SKILL” and I'll send you the full workflow + 1,000 free Manus credits ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeNUxUIS7yx/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3aMQf2gmpMwHKDlIz3dWdY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16592573183236389436": {
+      "ts": "2026-10-07T15:35:58+00:00",
+      "title": "THIS IS THE NEW <b>MANUS AI</b> 2.0! #shorts - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DUBOOAUfsoW4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00lo0TthnlYD6-T57AWs5C",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3655130456420247628": {
+      "ts": "2026-10-07T10:49:41+00:00",
+      "title": "<b>Manus AI</b> Agent Mode Setup | How to Start <b>Manus AI</b> Task - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dn75IvSNDcIY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2GTJnJ0hWlfGQo2g225Fsq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13450404040375663540": {
+      "ts": "2026-10-07T10:20:59+00:00",
+      "title": "Brazil: Election interference and disinformation incidents, 7 October 2026 - Control Risks",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.controlrisks.com/campaigns/electoral-protection-in-brazil/analysis/brazil-election-interference-and-disinformation-incidents-7-october-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kdINGMbj8CW-pBnxIX0az",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3016064707526445797": {
+      "ts": "2026-10-07T07:12:43+00:00",
+      "title": "AI Note Planner - AI Chat , Calendar - Galaxy Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://galaxystore.samsung.com/detail/com.galaxy.Note.AI.planer.app&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2bZWu4jOY6WMcCcEFGNwGE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8995381917720251802": {
+      "ts": "2026-10-07T05:45:49+00:00",
+      "title": "How to Delete <b>Manus AI</b> Account (2026) | Step-by-Step - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DJUnlcH5jZ3I&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0WN7zpLpZ5lfyjLhNTRlk-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5679072279233803727": {
+      "ts": "2026-10-07T05:39:07+00:00",
+      "title": "How to Check Your <b>Manus AI</b> Credit Usage (2026) | Step-by-Step - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DsxXtkOyzdfM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3xqkKc4-bpcE3ZJ-IW7f4o",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5946372050682279081": {
+      "ts": "2026-10-07T03:07:38+00:00",
+      "title": "nanoMuse is a free, open-source personal agent that runs on your phone, your computer ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeLI9uaiNyG/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kk9XGqAaL4Z86iBpqKbh6",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
