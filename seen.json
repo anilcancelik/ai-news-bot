@@ -1,30 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:16236424748597635548": {
-      "ts": "2026-09-07T07:22:05+00:00",
-      "title": "Man Group combined its quant businesses into a $156 billion giant as AI changes how ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40businessinsider/post/Dc-jUHtFX8j/man-group-combined-its-quant-businesses-into-a-billion-giant-as-ai-changes-how&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0DPfy5fwm2MpYx4lnAt_1U",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9418495549158436201": {
       "ts": "2026-09-07T13:17:38+00:00",
       "title": "#manusfellow #aiagents #atlanta #aiinnovision | Denise Smith | 11 comments - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/denisensmith_manusfellow-aiagents-atlanta-activity-7502549961805373440-t0IW&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vF8YjZ1WBZ9u0NeYENnY1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6921062216188198251": {
-      "ts": "2026-09-07T10:38:54+00:00",
-      "title": "fosowl/agenticseek | Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy ... - Kivach",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://kivach.org/repo/fosowl/agenticseek&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2vrbxfxOQcsparKf6_hWn7",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3580942408948565359": {
-      "ts": "2026-09-07T10:32:55+00:00",
-      "title": "Mr. Jason   on X: &quot;Stop wasting hours these 20 FREE AI tools can save you 20+ hours every ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/jason_coder0/status/2096902264770412945&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bo_rUq3IaP6WoMwXbd-gf",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -116,13 +95,6 @@
       "ts": "2026-09-07T14:07:20+00:00",
       "title": "<b>Manus AI</b> | Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/p/Manus-AI-61563395364762/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3t8g_Uv9AWq7pXlli51qE8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17889769156796273895": {
-      "ts": "2026-09-07T04:42:25+00:00",
-      "title": "Best General Assistants AI Tools - VibeHacker",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vibehacker.com/categories/general-assistants&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1iHr-WsNJBJJVCpq_uh98L",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5872,7 +5844,84 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeHX_BWjFor/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0lBIwvNAPeEYikcQ4IDlPH",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "https://claude.com/blog/were-expanding-the-claude-startups-program-to-help-founders-build": {
+      "ts": "2026-10-06T00:00:00+00:00",
+      "title": "We’re expanding the Claude Startups program to help founders build",
+      "link": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases": {
+      "ts": "2026-10-06T00:00:00+00:00",
+      "title": "How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases",
+      "link": "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-now-works-in-google-docs-sheets-and-slides": {
+      "ts": "2026-10-06T00:00:00+00:00",
+      "title": "Claude now works with Google Docs, Sheets, and Slides",
+      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://www.anthropic.com/claude-sonnet-5-5": {
+      "ts": "2026-09-28T00:00:00+00:00",
+      "title": "Claude Sonnet 5.5",
+      "link": "https://www.anthropic.com/claude-sonnet-5-5",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.dev/blog/building-with-claude-sonnet-5-5/": {
+      "ts": "2026-09-28T00:00:00+00:00",
+      "title": "Building with Claude Sonnet 5.5",
+      "link": "https://claude.dev/blog/building-with-claude-sonnet-5-5/",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.dev/blog/automating-eval-design-and-hillclimbing/": {
+      "ts": "2026-09-28T00:00:00+00:00",
+      "title": "Automating eval design and hillclimbing with Claude",
+      "link": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/": {
+      "ts": "2026-09-25T00:00:00+00:00",
+      "title": "What a task costs on Opus 5.5",
+      "link": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.dev/blog/spending-your-effort/": {
+      "ts": "2026-09-25T00:00:00+00:00",
+      "title": "Using Claude Code: Spending your effort",
+      "link": "https://claude.dev/blog/spending-your-effort/",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.dev/blog/how-we-made-claude-ai-faster/": {
+      "ts": "2026-09-23T00:00:00+00:00",
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/": {
+      "ts": "2026-09-22T00:00:00+00:00",
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15800264797803798754": {
+      "ts": "2026-10-07T07:45:27+00:00",
+      "title": "How to Create a <b>Manus AI</b> Account (2026) | Step-by-Step - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DY-S-3Xu99Q4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zJF0gpwYv94oITGGu4f4C",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-10-06"
+  "last_digest_date": "2026-10-07"
 }
