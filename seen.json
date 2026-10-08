@@ -1,23 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1319088444853414822": {
-      "ts": "2026-09-08T00:25:15+00:00",
-      "title": "#manuspartner #ycombinator #ai | Delia Lazarescu - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/delialazarescu_manuspartner-ycombinator-ai-activity-7502857175535341568-KdVQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw14GtYGCCNs2YYaGCKnzc6R",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/the-work-now-within-reach": {
       "ts": "2026-09-08T13:00:00+00:00",
       "title": "The Work Now Within Reach",
       "link": "https://openai.com/index/the-work-now-within-reach",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
-      "ts": "2026-09-08T00:00:00+00:00",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
       "source": "OpenAI News",
       "big": false
     },
@@ -33,13 +19,6 @@
       "title": "How to Use <b>Manus AI</b> for Free + Free Credits - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DrULErKH8cy8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04Hw_Xil5OHwQE38y3FbWa",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform": {
-      "ts": "2026-09-08T00:00:00+00:00",
-      "title": "Reducing cost and improving performance with Claude Platform",
-      "link": "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/navier-stokes-solution": {
@@ -90,13 +69,6 @@
       "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "source": "OpenAI News",
       "big": true
-    },
-    "https://openai.com/index/1password": {
-      "ts": "2026-09-08T00:00:00+00:00",
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "link": "https://openai.com/index/1password",
-      "source": "OpenAI News",
-      "big": false
     },
     "tag:google.com,2013:googlealerts/feed:9992753887571156453": {
       "ts": "2026-09-08T18:09:15+00:00",
@@ -4991,13 +4963,6 @@
       "source": "The Cohere Blog",
       "big": true
     },
-    "https://cohere.com/blog/megakernels": {
-      "ts": "2026-09-08T00:00:00+00:00",
-      "title": "Inside the megakernel serving engine for North Mini Code",
-      "link": "https://cohere.com/blog/megakernels",
-      "source": "The Cohere Blog",
-      "big": false
-    },
     "https://www.perplexity.ai/hub/blog/ai-maturity": {
       "ts": "2026-10-02T00:00:00+00:00",
       "title": "AI maturity: what it means for your organization",
@@ -5191,13 +5156,6 @@
       "ts": "2026-09-10T00:00:00+00:00",
       "title": "Windsurf 3.10.23",
       "link": "https://docs.devin.ai/desktop/changelog#v3-10-23",
-      "source": "Windsurf Changelog",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.9.19#3.9.19": {
-      "ts": "2026-09-08T00:00:00+00:00",
-      "title": "Windsurf 3.9.19",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-9-19",
       "source": "Windsurf Changelog",
       "big": false
     },
@@ -5982,6 +5940,27 @@
       "ts": "2026-10-07T03:07:38+00:00",
       "title": "nanoMuse is a free, open-source personal agent that runs on your phone, your computer ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeLI9uaiNyG/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kk9XGqAaL4Z86iBpqKbh6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7926114998420429235": {
+      "ts": "2026-10-07T20:04:27+00:00",
+      "title": "<b>Manus AI</b> Alternatives: Compare Tools and Costs - Brainmox",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://brainmox.com/blog/manus-ai-alternatives/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1t6V5sv-V4QJ0tQMLC2hJu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4998310498444370666": {
+      "ts": "2026-10-07T20:04:26+00:00",
+      "title": "OpenClaw Alternatives: Compare AI Assistants - Brainmox",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://brainmox.com/blog/openclaw-alternatives/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0k_Yf1tBpnOq96KtMcHkcW",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8345526584099312120": {
+      "ts": "2026-10-07T08:53:15+00:00",
+      "title": "@ManusAI — 106 DAYS. STILL NO REFUND : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wzhhnm/manusai_106_days_still_no_refund/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Rgwtk4tMAdqPeeyRo4UGE",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
