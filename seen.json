@@ -1,33 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/the-work-now-within-reach": {
-      "ts": "2026-09-08T13:00:00+00:00",
-      "title": "The Work Now Within Reach",
-      "link": "https://openai.com/index/the-work-now-within-reach",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/": {
-      "ts": "2026-09-08T14:00:15+00:00",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://openai.com/index/navier-stokes-solution": {
-      "ts": "2026-09-08T10:00:00+00:00",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "link": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9361965525456242718": {
-      "ts": "2026-09-08T13:10:48+00:00",
-      "title": "From Semiconductors to Financial AI: How Tamanna Kottwani Builds for Complex Industries",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ibtimes.co.uk/tamanna-kottwani-transforming-complex-industries-1818426&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3tMlvsd7CV4My63lmtr6Q_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "d849073972d7bff3": {
       "ts": "2026-09-08T20:47:49+00:00",
       "title": "2.1.265",
@@ -41,13 +13,6 @@
       "link": "https://openai.com/index/codex-quantum-computing-experiments",
       "source": "OpenAI News",
       "big": false
-    },
-    "https://openai.com/index/introducing-chatgpt-images-2-5": {
-      "ts": "2026-09-08T11:30:00+00:00",
-      "title": "Introducing ChatGPT Images 2.5",
-      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:9992753887571156453": {
       "ts": "2026-09-08T18:09:15+00:00",
@@ -81,13 +46,6 @@
       "ts": "2026-09-09T02:21:29+00:00",
       "title": "<b>Manus AI</b> Music Generator - Tad AI",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://tad.ai/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2w3MVkFOFyNyW3_YbF_CiI",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1745665363750193285": {
-      "ts": "2026-09-08T10:50:52+00:00",
-      "title": "The NEXT Deepseek? Meet StepFun AI from China! - 데브허브 | DEVHUB",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dev-hub.dev/youtube/video/cICLROHIWUI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28vaf5Utkjw1NLqGDIRk0D",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -4844,13 +4802,6 @@
       "source": "Mistral AI News",
       "big": false
     },
-    "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier": {
-      "ts": "2026-09-08T12:00:22+00:00",
-      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
-      "link": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
-      "source": "Mistral AI News",
-      "big": false
-    },
     "https://x.ai/news/team-bots": {
       "ts": "2026-09-28T00:00:00+00:00",
       "title": "Team Bots: shared AI teammates that learn as they work",
@@ -5950,13 +5901,6 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms": {
-      "ts": "2026-09-08T11:00:00+00:00",
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7094355147920096525": {
       "ts": "2026-10-08T06:46:50+00:00",
       "title": "Allysia Ling's Post - LinkedIn",
@@ -5968,6 +5912,167 @@
       "ts": "2026-10-08T04:49:22+00:00",
       "title": "How to Login to <b>Manus AI</b> (2026) | Step-by-Step - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DNbAaGEX777Y&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2vneTVDG1FLiXj6QUgJbWS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/genesis-mission-commitment": {
+      "ts": "2026-10-08T00:00:00+00:00",
+      "title": "Building on our commitment to American scientific discovery",
+      "link": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+      "ts": "2026-10-08T00:00:00+00:00",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://cohere.com/blog/cohere-expands-canadian-footprint-with-new-ottawa-office": {
+      "ts": "2026-10-08T00:00:00+00:00",
+      "title": "Cohere Expands Canadian Footprint with New Ottawa Office",
+      "link": "https://cohere.com/blog/cohere-expands-canadian-footprint-with-new-ottawa-office",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3054788073308603978": {
+      "ts": "2026-10-08T14:42:32+00:00",
+      "title": "<b>Manus AI</b> Raises More Than $500 Million After Meta Deal Collapse - Binance",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.binance.com/en/square/post/374997121025829&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3TBoL7fDgJf6AlfC75sVqA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7685906814378994161": {
+      "ts": "2026-10-08T14:40:12+00:00",
+      "title": "AI start-up Manus raises $500m after Meta's failed acquisition - Silicon Republic",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siliconrepublic.com/start-ups/ai-start-up-manus-fundraising-500m-post-meta-failed-acquisition&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0e5tpUxeUUEUak_Gv9Z0dz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14697121844640032775": {
+      "ts": "2026-10-08T14:00:43+00:00",
+      "title": "Google releases a new local-first Granola competitor - TechCrunch",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30YoVj4CH1FVYBZ7RlPDip",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6679148943057541746": {
+      "ts": "2026-10-08T13:56:50+00:00",
+      "title": "Chinese AI startup Manus drums up over $500m in fresh funding - Nikkei Asia",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://asia.nikkei.com/business/technology/artificial-intelligence/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2yBRHtkbVj1sgKKUNL6VSg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4587374864894840442": {
+      "ts": "2026-10-08T13:43:58+00:00",
+      "title": "China's Manus raises over $500M in first funding round since split with Meta | TechCrunch",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0skTN6h00AAEFY8pb0CeC5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16746557910080061003": {
+      "ts": "2026-10-08T13:42:07+00:00",
+      "title": "Manus raises more than US$500 million after Meta exit - The Standard (HK)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thestandard.com.hk/innovation/article/344960/Manus-raises-more-than-US500-million-after-Meta-exit&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2L-B-miTMWFAe_PecmDJz-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2625910053984279107": {
+      "ts": "2026-10-08T13:35:38+00:00",
+      "title": "Chinese AI startup Manus raises $500M after Meta acquisition falls through - Pluang",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pluang.com/en/news-feed/manus-ai-raih-pendanaan-500-juta-usd-setelah-berpisah-dengan-meta&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ywif77eO1FQ2SMjbJIuzY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7319660047455899089": {
+      "ts": "2026-10-08T13:32:42+00:00",
+      "title": "Manus raised $500 million in its first funding round since China blocked Meta's acquisition",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/quartznews/posts/manus-raised-500-million-in-its-first-funding-round-since-china-blocked-metas-ac/1460075049321642/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0D9CII3MuhNi5SDdXY2KsO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7661219112946353207": {
+      "ts": "2026-10-08T13:30:19+00:00",
+      "title": "Manus parent raises over $500M after Meta exit - TechNode Global",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technode.global/2026/10/08/manus-parent-raises-more-than-500-million-after-meta-exit/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ad0DjqZVhjc9NoWVDuTYZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4292375871916884626": {
+      "ts": "2026-10-08T12:58:33+00:00",
+      "title": "AI startup Manus raises $500 million in first funding round since Meta breakup - CNBC",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2yyXbkQH-oceGCf3szuYKi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18172061910329621191": {
+      "ts": "2026-10-08T12:37:09+00:00",
+      "title": "AI startup Manus raises $500 million in first funding round since Meta breakup - einkCN",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.einkcn.com/html/product_6ac78b324c3856187.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0PF3tdtY7O-4zpDQsb-hgj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13242906239021747068": {
+      "ts": "2026-10-08T12:08:48+00:00",
+      "title": "We still don't have official word on Manus' new valuation, but estimates put it at around ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/neowin/posts/we-still-dont-have-official-word-on-manus-new-valuation-but-estimates-put-it-at-/1704070068386200/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jcdRSs37eVkNjwRGbB-EE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14217851852994260529": {
+      "ts": "2026-10-08T11:42:13+00:00",
+      "title": "JavaScript Obfuscation Defeats Manus Agent Defenses, Exposing Inspection-Only Controls",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aigovernance.com/news/javascript-obfuscation-defeats-manus-agent-defenses-exposing-inspection-only-controls&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2wtH-Y7Uft6bVF-imsAkCa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3925612075477859701": {
+      "ts": "2026-10-08T11:27:19+00:00",
+      "title": "Guillermo Flor's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/guillermoflor_breaking-china-blocked-a-2b-acquisition-activity-7513919173823995904-oYIC&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hGdI_IKBCt5Db_ZxJXS1P",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3058068510400108086": {
+      "ts": "2026-10-08T11:09:31+00:00",
+      "title": "2026 Midterm Election Funding Trends Favor Republicans | Intellectia.AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://intellectia.ai/news/stock/2026-midterm-election-funding-trends-favor-republicans&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3MYrzQQuSblA1bDQn7WzgQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11358559423208332946": {
+      "ts": "2026-10-08T09:29:38+00:00",
+      "title": "AI startup Manus raises $500 million after Meta acquisition blocked by China - Tech Xplore",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techxplore.com/news/2026-10-ai-startup-manus-million-meta.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MYnoI4toXO-BwmVlbolWl",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15664686905244174870": {
+      "ts": "2026-10-08T09:17:48+00:00",
+      "title": "Manus raises more than $500 million after Meta deal collapse - Neowin",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.neowin.net/news/manus-raises-more-than-500-million-after-meta-deal-collapse/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0X1PRC9mcimvzggSKS_POX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9192286788925130663": {
+      "ts": "2026-10-08T08:42:12+00:00",
+      "title": "Chinese AI startup Manus drums up over $500m in fresh funding - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/nikkeiasia/posts/chinese-ai-startup-manus-drums-up-over-500m-in-fresh-funding/1525448449618415/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jgHWPH0m_bc1BDGUvMJce",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6590935685788208172": {
+      "ts": "2026-10-08T08:39:27+00:00",
+      "title": "Manus Parent Butterfly Effect Raises $500M+ at $4B Valuation, First Round After Meta ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiweekly.co/alerts/manus-parent-butterfly-effect-raises-500m-at-4b-valuation-first-round-after&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3f1d0SnM6oOUYmsmHvRBtG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7148185274374127289": {
+      "ts": "2026-10-08T08:27:03+00:00",
+      "title": "How to Download and Install <b>Manus AI</b> on Android (2026) | Step-by-Step - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DAf9HDNMAd5M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RTNX1g3ZBXsh5ZY7i_O0m",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
