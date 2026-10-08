@@ -1,38 +1,10 @@
 {
   "seen": {
-    "d849073972d7bff3": {
-      "ts": "2026-09-08T20:47:49+00:00",
-      "title": "2.1.265",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-265",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/codex-quantum-computing-experiments": {
-      "ts": "2026-09-08T17:00:00+00:00",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "link": "https://openai.com/index/codex-quantum-computing-experiments",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9992753887571156453": {
-      "ts": "2026-09-08T18:09:15+00:00",
-      "title": "אופירה אסייג בגד ים",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yfb2anq9qkci.sevaa.it/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw315HEJKse51Eb1Au_wbhS3",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "9964f7b8945b0327": {
       "ts": "2026-09-09T00:02:54+00:00",
       "title": "2.1.266",
       "link": "https://code.claude.com/docs/en/changelog#2-1-266",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15474932127201133964": {
-      "ts": "2026-09-08T20:12:19+00:00",
-      "title": "How ancient totems could protect wildlife - DW.com",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dw.com/en/tradition-teaches-ugandan-children-a-conservation-lesson/video-78893886&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0l6tNmvOy8jqTw9pny3CeQ",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:17174308333888017470": {
@@ -6073,6 +6045,258 @@
       "ts": "2026-10-08T08:27:03+00:00",
       "title": "How to Download and Install <b>Manus AI</b> on Android (2026) | Step-by-Step - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DAf9HDNMAd5M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RTNX1g3ZBXsh5ZY7i_O0m",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "cacfd1c6d9de5e2b": {
+      "ts": "2026-10-08T19:55:56+00:00",
+      "title": "2.1.295",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-295",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "a365f2857795827d": {
+      "ts": "2026-10-07T18:26:26+00:00",
+      "title": "2.1.293",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-293",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "7e93a70d3f6c4574": {
+      "ts": "2026-10-06T19:14:31+00:00",
+      "title": "2.1.292",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-292",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "97d3f90219625deb": {
+      "ts": "2026-10-05T23:53:37+00:00",
+      "title": "2.1.290",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-290",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "6239526f44ff552c": {
+      "ts": "2026-10-03T23:19:55+00:00",
+      "title": "2.1.289",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-289",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "5abcd2ce8a8561e5": {
+      "ts": "2026-10-02T20:34:13+00:00",
+      "title": "2.1.288",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-288",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "c67e82c079307a83": {
+      "ts": "2026-10-08T19:00:30+00:00",
+      "title": "2.1.287",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-287",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "facd264a62e19ba4": {
+      "ts": "2026-09-30T19:19:18+00:00",
+      "title": "2.1.286",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-286",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "1606834c8b34f410": {
+      "ts": "2026-09-29T19:37:34+00:00",
+      "title": "2.1.285",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-285",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "2743116c922cb2d3": {
+      "ts": "2026-09-28T18:15:53+00:00",
+      "title": "2.1.284",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-284",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "aa7896a72a181d57": {
+      "ts": "2026-09-25T22:00:11+00:00",
+      "title": "2.1.283",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-283",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "032c2f8bcfa6672e": {
+      "ts": "2026-09-24T18:46:38+00:00",
+      "title": "2.1.282",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-282",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "1320242b279c002d": {
+      "ts": "2026-10-08T19:00:30+00:00",
+      "title": "2.1.281",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-281",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/anthropic-cyber-mission": {
+      "ts": "2026-10-08T00:00:00+00:00",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "link": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "https://www.anthropic.com/news/2026-usage-policy-update": {
+      "ts": "2026-10-08T00:00:00+00:00",
+      "title": "2026 Usage Policy update",
+      "link": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://claude.com/blog/dashboards-and-motion": {
+      "ts": "2026-10-08T00:00:00+00:00",
+      "title": "Build live dashboards and animate explainers with Claude",
+      "link": "https://claude.com/resources/articles/dashboards-and-motion",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/oracle": {
+      "ts": "2026-10-08T16:00:00+00:00",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "link": "https://openai.com/index/oracle",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/pollo-ai": {
+      "ts": "2026-10-08T12:00:00+00:00",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "link": "https://openai.com/index/pollo-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/": {
+      "ts": "2026-10-08T00:00:00+00:00",
+      "title": "The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent",
+      "link": "https://developers.googleblog.com/the-outer-loop-insights-first-an-ambient-quality-agent-that-diagnoses-your-production-agent/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/": {
+      "ts": "2026-10-08T00:00:00+00:00",
+      "title": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+      "link": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3419255007134354438": {
+      "ts": "2026-10-08T20:06:47+00:00",
+      "title": "Manus Valuation 2026: $500M Raised, ~$4B Target - Value Add VC",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://valueaddvc.com/blog/manus-valuation-2026-500m-round-4b-target-after-meta-deal-collapse&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Qv0xGb7xg_YBsRCzAAczr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3804251618230391360": {
+      "ts": "2026-10-08T19:10:26+00:00",
+      "title": "Manus Raises More Than $500 Million as AI Agent Startup Rebuilds After Meta Breakup",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.konsulteer.com/article/manus-raises-more-than-500-million-as-ai-agent-startup-rebuilds-after-meta-breakup&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bidrvFPByVzkivw6ZwzZ_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:252787050135824964": {
+      "ts": "2026-10-08T18:55:07+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLSQoqcUxsDBA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kPMObJNUTeCVR06Rw7RZZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:187531660512818079": {
+      "ts": "2026-10-08T18:54:32+00:00",
+      "title": "Manus, the AI agent startup under parent company Butterfly Effect, has raised more ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DePn6XJnyr8/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kBZmhq2mXigLujnzBz7kc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15313000849717264327": {
+      "ts": "2026-10-08T18:18:12+00:00",
+      "title": "Manus Raises More Than $500M After Its Meta Deal Unravels - TechBooky",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techbooky.com/manus-raises-more-than-500m-after-its-meta-deal-unravels/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-KqEqxcRlYp2hCVYSV5KP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2155068493830547028": {
+      "ts": "2026-10-08T18:03:16+00:00",
+      "title": "Manus Raises Over $500M in First Round Since China Blocked Its $2B Meta Acquisition",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techjacksolutions.com/ai-brief/manus-500m-funding-meta-deal-blocked-china/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3xQbYltk-UAq5rOYq1liAi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4979954320631917867": {
+      "ts": "2026-10-08T18:02:09+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLLBOTecydMWc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1sSQrxUohOoFFbIuVFfoRo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3142670856715890866": {
+      "ts": "2026-10-08T18:01:01+00:00",
+      "title": "The $4B Meta-<b>Manus AI</b> Breakup: How China Forced Meta to Unwind Its $2B AI Deal",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVBmJ_r7yp5c&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1_jTu95D7eLNdKBDSDEImV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10398402792103552559": {
+      "ts": "2026-10-08T17:20:26+00:00",
+      "title": "Manus Secures $500 Million Funding After Meta Deal Collapse: What Founders Need to Know",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://beamstart.com/news/manus-secures-500-million-funding-after-meta-deal-collapse-what-founders-need-to-know&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3pEi_8apJxex6nXO1vKH6l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12172748579444175003": {
+      "ts": "2026-10-08T17:07:11+00:00",
+      "title": "China's Manus raises over $500M in first funding round since split with Meta | Winzheng",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.winzheng.com/en/article/manus-500m-funding-round&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uVa_rVQZNDbJM1D9ad0c_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15948507852248632584": {
+      "ts": "2026-10-08T16:49:45+00:00",
+      "title": "1. <b>Manus AI</b>: $500M+ for autonomous AI agents. 2. Type One Energy: $200M to… | Elana Gold",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/itselanagold_over-1-billion-raised-by-these-10-startups-activity-7513977572788092928-ik66&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0J2vKaR2KFu_wSVD6Hz5q7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8312610080732412792": {
+      "ts": "2026-10-08T15:53:58+00:00",
+      "title": "Manus raises $500 million in first funding round since Meta deal unwound - Vesper",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vespernews.com/en/news/18fcfbcb-0730-4cb5-a9e6-850c3755f038&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw18lpsqJKC5ENdVzytgIe2j",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11162641183151780817": {
+      "ts": "2026-10-08T15:33:32+00:00",
+      "title": "Matthias Hendrichs' Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/matthiashendrichs_another-chapter-in-the-manus-ai-story-more-activity-7513917601752920064-KYmA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0f0qQBhTizG4dBW3jWCOpJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12109425130129633319": {
+      "ts": "2026-10-08T15:28:39+00:00",
+      "title": "Manus Raises $500M in First Round Since China Blocked Meta Deal",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vktr.com/ai-platforms/manus-raises-500m-in-first-round-since-china-blocked-meta-deal/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fYC2WJTU96i4kIBtgYoU8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12615304686308683426": {
+      "ts": "2026-10-08T15:15:48+00:00",
+      "title": "AI Agent Platform (Manus Review 2026) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DQXYtU37PVho&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05TApzsBlhuneeWxTyEGrA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17268960452134761174": {
+      "ts": "2026-10-08T14:40:00+00:00",
+      "title": "Meta bought Manus in a deal worth more than $2 billion. Then China ordered it undone ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DePJmtHCEZ8/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3CzNyea5hbvGfreeQ_4OoM",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
