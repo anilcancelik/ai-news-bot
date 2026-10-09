@@ -1,47 +1,5 @@
 {
   "seen": {
-    "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/": {
-      "ts": "2026-09-09T15:46:24.392999+00:00",
-      "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
-      "link": "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/",
-      "source": "Google Developers Blog - AI",
-      "big": true
-    },
-    "https://openai.com/index/paul-christiano-joins-openai-foundation-board": {
-      "ts": "2026-09-09T17:00:00+00:00",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/": {
-      "ts": "2026-09-09T19:00:29.391008+00:00",
-      "title": "The Anatomy of Harness Engineering: How to Evaluate, Iterate, and Guard AI Coding Agents",
-      "link": "https://developers.googleblog.com/the-anatomy-of-harness-engineering-how-to-evaluate-iterate-and-guard-ai-coding-agents/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12516535574079301401": {
-      "ts": "2026-09-09T18:28:25+00:00",
-      "title": "Meta Muse: The AI Agent That Could Actually Do Your Work #MetaMuse #MuseAI #AIAgent ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/BusinessToday/posts/meta-muse-the-ai-agent-that-could-actually-do-your-workmetamuse-museai-aiagent-a/1559932599514446/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3dHuCoSkAlvdVks4QiUk6s",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2735304044940410079": {
-      "ts": "2026-09-09T17:10:26+00:00",
-      "title": "AI-driven hack snags 375 Brazil government employee logins - Cybernews",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cybernews.com/security/brazil-data-breach-government-employee-logins/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0FzIRSVBLwX-HLYWg4LsOp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "b37d9b9357a2c551": {
-      "ts": "2026-09-09T20:10:14+00:00",
-      "title": "2.1.267",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-267",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16783316090416678256": {
       "ts": "2026-09-09T20:28:04+00:00",
       "title": "Win with Tony Ai · The AI Advantage - Skool",
@@ -116,13 +74,6 @@
       "ts": "2026-09-10T04:15:13+00:00",
       "title": "Professional Landing Page Design with AI Prompts | Full Design Process - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3Dvjr1U2NQjVg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kdTfYMet42ivEhlVMcNOp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11950890620855587427": {
-      "ts": "2026-09-09T17:11:23+00:00",
-      "title": "Digital Economy - Amebopreneur",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://amebopreneur.com/category/digital-economy/page/3/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1X8UvPhSid8BxZSIEcvKkz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6304,6 +6255,153 @@
       "ts": "2026-10-08T23:51:24+00:00",
       "title": "How to Automate Research in <b>Manus AI</b> - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DxjU1MudG1v4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0BRiysGTe4UUS7Oa2SwQmm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "72cc7204218d7cc3": {
+      "ts": "2026-10-09T19:44:41+00:00",
+      "title": "2.1.296",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-296",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/asana-browser-agent": {
+      "ts": "2026-10-09T07:00:00+00:00",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "link": "https://openai.com/index/asana-browser-agent",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/lowes": {
+      "ts": "2026-09-25T07:00:00+00:00",
+      "title": "Lowe’s answers millions of home improvement questions with OpenAI",
+      "link": "https://openai.com/index/lowes",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank": {
+      "ts": "2026-10-09T00:00:00+00:00",
+      "title": "Shared or dedicated inference for Embed & Rerank",
+      "link": "https://cohere.com/blog/shared-or-dedicated-inference-for-embed-rerank",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15144038800363404755": {
+      "ts": "2026-10-09T19:31:04+00:00",
+      "title": "Meta Lost <b>Manus AI</b> - Now It Raised $500 Million - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DxzCYCYO87uw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1yo0SdxVOPzU1YYBTujxar",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5839202891898586339": {
+      "ts": "2026-10-09T18:26:12+00:00",
+      "title": "Asia Startup Funding This Week: Giants and Builders Raise $520M+ in October 5-8, 2026",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://beststartup.asia/asia-startup-funding-this-week-october-2026-2/%3Famp%3D1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1-2JDERIIqDeafA1VTh-FH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11158593572859154289": {
+      "ts": "2026-10-09T17:55:49+00:00",
+      "title": "Manus Raises $500 Million After Meta Deal Collapse - The Outspoken Digest",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://outspokendigest.com/article/manus-raises-500-million-after-china-blocked-meta-takeover-october-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Oxjpl2KonvnGaAzaFh7CZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:666536127124541399": {
+      "ts": "2026-10-09T15:45:42+00:00",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed | TechCrunch",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2R51O3OzMIqs67WhBy_1FH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10309535006650285120": {
+      "ts": "2026-10-09T15:14:56+00:00",
+      "title": "Srishti Sharma's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/srishti-sharma-iitroorkee_manus-ai-just-closed-more-than-500-million-activity-7513934925000183808-qISI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jWctSCXokwNnbIPvMEML5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1460773305694979291": {
+      "ts": "2026-10-09T14:19:39+00:00",
+      "title": "META WALKED AWAY. MANUS JUST RAISED $500M+. Manus, the AI-agent startup behind ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeO-acRSUgY/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XHYgR1Ncu-3er7UP8H4IM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16873809842116138122": {
+      "ts": "2026-10-09T13:33:54+00:00",
+      "title": "Tao Zhang - Web Summit Vancouver",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vancouver.websummit.com/attendees/lis25/b0a21143-19cf-42e5-aa83-2b9ef7295a5e/tao-zhang/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0X1RYaZ13NbjNjgdvyDHJx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11561747373308393743": {
+      "ts": "2026-10-09T12:33:13+00:00",
+      "title": "I made an HD Version of MUSHA Aleste : r/aigamedev - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aigamedev/comments/1x1gxiw/i_made_an_hd_version_of_musha_aleste/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2DrrHzvj3YU8i_6ZoVBCcc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8789925424229513382": {
+      "ts": "2026-10-09T12:29:36+00:00",
+      "title": "Web Summit set to host its largest Chinese tech delegation in Lisbon",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fastcompanyme.com/news/web-summit-set-to-host-its-largest-chinese-tech-delegation-in-lisbon/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35syQHWYLC46ksJ_iHI315",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16665715260845712198": {
+      "ts": "2026-10-09T12:06:52+00:00",
+      "title": "Manus Raises Over $500 Million Following Collapse of Meta's $2 Billion Acquisition",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://entarabi.com/en/2026/10/manus-raises-over-500-million-following-collapse-of-metas-2-billion-acquisition/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw056KouQY1iXVIy4RICERAg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4458969380372590484": {
+      "ts": "2026-10-09T10:52:11+00:00",
+      "title": "Grishin Robotics' Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/grishinrobotics_manus-raised-more-than-500-million-for-its-activity-7514272393335603200-8OyI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37WcIg5TmY9oOVDXsRUY9v",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8240873416450800047": {
+      "ts": "2026-10-09T10:24:09+00:00",
+      "title": "TNW's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/the-next-web_meta-bought-manus-ai-for-2b-china-undid-activity-7514221994335240192-lpPU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mS5cACACvigJr-hTSFgVP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12959583294792117729": {
+      "ts": "2026-10-09T06:58:24+00:00",
+      "title": "Manus Is Back, Independent, and Growing Faster Than When Meta Wanted It - AutoGPT",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://autogpt.net/manus-ai-500-million-funding-meta-split-butterfly-effect/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SKk7N2eHBcSrF_CS6IER-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13265324558236327206": {
+      "ts": "2026-10-09T06:56:44+00:00",
+      "title": "Manus raises $500m after $2 billion Meta deal falls apart - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/StartupStoriesOfficial/posts/metas-2b-deal-fell-through-manus-just-raised-500m-manus-was-set-to-be-acquired-b/1701243025345582/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04FybXPKau8PJbLAC-F-Ku",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5093341865576319732": {
+      "ts": "2026-10-09T06:49:49+00:00",
+      "title": "AI startup Manus raises $500 million after China blocks Meta deal",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/vishmaster.live/posts/when-a-government-kills-a-2-billion-acquisition-and-the-startup-comes-back-with-/122139518013343746/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0K4fp_tO-xlux5Vccsv33l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6903149691647089712": {
+      "ts": "2026-10-09T06:13:44+00:00",
+      "title": "AI Coding Assistants Prompt Injection Attacks: 2026 Security Outlook - DEV Community",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dev.to/nlocoding/ai-coding-assistants-prompt-injection-attacks-2026-security-outlook-58di&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vhkqdZv5_x-k0CAnMyiKs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5797597185687220283": {
+      "ts": "2026-10-09T04:36:07+00:00",
+      "title": "Guyana AI &amp; Cyber news | Global Newsflix",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://globalnewsflix.com/gy/ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Kwoe8WpouRT9lgv-oVv2G",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
