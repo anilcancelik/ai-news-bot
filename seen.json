@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:17174308333888017470": {
-      "ts": "2026-09-09T02:31:16+00:00",
-      "title": "Can't use Manus at all : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wal2cf/cant_use_manus_at_all/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fcU-IzIQKIb2n_nZVYWaO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9889155826495485985": {
-      "ts": "2026-09-09T02:21:29+00:00",
-      "title": "<b>Manus AI</b> Music Generator - Tad AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tad.ai/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2w3MVkFOFyNyW3_YbF_CiI",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11089835463104489896": {
-      "ts": "2026-09-09T06:17:25+00:00",
-      "title": "Is it actually possible to reach a human at Manus support? : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1waue2e/is_it_actually_possible_to_reach_a_human_at_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3d16wDHpib1kv3RYCQyYf4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7486752611142098412": {
-      "ts": "2026-09-09T02:31:16+00:00",
-      "title": "I need credits (help) : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wapxah/i_need_credits_help/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Ja7NuS5LUJx22wRD0WUWq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://developers.googleblog.com/announcing-adk-for-kotlin-10-building-production-ready-ai-agents-in-kotlin-android-and-beyond/": {
       "ts": "2026-09-09T15:46:24.392999+00:00",
       "title": "Announcing ADK for Kotlin 1.0: Building Production-Ready AI Agents in Kotlin, Android, and Beyond",
@@ -97,13 +69,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DdD4wxMk4mW/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BIgVXFaKjEUiuhWPrUVJB",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:9071222913353321006": {
-      "ts": "2026-09-09T04:01:34+00:00",
-      "title": "<b>Manus AI</b> (@manilson.manuel.73) - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/1334860426713088/user/100065207810216/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uysqn0aeL2nfN7c6--e23",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
     },
     "b37d9b9357a2c551": {
       "ts": "2026-09-09T20:10:14+00:00",
@@ -6292,7 +6257,56 @@
       "link": "https://openai.com/index/legalon-halves-codex-costs",
       "source": "OpenAI News",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2176469844018493818": {
+      "ts": "2026-10-09T01:46:59+00:00",
+      "title": "Manus Parent Raises $500M After Meta Deal Collapsed | AIToolsRecap",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aitoolsrecap.com/Blog/manus-butterfly-effect-500m-funding-meta-deal-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2rbbs07a6F6yzeRwjcxxOA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5007136013440720825": {
+      "ts": "2026-10-09T01:41:09+00:00",
+      "title": "Street Fighter 2 but it's AI CEOs (made with Opus 5.5) : r/aigamedev - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aigamedev/comments/1x14w7u/street_fighter_2_but_its_ai_ceos_made_with_opus_55/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3EsV29SCGZpikFJmFAp0nB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12332750332374500658": {
+      "ts": "2026-10-09T01:21:14+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLJnmmlF-Nc9o&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17z9z0VAMIPCup08A3Qhma",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11041171127008539230": {
+      "ts": "2026-10-09T01:18:47+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLIHKkaRpqQ4Q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gHe6mhdR371konhZtD_lt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9012709691634168076": {
+      "ts": "2026-10-09T01:10:54+00:00",
+      "title": "MiniMax AI Model Timeline &amp; Release History - ScriptByAI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scriptbyai.com/minimax-ai-model-timeline/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zhDNmiKSNJUeVbFIRQ6dj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4424895630534656695": {
+      "ts": "2026-10-08T16:55:45+00:00",
+      "title": "<b>Manus AI</b> raises more than $500 million after Meta exit. <b>Manus AI</b> is entering its next phase ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DePByQ9pLuu/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2SOGkDxnHUbc4UP2H9GHUx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6927249277469552422": {
+      "ts": "2026-10-08T16:45:27+00:00",
+      "title": "Manus raises more than $500 million after Meta exit Observervoice.com - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DeOtSlll8ae/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gcQ1-Gs7lq14QyIela8-i",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-10-08"
+  "last_digest_date": "2026-10-09"
 }
