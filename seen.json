@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:16783316090416678256": {
-      "ts": "2026-09-09T20:28:04+00:00",
-      "title": "Win with Tony Ai · The AI Advantage - Skool",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.skool.com/the-ai-advantage/win-with-tony-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-407YZQ0q3HfViy2B7T4j",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1671070176041106080": {
-      "ts": "2026-09-09T22:06:50+00:00",
-      "title": "#FMTBusiness The company behind Facebook and Instagram says the Muse AI agent can ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/freemalaysiatoday/posts/fmtbusiness-the-company-behind-facebook-and-instagram-says-the-muse-ai-agent-can/1512430817582503/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CvDFxIeoeHh-gaVZAAU0Q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5024018771768798527": {
-      "ts": "2026-09-09T23:16:57+00:00",
-      "title": "AI Tools Articles: Reviews, Pricing &amp; Alternatives | Lindy Blog",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lindy.ai/blog-category/ai-tools&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qgP0jIxEDVodGa9HKMCxC",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5473329220805127817": {
-      "ts": "2026-09-09T22:21:58+00:00",
-      "title": "best ai tools 735 (@bnnvc.57) | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40bnnvc.57&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2AQojb4DUZHhh70opCbOwk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials": {
       "ts": "2026-09-10T16:00:00+00:00",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
@@ -77,26 +49,12 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process": {
-      "ts": "2026-09-10T00:00:00+00:00",
-      "title": "T. Rowe Price brings more of Claude to its investment process",
-      "link": "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/introducing-chatgpt-financial-services": {
       "ts": "2026-09-10T07:00:00+00:00",
       "title": "Introducing ChatGPT for Financial Services",
       "link": "https://openai.com/index/introducing-chatgpt-financial-services",
       "source": "OpenAI News",
       "big": true
-    },
-    "https://openai.com/index/introducing-gpt-live-1-in-the-api": {
-      "ts": "2026-09-10T00:00:00+00:00",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI News",
-      "big": false
     },
     "tag:google.com,2013:googlealerts/feed:8717360419860308787": {
       "ts": "2026-09-10T16:18:48+00:00",
@@ -132,20 +90,6 @@
       "link": "https://code.claude.com/docs/en/changelog#2-1-268",
       "source": "Claude Code changelog",
       "big": false
-    },
-    "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai": {
-      "ts": "2026-09-10T00:00:00+00:00",
-      "title": "What 1,000 small business owners taught us about AI",
-      "link": "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://openai.com/index/introducing-the-agents-api": {
-      "ts": "2026-09-10T00:00:00+00:00",
-      "title": "Introducing the Agents API",
-      "link": "https://openai.com/index/introducing-the-agents-api",
-      "source": "OpenAI News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:1651767452417099259": {
       "ts": "2026-09-10T18:11:05+00:00",
@@ -4697,13 +4641,6 @@
       "source": "The Cohere Blog",
       "big": false
     },
-    "https://cohere.com/blog/north-small-translate": {
-      "ts": "2026-09-10T00:00:00+00:00",
-      "title": "Introducing North Small Translate: A leading sovereign open-weight machine translation model",
-      "link": "https://cohere.com/blog/north-small-translate",
-      "source": "The Cohere Blog",
-      "big": true
-    },
     "https://www.perplexity.ai/hub/blog/ai-maturity": {
       "ts": "2026-10-02T00:00:00+00:00",
       "title": "AI maturity: what it means for your organization",
@@ -4883,13 +4820,6 @@
       "ts": "2026-09-15T00:00:00+00:00",
       "title": "Windsurf 3.10.27",
       "link": "https://docs.devin.ai/desktop/changelog#v3-10-27",
-      "source": "Windsurf Changelog",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.10.23#3.10.23": {
-      "ts": "2026-09-10T00:00:00+00:00",
-      "title": "Windsurf 3.10.23",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-10-23",
       "source": "Windsurf Changelog",
       "big": false
     },
@@ -6402,6 +6332,41 @@
       "ts": "2026-10-09T04:36:07+00:00",
       "title": "Guyana AI &amp; Cyber news | Global Newsflix",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://globalnewsflix.com/gy/ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Kwoe8WpouRT9lgv-oVv2G",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6036343272268634596": {
+      "ts": "2026-10-09T22:53:24+00:00",
+      "title": "Dina Khedr, MBA's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/dinakhedr_some-partnerships-you-announce-others-youre-activity-7513931733319294977-C1yW&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1a01AsPNO9Jwu9-YLlJPVE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16008009852546275531": {
+      "ts": "2026-10-09T19:43:49+00:00",
+      "title": "AI agent startup Manus has raised more than $500 million after its $2 billion sale to Meta ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/rundownnewsletter/posts/ai-agent-startup-manus-has-raised-more-than-500-million-after-its-2-billion-sale/984341864687599/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3alAiUBRAS0zAEyDsCCYr-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4756930334428002353": {
+      "ts": "2026-10-09T18:31:59+00:00",
+      "title": "AI agent startup Manus has raised more than $500 million after its $2 billion sale to Meta ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40therundownai/post/DeSD5iniDsa/ai-agent-startup-manus-has-raised-more-than-million-after-its-billion-sale-to&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2yoRNGn9vmNIYiNSbiEIEo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4477667636471287110": {
+      "ts": "2026-10-09T14:49:18+00:00",
+      "title": "AI Workflow Automation with Schedules and Triggers - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/features/automations&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12Z_Q_Vg_DPBi3xGh0Awn5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14227625294877260600": {
+      "ts": "2026-10-09T14:15:50+00:00",
+      "title": "Growth Hacking Your Productivity with AI Agent (2025-06-27) - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/events/all/growth-hacking-your-productivity-with-ai-agent&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ujFuIbhN0Pv5UxMjhxlpd",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
