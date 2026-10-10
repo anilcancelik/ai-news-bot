@@ -14,40 +14,12 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/expanding-ai-access-us-government": {
-      "ts": "2026-09-10T07:00:00+00:00",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "link": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9702336076482961200": {
       "ts": "2026-09-10T13:56:16+00:00",
       "title": "ESSENTIAL AI STACK General Assistants Claude ChatGPT Perplexity ... - Threads",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40aifastlaners/post/DdGLuj7iFU5&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0okwzvIqWhZXVrexhEtGTG",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:857478324815668969": {
-      "ts": "2026-09-10T11:30:06+00:00",
-      "title": "Anthropic's Science Lead Says There's a 10% Chance AI Kills Us All - TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40chrisverzwyvelt/video/7683613937207708958&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3W_QNpJUlTduP9y0YlchRk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11468094401662154351": {
-      "ts": "2026-09-10T10:03:30+00:00",
-      "title": "mango ai 危険 性",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nume.lt/pilka-nozna/druzyna-rakow-czestochowa,spti,8095&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2EWjQ-Uj61aEVc_n6B0R_q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/introducing-chatgpt-financial-services": {
-      "ts": "2026-09-10T07:00:00+00:00",
-      "title": "Introducing ChatGPT for Financial Services",
-      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "source": "OpenAI News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:8717360419860308787": {
       "ts": "2026-09-10T16:18:48+00:00",
@@ -90,13 +62,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/maggizine_building-her-brother-a-voice-with-ai-activity-7503564539452456961-2T6V&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vxKngUcy9RejO4uQBq2qY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "https://cursor.com/blog/projects": {
-      "ts": "2026-09-10T12:00:00+00:00",
-      "title": "Introducing Projects",
-      "link": "https://cursor.com/blog/projects",
-      "source": "Cursor Blog",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:457479459795888152": {
       "ts": "2026-09-11T09:05:18+00:00",
@@ -4536,13 +4501,6 @@
       "source": "Mistral AI News",
       "big": false
     },
-    "https://mistral.ai/news/mistral-x-cloudera": {
-      "ts": "2026-09-10T10:42:55+00:00",
-      "title": "Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data",
-      "link": "https://mistral.ai/news/mistral-x-cloudera",
-      "source": "Mistral AI News",
-      "big": false
-    },
     "https://x.ai/news/team-bots": {
       "ts": "2026-09-28T00:00:00+00:00",
       "title": "Team Bots: shared AI teammates that learn as they work",
@@ -6374,6 +6332,55 @@
       "ts": "2026-10-09T11:26:28+00:00",
       "title": "Remote Staff Backend Engineer — Open-Source, AI-Driven Cloud | Singapore - JobLeads",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/remote-staff-backend-engineer-open-source-ai-driven-cloud--singapore--e2a2bd9949058fdd4b92e5226cdc7e2e4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1i2z3Mh1nC7x7LYpxAIhPE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14761420359763972721": {
+      "ts": "2026-10-10T06:20:03+00:00",
+      "title": "Neura AI Review: My 11-Day Experience Using This Multi-Model AI Tool - Forums",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://community.thermaltake.com/index.php%3F/topic/800280-neura-ai-review-my-11-day-experience-using-this-multi-model-ai-tool/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2niZUYNoJgxojiDtPC6n58",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15022243313845080321": {
+      "ts": "2026-10-10T05:53:13+00:00",
+      "title": "What Funding Has Manus Raised? Full Round History &amp; Key Investors - toflow.ai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://toflow.ai/spotlight/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Wur5k1Sxz4RvKT6bk86RN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11159476407031787050": {
+      "ts": "2026-10-10T02:15:08+00:00",
+      "title": "aiコーディング alternativesAndroid Installation Package - VNUA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vnua.edu.vn/Article/101062278&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2pcN_xqeVyM49l0BnU4GJ7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1961050927905852325": {
+      "ts": "2026-10-10T01:27:49+00:00",
+      "title": "Molbik AI Alternatives — 3 compared (2026) - Stork.AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.stork.ai/alternatives/molbik-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1p8lh1M6BOBenXkGmXXjAl",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12267999764689497618": {
+      "ts": "2026-10-09T22:52:01+00:00",
+      "title": "<b>Manus AI</b> - Ad Library",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ads/library/%3Fid%3D1058992719997554&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vK0ISEiVfp2NpwXylKyoU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2921790874034560502": {
+      "ts": "2026-10-09T22:43:18+00:00",
+      "title": "Web Summit hosts China's tech leaders in Lisbon - Essential Business",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.essential-business.pt/2026/10/09/web-summit-hosts-chinas-tech-leaders-in-lisbon/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3ETRg8QbJfDsoQRPPqmk2k",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12378189682782191974": {
+      "ts": "2026-10-09T17:24:14+00:00",
+      "title": "OpenAI brings GPT 6 Intelligent UI to ChatGPT, Manus raises over $500M, and more",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/pulse/openai-brings-gpt-6-intelligent-ui-chatgpt-manus-raises-over-imsbe&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0LUw13nip8lQ4seYhhcPnF",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
