@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:457479459795888152": {
-      "ts": "2026-09-11T09:05:18+00:00",
-      "title": "How do I opt out of AI crawler blocking for custom domains hosted through Manus? - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wcogff/how_do_i_opt_out_of_ai_crawler_blocking_for/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1oXUCbwRxgauZ4ixAIOm0M",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2357521853676840769": {
-      "ts": "2026-09-11T07:56:12+00:00",
-      "title": "Why China is Barring AI Engineers from Foreign Travels",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.internationalaffairs.org.au/australianoutlook/why-china-is-barring-ai-engineers-from-foreign-travels/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1D-JGfaBAkOlxwV2yo_2w_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/": {
       "ts": "2026-09-11T16:42:45.458829+00:00",
       "title": "Autonomous LLM post-training with Tunix on TPUs",
@@ -32,34 +18,6 @@
       "ts": "2026-09-11T13:34:12+00:00",
       "title": "As I dig into Meta's Muse agent, it appears to be based on <b>Manus AI's</b> IP when the ... - Substack",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://substack.com/%40aisupremacy/note/c-334712587&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28Id3KSDZRtUwbPsThO0XI",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3158597908382727989": {
-      "ts": "2026-09-11T12:21:54+00:00",
-      "title": "AI Agents in ERP &amp; Sales Operations Recap - Vantis Consulting Group",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vantissol.com/event-recap-en/ai-agents-controlled-automation-are-revolutionizing-enterprise-erp/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WORMmyu4Qr-OF4rJSlzUr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12574139653531768263": {
-      "ts": "2026-09-11T11:24:52+00:00",
-      "title": "Android Apps on Google Play",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://play.google.com/store/apps/collection/cluster%3Fgsr%3DSntqLHR1bDAya2lzckVseGkwWWJIN2pHQmVkMy9KOGY1SXhLUUVJMjR6dGZxNmM9wgJHChgKFGNvbS5hbnRocm9waWMuY2xhdWRlEAcYCDABOABKHwgBEAAaE0NsYXVkZSBieSBBbnRocm9waWMgACgAMABQAFgBYACwEgA%253D:S:ANO1ljKXix0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Ymo-HCGf3PU2tVCy24QKT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/scaling-storage-one-billion-users-part-one": {
-      "ts": "2026-09-11T10:00:00+00:00",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1343757836894994914": {
-      "ts": "2026-09-11T07:02:29+00:00",
-      "title": "Lost Muse AI Access - Why? : r/MetaAI - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/MetaAI/comments/1wcy2yd/lost_muse_ai_access_why/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0AOlvjEgVgnjGt0HgoXSvR",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6472,6 +6430,55 @@
       "ts": "2026-10-10T13:33:54+00:00",
       "title": "DCU Innovate's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/dcu-innovate_manusai-artificialintelligence-aiinnovation-activity-7514327026078654464-ht_K&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2DjsjZqxSDM7xdkGKX5sHK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3758901988066074236": {
+      "ts": "2026-10-11T09:04:12+00:00",
+      "title": "<b>Manus AI</b> - General Purpose AI Agents - YesPress",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://yespress.io/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32OfaS8WZ6PUbmkyPJRe7X",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3530918758986936640": {
+      "ts": "2026-10-11T06:58:49+00:00",
+      "title": "Watch Me Use <b>Manus AI</b> to Build a Lead Gen App - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DPc_VRfJrrfc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YhgtHjJ8xWhhujLkSWhly",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10902588535273998242": {
+      "ts": "2026-10-11T03:47:53+00:00",
+      "title": "Manus Just Raised $500 Million. Here's What Most People Are Missing | by Mohammed Shakeel",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://medium.com/%40szn45806/manus-just-raised-500-million-heres-what-most-people-are-missing-799f72bfe332&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00sMliWItcwqGiko3WBXdE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10418598131598747494": {
+      "ts": "2026-10-10T23:54:58+00:00",
+      "title": "<b>Manus AI</b> (arm64-v8a + x86_64) APKs - APKMirror",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.apkmirror.com/apk/butterfly-effect-pte-ltd/manus-ai/variant-%257B%2522arches_slug%2522%253A%255B%2522arm64-v8a%2522%252C%2522x86_64%2522%255D%257D/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Ml6vEHI2b6HYIgRgRNWjr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15115440129330778075": {
+      "ts": "2026-10-10T23:45:36+00:00",
+      "title": "At 59, I am busy searching for architectural references; what I want to automate with AI - note",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://note.com/hirockn/n/n292e23eb7a33%3Fhl%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0n1z3TRBQPLk2agz5Mk0Gd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8276747579951260114": {
+      "ts": "2026-10-10T23:39:59+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLXimtvMwr9Vk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0R06fW-qOiiuCT2UFP3YY0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14567563047939967262": {
+      "ts": "2026-10-10T17:52:49+00:00",
+      "title": "China just blocked #meta from buying <b>Manus ai</b> #news #investing #trading #ai - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/HL9VZPkgCx8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw38Ly3x8n16UioSxp-Vi-VG",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
