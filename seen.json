@@ -1,26 +1,5 @@
 {
   "seen": {
-    "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/": {
-      "ts": "2026-09-11T16:42:45.458829+00:00",
-      "title": "Autonomous LLM post-training with Tunix on TPUs",
-      "link": "https://developers.googleblog.com/autonomous-llm-post-training-with-tunix-on-tpus/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16633240575152223342": {
-      "ts": "2026-09-11T14:54:39+00:00",
-      "title": "Overskill vs <b>Manus AI</b> (2026): Pricing, App Building &amp; Best Use - Cloudzat",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cloudzat.com/overskill-vs-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw24MU2o2ykYqzARqqWRsALs",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6842106348765460979": {
-      "ts": "2026-09-11T13:34:12+00:00",
-      "title": "As I dig into Meta's Muse agent, it appears to be based on <b>Manus AI's</b> IP when the ... - Substack",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://substack.com/%40aisupremacy/note/c-334712587&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28Id3KSDZRtUwbPsThO0XI",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "669e926dd48f4d01": {
       "ts": "2026-09-11T19:25:36+00:00",
       "title": "2.1.269",
@@ -32,13 +11,6 @@
       "ts": "2026-09-14T00:00:00+00:00",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/cognition-devin-testing-with-astra": {
-      "ts": "2026-09-11T16:00:00+00:00",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News",
       "big": false
     },
@@ -139,13 +111,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.microsoft.com/ar-ma/p/ai-app-launcher/9nb1wgb8hs1g&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1G_EKGOrkhJ6zCHW5zUj2w",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:12114514247149890272": {
-      "ts": "2026-09-11T18:02:07+00:00",
-      "title": "<b>Manus Ai Manus AI</b> T-Shirt (unisex) AI Store",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pandorassteakhouse.com/product/category/24554992021350&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1toUWRXpO_wUpxkBk3UOPa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
     },
     "60ff41f97403906c": {
       "ts": "2026-09-12T19:54:30+00:00",
@@ -6479,6 +6444,55 @@
       "ts": "2026-10-10T17:52:49+00:00",
       "title": "China just blocked #meta from buying <b>Manus ai</b> #news #investing #trading #ai - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/HL9VZPkgCx8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw38Ly3x8n16UioSxp-Vi-VG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16619900117016941161": {
+      "ts": "2026-10-11T17:11:30+00:00",
+      "title": "Manus Just Made AI Video Editing INSANELY EASY : r/AISEOInsider - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AISEOInsider/comments/1x3ch32/manus_just_made_ai_video_editing_insanely_easy/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Gjj8SrmA2tcxNuq23t5YJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13228036301225632887": {
+      "ts": "2026-10-11T17:11:20+00:00",
+      "title": "How I'd Use <b>Manus AI</b> Video Editing to Clip Every Webinar : r/AISEOInsider - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AISEOInsider/comments/1x3d4bl/how_id_use_manus_ai_video_editing_to_clip_every/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0KfTP8si-xCMW218QJXQVD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:686561099444270858": {
+      "ts": "2026-10-11T14:21:35+00:00",
+      "title": "Startup Funding Today — 10/11/2026: TypeSafe AI Series A ($870M) leads 12 ... - QuantLogix",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quantlogix.ai/briefing/quantlogix-startup-brief-2026-10-11&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0AWZcEBDwEyR26Tqz4Hxu5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4955784361450917657": {
+      "ts": "2026-10-11T13:02:08+00:00",
+      "title": "Neura AI Review: I Tried It for 7 Days (Honest Results) · AI Income Maxxing - Skool",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.skool.com/data-and-ai/neura-ai-review-i-tried-it-for-7-days-honest-results&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aukMrkkef9rcsfjeCFZQp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17059727413085435328": {
+      "ts": "2026-10-11T09:15:45+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLE4x8v9nOeK4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12rQof1bf_YhuFxQiYvnMB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13910514291184507684": {
+      "ts": "2026-10-11T08:21:41+00:00",
+      "title": "AI startup Manus raises $500M after China blocks Meta deal - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/thetipseason/posts/manus-just-raised-500-million-after-china-crushed-its-meta-dealmanus-is-an-ai-ag/1424717353130863/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3sRLLIbUT2nKGKiwClReSg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3138511163187269402": {
+      "ts": "2026-10-10T20:14:39+00:00",
+      "title": "Which AI Makes Better Websites? #Techi-utsav #replit #manusai #Ai #tech - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/dxQJFZ7p6oI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0frEfivHPBvKZLPrW_J1QP",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
