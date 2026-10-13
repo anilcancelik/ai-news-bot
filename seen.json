@@ -7,20 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:17466134488481046391": {
-      "ts": "2026-09-13T13:48:47+00:00",
-      "title": "Google is Secretly Building an AI Empire - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DA7VfLjQ1keI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hYmRhhbFv7eTBwRUG2DAB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9468013163536089580": {
-      "ts": "2026-09-13T15:01:36+00:00",
-      "title": "Manus Customer Service Number - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-customer-service-number/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2yidArNPAXJrVkdui8VBrV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14242674137478709383": {
       "ts": "2026-09-14T06:04:18+00:00",
       "title": "Beyond Prompting — Meet the AI That Actually Does the Work 🛠️ by Shishir - YouTube",
@@ -6626,6 +6612,132 @@
       "ts": "2026-10-12T16:16:52+00:00",
       "title": "Neura AI Reviews (2026 Updated): Features, Complaints, Pricing &amp; Honest Opinion",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://community.thermaltake.com/index.php%3F/topic/815810-~~-%25C2%25A0neura-ai-reviews-2026-updated-features-complaints-pricing-honest-opinion/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Iv0CnfVkoVZTXp-zgK_Qb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/uber-s-ciso-on-building-an-insider-threat-program-for-ai": {
+      "ts": "2026-10-13T00:00:00+00:00",
+      "title": "Uber's CISO on building an insider threat program for AI",
+      "link": "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/higgsfield-longer-videos-voice": {
+      "ts": "2026-10-13T12:00:00+00:00",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+      "ts": "2026-10-13T16:01:58+00:00",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+      "ts": "2026-10-13T16:01:52+00:00",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/": {
+      "ts": "2026-10-13T00:00:00+00:00",
+      "title": "Optimizing a 200,000-line Python codebase overnight with Gemini 4 Argon",
+      "link": "https://developers.googleblog.com/optimizing-a-200000-line-python-codebase-overnight-with-gemini-4-argon/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/gemini-4-argon-for-robotics/": {
+      "ts": "2026-10-13T00:00:00+00:00",
+      "title": "Gemini 4 Argon for Robotics",
+      "link": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13159335519960755220": {
+      "ts": "2026-10-13T17:55:09+00:00",
+      "title": "Manus just gave AI agents their own phone numbers and digital wallets. That's a bigger shift ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/artificial/comments/1x526jk/manus_just_gave_ai_agents_their_own_phone_numbers/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0tAdMXMdac0jR5JXq5wIGl",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13139592720056827878": {
+      "ts": "2026-10-13T16:47:24+00:00",
+      "title": "ByteDance: AI News Week Ending 08/14/2026 - Ethan B. Holland",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ethanbholland.com/2026/10/13/bytedance-ai-news-week-ending-08-14-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05u68q_-X8bc05_gYTAzmK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4613784325639914361": {
+      "ts": "2026-10-13T16:07:25+00:00",
+      "title": "NEURA AI Reviews and Complaints (2026): Is It Legit? | ChainIDE Forum",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://forum.chainide.com/topic/34699/neura-ai-reviews-and-complaints-2026-is-it-legit&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1m8Wp7zGJAkRakBEd88eWe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7905497982685699688": {
+      "ts": "2026-10-13T15:41:05+00:00",
+      "title": "I Gave Manus 1 Prompt — It Ran My YouTube Channel",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DyWgMoIo8Gos&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30B7kN6wIfrYCGqyeoSHDQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12132386417374563937": {
+      "ts": "2026-10-13T15:33:46+00:00",
+      "title": "AI Agents for Ad Accounts: Muse, Dots and Meta AI - Zenda",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://zenda.com.ar/en/blog/ai-agents-ad-accounts&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2yXi9SQbeHMq_NSCLiBHpQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9736674718861718125": {
+      "ts": "2026-10-13T14:11:03+00:00",
+      "title": "Manus Features: Build, Create, Research and Automate",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/features&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2UV4Wv8dXwqDJWGL_T1dLm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16092325966614325517": {
+      "ts": "2026-10-13T13:25:44+00:00",
+      "title": "Manus Partners with OPPO to Bring Agentic AI Experiences to Smartphones",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/blog/manus-partners-oppo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2uF8-sxBGhdoopNS1lG9v9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11495948798539131841": {
+      "ts": "2026-10-13T12:37:15+00:00",
+      "title": "AI Tools, APIs &amp; Platforms - Hack Forums",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hackforums.net/forumdisplay.php%3Ffid%3D464%26page%3D12&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MTFfmPUykqQ3jX3wGBXy_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15839204823625210469": {
+      "ts": "2026-10-13T12:12:01+00:00",
+      "title": "MobileTelco | OPPO ColorOS 17 is teaming up with <b>Manus AI</b> to deliver a premium on ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/mobiletelco/p/DeZMO7hDIlA/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3vJ2aBinBoncjbqvBPXphE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:215793293941736614": {
+      "ts": "2026-10-13T11:49:12+00:00",
+      "title": "Poe Zhao on X: &quot;In December 2025, Meta agreed to buy Manus, an AI agent startup, for ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/poezhao0605/status/2109791977923359023&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2FwsvV3yMURTmCw0kqNsWe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3087799625422429721": {
+      "ts": "2026-10-13T11:26:22+00:00",
+      "title": "OPPO Partners with Manus to Bring Agentic AI Experiences to Smartphones - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_oppo-partners-with-manus-to-bring-agentic-activity-7515710620193742848-b0-M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12onDpTDuwGzwg9Vi7nAHH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3545396972435445945": {
+      "ts": "2026-10-13T03:39:53+00:00",
+      "title": "Passing on 22 years of overseas work experience to the next generation with AI. What I, at ... - note",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://note.com/hirockn/n/n66c31e2fa890%3Fhl%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3VlZ2ZCqgTmQDxPCKxFhOg",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
