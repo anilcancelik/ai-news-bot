@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:675007011629042000": {
-      "ts": "2026-09-14T18:13:09+00:00",
-      "title": "Manus for Teams | <b>Manus AI</b> - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_manus-for-teams-activity-7505309898335735809-oIhR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2qkFjF23eYH_mj1M_UrGkr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18201469810530591454": {
-      "ts": "2026-09-14T17:53:54+00:00",
-      "title": "Gabe Bo's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/gabebo_i-replaced-all-my-developers-with-ai-that-activity-7505286554064576512-7hE1&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gl1VomAmESnRUPsVpXUIa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "478fc15887d7007c": {
       "ts": "2026-09-14T22:22:43+00:00",
       "title": "2.1.271",
@@ -26,13 +12,6 @@
       "title": "2.1.272",
       "link": "https://code.claude.com/docs/en/changelog#2-1-272",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16986198290573357038": {
-      "ts": "2026-09-14T15:40:10+00:00",
-      "title": "7 Insane Use Cases For <b>Manus AI</b> (with Zero Code) - SafeShare",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://watch.safeshare.tv/watch/86a40aef-3422-433a-ad7b-5bd765a2d7e7&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kypJ_M1NHK0oz1fC8h6_3",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "https://claude.com/blog/building-an-ai-native-revenue-organization": {
@@ -6836,6 +6815,139 @@
       "ts": "2026-10-13T17:30:21+00:00",
       "title": "AI Reports Your Facebook Ads to WhatsApp Every Day: Skill-Wise Scheduled Tasks + ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYkVWQBMZdpc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0v63SxTcWvAMhO62nsYlwA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/agent-observability-on-the-claude-platform": {
+      "ts": "2026-10-14T00:00:00+00:00",
+      "title": "Agent observability on the Claude Platform",
+      "link": "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/amp-beyond-coding": {
+      "ts": "2026-10-14T12:00:00+00:00",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "link": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/sentinelone": {
+      "ts": "2026-10-14T12:00:00+00:00",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "link": "https://openai.com/index/sentinelone",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/third-moment-research": {
+      "ts": "2026-10-14T07:00:00+00:00",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "link": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/": {
+      "ts": "2026-10-14T00:00:00+00:00",
+      "title": "Announcing MCP support in Apigee hybrid: agentic tools that run in your own cluster",
+      "link": "https://developers.googleblog.com/announcing-mcp-support-in-apigee-hybrid-agentic-tools-that-run-in-your-own-cluster/",
+      "source": "Google Developers Blog - AI",
+      "big": true
+    },
+    "https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents": {
+      "ts": "2026-10-14T00:00:00+00:00",
+      "title": "Lessons from scaling teams of coding agents: reach the frontier at 30% of the cost",
+      "link": "https://cohere.com/blog/lessons-from-scaling-teams-of-frontier-coding-agents",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14441911047565049811": {
+      "ts": "2026-10-14T15:29:33+00:00",
+      "title": "Apple TV 4K (4th gen) launched: A19 chip, 4-speaker support, and trackable remote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/2026/10/apple-tv-4th-gen-4k-a19.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2g3-M9RxkgkvQOp_bk-yi4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:10863749728424587425": {
+      "ts": "2026-10-14T15:20:56+00:00",
+      "title": "Chairman of China's Fushine Pharmaceutical Bao Jianhua Detained by Supervisory Authority",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/b10a03f3-19aa-4d81-b16d-78402e29130a&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3GmLCSkR0Tet0atKm2CSXk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9750282109322707471": {
+      "ts": "2026-10-14T15:07:42+00:00",
+      "title": "Introducing Manus for Teams! In the last 6 months, we have seen a fundamental change in ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-manus-for-teams-in-the-last-activity-7516151758604091392-4FWH&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3GrgZxOl1MzQqm6ybII5w9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:17063255723885531936": {
+      "ts": "2026-10-14T12:36:14+00:00",
+      "title": "3 accounts you should think twice about letting an AI agent access, according to a ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tomsguide.com/ai/3-accounts-you-should-think-twice-about-letting-an-ai-agent-access-according-to-a-cybersecurity-expert&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kF8uaRod6TJoqWMHztCtK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11340916166462441051": {
+      "ts": "2026-10-14T11:26:41+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLbZzakPPoVdU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Omua0apNX0OKNQEv9yIvH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17799547236215490134": {
+      "ts": "2026-10-14T10:19:37+00:00",
+      "title": "Photo samples: TECNO CAMON Slim 5G as a travel camera phone—is it good enough?",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/2026/10/tecno-camon-slim-5g-photo-samples.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26CclXjol74spYXuJ12sSV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18117116382665368564": {
+      "ts": "2026-10-14T10:09:30+00:00",
+      "title": "OPPO to integrate <b>Manus AI</b> Agent capabilities into smartphones - GIZGUIDE",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/2026/10/oppo-manus-ai-agent.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2A6WfUBNxQOwvLgyLRTtnp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16440659212691846449": {
+      "ts": "2026-10-14T08:09:54+00:00",
+      "title": "OPPO and Manus Announced a New Ai Agent for The Find X10 Series - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/GizChina/posts/oppo-and-manus-announced-a-new-ai-agent-for-the-find-x10-series/1795827302549652/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XsPy42VEPVjiXGDkgxxad",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:1606613756002034807": {
+      "ts": "2026-10-14T06:11:02+00:00",
+      "title": "OPPO Find X10 to Debut With <b>Manus AI</b> Agent for Multi-Step Tasks | Passionategeekz",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://passionategeekz.com/oppo-find-x10-to-debut-with-manus-ai-agent-for-multi-step-tasks/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0NrM2ZM97JLMSFp8a_992D",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:9319790411991443616": {
+      "ts": "2026-10-14T05:28:10+00:00",
+      "title": "OPPO is teaming up with Manus to bring agentic AI to smartphones. Read here: https ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/gizguideph/posts/oppo-is-teaming-up-with-manus-to-bring-agentic-ai-to-smartphonesread-here-gizgui/1563843522437999/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0s2wLhwNg9RXVKiGvUJpcJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12338847962115851272": {
+      "ts": "2026-10-14T04:24:50+00:00",
+      "title": "Apple HomeView unveiled: A18 chip powered 7-Inch Smart Display in Tabletop &amp; Wall ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/2026/10/apple-homeview-unveiled-a18-chip.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0crjB05Pi5YKjvygqn_u5s",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:6424452308586942643": {
+      "ts": "2026-10-14T02:53:59+00:00",
+      "title": "Julius Jr. Opening lyrics creation made by <b>Manus ai</b> with g major 8 and 9. - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dss18EMf8qzI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3fRqsmEnibxhzUDcUmY9Sr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12878697862916680028": {
+      "ts": "2026-10-14T01:00:21+00:00",
+      "title": "<b>Manus AI</b> Story Generator: AI Writing Assistant for Narrative Creation - AIToolGo",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aitoolgo.com/learning/detail/ai-%25E6%2595%2585%25E4%25BA%258B%25E7%2594%259F%25E6%2588%2590%25E5%2599%25A8-%25E5%259C%25A8%25E7%25BA%25BF%25E5%2588%259B%25E5%25BB%25BA%25E7%259F%25AD%25E7%25AF%2587%25E6%2595%2585%25E4%25BA%258B&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0719ILldcNBGeWrSoCDfIc",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
