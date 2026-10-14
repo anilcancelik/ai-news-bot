@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/perplexity-improving-accuracy-with-astra": {
-      "ts": "2026-09-14T00:00:00+00:00",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14242674137478709383": {
       "ts": "2026-09-14T06:04:18+00:00",
       "title": "Beyond Prompting — Meet the AI That Actually Does the Work 🛠️ by Shishir - YouTube",
@@ -21,20 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:4953529419589028925": {
-      "ts": "2026-09-14T02:44:03+00:00",
-      "title": "<b>Manus AI</b> Agent Features and Advantages - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/manus-ai-agent-features-and-advantages/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2LFlZ3da_7E6iEBmKnfQ1L",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/claude-for-financial-advisors": {
-      "ts": "2026-09-14T00:00:00+00:00",
-      "title": "Claude for Financial Advisors",
-      "link": "https://claude.com/blog/claude-for-financial-advisors",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/fyxer": {
       "ts": "2026-09-14T12:00:00+00:00",
       "title": "How Fyxer built an AI executive assistant people trust",
@@ -47,27 +26,6 @@
       "title": "Writing — Notes on Building - Nemanja Jeremenkovic",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jeremenkovic.com/writing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3n2BUU7HBr4aDVEyRcGQpn",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/deploying-ai-from-pilot-to-production": {
-      "ts": "2026-09-14T00:00:00+00:00",
-      "title": "Deploying AI from pilot to production",
-      "link": "https://claude.com/blog/deploying-ai-from-pilot-to-production",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/how-healthcare-organizations-use-claude-tag": {
-      "ts": "2026-09-14T00:00:00+00:00",
-      "title": "How healthcare organizations use Claude Tag",
-      "link": "https://claude.com/blog/how-healthcare-organizations-use-claude-tag",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic": {
-      "ts": "2026-09-14T00:00:00+00:00",
-      "title": "Agentic coding is straining CI. Here’s how we scaled test impact analysis at Anthropic",
-      "link": "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:675007011629042000": {
@@ -4347,20 +4305,6 @@
       "source": "Perplexity Blog",
       "big": false
     },
-    "https://www.perplexity.ai/hub/blog/portable-computer-for-windows-is-here": {
-      "ts": "2026-09-14T00:00:00+00:00",
-      "title": "Portable Computer for Windows is here",
-      "link": "https://www.perplexity.ai/hub/blog/portable-computer-for-windows-is-here",
-      "source": "Perplexity Blog",
-      "big": true
-    },
-    "https://www.perplexity.ai/hub/blog/cobbledb": {
-      "ts": "2026-09-14T00:00:00+00:00",
-      "title": "CobbleDB: Rebuilding AI search storage for lower latency and cost",
-      "link": "https://www.perplexity.ai/hub/blog/cobbledb",
-      "source": "Perplexity Blog",
-      "big": false
-    },
     "https://windsurf.com/changelog#3.10.48#3.10.48": {
       "ts": "2026-09-29T00:00:00+00:00",
       "title": "Windsurf 3.10.48",
@@ -6822,6 +6766,41 @@
       "ts": "2026-10-13T13:13:25+00:00",
       "title": "Singapore startups capture 91% of SEA venture funding - CFOtech Asia",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://cfotech.asia/story/singapore-startups-capture-91-of-sea-venture-funding&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0iPC3KkEUBRd9TJvuNF9SP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "8d2b9b8d96be5b6c": {
+      "ts": "2026-10-14T03:09:30+00:00",
+      "title": "2.1.299",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-299",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+      "ts": "2026-10-14T02:00:14+00:00",
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17112422736278546800": {
+      "ts": "2026-10-14T01:02:12+00:00",
+      "title": "OPPO has partnered with AI agent platform Manus to give OPPO AI Mind Pilot the ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DedJ2zsgfcO/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WSOMOvmwUmIrpYi_Jk6Oe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9721236534991269022": {
+      "ts": "2026-10-13T20:00:48+00:00",
+      "title": "Taras Mishchenko: articles and news • Mezha — page 10",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mezha.ua/en/author/taras/%3Fpage%3D10&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1O1Q3SH3mG52SOqkPGaiFT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5128866389235923663": {
+      "ts": "2026-10-13T16:47:25+00:00",
+      "title": "Law: AI News Week Ending 08/14/2026 - Ethan B. Holland",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ethanbholland.com/2026/10/13/law-ai-news-week-ending-08-14-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1T8uTsDtmgdsowTdaYFaI7",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
