@@ -1,19 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/fyxer": {
-      "ts": "2026-09-14T12:00:00+00:00",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "link": "https://openai.com/index/fyxer",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13791228308855522870": {
-      "ts": "2026-09-14T10:11:41+00:00",
-      "title": "Writing — Notes on Building - Nemanja Jeremenkovic",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jeremenkovic.com/writing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3n2BUU7HBr4aDVEyRcGQpn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:675007011629042000": {
       "ts": "2026-09-14T18:13:09+00:00",
       "title": "Manus for Teams | <b>Manus AI</b> - LinkedIn",
@@ -6836,6 +6822,20 @@
       "ts": "2026-10-14T00:50:28+00:00",
       "title": "A full year of your progress in one year with manus! #manusia #<b>manus #ai</b> #students ... - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/lUNco0FTIiI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LYgvt7B0cdgwLpqvCXftq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+      "ts": "2026-10-14T00:00:00+00:00",
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8865880111223314190": {
+      "ts": "2026-10-13T17:30:21+00:00",
+      "title": "AI Reports Your Facebook Ads to WhatsApp Every Day: Skill-Wise Scheduled Tasks + ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYkVWQBMZdpc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0v63SxTcWvAMhO62nsYlwA",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
