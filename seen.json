@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14242674137478709383": {
-      "ts": "2026-09-14T06:04:18+00:00",
-      "title": "Beyond Prompting — Meet the AI That Actually Does the Work 🛠️ by Shishir - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D8j-jgQwWMhQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3p0vDmuNfDa3TwtnTdgB_J",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10701776891931801588": {
-      "ts": "2026-09-14T05:27:36+00:00",
-      "title": "chaos on X: &quot;STOP BOOKMARKING RANDOM AI TOOLS. This is the AI Tools Cheat Sheet ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/konig0000/status/2099334481396265059&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0PzQQTzkf7Zwn5BkAJt0fH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/fyxer": {
       "ts": "2026-09-14T12:00:00+00:00",
       "title": "How Fyxer built an AI executive assistant people trust",
@@ -6803,7 +6789,56 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://ethanbholland.com/2026/10/13/law-ai-news-week-ending-08-14-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1T8uTsDtmgdsowTdaYFaI7",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://www.anthropic.com/news/singapore-office-opening": {
+      "ts": "2026-10-14T00:00:00+00:00",
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "link": "https://www.anthropic.com/news/singapore-office-opening",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8866164699607890043": {
+      "ts": "2026-10-14T05:00:14+00:00",
+      "title": "CUE by Manus Productivity: 5 Rules to Manage AI Agents | by Shailendraa Kumar - Medium",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://medium.com/ai-simplified-in-plain-english/cue-by-manus-productivity-5-rules-to-manage-ai-agents-67cae8a6925e&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0In00Y5hJ9ZxjZYzqWr-94",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11322250154914120583": {
+      "ts": "2026-10-14T04:50:15+00:00",
+      "title": "How to Install <b>Manus AI</b> on Windows 10 or 11 [2026] | Step-by-Step - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DH2zgSFRaii4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0rLZ2boGIBnCWetjrD9f5p",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9499047386663617989": {
+      "ts": "2026-10-14T04:50:07+00:00",
+      "title": "How to Add Knowledge in <b>Manus AI</b> (2026) | Step-by-Step - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DU8EkeC6WTaI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LchUQgOZzjgizGcURTBSf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16773957120612559303": {
+      "ts": "2026-10-14T04:47:55+00:00",
+      "title": "How to Check Your <b>Manus AI</b> Credit Usage (2026) | Step-by-Step - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DxypVUThwcDo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zZmWKWry6ZozPb9BaZqeR",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18124330935785179632": {
+      "ts": "2026-10-14T02:58:27+00:00",
+      "title": "How This Boston Startup Is Giving Demolition Waste a Second Life - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/zh-tw/blog/circa-builds-customer-story&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw08dWy5Zo_TUgG-qeEwe9Es",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14653369346192727211": {
+      "ts": "2026-10-14T00:50:28+00:00",
+      "title": "A full year of your progress in one year with manus! #manusia #<b>manus #ai</b> #students ... - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/lUNco0FTIiI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LYgvt7B0cdgwLpqvCXftq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-10-13"
+  "last_digest_date": "2026-10-14"
 }
