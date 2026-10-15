@@ -1,19 +1,5 @@
 {
   "seen": {
-    "ca210a6940eddf77": {
-      "ts": "2026-09-15T20:30:45+00:00",
-      "title": "2.1.273",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-273",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12963000723015742537": {
-      "ts": "2026-09-15T19:23:12+00:00",
-      "title": "8 Better Tools Than Claude!? 1. ViralityAI.net: Go Viral in 24hrs 2. Drama.land: INSANE ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DdULOH1NRFt/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34RSR0VCVVi7iBJdwNoFE_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12197167658968911394": {
       "ts": "2026-09-16T00:31:17+00:00",
       "title": "<b>Manus AI</b> Pro Cookies #1 | Pinoy Internet and Technology Forums - PHCorner",
@@ -7172,6 +7158,48 @@
       "ts": "2026-10-15T06:33:48+00:00",
       "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLIJR-M8aZM2M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2OY4h7hYZcZV2Ml0Dr0ouu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "818e44f79ebc3d83": {
+      "ts": "2026-10-15T19:52:50+00:00",
+      "title": "2.1.301",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-301",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://claude.com/blog/code-review-is-now-generally-available": {
+      "ts": "2026-10-15T00:00:00+00:00",
+      "title": "Code Review is now generally available",
+      "link": "https://claude.com/resources/articles/code-review-is-now-generally-available",
+      "source": "Claude Blog",
+      "big": true
+    },
+    "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/": {
+      "ts": "2026-10-15T00:00:00+00:00",
+      "title": "Announcing DPoP Support for Google OAuth: Securing Refresh Tokens",
+      "link": "https://developers.googleblog.com/announcing-dpop-support-for-google-oauth-securing-refresh-tokens/",
+      "source": "Google Developers Blog - AI",
+      "big": true
+    },
+    "https://cohere.com/blog/ai-for-utilities-requires-capability-and-control": {
+      "ts": "2026-10-15T00:00:00+00:00",
+      "title": "AI for utilities requires capability and control",
+      "link": "https://cohere.com/blog/ai-for-utilities-requires-capability-and-control",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6457078224895086571": {
+      "ts": "2026-10-15T17:24:23+00:00",
+      "title": "You can now put repetitive work on autopilot with Manus! All you need is to tell Manus when ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_you-can-now-put-repetitive-work-on-autopilot-activity-7516514117524963332-l5JP&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1RHmgRmXqeqoHl0qhVlajE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12619447011063225020": {
+      "ts": "2026-10-15T10:51:18+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLVUp02yLewGM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0i4q-NGJcuieU1VtvWpti3",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
