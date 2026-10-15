@@ -1,39 +1,11 @@
 {
   "seen": {
-    "478fc15887d7007c": {
-      "ts": "2026-09-14T22:22:43+00:00",
-      "title": "2.1.271",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-271",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "127566b40ce4d70f": {
       "ts": "2026-09-15T00:50:37+00:00",
       "title": "2.1.272",
       "link": "https://code.claude.com/docs/en/changelog#2-1-272",
       "source": "Claude Code changelog",
       "big": false
-    },
-    "https://claude.com/blog/building-an-ai-native-revenue-organization": {
-      "ts": "2026-09-15T00:00:00+00:00",
-      "title": "Building an AI-native revenue organization",
-      "link": "https://claude.com/blog/building-an-ai-native-revenue-organization",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/salesforce-in-claude": {
-      "ts": "2026-09-15T00:00:00+00:00",
-      "title": "Bringing Salesforce into Claude",
-      "link": "https://claude.com/blog/salesforce-in-claude",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs": {
-      "ts": "2026-09-15T00:00:00+00:00",
-      "title": "Claude for Small Business launches new workflows, integrations, and training programs",
-      "link": "https://claude.com/blog/claude-for-small-business-launches-new-workflows-integrations-and-training-programs",
-      "source": "Claude Blog",
-      "big": true
     },
     "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/": {
       "ts": "2026-09-15T17:05:57+00:00",
@@ -4235,27 +4207,6 @@
       "source": "Perplexity Blog",
       "big": false
     },
-    "https://www.perplexity.ai/hub/blog/shadow-ai": {
-      "ts": "2026-09-15T00:00:00+00:00",
-      "title": "Shadow AI: Why employees go around IT, and what ends it",
-      "link": "https://www.perplexity.ai/hub/blog/shadow-ai",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/perplexity-comes-to-more-windows-pcs-with-hp": {
-      "ts": "2026-09-15T00:00:00+00:00",
-      "title": "Perplexity comes to more Windows PCs with HP",
-      "link": "https://www.perplexity.ai/hub/blog/perplexity-comes-to-more-windows-pcs-with-hp",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/ai-detector": {
-      "ts": "2026-09-15T00:00:00+00:00",
-      "title": "How AI detectors work and why a score alone can’t prove authorship",
-      "link": "https://www.perplexity.ai/hub/blog/ai-detector",
-      "source": "Perplexity Blog",
-      "big": false
-    },
     "https://windsurf.com/changelog#3.10.48#3.10.48": {
       "ts": "2026-09-29T00:00:00+00:00",
       "title": "Windsurf 3.10.48",
@@ -4274,13 +4225,6 @@
       "ts": "2026-09-16T00:00:00+00:00",
       "title": "Windsurf 3.10.31",
       "link": "https://docs.devin.ai/desktop/changelog#v3-10-31",
-      "source": "Windsurf Changelog",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.10.27#3.10.27": {
-      "ts": "2026-09-15T00:00:00+00:00",
-      "title": "Windsurf 3.10.27",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-10-27",
       "source": "Windsurf Changelog",
       "big": false
     },
@@ -6969,6 +6913,41 @@
       "ts": "2026-10-14T16:30:59+00:00",
       "title": "Inner AI - You Might Also Like - App Store - Apple",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/ca/app/6720709318%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0QZTySrr-Wwez1kGp_9W3J",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/block-ai-powered-security": {
+      "ts": "2026-10-14T07:00:00+00:00",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "link": "https://openai.com/index/block-ai-powered-security",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1130930784012913028": {
+      "ts": "2026-10-14T23:12:43+00:00",
+      "title": "Turn One Video Into Multiple Camera Angles With <b>Manus AI</b>",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/letsdodizz/videos/one-video-multiple-camera-angles-all-powered-by-ai-this-ai-tool-can-turn-a-singl/1338864901510350/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3qtNbbBVNcvkoRknSSjU5v",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11571781114234330171": {
+      "ts": "2026-10-14T23:08:51+00:00",
+      "title": "One video. Multiple camera angles. All powered by AI! This AI too... - TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40letsdodiz/video/7696664089212226829&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0H_CJ7Lq7hpnLF8fFD-Qc3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:750938585808039174": {
+      "ts": "2026-10-14T21:22:15+00:00",
+      "title": "i was testing my game and caught myself playing with the dead bodies - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aigamedev/comments/1x62kcp/i_was_testing_my_game_and_caught_myself_playing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2CjR6RNEWs2OzM1Idb-i48",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10048988370006041515": {
+      "ts": "2026-10-14T19:05:54+00:00",
+      "title": "How to Use Manus Flex to Bring Cheaper &amp; Better Model into <b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhzQUKPtuCnQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rz-Y-cc3Wh_BM2upv1msc",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
