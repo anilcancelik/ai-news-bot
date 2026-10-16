@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/reimagining-advertising-with-ai": {
-      "ts": "2026-09-16T13:00:00+00:00",
-      "title": "Reimagining advertising with AI",
-      "link": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
       "ts": "2026-09-16T16:00:00+00:00",
       "title": "Helping older adults use AI in everyday life",
@@ -28,55 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:7538031581490945843": {
-      "ts": "2026-09-16T12:38:53+00:00",
-      "title": "Goh Liyun's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/gohliyun_my-partner-is-a-robotics-engineer-i-work-activity-7505915562024415232-NYov&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cnugI6YygMk35nqvrbol5",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15366228811444264909": {
-      "ts": "2026-09-16T11:54:12+00:00",
-      "title": "Glad to announce <b>Manus AI</b> is now part of the Singapore's national SkillsFuture AI ... - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/chanyinglunalan_glad-to-announce-manus-ai-is-now-part-of-activity-7505933427364421632-X-UY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qmAJYi-sraOjIpYDjk48g",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16313237179472172939": {
-      "ts": "2026-09-16T11:47:38+00:00",
-      "title": "Learn AI with Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://learnai.manus.im/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3jwTRRTHwvKcC6fjcJhvvj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16337686456612438827": {
-      "ts": "2026-09-16T11:20:10+00:00",
-      "title": "Singaporeans Can Get 6 Months of ChatGPT Plus or Other Premium AI Tools Free After ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://goodyfeed.com/singaporeans-can-get-6-months-of-chatgpt-plus-or-other-premium-ai-tools-free-after-taking-eligible-ai-course/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lq1LdKXgPnUVsqO-9z0ZO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4542404748653116762": {
-      "ts": "2026-09-16T10:32:04+00:00",
-      "title": "Expanding Access to Practical AI Learning - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/blog/learn-ai-with-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw31ScFvg_1FA_li29nil5N4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12723930277405246316": {
-      "ts": "2026-09-16T10:07:15+00:00",
-      "title": "PM Wong urges firms to plan for workers as SWDA rolls out over 200 AI courses",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.theonlinecitizen.com/2026/09/16/pm-wong-urges-firms-to-plan-for-workers-as-swda-rolls-out-over-200-ai-courses&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aLNpktqfmO-kgtK3Pfsls",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/how-to-connect-ai-usage-to-business-value": {
-      "ts": "2026-09-16T12:00:00+00:00",
-      "title": "How to connect AI usage to business value",
-      "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/": {
       "ts": "2026-09-16T20:45:48.065692+00:00",
       "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
@@ -88,27 +32,6 @@
       "ts": "2026-09-16T17:18:06+00:00",
       "title": "Redeem AI Subscription to Further Your AI Learning | Education, Career and Personal Development",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/redeem-ai-subscription.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aYbGCxQoITg4d1x-sA6lH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1635733705829138051": {
-      "ts": "2026-09-16T12:44:21+00:00",
-      "title": "Link X mart - Multi-Vendor Marketplace",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkxmart.com/products%3Fcategory%3Ddigital-products&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aPOTgzXvNmt3dI3iD8PgX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10107573189554252409": {
-      "ts": "2026-09-16T12:19:58+00:00",
-      "title": "Starting from today (Sept 16), those wishing to deepen their AI capabilities can choose from ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/asiaonecom/videos/starting-from-today-sept-16-those-wishing-to-deepen-their-ai-capabilities-can-ch/1397449108537878/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Tf0YXxrV0MIXl7vZUs-Wc",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11788910626917966644": {
-      "ts": "2026-09-16T11:12:53+00:00",
-      "title": "<b>Manus AI's</b> Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_today-were-launching-learn-ai-with-manus-activity-7505905834883825665-cBhJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Zl3plShNPXzDzhvw4wZL_",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -593,13 +516,6 @@
       "title": "I wanted to see how far <b>Manus AI</b> could take an idea beyond a simple chat response. So I ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/augustaegesi_i-wanted-to-see-how-far-manus-ai-could-take-activity-7506660997374414848-eQ7E&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QgiAVlIYAzWKzFXNkuZwN",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/hex-gpt-6-astra": {
-      "ts": "2026-09-16T12:00:00+00:00",
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "link": "https://openai.com/index/hex-gpt-6-astra",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:1853743342819107302": {
@@ -3700,13 +3616,6 @@
       "ts": "2026-09-28T15:57:59+00:00",
       "title": "Hallo, Deutschland!",
       "link": "https://mistral.ai/news/hallo-deutschland",
-      "source": "Mistral AI News",
-      "big": false
-    },
-    "https://mistral.ai/news/mistral-x-mozilla": {
-      "ts": "2026-09-16T12:00:00+00:00",
-      "title": "Mistral and Mozilla are bringing open, private and multilingual AI to your web browser",
-      "link": "https://mistral.ai/news/mistral-x-mozilla",
       "source": "Mistral AI News",
       "big": false
     },
@@ -7067,6 +6976,41 @@
       "ts": "2026-10-15T14:20:08+00:00",
       "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLFRvsWv9y2jI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0oek6vyWCWy42CJ1-5SG1Y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5358912311648401850": {
+      "ts": "2026-10-16T10:34:15+00:00",
+      "title": "Manus for Business: Pricing, Use Cases, and Alternatives (2026)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://powerdrill.ai/blog/manus-for-business&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Op1F3Er3Hsgmv7tWpoNCt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14830119299110842135": {
+      "ts": "2026-10-16T06:54:22+00:00",
+      "title": "vibecoding videogames has never been so easy with @<b>manus #ai</b> #vibecoding #tech ... - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DFZupZK8jE1U&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1olvzjNj8Zl5THRcvwYaKf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17726293109231999505": {
+      "ts": "2026-10-16T05:56:56+00:00",
+      "title": "AI Models for Video, Image, Audio and 3D - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/models&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uT6RJtPBxIpItuFBS9BO9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13319438369273324113": {
+      "ts": "2026-10-16T04:08:18+00:00",
+      "title": "#manusai #aiagents #singtelaipass #singtelchamps | William Liu - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ruiqian-liu_manusai-aiagents-singtelaipass-activity-7516671784507604992-fnJa&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34pBYLA9PfPdOYPzqOI2NF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14941130076006365309": {
+      "ts": "2026-10-15T19:00:13+00:00",
+      "title": "Video Background Remover - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/tools/video-background-remover&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12toPfeSV6eDsi9AxBEZPU",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
