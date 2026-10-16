@@ -1,45 +1,10 @@
 {
   "seen": {
-    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life": {
-      "ts": "2026-09-16T16:00:00+00:00",
-      "title": "Helping older adults use AI in everyday life",
-      "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17163428682622398965": {
-      "ts": "2026-09-16T15:33:09+00:00",
-      "title": "I Tested The 1-Prompt Long Video Factory For 30 Days, And YouTube Did This...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBPTA6-7TY8I&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2C1ZRHaVUgxAHUObjj1Otd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2405913659772818704": {
-      "ts": "2026-09-16T15:05:56+00:00",
-      "title": "Singapore Rolls Out 200 AI Courses as Jobs Enter a New Era | NewFortuneTimes.com",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newfortunetimes.com/singapore-rolls-out-200-ai-courses-as-jobs-enter-a-new-era/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_IJul5CALJ6nUZKsxnJvF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/": {
       "ts": "2026-09-16T20:45:48.065692+00:00",
       "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
       "link": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
       "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4507863486735695853": {
-      "ts": "2026-09-16T17:18:06+00:00",
-      "title": "Redeem AI Subscription to Further Your AI Learning | Education, Career and Personal Development",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.myskillsfuture.gov.sg/content/portal/en/career-resources/career-resources/education-career-personal-development/redeem-ai-subscription.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aYbGCxQoITg4d1x-sA6lH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/model-misalignment-reporting-framework": {
-      "ts": "2026-09-16T17:00:00+00:00",
-      "title": "Our framework for reporting model misalignment",
-      "link": "https://openai.com/index/model-misalignment-reporting-framework",
-      "source": "OpenAI News",
       "big": false
     },
     "3f43c015369ec006": {
@@ -67,20 +32,6 @@
       "ts": "2026-09-16T20:41:28+00:00",
       "title": "Purely for fun WHEN AI FINALLY TAKES OVER THE WORLD - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/evolutionunleashedai/posts/28216631464624570/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1oiEfrhGgWCNlV0HOBhQO3",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8583948386060469123": {
-      "ts": "2026-09-16T18:08:27+00:00",
-      "title": "Annie Liao 's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/annieliaoo_one-of-the-most-exciting-projects-our-team-activity-7506031627161116672-Niz9&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1U-eOaA_5wKYckMvkBy8nG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11529915521140050647": {
-      "ts": "2026-09-16T16:09:22+00:00",
-      "title": "Ian Yong Hoe Tan's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/iantan1976_which-freebie-ai-premium-tool-should-you-activity-7505975147678388224-pu21&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0BeMh4OcqzLIHv8PVishFK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -137,13 +88,6 @@
       "ts": "2026-09-17T04:15:32+00:00",
       "title": "Parker Lyman's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/lyman-parker_today-we-launched-learn-ai-with-manus-a-activity-7506178285706489856-UlJE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IgtlGlUwfHkcfVS9AxnGe",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6581626849302095205": {
-      "ts": "2026-09-16T15:45:09+00:00",
-      "title": "<b>Manus AI</b> – 12 Months - Siddharth Store",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://siddharthstore.com/products/manus-ai-12-months&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XWauXRcKu6g-TrdrB9_W6",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -7011,6 +6955,97 @@
       "ts": "2026-10-15T19:00:13+00:00",
       "title": "Video Background Remover - Manus",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/tools/video-background-remover&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12toPfeSV6eDsi9AxBEZPU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.dev/blog/solving-code-review-at-anthropic/": {
+      "ts": "2026-10-16T00:00:00+00:00",
+      "title": "How the Claude Code team does code review",
+      "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/how-an-anthropic-japan-business-development-representative-runs-his-day": {
+      "ts": "2026-10-16T00:00:00+00:00",
+      "title": "How an Anthropic Japan BDR runs his day with a fleet of Claude agents",
+      "link": "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://ollama.com/blog/reflection-beam": {
+      "ts": "2026-10-16T00:00:00+00:00",
+      "title": "Reflection's Beam is freely available on Ollama for a limited time",
+      "link": "https://ollama.com/blog/reflection-beam",
+      "source": "Ollama Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:752068643727301471": {
+      "ts": "2026-10-16T13:24:51+00:00",
+      "title": "Fireflies.ai UI UX Examples &amp; Screenshots | SaaSUI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.saasui.design/application/fireflies&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1N5B7tLQWt-TIKQS_N0j9J",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12426625753681388510": {
+      "ts": "2026-10-16T13:19:47+00:00",
+      "title": "Ready your wallets, the OPPO Find X10 Series will be available in the Philippines!",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/2026/10/oppo-find-x10-series-philippines-teaser.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0cMVLvQ5E799UN6i5ydb10",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6285382788009745674": {
+      "ts": "2026-10-16T10:58:21+00:00",
+      "title": "<b>Manus AI</b> Pricing 2026: Plans, Credits &amp; Real Cost - GlobalGPT",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.glbgpt.com/hub/manus-ai-pricing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1I0DsHsga9iLeFIfXqnjdM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:646455892139893198": {
+      "ts": "2026-10-16T06:27:54+00:00",
+      "title": "Seedance 2.0 AI Video Generator - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/ar/models/seedance-2-0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1PNTHF_Z6cuwjR21QNoP7L",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5985814174618828305": {
+      "ts": "2026-10-16T03:33:34+00:00",
+      "title": "AI Image Generator Online: Text to Image - <b>Manus AI</b>.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://majidspizza.de/hbgaf318&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3pzWE0JILtLb0QznoE2hBh",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10562918664724346238": {
+      "ts": "2026-10-15T22:03:35+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLDbCxFEvQc4M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2NizFDGeFthtV7ac3qiKuA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15917310932067643235": {
+      "ts": "2026-10-15T21:50:22+00:00",
+      "title": "Sample Sponsorship Slides &amp; Deck Playground - Sponsari",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sponsari.ai/playground&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0sj6Uo23-c16osseQzsrA2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3959665969274535352": {
+      "ts": "2026-10-15T21:06:05+00:00",
+      "title": "The 5 Best AI Agents for Your Desktop in 2026 - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/uk/blog/best-ai-agents-for-desktop&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nTQ-4olwqsEQGdX3rofiY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:286844581855536093": {
+      "ts": "2026-10-15T19:22:10+00:00",
+      "title": "The Best AI App Builders in 2026– We Tested 7 Platforms With the Same Prompt - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/pl/blog/best-ai-app-builders&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32mlEnKDvgF6WXxuG5-8Q0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13862135751419477": {
+      "ts": "2026-10-15T18:04:03+00:00",
+      "title": "7 Best <b>Manus AI</b> Alternatives in 2026 | DevToolLab Blog",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://devtoollab.com/blog/manus-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1p6GmSRGxQOlAlOdq6vUHb",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
