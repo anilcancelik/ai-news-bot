@@ -7083,6 +7083,41 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dwq8OxMojEUY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0rw9AVm8xWHn2uDnA7dA87",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/itau-generative-ai": {
+      "ts": "2026-10-16T19:00:00+00:00",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "link": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15256197686773327087": {
+      "ts": "2026-10-16T16:42:48+00:00",
+      "title": "ManyMotions MCP — connect any AI agent",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manymotions.com/mcp&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3h_o7bZC5JcP1kBF3uznRU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11120294999634037096": {
+      "ts": "2026-10-16T15:18:16+00:00",
+      "title": "Manus: does it work outside China? Pricing &amp; API - ChuhaiStack",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://chinaaistack.com/tool/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jbH8ZM2sl5z_xmbv0Godc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1637991167012981869": {
+      "ts": "2026-10-16T08:04:23+00:00",
+      "title": "תמונות לבדוי",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nptpy4ut2-amphtml.terresaintezarlor.re/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IznAlTKB_kIVBsAo9P1Ah",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18197416864938988215": {
+      "ts": "2026-10-16T05:25:37+00:00",
+      "title": "Expanding Access to Practical AI Learning - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.manus.im/zh-hk/blog/learn-ai-with-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0efllmwR1n4Ciq4dEcgY0r",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-10-16"
