@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/": {
-      "ts": "2026-09-16T20:45:48.065692+00:00",
-      "title": "Agent Anomaly Detection, now in Private Preview on the Gemini Enterprise Agent Platform",
-      "link": "https://developers.googleblog.com/agent-anomaly-detection-now-in-private-preview-on-the-gemini-enterprise-agent-platform/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "3f43c015369ec006": {
       "ts": "2026-09-17T00:19:50+00:00",
       "title": "2.1.274",
@@ -14,24 +7,10 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:9794685609131384639": {
-      "ts": "2026-09-16T19:39:23+00:00",
-      "title": "Amid a Battery Squeeze at Home, CATL Pursues Europe's Big Rig Market",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theinformation.com/newsletters/the-electric/amid-battery-squeeze-home-catl-pursues-europes-big-rig-market&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0wsioBNvt6FXgCIs4ktzeS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7561952301989767768": {
       "ts": "2026-09-17T03:21:34+00:00",
       "title": "Should I continue using Manus for deploying and publishing, or explore alternative options?",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/claudecommunity/posts/1119340740606590/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30tt82zU0vSnC7QHf6yNTo",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13903067052608735858": {
-      "ts": "2026-09-16T20:41:28+00:00",
-      "title": "Purely for fun WHEN AI FINALLY TAKES OVER THE WORLD - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/evolutionunleashedai/posts/28216631464624570/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1oiEfrhGgWCNlV0HOBhQO3",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -165,13 +144,6 @@
       "ts": "2026-09-17T06:56:09+00:00",
       "title": "Sources: Manus is set to soon close a $500M funding round at a $4B valuation ... - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Techmeme/posts/sources-manus-is-set-to-soon-close-a-500m-funding-round-at-a-4b-valuation-signal/1530609409101368/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1YtaYF5ACuY2lE7bKs4LFT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18398416432001975765": {
-      "ts": "2026-09-16T19:39:35+00:00",
-      "title": "get your free Manus Pro subscription (worth S$300) with SkillsFuture SG It's the best deal ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/louiedooey/status/2100140567682552008&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3uzixIXH4TMJLsg3PRZAi5",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -7046,6 +7018,69 @@
       "ts": "2026-10-15T18:04:03+00:00",
       "title": "7 Best <b>Manus AI</b> Alternatives in 2026 | DevToolLab Blog",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://devtoollab.com/blog/manus-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1p6GmSRGxQOlAlOdq6vUHb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "870b9b00da5c18eb": {
+      "ts": "2026-10-16T21:03:05+00:00",
+      "title": "2.1.302",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-302",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+      "ts": "2026-10-16T00:00:00+00:00",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4258920267844106705": {
+      "ts": "2026-10-16T20:13:38+00:00",
+      "title": "<b>Manus-AI</b> really saving me     #ai #tech #vibecoding #manuspartner #sponsored - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dq8L40_SaZbg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2zjRLUqv_XzGQxs-8Zj34G",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14840939902025478980": {
+      "ts": "2026-10-16T18:32:20+00:00",
+      "title": "Enjoyed tee time with the @<b>Manus AI</b> team and Frame Golf in Culver Cit... | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40billionheirkc/video/7697114113062882574&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Hl94Y-_UqdVIZh47cDYTT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8315970565069878533": {
+      "ts": "2026-10-16T16:29:49+00:00",
+      "title": "~~ NEURA AI Demo &amp; Review: Explore Its AI Automation Features !! | WebMaster - ewebdiscussion",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ewebdiscussion.com/threads/neura-ai-demo-review-explore-its-ai-automation-features.447358/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw22yplOPAIEgAitN5ttcDrn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7965813193401456500": {
+      "ts": "2026-10-16T07:42:53+00:00",
+      "title": "Hey ‪@<b>Manus-AI</b>‬ thanks for the TEE TIME ⛳️ #manusai #ai #createsmarter - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/hczTvsU7C1g&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NMHLGu-w_UY-GMxmyzVGv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3894464030754910381": {
+      "ts": "2026-10-16T03:27:22+00:00",
+      "title": "AI Agent for Small Business Owners - VOPSy",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vopsy.ai/ai-agent-for-small-business&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12zRU-b5MYtDAYCpCM_vZ7",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9582591470439578264": {
+      "ts": "2026-10-16T02:51:05+00:00",
+      "title": "<b>Manus AI</b> Alternative for Business Owners - VOPSy",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vopsy.ai/manus-alternative&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1utg71VyGoIvJV_0WR2h1W",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14830540242933281207": {
+      "ts": "2026-10-15T23:56:54+00:00",
+      "title": "<b>Manus AI</b> Se Video Editing Kaise Karwayein? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dwq8OxMojEUY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0rw9AVm8xWHn2uDnA7dA87",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
