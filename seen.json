@@ -1,12 +1,5 @@
 {
   "seen": {
-    "3f43c015369ec006": {
-      "ts": "2026-09-17T00:19:50+00:00",
-      "title": "2.1.274",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-274",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7561952301989767768": {
       "ts": "2026-09-17T03:21:34+00:00",
       "title": "Should I continue using Manus for deploying and publishing, or explore alternative options?",
@@ -49,13 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6996670179685343734": {
-      "ts": "2026-09-17T01:48:41+00:00",
-      "title": "Cookies - <b>Manus.ai</b> plan/pro with 640k credits | Pinoy Internet and Technology Forums",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://phcorner.org/threads/2604172/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MzvJRyov16ZqbADTWWSxD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9291433816550599765": {
       "ts": "2026-09-17T11:08:34+00:00",
       "title": "Manus targets $4B valuation in $500M round after Meta split | Dealroom News",
@@ -69,27 +55,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/lyman-parker_today-we-launched-learn-ai-with-manus-a-activity-7506178285706489856-UlJE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IgtlGlUwfHkcfVS9AxnGe",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "https://www.anthropic.com/news/life-sciences-verification-program": {
-      "ts": "2026-09-17T00:00:00+00:00",
-      "title": "Introducing the Life Sciences Verification Program",
-      "link": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "source": "Anthropic News",
-      "big": true
-    },
-    "https://claude.com/blog/projects-redesigned": {
-      "ts": "2026-09-17T00:00:00+00:00",
-      "title": "Projects redesigned: from folder to conversation",
-      "link": "https://claude.com/blog/projects-redesigned",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://openai.com/index/astra-for-law": {
-      "ts": "2026-09-17T00:00:00+00:00",
-      "title": "Introducing Astra for Law",
-      "link": "https://openai.com/index/astra-for-law",
-      "source": "OpenAI News",
-      "big": true
     },
     "https://developers.googleblog.com/why-client-sdk-generation-belongs-in-the-open/": {
       "ts": "2026-09-17T20:27:20.664524+00:00",
@@ -152,13 +117,6 @@
       "title": "2.1.275",
       "link": "https://code.claude.com/docs/en/changelog#2-1-275",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5": {
-      "ts": "2026-09-17T00:00:00+00:00",
-      "title": "Working at the frontier: How Balyasny Asset Management evaluates and governs Claude Fable 5",
-      "link": "https://claude.com/blog/working-at-the-frontier-how-balyasny-asset-management-evaluates-and-governs-claude-fable-5",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:8748057866498509129": {
@@ -3696,20 +3654,6 @@
       "source": "Perplexity Blog",
       "big": false
     },
-    "https://www.perplexity.ai/hub/blog/computer-adds-effort-mode-for-model-selection": {
-      "ts": "2026-09-17T00:00:00+00:00",
-      "title": "Computer adds effort controls for model selection",
-      "link": "https://www.perplexity.ai/hub/blog/computer-adds-effort-mode-for-model-selection",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/ai-in-the-workplace": {
-      "ts": "2026-09-17T00:00:00+00:00",
-      "title": "AI in the workplace: A practical guide for knowledge workers",
-      "link": "https://www.perplexity.ai/hub/blog/ai-in-the-workplace",
-      "source": "Perplexity Blog",
-      "big": false
-    },
     "https://windsurf.com/changelog#3.10.48#3.10.48": {
       "ts": "2026-09-29T00:00:00+00:00",
       "title": "Windsurf 3.10.48",
@@ -7116,6 +7060,27 @@
       "ts": "2026-10-16T05:25:37+00:00",
       "title": "Expanding Access to Practical AI Learning - Manus",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.manus.im/zh-hk/blog/learn-ai-with-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0efllmwR1n4Ciq4dEcgY0r",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2139707318749584478": {
+      "ts": "2026-10-16T23:01:25+00:00",
+      "title": "Meta agreed to buy Manus for $2 billion, then Beijing stopped it. Its AI agent went viral so ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeiT6H-EVOU/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3aha4E6SjrrS8iKEBoSIQJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16720585398865510061": {
+      "ts": "2026-10-16T16:54:56+00:00",
+      "title": "NEURA AI Honest Review 2026: Features, Pricing, Pros &amp; Cons - Forums",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://community.thermaltake.com/index.php%3F/topic/846612-neura-ai-honest-review-2026-features-pricing-pros-cons/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0uVvD-hcOHygyDbUvRYm43",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5154370873985583697": {
+      "ts": "2026-10-16T09:23:48+00:00",
+      "title": "What I want to automate with AI translation after 22 years of working in Thailand. Even if we ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://note.com/hirockn/n/nef5a9551707b%3Fhl%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw16uYvQlx0XaWwNeOaBcu19",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
