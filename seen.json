@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1853743342819107302": {
-      "ts": "2026-09-18T22:02:56+00:00",
-      "title": "AI Tools I'm Using in 2026 Dola — Smart Scheduling Kimi — Deep Research AirTap",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40ai.tools_list/post/DdcGsuigWag/ai-tools-im-using-in-dola-smart-scheduling-kimi-deep-research-air-tap-ai-action/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2KslGajiLmKn_Z1gbiILzu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "a09fa9a62b9b657c": {
       "ts": "2026-09-19T03:19:41+00:00",
       "title": "2.1.278",
@@ -18,13 +11,6 @@
       "ts": "2026-09-19T05:32:05+00:00",
       "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40techcrunch/post/Ddb4YZRG3cK/manus-seeks-b-valuation-in-new-m-fundraise-as-it-resumes-independent-ops-utm/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1lSgYzeybwBaVvQnDq91Oz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2826605827049266350": {
-      "ts": "2026-09-18T22:31:55+00:00",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.winzheng.com/en/article/manus-500m-fundraise-4b-valuation&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3noX22Wh7wvwMsqYH8RIYe",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6866,6 +6852,27 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.agentdidit.com/tasks/work&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17IZer11UIYT5wNXl7QWNb",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "827ba595352a5d6a": {
+      "ts": "2026-10-18T22:38:03+00:00",
+      "title": "2.1.303",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-303",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14078052629156569493": {
+      "ts": "2026-10-18T05:16:37+00:00",
+      "title": "This Pharmacist Created A Fitness Tracker that Adapts As Your Body Changes - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/nl/blog/alyak-tv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rj8EPZnbJ5C1Jh52M-35j",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15536527766472569346": {
+      "ts": "2026-10-17T22:10:41+00:00",
+      "title": "Introducing Branch: One Context, Many Parallel Directions - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/cs/blog/manus-branch&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ILpxkuh8znY7tMZi6xoS0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-10-18"
