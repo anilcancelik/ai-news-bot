@@ -1,47 +1,5 @@
 {
   "seen": {
-    "a09fa9a62b9b657c": {
-      "ts": "2026-09-19T03:19:41+00:00",
-      "title": "2.1.278",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-278",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7616881421673595637": {
-      "ts": "2026-09-19T05:32:05+00:00",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40techcrunch/post/Ddb4YZRG3cK/manus-seeks-b-valuation-in-new-m-fundraise-as-it-resumes-independent-ops-utm/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1lSgYzeybwBaVvQnDq91Oz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8710214093931911355": {
-      "ts": "2026-09-19T07:07:45+00:00",
-      "title": "Six AI Startup Demos from SF Demo Night - Data Phoenix",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dataphoenix.info/videos/sf-demo-night-2026-09-03-w-the-ai-collective&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0N-T94xT3o4JZh0IZ1in14",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:91310744531053856": {
-      "ts": "2026-09-19T05:58:59+00:00",
-      "title": "<b>Manus AI</b> seeks $500 million, weighs Hong Kong IPO after Meta split - Quartz",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://qz.com/manus-ai-fundraising-500-million-hong-kong-ipo-meta-091826&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3H80nJOWEDphmPFEbwNrjO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9692143326976798084": {
-      "ts": "2026-09-19T04:33:29+00:00",
-      "title": "Unum Group Strengthens Capital Returns With New $1B Share Buyback - Quartz",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://qz.com/unum-group-strengthens-capital-returns-with-new-1b-share-buyback&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1FzKZb65T1tie_c7GoMpoV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8741182812043772038": {
-      "ts": "2026-09-19T03:42:32+00:00",
-      "title": "<b>Manus AI</b> Wants $500M After Beijing Killed Its Meta Deal After China's regulators ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DdcFHYUmyTg/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Ap4eO9Uorl0_3UjWwaLtN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16753985881801757379": {
       "ts": "2026-09-19T09:16:17+00:00",
       "title": "<b>Manus AI</b> Seeks $4B Valuation in New $500M Funding Round - Renascence",
@@ -53,20 +11,6 @@
       "ts": "2026-09-19T16:13:37+00:00",
       "title": "Manus Is Back, Bigger Than Ever . . . . . . . . . . #ManusAI #AIStartup #ArtificialIntelligence ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DdeDwImlLf_/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3DooY3017F3PmFq3Ac-ps5",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17418342782366260388": {
-      "ts": "2026-09-19T07:02:08+00:00",
-      "title": "Instinct AI anyone have an invite code? - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/754566649197672/posts/1787210342599959/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2PBIqb0ttcH-hEfbh0vdcT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16905476392086173523": {
-      "ts": "2026-09-19T03:52:30+00:00",
-      "title": "<b>Manus AI</b> Startup Eyes $4 Billion Valuation in Fresh $500 Million Round After Breaking Free ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://beamstart.com/news/manus-seeks-4b-valuation-in-17897594501426&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1br7_j4ocSOOBxyJKrfi13",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6880,7 +6824,28 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLC4fYAYHqLBQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw360EsUomjZ33wlpt4PNZI7",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3855003596912591468": {
+      "ts": "2026-10-19T04:10:20+00:00",
+      "title": "Names of Ai tools! #fyp #ai | Annie Nnamani - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61586279309866/videos/names-of-ai-toolsfyp-ai/1985602032396273/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw13Zs6hJQIBMRtjhL3ZyR7V",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16888097046633171755": {
+      "ts": "2026-10-19T02:18:44+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLXlcrgGUp0q4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw38ogq1bRtHA57zPbySusI2",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6335549157945827520": {
+      "ts": "2026-10-19T01:12:51+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLE8c98ZoO6Wg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34HzUcpruw8VYkVgsitYga",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-10-18"
+  "last_digest_date": "2026-10-19"
 }
