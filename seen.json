@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:3887957138932728292": {
-      "ts": "2026-09-20T11:04:05+00:00",
-      "title": "<b>Manus AI</b> is being showcased as an autonomous AI agent capable of handling multiple ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DdgbpIUz4lK/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TG3xQEfUxhiwUg7FK2fgQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2291626882497032300": {
-      "ts": "2026-09-20T11:00:21+00:00",
-      "title": "&quot;China's AI agent, <b>Manus AI</b>, runs 50 social media accounts 24/7, completely on its own.&quot; / X",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/VictorKvert2008/status/2101478434790629549&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1WqDT_vVg4_VzG51AtmtIy",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6714049999884468674": {
-      "ts": "2026-09-20T10:26:46+00:00",
-      "title": "Founder Reporter's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/founder-reporter_manus-ai-artificialintelligence-activity-7506763280292421632-UXLj&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rcb1oPbaYDOYSuE9INLUE",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15747604290405082418": {
-      "ts": "2026-09-20T14:47:16+00:00",
-      "title": "Dead internet. This is scary. China's AI agent, <b>Manus AI</b>, runs 50 social media accounts 24/7 ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AIdaily_news/comments/1wldpfb/dead_internet_this_is_scary_chinas_ai_agent_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LiYDhY_p3eN_x_wfSMxTG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:17932689756225356394": {
       "ts": "2026-09-20T19:21:46+00:00",
       "title": "John Basham on X: &quot;FLASHBACK: March 6, 2025 @X User (Based In China) Shows A ...",
@@ -55,13 +27,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Ds2v-gqFdSqA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0guyNO6ENE8eMnU8JPdEN8",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4748484538584139384": {
-      "ts": "2026-09-20T10:17:31+00:00",
-      "title": "AI News &amp; Guides — Latest Industry Analysis &amp; Editorial Reports | AI Launch Watch",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ailaunchwatch.com/ai-news&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bFLuYFdrohko4J4PWgDTB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:13430886305327484208": {
       "ts": "2026-09-20T17:22:15+00:00",
@@ -6955,6 +6920,55 @@
       "ts": "2026-10-20T05:37:03+00:00",
       "title": "Gemini 4 Argon + <b>Manus AI</b> Is INSANE! : r/AISEOInsider - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AISEOInsider/comments/1xahnzc/gemini_4_argon_manus_ai_is_insane/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01W_GFCL3fFw7aL-6KT-Uz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/": {
+      "ts": "2026-10-20T00:00:00+00:00",
+      "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
+      "link": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/": {
+      "ts": "2026-10-20T00:00:00+00:00",
+      "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
+      "link": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/": {
+      "ts": "2026-10-20T00:00:00+00:00",
+      "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
+      "link": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
+      "source": "Google Developers Blog - AI",
+      "big": true
+    },
+    "https://cohere.com/blog/rethinking-confidence-in-reasoning-models": {
+      "ts": "2026-10-20T00:00:00+00:00",
+      "title": "Rethinking Confidence in Reasoning Models",
+      "link": "https://cohere.com/blog/rethinking-confidence-in-reasoning-models",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6543334728823905302": {
+      "ts": "2026-10-20T10:25:20+00:00",
+      "title": "‎Apka Cue by Manus - App Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/sk/app/cue-by-manus/id6808613358%3Fl%3Dsk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2UNgz2U3URatt1BTKYX9mp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8745643688902041163": {
+      "ts": "2026-10-19T21:24:02+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLcwwJ-B-47gQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Y6co1EaFevB7dqoEXY6Au",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8981240856316198825": {
+      "ts": "2026-10-19T16:23:49+00:00",
+      "title": "Manus - custom MCP connector - Two Minute Reports",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://twominutereports.com/help/ai-tools/manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2okiejKgPToXaVWhbbw6jI",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
