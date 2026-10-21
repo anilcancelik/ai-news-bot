@@ -1,40 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4642857192011583731": {
-      "ts": "2026-09-21T15:02:58+00:00",
-      "title": "The Shift on Instagram: &quot;A viral clip claims <b>Manus AI</b> is operating 50 social media accounts ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DdjbzLxvob6/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_0Emu3manSbKHIyeMGeh4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4740670757826350670": {
-      "ts": "2026-09-21T12:16:26+00:00",
-      "title": "Privacy &amp; Compliance Counsel at <b>Manus AI</b> - LinkedIn Singapore",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sg.linkedin.com/jobs/view/privacy-compliance-counsel-at-manus-ai-4469879571&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0MWYZkQ0HBw_jT3Db-cS2Y",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11745649810982836232": {
-      "ts": "2026-09-21T11:37:34+00:00",
-      "title": "BUTTERFLY EFFECT PTE. LTD. for iPhone - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/to/developer/butterfly-effect-pte-ltd/id1724709802&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2u9T0vvk0SWkHDJ3wtsw6V",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
-      "ts": "2026-09-21T12:00:00+00:00",
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra": {
-      "ts": "2026-09-21T12:00:00+00:00",
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14732397461217953531": {
       "ts": "2026-09-21T20:17:50+00:00",
       "title": "We're getting dangerously close to social media having more users than people. Manus is ...",
@@ -109,13 +74,6 @@
       "ts": "2026-09-21T20:34:01+00:00",
       "title": "AI For Leaders' Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/aiforleaders_most-ai-tool-stacks-are-too-crowded-%25F0%259D%2597%2595%25F0%259D%2597%25B2%25F0%259D%2597%25B0%25F0%259D%2597%25BC%25F0%259D%2597%25BA%25F0%259D%2597%25B2-activity-7507801188965339137-QnEf&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0rlbgRZc8s0f8w_Kgwj5V5",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2047319673207535415": {
-      "ts": "2026-09-21T15:55:30+00:00",
-      "title": "Meta Paid $2B, Beijing Took It Back, Now &quot;Worth&quot; $4B? #<b>Manus #AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/0JwxMOfqtnE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1yxDrqJXZrHLoztZkfZzXc",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -7025,6 +6983,90 @@
       "ts": "2026-10-20T21:50:39+00:00",
       "title": "Treasury Review of Benchmark's Manus Investment - Sacra",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://sacra.com/chat/h/e748b0a0-482c-43da-a9d8-059cebc0d01d/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zX_H_4y6z_B0OBMt6Re1R",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/openai-models-google-cloud": {
+      "ts": "2026-10-21T12:00:00+00:00",
+      "title": "OpenAI models are coming to Google Cloud",
+      "link": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
+      "ts": "2026-10-21T07:00:00+00:00",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/chatgpt-ads-expands-26-new-countries": {
+      "ts": "2026-10-21T13:00:00+00:00",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "link": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+      "ts": "2026-10-21T04:50:00+00:00",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/building-chatgpt-ad-stack": {
+      "ts": "2026-10-21T07:00:00+00:00",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "link": "https://openai.com/index/building-chatgpt-ad-stack",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/": {
+      "ts": "2026-10-21T12:00:20+00:00",
+      "title": "Mistral Advances AI for Engineering with NVIDIA",
+      "link": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "https://cohere.com/blog/rerank-5": {
+      "ts": "2026-10-21T00:00:00+00:00",
+      "title": "Introducing Rerank 5: precise, efficient enterprise document retrieval",
+      "link": "https://cohere.com/blog/rerank-5",
+      "source": "The Cohere Blog",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:6351887743726944815": {
+      "ts": "2026-10-21T11:42:02+00:00",
+      "title": "<b>Manus AI</b>: Agent Features, Credits and Pricing - Simplify AI Tools",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://simplifyaitools.com/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1D8dYAIVWN7amyBnVMfP3U",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:72550418676047192": {
+      "ts": "2026-10-21T01:32:59+00:00",
+      "title": "Ecommerce Workflow Tools: AI Agents &amp; Templates | Luxury Extras",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://luxuryextras.online/dropshipping-tools/workflow/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Z4mjXRgEr-wZt_acPCa6y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14542819049150089224": {
+      "ts": "2026-10-20T22:58:23+00:00",
+      "title": "Grok Bot Review 2026: AI Teammates That Finish Work - iOS App Lists",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://iosapplists.com/grok-bot-review-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3l7YIfQR_8sj2NMTfpwQYC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16931554915476071329": {
+      "ts": "2026-10-20T21:58:21+00:00",
+      "title": "China's Manus raises over $500M in first funding round since split with Meta | Cedric Teissier",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/cedric-teissier_chinas-manus-raises-over-500m-in-first-activity-7518303321384759296-fQR_&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Okeb7YSayNcUmVj8doVqn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8629038704391210994": {
+      "ts": "2026-10-20T20:59:38+00:00",
+      "title": "best AI tools : 1 cloud ai, 2 perplexity, 3 <b>manus ai</b>, 4 lovable - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/iIH4C7ueSmI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2VfOd66TjJeRoxRywnQ9Yh",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
