@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:1291400723867233786": {
-      "ts": "2026-09-21T01:27:15+00:00",
-      "title": "How to generate a full content strategy with AI #<b>manus #ai</b> #manusai #shorts #ai_marketing #aitips",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/wYgCTRO6bWk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15DSorK29bkCBbh6F6Qqwu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4642857192011583731": {
       "ts": "2026-09-21T15:02:58+00:00",
       "title": "The Shift on Instagram: &quot;A viral clip claims <b>Manus AI</b> is operating 50 social media accounts ...",
@@ -6983,6 +6976,55 @@
       "ts": "2026-10-20T19:58:27+00:00",
       "title": "Google Cloud outage triggers major disruptions at Revolut, HSBC and other UK services",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://technext24.com/news/google-cloud-outage-disrupts-uk-services/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SHr6uG9e1ykwMK61XLqub",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "f08415411a843fd8": {
+      "ts": "2026-10-21T03:27:13+00:00",
+      "title": "2.1.306",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-306",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/terminal-x": {
+      "ts": "2026-10-20T07:00:00+00:00",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "link": "https://openai.com/index/terminal-x",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10718632890316794920": {
+      "ts": "2026-10-21T02:50:06+00:00",
+      "title": "AI Game Generator From a Text Prompt - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/tools/ai-game-generator&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3KMCThlciTJjsPffKHn9CU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10265166104460039267": {
+      "ts": "2026-10-20T19:43:51+00:00",
+      "title": "Manus Moves HQ to Singapore | Sacra",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sacra.com/chat/h/c1ac2443-7227-4340-9d0a-314b136bcf66/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WxcOhXy7Pu_mDj2gUoxPd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:276145570395658066": {
+      "ts": "2026-10-20T19:33:27+00:00",
+      "title": "<b>Manus AI</b> 26.18.6 APK - APKSum.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.apksum.com/app/manus-ai/tech.butterfly.app&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0bFfFOmULgMTaVbFJytP8k",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5284667056160602569": {
+      "ts": "2026-10-20T17:58:20+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLYm03_lfueCw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Iijrnt4fRuN3mEYtqzsVR",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10459755841198470174": {
+      "ts": "2026-10-20T14:12:24+00:00",
+      "title": "ShiftHands vs Manus: Features, Pricing &amp; Workflows",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://shifthands.com/compare/shifthands-vs-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23yTE3jyuFBJp89Rh4xgth",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
