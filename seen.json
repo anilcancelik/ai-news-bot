@@ -21,13 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:15624098952283096497": {
-      "ts": "2026-09-21T08:02:14+00:00",
-      "title": "Manus: $500M funding talks at $4B valuation - SoFarBot",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sofarbot.com/news/ZXHTsQjY91uV&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0chSWuegwE5fu9cDMH9y9I",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/advisory-group-on-mathematics-and-ai": {
       "ts": "2026-09-21T12:00:00+00:00",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
@@ -39,20 +32,6 @@
       "ts": "2026-09-21T12:00:00+00:00",
       "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
       "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/building-standards-next-phase-ai": {
-      "ts": "2026-09-21T10:00:00+00:00",
-      "title": "Building standards for the next phase of AI",
-      "link": "https://openai.com/index/building-standards-next-phase-ai",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/expanding-openai-academy-with-new-learning-paths": {
-      "ts": "2026-09-21T07:00:00+00:00",
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
       "source": "OpenAI News",
       "big": false
     },
@@ -7027,7 +7006,28 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://shifthands.com/compare/shifthands-vs-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23yTE3jyuFBJp89Rh4xgth",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9588281811899270134": {
+      "ts": "2026-10-21T07:36:22+00:00",
+      "title": "From Smart to Finish: The Agentic Smartphone Era Arrives",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sponsored.bloomberg.com/article/oppo/from-smart-to-finish-the-agentic-smartphone-era-arrives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2htEKZUCn8XZmMRf3rGbd9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:269556560107701083": {
+      "ts": "2026-10-21T06:31:33+00:00",
+      "title": "#manusai #ai #artificialintelligence #aiagents #productivity | Ai Hunter - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/hunt-ai-tools_manusai-ai-artificialintelligence-activity-7518542294514429953-H1CY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35is_r2q795EkSynwHylqB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11786255322791219211": {
+      "ts": "2026-10-20T21:50:39+00:00",
+      "title": "Treasury Review of Benchmark's Manus Investment - Sacra",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sacra.com/chat/h/e748b0a0-482c-43da-a9d8-059cebc0d01d/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zX_H_4y6z_B0OBMt6Re1R",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-10-20"
+  "last_digest_date": "2026-10-21"
 }
