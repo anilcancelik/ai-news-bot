@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://openai.com/index/v7": {
-      "ts": "2026-09-21T00:00:00+00:00",
-      "title": "How V7 gives AI agents institutional memory",
-      "link": "https://openai.com/index/v7",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4642857192011583731": {
       "ts": "2026-09-21T15:02:58+00:00",
       "title": "The Shift on Instagram: &quot;A viral clip claims <b>Manus AI</b> is operating 50 social media accounts ...",
@@ -2751,13 +2744,6 @@
       "source": "xAI News",
       "big": false
     },
-    "https://x.ai/news/grok-4-7": {
-      "ts": "2026-09-21T00:00:00+00:00",
-      "title": "Introducing Grok 4.7",
-      "link": "https://x.ai/news/grok-4-7",
-      "source": "xAI News",
-      "big": true
-    },
     "https://cohere.com/blog/rcp-ndcg": {
       "ts": "2026-09-30T00:00:00+00:00",
       "title": "RCP-nDCG@10: A more complete way to measure retrieval relevance",
@@ -2881,13 +2867,6 @@
       "ts": "2026-09-22T00:00:00+00:00",
       "title": "The AI literacy gap is growing. Here’s how to close it.",
       "link": "https://www.perplexity.ai/hub/blog/ai-literacy",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience": {
-      "ts": "2026-09-21T00:00:00+00:00",
-      "title": "Learning from real-world experience",
-      "link": "https://www.perplexity.ai/hub/blog/learning-from-real-world-experience",
       "source": "Perplexity Blog",
       "big": false
     },
@@ -6930,13 +6909,6 @@
       "source": "Anthropic News",
       "big": true
     },
-    "https://www.anthropic.com/features/ebola-response": {
-      "ts": "2026-09-21T00:00:00+00:00",
-      "title": "The Situation Report",
-      "link": "https://www.anthropic.com/features/ebola-response",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://openai.com/index/ted-taylor-restaurant": {
       "ts": "2026-10-20T10:00:00+00:00",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -6997,6 +6969,20 @@
       "ts": "2026-10-20T03:28:45+00:00",
       "title": "<b>Manus AI</b> Pre-Activated - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLH6MBdJR8Ajk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw13C2pJ-dnBiPBNlzUQxaGr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "7c9562720ed9cd44": {
+      "ts": "2026-10-21T00:17:20+00:00",
+      "title": "2.1.305",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-305",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16985568357360557658": {
+      "ts": "2026-10-20T19:58:27+00:00",
+      "title": "Google Cloud outage triggers major disruptions at Revolut, HSBC and other UK services",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technext24.com/news/google-cloud-outage-disrupts-uk-services/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SHr6uG9e1ykwMK61XLqub",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
