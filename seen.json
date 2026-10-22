@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:922601209430451166": {
-      "ts": "2026-09-22T04:33:12+00:00",
-      "title": "BusinessWorld on Reels - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/BWorldPH/videos/1509107977919774/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29xsaJCSRZjLiJeAEZwvts",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16926022657872451098": {
-      "ts": "2026-09-22T06:26:14+00:00",
-      "title": "AI as your Personal Assistant in light of the post-stroke diffculties - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/stroke/comments/1wmynez/ai_as_your_personal_assistant_in_light_of_the/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03maQYMLJqpRlsHuOeg3iV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "3b9792b8e2332a4c": {
       "ts": "2026-09-22T16:48:09+00:00",
       "title": "2.1.280",
@@ -158,13 +144,6 @@
       "ts": "2026-09-22T13:20:00+00:00",
       "title": "It's a real screen recording, not AI-generated video — but what it's showing is AI automation.",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40meta.ai/post/Ddl0BcQD3QA/its-a-real-screen-recording-not-ai-generated-video-but-what-its-showing-is-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aUqoKbzid41Xs_d4Vsmi6",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11923991216930316965": {
-      "ts": "2026-09-22T05:29:23+00:00",
-      "title": "<b>Manus AI</b> Slides: Create and Review a PPTX - Syaxis",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://syaxis.ai/es/blog/manus-ai-slides&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0b8PrufQQkVfwcFhs5AWWq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -7146,7 +7125,56 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXBTC15M-26OCT211100&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jfe8_MW4B8SZboSsZ_zcW",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "eb02c00953fc001f": {
+      "ts": "2026-10-22T04:47:02+00:00",
+      "title": "2.1.308",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-308",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3886357716420894933": {
+      "ts": "2026-10-22T03:37:20+00:00",
+      "title": "AI Agent Security: Risks and How to Protect Your Business - digitaltatva.com -",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://digitaltatva.com/ai-agent-security/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3tCXE_KJ5PdW-4AgQE9gwU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9700829409166723547": {
+      "ts": "2026-10-22T02:18:17+00:00",
+      "title": "Muse, the most expensive toy ever by Meta (and some smart people may ask why it reminds ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/kakashiii111/status/2113032494505152594&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1UUZMjCVvZiqmt9eIuimYj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17666145070871916948": {
+      "ts": "2026-10-22T00:37:26+00:00",
+      "title": "Manus WebDev Project Broken Due to Railway Authorization Error. Can Someone From ... - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xbme9f/urgent_manus_webdev_project_broken_due_to_railway/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cbfGrhnf_8Z5No5czC-CR",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18148064963337852681": {
+      "ts": "2026-10-21T23:08:04+00:00",
+      "title": "The AI Agent That Gets Things Done! #Shorts #technology #ainow #aiagents #aivillage - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/MVyb6xcL4IY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gRNQi5fINV4fQ-Y_kAbO-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9249974529761121513": {
+      "ts": "2026-10-21T21:24:20+00:00",
+      "title": "<b>Manus AI</b> Context Window: Token Limits, Subagent Memory, and Task Persistence - Fast.io",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fast.io/resources/manus-ai-context-window/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0hINgtlxhHDx1xeEs7Mbkj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7400479914098695959": {
+      "ts": "2026-10-21T18:04:07+00:00",
+      "title": "<b>Manus Ai</b> Pro 12 Month - Elite X Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://elite-x-store.com/p/22&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Sl3xUe6tXLCXvV7yRvqHm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-10-21"
+  "last_digest_date": "2026-10-22"
 }
