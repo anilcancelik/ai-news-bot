@@ -7,13 +7,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:17985425121431005223": {
-      "ts": "2026-09-22T01:30:42+00:00",
-      "title": "Devine Sports Gospel on X: &quot;Excited to connect with <b>Manus AI</b> this week when the Padres ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/DevineGospel/status/2102206891602715122&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ZU0ORDcJwAMJz7LPJqdC0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16926022657872451098": {
       "ts": "2026-09-22T06:26:14+00:00",
       "title": "AI as your Personal Assistant in light of the post-stroke diffculties - Reddit",
@@ -26,20 +19,6 @@
       "title": "2.1.280",
       "link": "https://code.claude.com/docs/en/changelog#2-1-280",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://claude.com/blog/what-a-task-costs-on-opus-5-5": {
-      "ts": "2026-09-22T00:00:00+00:00",
-      "title": "What a task costs on Opus 5.5",
-      "link": "https://claude.com/blog/what-a-task-costs-on-opus-5-5",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://openai.com/index/priorities-principles-third-party-assessments": {
-      "ts": "2026-09-22T00:00:00+00:00",
-      "title": "Priorities and principles for effective third party assessments",
-      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:11719623765681091703": {
@@ -2611,13 +2590,6 @@
       "source": "xAI News",
       "big": false
     },
-    "https://x.ai/news/grok-bot-customer-support": {
-      "ts": "2026-09-22T00:00:00+00:00",
-      "title": "How SpaceXAI is using Grok Bot to scale customer support",
-      "link": "https://x.ai/news/grok-bot-customer-support",
-      "source": "xAI News",
-      "big": false
-    },
     "https://cohere.com/blog/rcp-ndcg": {
       "ts": "2026-09-30T00:00:00+00:00",
       "title": "RCP-nDCG@10: A more complete way to measure retrieval relevance",
@@ -2636,13 +2608,6 @@
       "ts": "2026-09-25T00:00:00+00:00",
       "title": "Compass is coming to the cloud",
       "link": "https://cohere.com/blog/compass-cloud-beta",
-      "source": "The Cohere Blog",
-      "big": false
-    },
-    "https://cohere.com/blog/ai-change-management": {
-      "ts": "2026-09-22T00:00:00+00:00",
-      "title": "AI change management: A human-centric approach",
-      "link": "https://cohere.com/blog/ai-change-management",
       "source": "The Cohere Blog",
       "big": false
     },
@@ -2734,13 +2699,6 @@
       "ts": "2026-09-23T00:00:00+00:00",
       "title": "AI for market research: a step-by-step guide",
       "link": "https://www.perplexity.ai/hub/blog/ai-for-market-research",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/ai-literacy": {
-      "ts": "2026-09-22T00:00:00+00:00",
-      "title": "The AI literacy gap is growing. Here’s how to close it.",
-      "link": "https://www.perplexity.ai/hub/blog/ai-literacy",
       "source": "Perplexity Blog",
       "big": false
     },
@@ -3336,13 +3294,6 @@
       "ts": "2026-09-23T00:00:00+00:00",
       "title": "How we made claude.ai 3x faster in two weeks",
       "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/": {
-      "ts": "2026-09-22T00:00:00+00:00",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
       "source": "Claude Blog",
       "big": false
     },
@@ -6776,13 +6727,6 @@
       "source": "Anthropic News",
       "big": false
     },
-    "https://www.anthropic.com/claude-opus-5-5": {
-      "ts": "2026-09-22T00:00:00+00:00",
-      "title": "Introducing Claude Opus 5.5",
-      "link": "https://www.anthropic.com/claude-opus-5-5",
-      "source": "Anthropic News",
-      "big": true
-    },
     "https://openai.com/index/ted-taylor-restaurant": {
       "ts": "2026-10-20T10:00:00+00:00",
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
@@ -7172,6 +7116,34 @@
       "ts": "2026-10-21T07:22:09+00:00",
       "title": "jauseff dait - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/channel/UC_Ns5Dx_k5XayMOUnPU4fHg/videos&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2tggF-evSQHcWr2WBSyLo1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/cloudflare-cyber": {
+      "ts": "2026-10-21T00:00:00+00:00",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "link": "https://openai.com/index/cloudflare-cyber",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://cohere.com/blog/can-ai-understand-culture": {
+      "ts": "2026-10-22T00:00:00+00:00",
+      "title": "Can AI understand culture?",
+      "link": "https://cohere.com/blog/can-ai-understand-culture",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1730126565724622816": {
+      "ts": "2026-10-21T23:03:41+00:00",
+      "title": "Meta offers creative ad targeting for specific audiences | Social Media Today",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.socialmediatoday.com/news/meta-offers-creative-ad-targeting-for-specific-audiences/833672/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QGId4e2ri9GMVc7YWUDQM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12135708165916847155": {
+      "ts": "2026-10-21T16:13:15+00:00",
+      "title": "BTC 15 min · $84,165.20 target | Prediction Markets - Coinbase",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXBTC15M-26OCT211100&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jfe8_MW4B8SZboSsZ_zcW",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
