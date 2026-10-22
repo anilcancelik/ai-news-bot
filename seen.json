@@ -1,47 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/better-prompt-caching-for-gpt-6": {
-      "ts": "2026-09-22T21:00:00+00:00",
-      "title": "Better prompt caching for GPT-6",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/introducing-gpt-6-sol-and-luna": {
-      "ts": "2026-09-22T18:00:00+00:00",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "source": "OpenAI News",
-      "big": true
-    },
-    "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/": {
-      "ts": "2026-09-22T20:46:09.839168+00:00",
-      "title": "Colab is now part of your Google AI plan",
-      "link": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3745985842008821151": {
-      "ts": "2026-09-22T19:00:23+00:00",
-      "title": "Susan Li on X: &quot;META'S MARK ZUCKERBERG TO JOIN TECH LEADERS AT TRUMP-XI ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/SusanLiTV/status/2102471898240262261&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cf6C319VgE4Xtoqq-K2Oi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11154895073567408648": {
-      "ts": "2026-09-22T18:57:30+00:00",
-      "title": "META'S MARK ZUCKERBERG TO JOIN TECH LEADERS AT TRUMP-XI DINNER - Threads",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40susyqli/post/Ddmbhhxj3Yr/metas-mark-zuckerberg-to-join-tech-leaders-at-trump-xi-dinner-bloomberg-news/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2YvOqkYxwz8OelfmKAvyjQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15003008392792402881": {
-      "ts": "2026-09-22T18:42:28+00:00",
-      "title": "Comment AI for the links and guide with the prompts to create these vox-style animated ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Ddl_BKzJNnF/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cvwQ8URV-fXX0jolWssCL",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
       "ts": "2026-09-23T13:00:00+00:00",
       "title": "OpenAI extends cyber access to Ukraine for civilian defense",
@@ -7221,6 +7179,34 @@
       "ts": "2026-10-22T03:19:53+00:00",
       "title": "Clips using Manus - Agent Did It",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.agentdidit.com/tools/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bbkw5NsgsIZeQvmo26MaP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
+      "ts": "2026-10-22T00:00:00+00:00",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/decisions-api": {
+      "ts": "2026-10-22T19:00:00+00:00",
+      "title": "Build more responsive apps with the Decisions API",
+      "link": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8683619896478832490": {
+      "ts": "2026-10-22T11:43:49+00:00",
+      "title": "Claude Duet Just Launched: AI That Works While You Sleep - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/XRRV3ppJclE%3Fvl%3Duk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YWNgUCPLNBaA40D4iFySn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:3823828121858464265": {
+      "ts": "2026-10-22T07:47:18+00:00",
+      "title": "AI Website &amp; eCommerce Bundle - Hypergyaan",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hypergyaan.com/bundles/ai-website-ecommerce/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1sCcL9-2G1jlE45DKsJzph",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
