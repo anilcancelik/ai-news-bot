@@ -70,13 +70,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:10558511127490388596": {
-      "ts": "2026-09-23T01:20:36+00:00",
-      "title": "[INTRO] GnamiAI — solo-built Windows app, AI agents for local files. : r/indiebiz - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/indiebiz/comments/1wnr2e6/intro_gnamiai_solobuilt_windows_app_ai_agents_for/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw07nblnmXYCxPhlHJjja7xe",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "54e99bdc974ea0ed": {
       "ts": "2026-09-23T19:28:00+00:00",
       "title": "2.1.281",
@@ -104,13 +97,6 @@
       "link": "https://openai.com/index/introducing-mentalhealthbench",
       "source": "OpenAI News",
       "big": true
-    },
-    "https://openai.com/index/airbnb-gpt-6-astra": {
-      "ts": "2026-09-23T01:00:00+00:00",
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "link": "https://openai.com/index/airbnb-gpt-6-astra",
-      "source": "OpenAI News",
-      "big": false
     },
     "tag:google.com,2013:googlealerts/feed:18052166711398267378": {
       "ts": "2026-09-23T17:40:09+00:00",
@@ -180,13 +166,6 @@
       "title": "InstaProLab AI Review 2026 - Coupon Codes &amp; Honest Verdict - AIToolWay",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aitoolway.com/instaprolab-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26Y0pgPxf5bWH2Cl9jaBmv",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan": {
-      "ts": "2026-09-23T02:00:00+00:00",
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:2071035173218722932": {
@@ -7158,6 +7137,27 @@
       "ts": "2026-10-22T13:45:02+00:00",
       "title": "DeepSeek reportedly raises $15B days after US restrictions - Межа",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://mezha.net/eng/news/mezha-812abe3aa79b8afb4f20875f_deepseek_reportedly_raises/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30_3ALC7A9lVbRMs3276rn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11512071934383129176": {
+      "ts": "2026-10-23T00:52:52+00:00",
+      "title": "US Rejects China's Trespassing Claim After Warship Transits Disputed Reef",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://english.cw.com.tw/article/article.action%3Fid%3D5080&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1NU_retGjPh1p6y3UOzA0N",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8585611427225517380": {
+      "ts": "2026-10-22T21:50:00+00:00",
+      "title": "<b>Manus AI</b> Review: The Real Autonomous Agent? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D6DPnNGahtOQ%26vl%3Dte&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1yis75dOqj6Hez7zgYZcRn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4863909943301051260": {
+      "ts": "2026-10-22T18:36:56+00:00",
+      "title": "#<b>manus #ai</b> #aiagents #aitools #marketing | VIS Mountain Marketing &amp; Advertising - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/vismountain_manus-ai-aiagents-activity-7519029510739238912-vwaS&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jMCtgwhg2cRe-oVNyizhg",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
