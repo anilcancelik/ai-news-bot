@@ -7,34 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/two-years-of-openai-academy": {
-      "ts": "2026-09-23T16:00:00+00:00",
-      "title": "Two years of OpenAI Academy",
-      "link": "https://openai.com/index/two-years-of-openai-academy",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/": {
-      "ts": "2026-09-23T16:00:57+00:00",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/": {
-      "ts": "2026-09-23T15:25:14+00:00",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/": {
-      "ts": "2026-09-23T17:38:52.113696+00:00",
-      "title": "Introducing Support for Local AI Models in the Antigravity SDK",
-      "link": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk/",
-      "source": "Google Developers Blog - AI",
-      "big": true
-    },
     "54e99bdc974ea0ed": {
       "ts": "2026-09-23T19:28:00+00:00",
       "title": "2.1.281",
@@ -42,38 +14,10 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:18052166711398267378": {
-      "ts": "2026-09-23T17:40:09+00:00",
-      "title": "I built an MCP interface so an LLM/AI can control HOI4 autonomously(or automated scripts)",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/RoadTo56/comments/1wo6xzo/i_built_an_mcp_interface_so_an_llmai_can_control/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw245v3w4D77O3Ux34tuIIPp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17145563457479835353": {
-      "ts": "2026-09-23T16:32:40+00:00",
-      "title": "InstaProLab AI Review Pricing Features and User Experience - Alboom",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bakoge7217.alboompro.com/post/instaprolab-ai-review&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BsUrfAtoi3Ma5JQh1HrVD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3999657783238980975": {
-      "ts": "2026-09-23T17:09:48+00:00",
-      "title": "Ai Councillor on Reels - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61554988015714/videos/1639854897854051/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0npBcovKztxsUaKufXSoIg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2076666184378122096": {
       "ts": "2026-09-23T23:29:54+00:00",
       "title": "AI is an opportunity to talk to the Chinese, says super-agent Ari Emanuel. - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/chicagotribune/posts/ai-is-an-opportunity-to-talk-to-the-chinese-says-super-agent-ari-emanuel/1133806609002141/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0sTSQHxiI1TN4KfHh01idr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:975738005539021341": {
-      "ts": "2026-09-23T18:38:54+00:00",
-      "title": "InstaProLab AI Review 2026 - Coupon Codes &amp; Honest Verdict - AIToolWay",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aitoolway.com/instaprolab-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26Y0pgPxf5bWH2Cl9jaBmv",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -137,20 +81,6 @@
       "ts": "2026-09-23T21:08:47+00:00",
       "title": "AI Agents Mastery: Unlock the Power of Manus.IM for Smarter - Lucebra",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lucebra.com/courses/ai-agents-mastery-unlock-the-power-of-manusim-for-smarter%3Flang%3Dsw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28Xw6Anp9IALEZT0W0wKeI",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17827591669442967038": {
-      "ts": "2026-09-23T19:23:05+00:00",
-      "title": "<b>Manus AI</b> Agent | mvanhorn - OpenClaw Army",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://openclaw.army/ru/skills/mvanhorn/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Y7aVHhwNulFrg3_fHzJKT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17036786350454800537": {
-      "ts": "2026-09-23T18:30:21+00:00",
-      "title": "<b>manus ai</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/E9nWIhASqJQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IIvVbGZh4mf2_KHDQDwDO",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -7095,6 +7025,118 @@
       "ts": "2026-10-22T15:21:51+00:00",
       "title": "What if your AI assistant had its own phone number, email, and wallet? Cue by Manus ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DezGwQVAujV/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26YGTQeotxRU8NCEt0bSvD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/unified-claude-enterprise": {
+      "ts": "2026-10-23T00:00:00+00:00",
+      "title": "Claude Cowork and chat come together for Enterprise",
+      "link": "https://claude.com/resources/articles/unified-claude-enterprise",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
+      "ts": "2026-10-23T17:00:00+00:00",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/securing-our-frontier-model-training-environment": {
+      "ts": "2026-10-23T10:00:00+00:00",
+      "title": "Securing our frontier model training environment",
+      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.11.212#3.11.212": {
+      "ts": "2026-10-23T00:00:00+00:00",
+      "title": "Windsurf 3.11.212",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-11-212",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:963159414765570693": {
+      "ts": "2026-10-23T17:37:33+00:00",
+      "title": "#BringBackChatMode : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xdjso6/bringbackchatmode/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3nSfBRyvI2YWxvl0XlREXe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16939929756386245722": {
+      "ts": "2026-10-23T16:31:38+00:00",
+      "title": "New OPPO Find X10 series goes live in Malaysia from RM4,999 | Nasi Lemak Tech",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nasilemaktech.com/oppo-find-x10-series-malaysia-price/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0AZS7Y6rGHqd0f3T2OVlc1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13073666693966970336": {
+      "ts": "2026-10-23T15:12:35+00:00",
+      "title": "Connect <b>Manus AI</b> to WordPress: Manus MCP Server Setup - InstaWP",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://instawp.com/connect-manus-to-wordpress/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2G5xtlZN7clyDn_1CsYS6Q",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1538530295712972009": {
+      "ts": "2026-10-23T14:32:28+00:00",
+      "title": "AI firms boost office leasing demand as CBD Grade A rents climb 2% in 3Q2026 - EdgeProp",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edgeprop.sg/property-news/ai-firms-boost-office-leasing-demand-cbd-grade-rents-climb-2-3q2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2W1NjkAbSBcFGFDJwtSJ8J",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9634077059695911593": {
+      "ts": "2026-10-23T13:32:34+00:00",
+      "title": "#BringBackChatMode : r/JanitorAI_Refuges - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/JanitorAI_Refuges/comments/1xdd3c4/bringbackchatmode/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qqXxGanekQNssAKCOAJ22",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:352455049390992269": {
+      "ts": "2026-10-23T13:02:47+00:00",
+      "title": "Dammy on X: &quot;Why is everyone talking about ChatGPT, Claude and Gemini, but barely ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/OlatunjiAyokan2/status/2113520430623379671&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UOl_JRpF7HSfnmLy0ZZOb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5954922402501455387": {
+      "ts": "2026-10-23T12:51:21+00:00",
+      "title": "Commentary on URA Q3 2026 statistics - Office, Retail, and Residential | Markets Insider",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://markets.businessinsider.com/news/stocks/commentary-on-ura-q3-2026-statistics---office-retail-and-residential-1036659302&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aovmx3qqPOG0fp-JAzKUe",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9535210396659366718": {
+      "ts": "2026-10-23T08:50:02+00:00",
+      "title": "How to Configure <b>Manus AI</b> on iOS - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DhwcFhAtW_ck&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BCTef5rsOauANLZonFsF5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16022541773924184431": {
+      "ts": "2026-10-23T07:57:34+00:00",
+      "title": "How to Make a Presentation With <b>Manus (AI</b> Slides Tutorial) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D7UqtpTLnNFw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2v2hqMFdTNRxHhOaryXgfv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4311711171554305776": {
+      "ts": "2026-10-23T01:50:55+00:00",
+      "title": "Agent Harness Engineer | Singapore | JobLeads.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/agent-harness-engineer--singapore--eb2a0f4140e3b553e6af4c425b6445858&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LBUPGLYEXnv07ZVStshTK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6243481466014543517": {
+      "ts": "2026-10-23T00:10:48+00:00",
+      "title": "Manus: availability, price and what it can do (checked Oct 22) | AideDex",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aidedex.com/agents/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MUpvf7htWVJDZwdY1jMGO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:578113310880256286": {
+      "ts": "2026-10-22T23:01:16+00:00",
+      "title": "<b>Manus AI</b> – Premium Annual Plan - DigiHub",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digihub.live/2026/07/manus-ai-premium-annual-plan.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fFCqIUsoLjp7u_W6-kiNT",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
