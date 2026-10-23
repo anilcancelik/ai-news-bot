@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense": {
-      "ts": "2026-09-23T13:00:00+00:00",
-      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://openai.com/index/ringg": {
       "ts": "2026-09-24T12:00:00+00:00",
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -42,39 +35,11 @@
       "source": "Google Developers Blog - AI",
       "big": true
     },
-    "tag:google.com,2013:googlealerts/feed:16423479566611950010": {
-      "ts": "2026-09-23T14:54:14+00:00",
-      "title": "China's <b>Manus AI</b> Runs 50 Social Media Accounts 24/7 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DMHA0fms51Oc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Dtfw49bdlZ5wGIZRZEXs_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10405598800613063063": {
-      "ts": "2026-09-23T12:33:03+00:00",
-      "title": "The Dead Internet Theory Is Getting Scarily Real! China-founded AI agent <b>Manus AI</b> is ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DdoTyp_GAqt/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0QRe_XT6z2NkaihYpX70Iz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "54e99bdc974ea0ed": {
       "ts": "2026-09-23T19:28:00+00:00",
       "title": "2.1.281",
       "link": "https://code.claude.com/docs/en/changelog#2-1-281",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
-      "ts": "2026-09-23T12:00:00+00:00",
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/invideo-builds-with-gpt-6-astra": {
-      "ts": "2026-09-23T12:00:00+00:00",
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:18052166711398267378": {
@@ -91,38 +56,10 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://openai.com/index/sam-altman-un-security-council-remarks": {
-      "ts": "2026-09-23T12:00:00+00:00",
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://cursor.com/blog/rollouts-and-security-reviewer": {
-      "ts": "2026-09-23T12:00:00+00:00",
-      "title": "Bots for the last mile: Rollouts, Security Review",
-      "link": "https://cursor.com/blog/rollouts-and-security-reviewer",
-      "source": "Cursor Blog",
-      "big": false
-    },
-    "https://cursor.com/blog/improved-token-efficiency": {
-      "ts": "2026-09-23T12:00:00+00:00",
-      "title": "Improved token efficiency for longer agent runs",
-      "link": "https://cursor.com/blog/improved-token-efficiency",
-      "source": "Cursor Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3999657783238980975": {
       "ts": "2026-09-23T17:09:48+00:00",
       "title": "Ai Councillor on Reels - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61554988015714/videos/1639854897854051/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0npBcovKztxsUaKufXSoIg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4660329478104187013": {
-      "ts": "2026-09-23T12:03:05+00:00",
-      "title": "Page 147 – Coverage of Disruptive Science and Technology - NextBigFuture.com",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nextbigfuture.com/page/147%3Fluicode%3D10000011%26lfid%3D100808819f78979f9e086c4baf480e2f2cc0e5_-_feed%26featurecode%3D10000326%26u%3Dhttps%253A%252F%252Fwww.nextbigfuture.com%252F&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IVyH-9bFt09yg7RaiRe32",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -214,20 +151,6 @@
       "ts": "2026-09-23T18:30:21+00:00",
       "title": "<b>manus ai</b> - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/E9nWIhASqJQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IIvVbGZh4mf2_KHDQDwDO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13881426430725023241": {
-      "ts": "2026-09-23T15:14:42+00:00",
-      "title": "Meta acquires AI agent startup for $2 billion - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ContentPlanett/posts/meta-has-reportedly-acquired-an-ai-agent-startup-for-2-billion-marking-one-of-it/122207905526464089/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2v6qjC16X8wxwTsrolp1we",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1971990077765151003": {
-      "ts": "2026-09-23T13:50:50+00:00",
-      "title": "The Dead Internet Theory Is Getting Scarily Real! China-founded AI agent <b>Manus AI</b> is ... - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61554988015714/posts/-the-dead-internet-theory-is-getting-scarily-realchina-founded-ai-agent-manus-ai/122334880682166267/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0_1KhwGfQCnKu0MQVj0hkQ",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
