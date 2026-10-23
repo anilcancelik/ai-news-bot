@@ -7,41 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/grab-openai-ai-skills-southeast-asia": {
-      "ts": "2026-09-23T00:00:00+00:00",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4636851261312019861": {
-      "ts": "2026-09-22T23:24:40+00:00",
-      "title": "How to Create Your Own Reusable Skills in <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DhVzS2BXI7jw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20yGwTHS1a_67_Cwzgx1KV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14195964909623290739": {
-      "ts": "2026-09-22T22:31:19+00:00",
-      "title": "zuu nice   #howitworks #canva #manuspartner #<b>manus #ai</b> ad - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Suhl2__5VTw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1L0uRqne5tGAxGUlVVs8UA",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6911262484568551505": {
-      "ts": "2026-09-22T22:15:20+00:00",
-      "title": "Social Media Growth + <b>Manus AI</b> Expert - Freelance Job in Digital Marketing - Upwork",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.upwork.com/freelance-jobs/apply/Social-Media-Growth-Manus-Expert_~022102521846775297678/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2DgLVyDXdysWqGLKVUPid-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects": {
-      "ts": "2026-09-23T00:00:00+00:00",
-      "title": "How to prepare for AI-driven code modernization projects",
-      "link": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/ringg": {
       "ts": "2026-09-24T12:00:00+00:00",
       "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -117,27 +82,6 @@
       "title": "2.1.281",
       "link": "https://code.claude.com/docs/en/changelog#2-1-281",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system": {
-      "ts": "2026-09-23T00:00:00+00:00",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "link": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://claude.com/blog/claude-marketplace": {
-      "ts": "2026-09-23T00:00:00+00:00",
-      "title": "Claude Marketplace: one place to discover plugins, agents, and services from our partners",
-      "link": "https://claude.com/blog/claude-marketplace",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace": {
-      "ts": "2026-09-23T00:00:00+00:00",
-      "title": "How CodeRabbit, Power Digital, and ThoughtSpot scale with Snowflake and Vercel on Claude Marketplace",
-      "link": "https://claude.com/blog/how-coderabbit-power-digital-and-thoughtspot-scale-with-snowflake-and-vercel-on-claude-marketplace",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/harvey-from-context-to-confidence-with-astra": {
@@ -2513,20 +2457,6 @@
       "source": "Perplexity Blog",
       "big": false
     },
-    "https://www.perplexity.ai/hub/blog/escaping-space-part-i": {
-      "ts": "2026-09-23T00:00:00+00:00",
-      "title": "Escaping SPACE: Part I",
-      "link": "https://www.perplexity.ai/hub/blog/escaping-space-part-i",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/ai-for-market-research": {
-      "ts": "2026-09-23T00:00:00+00:00",
-      "title": "AI for market research: a step-by-step guide",
-      "link": "https://www.perplexity.ai/hub/blog/ai-for-market-research",
-      "source": "Perplexity Blog",
-      "big": false
-    },
     "https://windsurf.com/changelog#3.10.48#3.10.48": {
       "ts": "2026-09-29T00:00:00+00:00",
       "title": "Windsurf 3.10.48",
@@ -3112,13 +3042,6 @@
       "ts": "2026-09-25T00:00:00+00:00",
       "title": "Using Claude Code: Spending your effort",
       "link": "https://claude.dev/blog/spending-your-effort/",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.dev/blog/how-we-made-claude-ai-faster/": {
-      "ts": "2026-09-23T00:00:00+00:00",
-      "title": "How we made claude.ai 3x faster in two weeks",
-      "link": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
       "source": "Claude Blog",
       "big": false
     },
@@ -7207,6 +7130,34 @@
       "ts": "2026-10-22T07:47:18+00:00",
       "title": "AI Website &amp; eCommerce Bundle - Hypergyaan",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://hypergyaan.com/bundles/ai-website-ecommerce/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1sCcL9-2G1jlE45DKsJzph",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "5ce94a5ce82b15c5": {
+      "ts": "2026-10-22T22:29:53+00:00",
+      "title": "2.1.309",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-309",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
+      "ts": "2026-10-22T00:00:00+00:00",
+      "title": "Open call for guest investigators in the life sciences",
+      "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://claude.com/blog/claude-models-on-google-cloud-anthropic-managed": {
+      "ts": "2026-10-22T00:00:00+00:00",
+      "title": "The full Claude Platform, available on Google Cloud",
+      "link": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10742033376640982415": {
+      "ts": "2026-10-22T13:45:02+00:00",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions - Межа",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mezha.net/eng/news/mezha-812abe3aa79b8afb4f20875f_deepseek_reportedly_raises/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30_3ALC7A9lVbRMs3276rn",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
