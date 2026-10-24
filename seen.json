@@ -7,13 +7,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:2076666184378122096": {
-      "ts": "2026-09-23T23:29:54+00:00",
-      "title": "AI is an opportunity to talk to the Chinese, says super-agent Ari Emanuel. - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/chicagotribune/posts/ai-is-an-opportunity-to-talk-to-the-chinese-says-super-agent-ari-emanuel/1133806609002141/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0sTSQHxiI1TN4KfHh01idr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2071035173218722932": {
       "ts": "2026-09-24T05:38:35+00:00",
       "title": "Save this post now. Your 2026 AI stack in one carousel (with PROMPTS for quick ... - Instagram",
@@ -47,27 +40,6 @@
       "title": "<b>Manus AI</b> paid our security researcher a $7,000 bug bounty. Why? Sunder found a way to ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/amartya-jha_manus-ai-paid-our-security-researcher-a-7000-activity-7508454440014594048-X-rR&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw33axM7L-8uqGYo_5eHi41L",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4504641202430822625": {
-      "ts": "2026-09-24T00:22:42+00:00",
-      "title": "AI For Lawyers' Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/ai-forlawyers_we-benchmarked-6-ai-tools-for-legal-market-activity-7508661488346349568-FyYm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CXUUcbLcvb5pmsEQvzcjh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3241849556778766891": {
-      "ts": "2026-09-23T22:54:41+00:00",
-      "title": "You can run your AI agnets live on the cloud now. Digital Ocean Managed Agents is in ... - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/kulwant.nagi/videos/you-can-run-your-ai-agnets-live-on-the-cloud-now-digital-ocean-managed-agents-is/954862477692972/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1xW0OwHxNrg7PxRcmdzfN4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context": {
-      "ts": "2026-09-24T00:00:00+00:00",
-      "title": "Coding sessions are longer and use more context. Claude Opus 5.5 is built with that in mind.",
-      "link": "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
-      "source": "Claude Blog",
       "big": false
     },
     "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/": {
@@ -159,13 +131,6 @@
       "title": "NextGen Digitalworld   - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/%40nexgendigitalworld/videos&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hliIDz9jIPozwbDg5Xi7l",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels": {
-      "ts": "2026-09-24T00:00:00+00:00",
-      "title": "Claude Tag now supports personal connectors in channels",
-      "link": "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:4019100746332739642": {
@@ -2219,31 +2184,10 @@
       "source": "Perplexity Blog",
       "big": false
     },
-    "https://www.perplexity.ai/hub/blog/portable-computer-comes-to-amd-powered-agentic-pcs": {
-      "ts": "2026-09-24T00:00:00+00:00",
-      "title": "Portable Computer comes to AMD-powered agentic PCs",
-      "link": "https://www.perplexity.ai/hub/blog/portable-computer-comes-to-amd-powered-agentic-pcs",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/photon": {
-      "ts": "2026-09-24T00:00:00+00:00",
-      "title": "Photon: Building a retrieval and ranking engine from scratch",
-      "link": "https://www.perplexity.ai/hub/blog/photon",
-      "source": "Perplexity Blog",
-      "big": false
-    },
     "https://windsurf.com/changelog#3.10.48#3.10.48": {
       "ts": "2026-09-29T00:00:00+00:00",
       "title": "Windsurf 3.10.48",
       "link": "https://docs.devin.ai/desktop/changelog#v3-10-48",
-      "source": "Windsurf Changelog",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.10.35#3.10.35": {
-      "ts": "2026-09-24T00:00:00+00:00",
-      "title": "Windsurf 3.10.35",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-10-35",
       "source": "Windsurf Changelog",
       "big": false
     },
@@ -7130,6 +7074,20 @@
       "ts": "2026-10-23T18:29:02+00:00",
       "title": "<b>Manus AI</b> rlly saving my ahh #manusgamedev #ai #vibecoding #manuspartner #sponsored",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/De11NxZCbDp/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1GZRVvEYlJz4tyDhLAUkry",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "7eb77e6b3d0aafd3": {
+      "ts": "2026-10-23T23:49:22+00:00",
+      "title": "2.1.310",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-310",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17717729530664321500": {
+      "ts": "2026-10-23T21:16:15+00:00",
+      "title": "For everyone who uses <b>manus ai</b> : r/CharacterAIRefugees - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/CharacterAIRefugees/comments/1xdaun5/for_everyone_who_uses_manus_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0NsBAPtuaSpX-FuYsipDoo",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
