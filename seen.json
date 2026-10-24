@@ -1,33 +1,5 @@
 {
   "seen": {
-    "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/": {
-      "ts": "2026-09-24T17:42:12.626473+00:00",
-      "title": "Turn your REST APIs into MCP tools with Google Cloud API Gateway",
-      "link": "https://developers.googleblog.com/turn-your-rest-apis-into-mcp-tools-with-google-cloud-api-gateway/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/": {
-      "ts": "2026-09-24T17:42:12.626503+00:00",
-      "title": "Reproducing OLMo 3 7B Pre-training in MaxText: case study of large scale training on TPUs",
-      "link": "https://developers.googleblog.com/reproducing-olmo-3-7b-pre-training-in-maxtext-case-study-of-large-scale-training-on-tpus/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "d2514dd17c2aa91e": {
-      "ts": "2026-09-24T18:46:38+00:00",
-      "title": "2.1.282",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-282",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14703841679386105290": {
-      "ts": "2026-09-24T17:18:16+00:00",
-      "title": "Google Gemini Can Now Call Businesses for Pixel 11 Owners - SQ Magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/google-gemini-call-for-me-pixel-11/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rpsDyagca20zA6EtWQAOi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4019100746332739642": {
       "ts": "2026-09-24T21:45:25+00:00",
       "title": "cannot install tag manager and converion tracking with <b>manus ai</b> - Google Ads Community",
@@ -3112,13 +3084,6 @@
       "ts": "2026-09-25T22:00:11+00:00",
       "title": "2.1.283",
       "link": "https://code.claude.com/docs/en/changelog#2-1-283",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "032c2f8bcfa6672e": {
-      "ts": "2026-09-24T18:46:38+00:00",
-      "title": "2.1.282",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-282",
       "source": "Claude Code changelog",
       "big": false
     },
@@ -7109,6 +7074,20 @@
       "ts": "2026-10-23T19:27:00+00:00",
       "title": "Andy (@theandycreates) - TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40theandycreates&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1p-ryhDYB1kfIUEzbpLtXr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12477107936194461118": {
+      "ts": "2026-10-24T00:12:21+00:00",
+      "title": "<b>Manus-AI</b> is the goat #manuspartner #manusai #manusgamedev #vibecoding #sponsored",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/hXtoHubit1E&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1itLUxE6XJIPP4sZ6Vntq1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16312358822755692434": {
+      "ts": "2026-10-23T22:59:24+00:00",
+      "title": "Who makes each AI agent? 32 agents from 30 makers | The Agent Race",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://agentrace.org/makers/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2G38gOpKIyI4PoKNrceNiz",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
