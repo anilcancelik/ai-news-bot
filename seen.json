@@ -1,31 +1,10 @@
 {
   "seen": {
-    "https://openai.com/index/proaction": {
-      "ts": "2026-09-25T19:00:00+00:00",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "link": "https://openai.com/index/proaction",
-      "source": "OpenAI News",
-      "big": false
-    },
     "61e6573ba60ee729": {
       "ts": "2026-09-25T22:00:11+00:00",
       "title": "2.1.283",
       "link": "https://code.claude.com/docs/en/changelog#2-1-283",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8137657705505898266": {
-      "ts": "2026-09-25T20:08:54+00:00",
-      "title": "ServiceNow Security Alert: Patch These Critical Flaws - SQ Magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/servicenow-ai-platform-flaws-patch/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cbmVsFXxyK59f-nFod-sa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5963221833173339683": {
-      "ts": "2026-09-25T19:38:42+00:00",
-      "title": "Microsoft Will Deprecate Windows Deployment Services After Server 2025 - SQ Magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/microsoft-deprecate-windows-deployment-services/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw21z1pGKP66G3DRgFc79msO",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:16582006002909914296": {
@@ -39,13 +18,6 @@
       "ts": "2026-09-25T23:59:01+00:00",
       "title": "I gave Mario a local AI brain — here's what it looks like (C++ / CUDA demo) - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AiBuilders/comments/1wq3my7/i_gave_mario_a_local_ai_brain_heres_what_it_looks/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gul-lvjzqOM6xqGCIpg1c",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9295400073082864881": {
-      "ts": "2026-09-25T18:01:05+00:00",
-      "title": "<b>Manus AI</b> Registration With Free Virtual Number-PVAPins",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pvapins.com/free-numbers/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0hYL3q7XzvD_UGXHA4zfbH",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6969,6 +6941,20 @@
       "ts": "2026-10-24T23:21:54+00:00",
       "title": "comment the word “tesla” and I'll send you the link #vibecode #ai #tesla - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/De5PicuJ7xj/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mgjOIlgLoNoHosi1QgpIc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14272262596994286535": {
+      "ts": "2026-10-25T04:34:48+00:00",
+      "title": "Build and Monetize a Game With <b>Manus AI</b> - Aboveyellow",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aboveyellow.com/ai-projects/build-monetize-game-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1hAo7jEqWlawDShiMtKfpX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10144202141416200979": {
+      "ts": "2026-10-24T19:25:48+00:00",
+      "title": "Manus - AI Toolbox",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nftaivideo.top/tools/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20eXqMKlK_6WOsWNA2dyrd",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
