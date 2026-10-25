@@ -1,19 +1,5 @@
 {
   "seen": {
-    "61e6573ba60ee729": {
-      "ts": "2026-09-25T22:00:11+00:00",
-      "title": "2.1.283",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-283",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16582006002909914296": {
-      "ts": "2026-09-25T20:49:24+00:00",
-      "title": "Reel by LEVELORA (@mm__ventures_) · September 24, 2026 - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Ddq-fijzwk6/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1y0JlFEZQzkbqNtU5ixj_b",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7347315050477236375": {
       "ts": "2026-09-25T23:59:01+00:00",
       "title": "I gave Mario a local AI brain — here's what it looks like (C++ / CUDA demo) - Reddit",
@@ -2853,13 +2839,6 @@
       "ts": "2026-09-28T18:15:53+00:00",
       "title": "2.1.284",
       "link": "https://code.claude.com/docs/en/changelog#2-1-284",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "aa7896a72a181d57": {
-      "ts": "2026-09-25T22:00:11+00:00",
-      "title": "2.1.283",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-283",
       "source": "Claude Code changelog",
       "big": false
     },
@@ -6955,6 +6934,20 @@
       "ts": "2026-10-24T19:25:48+00:00",
       "title": "Manus - AI Toolbox",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://nftaivideo.top/tools/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20eXqMKlK_6WOsWNA2dyrd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6878707483217198567": {
+      "ts": "2026-10-25T18:53:10+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLCOcVijMsBhA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Q3z4JXMtWGcCRnv1ImEK0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8031203895551496348": {
+      "ts": "2026-10-25T10:33:58+00:00",
+      "title": "<b>Manus-AI</b> #manuspartner #manusai #manusgamedev #vibecoding #sponsored - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/iOqLgv7qpyY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01Wybx1Do1_Mbe_xoBJm0f",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
