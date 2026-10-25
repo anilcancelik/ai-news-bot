@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:17495945606157675390": {
-      "ts": "2026-09-24T23:42:06+00:00",
-      "title": "User and Client Support Operations (Monica AI) Customer Service Jobs Singapore",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mycareersfuture.gov.sg/job/customer-service/user-client-support-operations-butterfly-effect-755d8d9268bc71e8f297ebf6f318ffbd%3Fsource%3DMCF%26event%3DSearch&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2E_La6uKez2DuxKAYOfqNl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1744480217697900277": {
       "ts": "2026-09-25T07:13:46+00:00",
       "title": "Moonshot: AI News Week Ending 07/10/2026 - Ethan B. Holland",
@@ -47,13 +40,6 @@
       "title": "Adobe Unlocks New Creative Tools in Gemini and Claude - SQ Magazine",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/adobe-gemini-launch-acrobat-claude-plugin/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35oZbNDOve2TLWxo8vIxEA",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/build-plugins-for-claude": {
-      "ts": "2026-09-25T00:00:00+00:00",
-      "title": "Build plugins for Claude",
-      "link": "https://claude.com/blog/build-plugins-for-claude",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/proaction": {
@@ -1939,13 +1925,6 @@
       "source": "The Cohere Blog",
       "big": true
     },
-    "https://cohere.com/blog/compass-cloud-beta": {
-      "ts": "2026-09-25T00:00:00+00:00",
-      "title": "Compass is coming to the cloud",
-      "link": "https://cohere.com/blog/compass-cloud-beta",
-      "source": "The Cohere Blog",
-      "big": false
-    },
     "https://www.perplexity.ai/hub/blog/ai-maturity": {
       "ts": "2026-10-02T00:00:00+00:00",
       "title": "AI maturity: what it means for your organization",
@@ -1999,13 +1978,6 @@
       "ts": "2026-09-28T00:00:00+00:00",
       "title": "Agent API now supports reusable agents",
       "link": "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/ai-alignment": {
-      "ts": "2026-09-25T00:00:00+00:00",
-      "title": "AI alignment: current research and debate",
-      "link": "https://www.perplexity.ai/hub/blog/ai-alignment",
       "source": "Perplexity Blog",
       "big": false
     },
@@ -2203,13 +2175,6 @@
       "title": "2.1.290",
       "link": "https://code.claude.com/docs/en/changelog#2-1-290",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/wayfair": {
-      "ts": "2026-09-25T00:00:00+00:00",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "link": "https://openai.com/index/wayfair",
-      "source": "OpenAI News",
       "big": false
     },
     "https://www.perplexity.ai/hub/blog/rag-example": {
@@ -2573,20 +2538,6 @@
       "ts": "2026-09-28T00:00:00+00:00",
       "title": "Automating eval design and hillclimbing with Claude",
       "link": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/": {
-      "ts": "2026-09-25T00:00:00+00:00",
-      "title": "What a task costs on Opus 5.5",
-      "link": "https://claude.dev/blog/what-a-task-costs-on-opus-5-5/",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.dev/blog/spending-your-effort/": {
-      "ts": "2026-09-25T00:00:00+00:00",
-      "title": "Using Claude Code: Spending your effort",
-      "link": "https://claude.dev/blog/spending-your-effort/",
       "source": "Claude Blog",
       "big": false
     },
@@ -7095,6 +7046,13 @@
       "ts": "2026-10-24T11:42:11+00:00",
       "title": "Compare AI apps by rank history and update pace - Ascension",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://ascension.fyi/compare/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3E1VC_IE2p3bINqGD5crC1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5500280585996591443": {
+      "ts": "2026-10-24T22:56:12+00:00",
+      "title": "Product Marketing Manager - RevOps Careers",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://revopscareers.com/job/whatjobs-sg-manus-ai-product-marketing-manager-singapore/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3QEGcMbQL-zE8_nJxuhCA2",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
