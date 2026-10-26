@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:7347315050477236375": {
-      "ts": "2026-09-25T23:59:01+00:00",
-      "title": "I gave Mario a local AI brain — here's what it looks like (C++ / CUDA demo) - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AiBuilders/comments/1wq3my7/i_gave_mario_a_local_ai_brain_heres_what_it_looks/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gul-lvjzqOM6xqGCIpg1c",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16622001071762922215": {
       "ts": "2026-09-26T07:48:47+00:00",
       "title": "AI photo editing with <b>Manus AI</b> - Facebook",
@@ -39,13 +32,6 @@
       "ts": "2026-09-26T03:55:14+00:00",
       "title": "Grok - AI Assistant - You Might Also Like - App Store - Apple",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/st/app/6670324846%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3cgMPn32mkNflstpmpZxmf",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13095700222811027702": {
-      "ts": "2026-09-26T00:41:14+00:00",
-      "title": "Bach.ai vs the alternatives — honest Meta Ads tool comparisons - Wittelsbach AI",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wittelsbach.ai/vs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Dg28JdhUtGU3srahEr2ud",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6948,6 +6934,13 @@
       "ts": "2026-10-25T10:33:58+00:00",
       "title": "<b>Manus-AI</b> #manuspartner #manusai #manusgamedev #vibecoding #sponsored - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/iOqLgv7qpyY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01Wybx1Do1_Mbe_xoBJm0f",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4793455035521077802": {
+      "ts": "2026-10-25T16:27:53+00:00",
+      "title": "AI credit expires in 3 days - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/KegyanAM/posts/the-ai-credit-comes-with-a-3-day-distin-that-if-i-dont-use-it-expires-i-have-a-1/10241940245856708/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0M8NkRERN7-81jFiXlRmZK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
