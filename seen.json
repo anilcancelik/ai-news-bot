@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:15779824091616605773": {
-      "ts": "2026-09-26T20:08:21+00:00",
-      "title": "What Is a VPS? How Virtual Private Servers Work and Who Actually Needs One",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/what-is-a-vps/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gViDhunfH1YSRyVLnMztu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15810149128358108696": {
       "ts": "2026-09-27T07:45:09+00:00",
       "title": "Locally Run: AI News Week Ending 07/17/2026 - Ethan B. Holland",
@@ -7004,6 +6997,90 @@
       "ts": "2026-10-26T03:11:31+00:00",
       "title": "Meta bought this AI agent. Users got 12 days | Part 1 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/CDtTsiYCSNo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Tz_-kCdow-IpG1HBTxBWK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "cf7850e34f461a16": {
+      "ts": "2026-10-26T22:02:28+00:00",
+      "title": "2.1.311",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-311",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/greptile-code-review-codex-astra": {
+      "ts": "2026-10-26T22:00:00+00:00",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "link": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities": {
+      "ts": "2026-10-26T14:30:00+00:00",
+      "title": "Working with academic communities to build scientific understanding",
+      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+      "ts": "2026-10-26T13:45:00+00:00",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/openai-cut-incident-investigation": {
+      "ts": "2026-10-26T07:00:00+00:00",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "link": "https://openai.com/index/openai-cut-incident-investigation",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/introducing-gpt-6-1-terra": {
+      "ts": "2026-10-26T00:00:00+00:00",
+      "title": "Introducing GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://cursor.com/blog/agent-sdk": {
+      "ts": "2026-10-20T12:00:00+00:00",
+      "title": "Introducing the Agent SDK",
+      "link": "https://cursor.com/blog/agent-sdk",
+      "source": "Cursor Blog",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:3446443318898691460": {
+      "ts": "2026-10-26T20:06:03+00:00",
+      "title": "5 AI tools everyone must know about - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/De9Y7zzodRG/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3MYU0hPIUyJbC4ax-p6PyA",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5059690325841414124": {
+      "ts": "2026-10-26T19:09:12+00:00",
+      "title": "Manus can't push updates to any of my manus managed websites : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xfm1uy/manus_cant_push_updates_to_any_of_my_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3AB4TyYunJ5UzOIf4v2aKz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18026241164246004262": {
+      "ts": "2026-10-26T16:34:01+00:00",
+      "title": "How to Write Better Prompts in <b>Manus AI</b> without Wasting Time? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DH3nMvyVsUlM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Hs-PvGmzllgtWANP5KT-_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4333827167326433583": {
+      "ts": "2026-10-26T14:29:45+00:00",
+      "title": "Manus: Employee Directory | ZoomInfo.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zoominfo.com/pic/manus/5000068584&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xNkuJ-sJ7hfYhtG3Tbq5c",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15194104711958836491": {
+      "ts": "2026-10-26T04:41:51+00:00",
+      "title": "Chinese AI firm secures $15 billion in funding days after U.S. restrictions - Hot Report Daily",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hotreportdaily.com/article/chinese-ai-firm-secures-15-billion-in-funding-days-after-u-s-restrictions/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OKBOcafAqrRqWkDhOvSc9",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
