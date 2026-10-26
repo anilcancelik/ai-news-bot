@@ -1,23 +1,9 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:18299467850304323829": {
-      "ts": "2026-09-26T18:35:02+00:00",
-      "title": "How to Contact <b>Manus Ai</b> Support Full Tutorial - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dg2WislPRxsQ%26vl%3Dhi&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2nt_byOfIBXvPyLj6G22f6",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15779824091616605773": {
       "ts": "2026-09-26T20:08:21+00:00",
       "title": "What Is a VPS? How Virtual Private Servers Work and Who Actually Needs One",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/what-is-a-vps/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gViDhunfH1YSRyVLnMztu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3949453892381681448": {
-      "ts": "2026-09-26T12:27:46+00:00",
-      "title": "SOCIAL BOT AI – Telegram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://t.me/s/socialbotaii%3Fbefore%3D1499&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw063RyPIBg6FBopYxnHzwYj",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6941,6 +6927,83 @@
       "ts": "2026-10-25T23:16:32+00:00",
       "title": "Flushnet AI Runner | Browser Automation, Terminal Control, AI Agents, and Remote Nodes",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.flushnet.net/api/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0o09d9UQkSWrHiTDV7UB2R",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/s1-sec": {
+      "ts": "2026-10-26T00:00:00+00:00",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "link": "https://www.anthropic.com/news/s1-sec",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://claude.com/blog/expanding-claude-for-nonprofits": {
+      "ts": "2026-10-26T00:00:00+00:00",
+      "title": "Expanding Claude for Nonprofits",
+      "link": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://www.anthropic.com/research/formal-verification": {
+      "ts": "2026-10-22T00:00:00+00:00",
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "link": "https://www.anthropic.com/research/formal-verification",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/chatgpt-expanding-world-of-work": {
+      "ts": "2026-10-26T10:00:00+00:00",
+      "title": "ChatGPT’s expanding world of work",
+      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/fanatics-streamline-fan-experience": {
+      "ts": "2026-10-26T07:00:00+00:00",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://cohere.com/blog/pitchbook-integration": {
+      "ts": "2026-10-26T00:00:00+00:00",
+      "title": "PitchBook in North: Private market intelligence for enterprise teams",
+      "link": "https://cohere.com/blog/pitchbook-integration",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": {
+      "ts": "2026-10-26T00:00:00+00:00",
+      "title": "Concerning behavior from a popular open-weight AI model",
+      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1927481096520247500": {
+      "ts": "2026-10-26T12:33:11+00:00",
+      "title": "The dead internet is no longer a theory. China's <b>Manus AI</b>, the autonomous agent built by ... - X",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/luqman_talks/status/2114691003085201689&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3KJDbSX9litsYxBSFpRShr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3411079236815153961": {
+      "ts": "2026-10-26T12:06:08+00:00",
+      "title": "How to Build a CUSTOM Chrome Extension with <b>Manus AI</b> Studio - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAHrSELfKJTI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0u-04vWrD3KqUH59IFCf2O",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4592171917447695564": {
+      "ts": "2026-10-26T09:46:33+00:00",
+      "title": "OpenAI Now Trains Its Frontier AI Models With No Live Internet - ProductNation Malaysia",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://productnation.co/my/32176/openai-frontier-models-live-internet-training-9QFy/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JpIAiwQP0pznM9HRQ3XDH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14190681286888059390": {
+      "ts": "2026-10-26T03:11:31+00:00",
+      "title": "Meta bought this AI agent. Users got 12 days | Part 1 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/CDtTsiYCSNo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Tz_-kCdow-IpG1HBTxBWK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
