@@ -7069,6 +7069,69 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://jobs.joindevops.com/jobs/783338757-devops-engineer&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1FyNvSyNjqmmNXNueez88k",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/oracle-apps-in-chatgpt": {
+      "ts": "2026-10-27T07:00:00+00:00",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/anima": {
+      "ts": "2026-10-23T00:00:00+00:00",
+      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "link": "https://openai.com/index/anima",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+      "ts": "2026-10-27T16:01:38+00:00",
+      "title": "Genie 4: A new generation of world simulation",
+      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://developers.googleblog.com/fast-reliable-a2ui/": {
+      "ts": "2026-10-27T00:00:00+00:00",
+      "title": "Fast, reliable A2UI, with swappable inference formats",
+      "link": "https://developers.googleblog.com/fast-reliable-a2ui/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/": {
+      "ts": "2026-10-27T00:00:00+00:00",
+      "title": "Building Conversational Commerce with Multi-Agent Swarms on GCP: A Working Prototype",
+      "link": "https://developers.googleblog.com/building-conversational-commerce-with-multi-agent-swarms-on-gcp-a-working-prototype/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12258201112832990892": {
+      "ts": "2026-10-27T14:48:34+00:00",
+      "title": "Ruben on X: &quot;Wiz needed 18 months to go from $1M to $100M ARR. In 2022 it called itself ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/rdominguezibar/status/2115083728636596524&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XDKd3uYqcEfqcuecJt9EY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6547278524870080108": {
+      "ts": "2026-10-27T11:14:03+00:00",
+      "title": "AI Agent &amp; Bot Detection - SEON",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://seon.io/products/ai-agent-bot-detection/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Whv3d9KnTRq9I3cA7iq8m",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16295968140499507813": {
+      "ts": "2026-10-27T09:06:30+00:00",
+      "title": "DevOps Engineer with 3 - 5 Years of Experience at <b>manus ai</b> in Singapore - foundit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.foundit.sg/job/devops-engineer-manus-ai-singapore-69605405&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Gga6S8T7LBeGyrMSOlw6l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1365294275275100770": {
+      "ts": "2026-10-27T08:16:20+00:00",
+      "title": "Squad vs. Devin AI, Lindy AI, CrewAI, Manus &amp; Zapier (2026 Comparison)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mysquad.si/compare&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CUkwKbiTUboFBWvWd8aKj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-10-27"
