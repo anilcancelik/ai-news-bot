@@ -35,20 +35,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:14629512040029708771": {
-      "ts": "2026-09-27T05:57:14+00:00",
-      "title": "Claude Code Vs <b>Manus AI</b>: Which Coding Agent Fits Your Workflow? - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/claude-code-vs-manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Jk_0huxgeKyItRKPHsN9M",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4221697670015236928": {
-      "ts": "2026-09-27T04:09:04+00:00",
-      "title": "Public WiFi Security Risks 2026: What's Real - SQ Magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/public-wifi-security-risks/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Iq6sjVmcOprTH9gCnN_Sz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:2104623921650295629": {
       "ts": "2026-09-27T12:19:40+00:00",
       "title": "OMMAIS- Orchestrated Multi-Model AI System : r/vibecoders_ - Reddit",
@@ -7090,7 +7076,21 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/748054870699908/posts/1575892277916159/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2znqpFGi-0NiBOuIA7Gd0s",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://windsurf.com/changelog#3.11.228#3.11.228": {
+      "ts": "2026-10-26T00:00:00+00:00",
+      "title": "Windsurf 3.11.228",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-11-228",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2452287326565144248": {
+      "ts": "2026-10-26T10:36:02+00:00",
+      "title": "OPPO's new Find X10 features the <b>Manus AI</b> agent. OPPO states it handles data locally, but ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/productnationco/posts/oppos-new-find-x10-features-the-manus-ai-agent-oppo-states-it-handles-data-local/1722477019883843/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kTA6-59FgY-pN5yFVvZpT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-10-26"
+  "last_digest_date": "2026-10-27"
 }
