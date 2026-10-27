@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:3588338826629828914": {
-      "ts": "2026-09-27T20:54:19+00:00",
-      "title": "Less Mental Load, More Presence: <b>Manus AI</b> by @drjoeyokurame_876 - Stan Store",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://stan.store/drjoeyokurame_876/p/less-mental-load-more-presence-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2SrGASK8mEhnA7qHKjm5lN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10077707163510254000": {
-      "ts": "2026-09-27T20:13:36+00:00",
-      "title": "AI Red Teaming: Brand, Data and Digital Security Risks - SQ Magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/ai-red-teaming-brand-data-digital-security-risks/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fnqvtwKghiiEodKE_aWhs",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16439700718393304761": {
       "ts": "2026-09-28T15:15:59+00:00",
       "title": "<b>Manus AI</b> Review (2026): Strengths, Failures &amp; the Meta Split - Carly AI",
@@ -7130,6 +7116,83 @@
       "ts": "2026-10-27T08:16:20+00:00",
       "title": "Squad vs. Devin AI, Lindy AI, CrewAI, Manus &amp; Zapier (2026 Comparison)",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://mysquad.si/compare&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CUkwKbiTUboFBWvWd8aKj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "ed0b93c556025f38": {
+      "ts": "2026-10-27T20:35:04+00:00",
+      "title": "2.1.312",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-312",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://www.anthropic.com/research/early-progress-drug-development": {
+      "ts": "2026-10-27T00:00:00+00:00",
+      "title": "Early progress on accelerating drug development with Claude",
+      "link": "https://www.anthropic.com/research/early-progress-drug-development",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://www.anthropic.com/news/expanding-partnership-gsa": {
+      "ts": "2026-10-27T00:00:00+00:00",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "link": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://claude.com/blog/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud": {
+      "ts": "2026-10-27T00:00:00+00:00",
+      "title": "Manage costs and demonstrate ROI for Claude Code on Google Cloud",
+      "link": "https://claude.com/resources/articles/how-to-manage-costs-and-demonstrate-roi-for-claude-code-on-google-cloud",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/claude-for-financial-advisors": {
+      "ts": "2026-10-27T00:00:00+00:00",
+      "title": "Claude for Financial Advisors",
+      "link": "https://claude.com/resources/articles/claude-for-financial-advisors",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/retell-ai": {
+      "ts": "2026-10-27T15:00:00+00:00",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "link": "https://openai.com/index/retell-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/check-point-daybreak": {
+      "ts": "2026-10-27T00:00:00+00:00",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "link": "https://openai.com/index/check-point-daybreak",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/grupo-boticario": {
+      "ts": "2026-10-16T00:00:00+00:00",
+      "title": "How Grupo Boticário uses AI to strengthen human connections",
+      "link": "https://openai.com/index/grupo-boticario",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/localiza-generative-ai": {
+      "ts": "2026-10-16T00:00:00+00:00",
+      "title": "How Localiza reorganized work around generative AI",
+      "link": "https://openai.com/index/localiza-generative-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12033897979617857568": {
+      "ts": "2026-10-27T21:32:16+00:00",
+      "title": "#BringBackFreeChatMode : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xh4vh2/bringbackfreechatmode/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HpKqCpIkQjB9MmeRYpYhX",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6084963680735774108": {
+      "ts": "2026-10-27T10:59:02+00:00",
+      "title": "Meet your AI assistant for everyday work. Need a first draft before a meeting? Opex can ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/De_BqJ6x8FH/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3X13RHQEwYTX7RGkTZVm9a",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
