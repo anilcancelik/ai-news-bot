@@ -70,20 +70,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:9291481627381003991": {
-      "ts": "2026-09-27T23:45:02+00:00",
-      "title": "10 AI Tools You Should Know in 2026 #ai #aitools #ai2026 #aishorts #chatgpt #claude #gemini",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/3rWVy5Ztjn0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0qHDmFG7eGOSphRO6F9oyn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5266465056183750463": {
-      "ts": "2026-09-27T23:08:15+00:00",
-      "title": "Manus.im - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/playlist%3Flist%3DPLrZQ0kXWE4jMdlX0PZmfXaNQ0roKfmO7w&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gHYnV1Db71D_3StdQ2qn8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "3fc22761e14bd5bd": {
       "ts": "2026-09-28T18:15:53+00:00",
       "title": "2.1.284",
@@ -91,31 +77,10 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "Giving companies more control over their AI agents, with NVIDIA",
-      "link": "https://claude.com/blog/giving-companies-more-control-over-their-ai-agents-with-nvidia",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/lenfest-ai-collaborative-expansion": {
       "ts": "2026-09-28T07:00:00+00:00",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/form/codex-originals": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "Are you a Codex Original?",
-      "link": "https://openai.com/form/codex-originals",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/basis-tax-workbook-with-astra": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "link": "https://openai.com/index/basis-tax-workbook-with-astra",
       "source": "OpenAI News",
       "big": false
     },
@@ -1589,13 +1554,6 @@
       "source": "Mistral AI News",
       "big": false
     },
-    "https://x.ai/news/team-bots": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "Team Bots: shared AI teammates that learn as they work",
-      "link": "https://x.ai/news/team-bots",
-      "source": "xAI News",
-      "big": false
-    },
     "https://cohere.com/blog/rcp-ndcg": {
       "ts": "2026-09-30T00:00:00+00:00",
       "title": "RCP-nDCG@10: A more complete way to measure retrieval relevance",
@@ -1649,20 +1607,6 @@
       "ts": "2026-09-29T00:00:00+00:00",
       "title": "Computer adds Automations for ongoing work",
       "link": "https://www.perplexity.ai/hub/blog/computer-adds-automations-for-ongoing-work",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/mcp-vs-api": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "MCP vs. API: A Full Technical Breakdown (Definitions, Differences, and Use Cases)",
-      "link": "https://www.perplexity.ai/hub/blog/mcp-vs-api",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "Agent API now supports reusable agents",
-      "link": "https://www.perplexity.ai/hub/blog/agent-api-now-supports-reusable-agents",
       "source": "Perplexity Blog",
       "big": false
     },
@@ -2202,27 +2146,6 @@
       "ts": "2026-10-06T00:00:00+00:00",
       "title": "Claude now works with Google Docs, Sheets, and Slides",
       "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://www.anthropic.com/claude-sonnet-5-5": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "Claude Sonnet 5.5",
-      "link": "https://www.anthropic.com/claude-sonnet-5-5",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.dev/blog/building-with-claude-sonnet-5-5/": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "Building with Claude Sonnet 5.5",
-      "link": "https://claude.dev/blog/building-with-claude-sonnet-5-5/",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.dev/blog/automating-eval-design-and-hillclimbing/": {
-      "ts": "2026-09-28T00:00:00+00:00",
-      "title": "Automating eval design and hillclimbing with Claude",
-      "link": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
       "source": "Claude Blog",
       "big": false
     },
@@ -7193,6 +7116,55 @@
       "ts": "2026-10-27T10:59:02+00:00",
       "title": "Meet your AI assistant for everyday work. Need a first draft before a meeting? Opex can ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/De_BqJ6x8FH/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3X13RHQEwYTX7RGkTZVm9a",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:107574479815703448": {
+      "ts": "2026-10-28T00:19:31+00:00",
+      "title": "An Open Letter to <b>Manus AI</b>: Bring Back Free Chat Mode : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xh8ueb/an_open_letter_to_manus_ai_bring_back_free_chat/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2km-E3EwXEggB0XROPCb1T",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5309520914965369805": {
+      "ts": "2026-10-27T23:09:28+00:00",
+      "title": "Meta Announces $95 Billion Stock Offering to Fund AI Expansion | Cryptos R Us - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cryptosrus/videos/meta-is-raising-95-billion-to-expand-their-ai-after-burning-through-all-their-ca/1084092634455639/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02f2VcLtvqp7CWe9k7FMO8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:16947879155955656793": {
+      "ts": "2026-10-27T23:00:02+00:00",
+      "title": "Baidu's low-priced new AI models bring questions about cost | TechTarget",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techtarget.com/news/Baidus-low-priced-new-AI-models-bring-questions-about-cost/834451/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fxqSpwOcFPJ4w8EpRhGxB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16503528850588889983": {
+      "ts": "2026-10-27T21:46:43+00:00",
+      "title": "[$3+] 50+ PERSONAL ACCOUNTS &amp; LICENSES | AI, SEO, Design, WP | Instant!",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hackforums.net/showthread.php%3Ftid%3D6334874%26action%3Dlastpost&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0u3vwZC3l12IkXoe1d_hAf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12866618446228023845": {
+      "ts": "2026-10-27T21:28:46+00:00",
+      "title": "Anthropic Buys a Drug Startup, Runs Claude in 6 Partnerships - FourWeekMBA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fourweekmba.com/ai-anthropic-buys-a-drug-startup-runs-claude-in-6-partnerships/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw07-4gAXtS0c3jPgEbgfCDa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10783551412234814372": {
+      "ts": "2026-10-27T18:55:06+00:00",
+      "title": "How to Review Prompts in <b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D8wwpVvW2_a0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1AYom2-PV9FG_YP9UwhowF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:416395118904569643": {
+      "ts": "2026-10-27T15:45:41+00:00",
+      "title": "<b>Manus AI</b> 2026: 9 Powerful Facts, Features &amp; Pricing - Rentaai",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://rentaai.com/ai-tools/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jR6WPJ8LUn1diBU00YIWm",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
