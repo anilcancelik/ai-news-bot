@@ -1,89 +1,5 @@
 {
   "seen": {
-    "3fc22761e14bd5bd": {
-      "ts": "2026-09-28T18:15:53+00:00",
-      "title": "2.1.284",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-284",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12294270147228488624": {
-      "ts": "2026-09-28T20:12:18+00:00",
-      "title": "Manus Expands AI Tools in Renewed Push Into Agent Market - Yahoo Finance UK",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://uk.finance.yahoo.com/news/manus-expands-ai-tools-renewed-175746537.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1GgbSETvJ8kq9GhFIBxDvh",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:213388711747783720": {
-      "ts": "2026-09-28T20:05:07+00:00",
-      "title": "Manus Expands AI Tools in Renewed Push Into Agent Market - Bloomberg",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3TrfreyjHXHVXc6Kqrbbjn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12746606227777558414": {
-      "ts": "2026-09-28T20:03:36+00:00",
-      "title": "Meta Launches Enterprise AI Business in Bold New Push - SQ Magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/meta-enterprise-platform-launch/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0R08EXa6IJG3Bk8erLZxPZ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:8863086541065647410": {
-      "ts": "2026-09-28T19:21:36+00:00",
-      "title": "Manus releases CUE to compete with GrokBot, Muse and Instinct! - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/jonathanjmast/posts/manus-releases-cue-to-compete-with-grokbot-muse-and-instinct/29141034012169389/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0stPoVkxBv4HU2gn_go93q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6448372156704213329": {
-      "ts": "2026-09-28T18:36:49+00:00",
-      "title": "Meta AI - You Might Also Like - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/ae/app/1558240027%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Dipad&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3A5BKb2Vy4q4Q5ClZanzAd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13219771003941052916": {
-      "ts": "2026-09-28T18:05:03+00:00",
-      "title": "Manus releases CUE to compete with GrokBot, Muse and Instinct! - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/698593531630485/posts/1735769914579503/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cA8f8lZsX6nhDjpthPWIk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17765812955449546499": {
-      "ts": "2026-09-28T16:57:17+00:00",
-      "title": "Bitget Halts User Withdrawals Following Record $350 Million Cryptocurrency Exploit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://oodaloop.com/briefs/cyber/bitget-halts-user-withdrawals-following-record-350-million-cryptocurrency-exploit/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw32e8y3Ni4Saxk8dwYQd_GV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10025986610011805254": {
-      "ts": "2026-09-28T16:47:20+00:00",
-      "title": "FBI Declares Cybersecurity Incident After Hackers Steal Personnel and Applicant Data",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://oodaloop.com/briefs/cyber/fbi-declares-cybersecurity-incident-after-hackers-steal-personnel-and-applicant-data/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QH7eVo1wMNolR_DdFH-Uv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:247898165790993356": {
-      "ts": "2026-09-28T16:28:15+00:00",
-      "title": "Manus 2.0 just entered beast mode. Create videos. Build games. Control computers ... - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/WhyFazee/posts/manus-20-just-entered-beast-modecreate-videos-build-games-control-computers-run-/122190447608744270/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0NtdzoadneAv68bR0YGC3m",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9952793504831696784": {
-      "ts": "2026-09-28T15:50:10+00:00",
-      "title": "Introducing Manus 2.0 - t.co / X",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://t.co/Tk4iDClFEI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0AvHNjWXjLSP1EkpAhBvpv",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:12063778802165427831": {
-      "ts": "2026-09-28T15:26:46+00:00",
-      "title": "everything after the first result. AI does the heavy lifting. You shape every detail… | <b>Manus AI</b>",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-manus-20-manus-20-is-a-rebuild-activity-7510355454326239234-6fex&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw24pvCQyWBx1z4QfU18x5Qg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10463061930029984526": {
       "ts": "2026-09-29T00:01:25+00:00",
       "title": "Manus, an artificial intelligence startup founded in China, is expanding its AI agent offerings ...",
@@ -104,34 +20,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dd2B-V6T9IY/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34baor7VEnrlkSVPa_illq",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:6063760654370121776": {
-      "ts": "2026-09-28T18:23:03+00:00",
-      "title": "Sameer Sontakey's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/sontakey_the-agent-space-is-not-slowing-down-grok-activity-7510403026646421505-WIu0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3iC417Rs96EJt0dAURP4bG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8302058210761937673": {
-      "ts": "2026-09-28T16:53:08+00:00",
-      "title": "China Extends Overseas Travel Restrictions to Families of Top AI and Chip Executives",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://pro.edgex.exchange/en-US/news/article/china-ai-chip-executive-exit-bans-families&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3mag5BR-NEfUvCUdoVLWtS",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/how-we-will-do-better-for-australia": {
-      "ts": "2026-09-28T19:00:00+00:00",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/towards-safety-cases-for-frontier-ai-training": {
-      "ts": "2026-09-28T19:00:00+00:00",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "source": "OpenAI News",
-      "big": false
     },
     "tag:google.com,2013:googlealerts/feed:16943892473389082376": {
       "ts": "2026-09-28T23:41:11+00:00",
@@ -1456,13 +1344,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://mistral.ai/news/hallo-deutschland": {
-      "ts": "2026-09-28T15:57:59+00:00",
-      "title": "Hallo, Deutschland!",
-      "link": "https://mistral.ai/news/hallo-deutschland",
-      "source": "Mistral AI News",
-      "big": false
-    },
     "https://cohere.com/blog/rcp-ndcg": {
       "ts": "2026-09-30T00:00:00+00:00",
       "title": "RCP-nDCG@10: A more complete way to measure retrieval relevance",
@@ -2517,13 +2398,6 @@
       "ts": "2026-09-29T19:37:34+00:00",
       "title": "2.1.285",
       "link": "https://code.claude.com/docs/en/changelog#2-1-285",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "2743116c922cb2d3": {
-      "ts": "2026-09-28T18:15:53+00:00",
-      "title": "2.1.284",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-284",
       "source": "Claude Code changelog",
       "big": false
     },
@@ -7165,6 +7039,111 @@
       "ts": "2026-10-27T21:18:18+00:00",
       "title": "Manus — Review, Pricing &amp; Details - AI Tool Lab",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://theaitoolab.com/tools/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bYPyjQGLNRtXpW9Ye7iGt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/smart-reports-surveys-pooled-budgets": {
+      "ts": "2026-10-28T00:00:00+00:00",
+      "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
+      "link": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/introducing-artifacts-for-legal-work": {
+      "ts": "2026-10-28T00:00:00+00:00",
+      "title": "Introducing artifacts for legal work",
+      "link": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
+      "source": "Claude Blog",
+      "big": true
+    },
+    "https://claude.com/blog/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company": {
+      "ts": "2026-10-28T00:00:00+00:00",
+      "title": "IDC brings Quanta into Claude and adopts Claude across the company",
+      "link": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/the-future-of-the-firm": {
+      "ts": "2026-10-28T10:00:00+00:00",
+      "title": "The future of the firm",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/legora": {
+      "ts": "2026-10-28T09:30:00+00:00",
+      "title": "Legora is building the agentic operating system for legal work",
+      "link": "https://openai.com/index/legora",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+      "ts": "2026-10-28T17:00:58+00:00",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/": {
+      "ts": "2026-10-28T00:00:00+00:00",
+      "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
+      "link": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18433785861816699502": {
+      "ts": "2026-10-28T16:03:34+00:00",
+      "title": "HEJING AI vs <b>Manus AI</b> Creates Better Product Images?? #manusai # #visualai #aitools - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/gSqtmvPz_LU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw08t_Y1g41Dm90J4Cp5js2o",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6422052732706200791": {
+      "ts": "2026-10-28T15:42:11+00:00",
+      "title": "Make sense of AI in marketing - Metaflow AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://metaflow.life/blog%3Fpage%3D62&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1soRUKY9od8BJXZwHOlZeS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9657903456847723508": {
+      "ts": "2026-10-28T15:42:10+00:00",
+      "title": "Make sense of AI in marketing - Metaflow AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://metaflow.life/blog%3Fpage%3D63&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0eHePbBAaNEGnb4NIp7yum",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:830182573824271087": {
+      "ts": "2026-10-28T15:03:32+00:00",
+      "title": "Meet the minds behind your next spark in the Bootcamp! Meet Eng. Ahmed Ezzat, Manus ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/DfCtEUyCdnT/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o5uyidsCN9VlUjjLiYXDT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2408812988012710934": {
+      "ts": "2026-10-28T13:07:10+00:00",
+      "title": "An Alert Doesn't Stop an Attack: Introducing Autonomous Defense - Security Boulevard",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://securityboulevard.com/2026/10/an-alert-doesnt-stop-an-attack-introducing-autonomous-defense/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1xyCYrn7m_18l3GFcq-r6b",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:5002864767341605188": {
+      "ts": "2026-10-28T10:56:58+00:00",
+      "title": "UL Solutions Inc. rStock Price, RULS Price, Live Charts, and Marketcap - Coinbase Canada",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/price/ul-solutions-inc-rstock&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0g7KSjrRAaMBhMC0WsLIYp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2790894578921862835": {
+      "ts": "2026-10-28T07:25:24+00:00",
+      "title": "Help Me! My Sister is An A.I Vocal Synthesizer!! Clip #4 Miya Vs Evil Organization. - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/LatentSpaceClub/comments/1xhgx3a/help_me_my_sister_is_an_ai_vocal_synthesizer_clip/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1D5374kootmL9ZnHhEhrhI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3763625753878644697": {
+      "ts": "2026-10-28T02:14:37+00:00",
+      "title": "Verified software and AI discounts - codigoscupones",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://codigoscupones.com/en/categoria/software/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0d-14sbRZ86-Jw8CMfPHmo",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
