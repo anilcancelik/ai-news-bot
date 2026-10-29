@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:16048074791086008800": {
-      "ts": "2026-09-29T16:49:09+00:00",
-      "title": "Manus: General-Purpose AI Agent With Automations and Cue - AI/TLDR",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ai-tldr.dev/tools/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1_l9yN2IaDlFwGVtkAMWIQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11337863817409321566": {
-      "ts": "2026-09-29T14:18:21+00:00",
-      "title": "Manus 2.0 launches with Studio, Cloud Computer and Cue - TestingCatalog",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.testingcatalog.com/manus-2-0-launches-with-studio-cloud-computer-and-cue/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2G4CpPaolG0e37orjjBxHO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:11636482494500857182": {
-      "ts": "2026-09-29T14:04:59+00:00",
-      "title": "Five Ways the US and China Clash Over AI - Bloomberg",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10bvTughtHSJiIlW45nOKq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13444286318184212541": {
-      "ts": "2026-09-29T13:57:45+00:00",
-      "title": "Careers at Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://careers.manus.im/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YpOkrlDg0DbAAndk7vRiP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "305b93b0c65ae050": {
       "ts": "2026-09-29T19:37:34+00:00",
       "title": "2.1.285",
@@ -39,20 +11,6 @@
       "ts": "2026-09-29T21:10:05+00:00",
       "title": "Human touch ai : r/AI_Agents - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_Agents/comments/1wtjyyv/human_touch_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2FZuAipxJ39-I6g63Rj6Gy",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7200153971845555477": {
-      "ts": "2026-09-29T18:08:21+00:00",
-      "title": "Parker Lyman's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/lyman-parker_just-shipped-a-double-launch-today-the-activity-7510453248210735105-Glp6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23WyM2Sbclwg1ZUW3Wsq2i",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4714402249453682704": {
-      "ts": "2026-09-29T16:46:09+00:00",
-      "title": "CUE and <b>Manus AI</b> 2.0 just released - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DxaPL8YmrK14&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Nu49AOKSHJ2EpDxStarc1",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -7039,6 +6997,118 @@
       "ts": "2026-10-28T18:32:46+00:00",
       "title": "I Gave Manus Cue AI Agent a Phone Number. It Started Making Calls - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3D_utqKv8ht7Y%26pp%3DugUEEgJlbtIHCQkrDAGHKiGM7w%253D%253D&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0-Mhm4zmEnIl11SbhplFzx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/updated-model-spec": {
+      "ts": "2026-10-29T17:00:00+00:00",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "link": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+      "ts": "2026-10-29T09:00:00+00:00",
+      "title": "How we detect frontier model misalignment",
+      "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/ropes-gray-ai-diligence": {
+      "ts": "2026-10-29T07:00:00+00:00",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "link": "https://openai.com/index/ropes-gray-ai-diligence",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://mistral.ai/news/mistral-large-4-oss/": {
+      "ts": "2026-10-29T12:00:07+00:00",
+      "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
+      "link": "https://mistral.ai/news/mistral-large-4-oss",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai": {
+      "ts": "2026-10-29T00:00:00+00:00",
+      "title": "Who Gets to Build the Frontier for AI",
+      "link": "https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2706840834841979542": {
+      "ts": "2026-10-29T17:25:38+00:00",
+      "title": "How to Run PARALLEL Subagents in <b>Manus AI</b> to Split Work Across Agents - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D6HLwKttxn_4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw21kn5Ay_b47itgHZ2znvca",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7076790494303813323": {
+      "ts": "2026-10-29T15:53:01+00:00",
+      "title": "Meet Manus 2.0 in Lisbon · Luma | <b>Manus AI</b> - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_meet-manus-20-in-lisbon-luma-activity-7521592030414782464--GVF&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0c7RFIUhouHxCH5p1ZkWLL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4900449780420756135": {
+      "ts": "2026-10-29T15:26:08+00:00",
+      "title": "How to Export Saved Memories from <b>Manus AI</b> Using the Memory PROMPT - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfoSfsRGwPeE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lyn3VD8AOMVqUO2pTWwVW",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16262156214694942543": {
+      "ts": "2026-10-29T15:08:09+00:00",
+      "title": "Building Agentic Chatbot -India : r/AI_India - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AI_India/comments/1xila6k/building_agentic_chatbot_india/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2D2tV3NOK0E0t2rSNBTyZB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10828915794367132688": {
+      "ts": "2026-10-29T14:18:43+00:00",
+      "title": "ChatGPT Agent vs <b>Manus AI</b>: Which One Wins? #Shorts - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/xHJl7DOhKFg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1N54mquxJ6qX0OV_bpsMRO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6711930135472967013": {
+      "ts": "2026-10-29T13:58:19+00:00",
+      "title": "best AI tools Latest Version for Windows - VNUA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vnua.edu.vn/content/102955220/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw051cafbBErvaiSGhTvlNau",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:568111239410081339": {
+      "ts": "2026-10-29T13:25:14+00:00",
+      "title": "Nelson Oboh",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nelsonoboh.netlify.app/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0GHORXsH_RYbcaptPqIwHT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15966627166575799604": {
+      "ts": "2026-10-29T04:05:54+00:00",
+      "title": "Three developments this week signal where AI is actually heading - Felipe Guarin",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://felipeguarin.com/ai-and-thinking/three-developments-this-week-signal-where-ai-is-actually-heading&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2E1MJWAlcooJHZ05iCUy6I",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8116297960965850667": {
+      "ts": "2026-10-29T01:39:45+00:00",
+      "title": "8 women in cybersecurity you should know - Technext",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technext24.com/women-in-tech/8-women-in-cybersecurity-to-know/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2r9lQD7G1xFfDgu6iMNfTH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12966410452196901452": {
+      "ts": "2026-10-28T21:45:49+00:00",
+      "title": "AI tools, tested and security-reviewed | Sitesquirrels",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sitesquirrels.com/en/posts/%3Fcat%3Dai-tools&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uTlpu93RL9NuPFLxS1qCp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17771853567129927869": {
+      "ts": "2026-10-28T17:58:43+00:00",
+      "title": "MANUS, POR FAVOR, TRAGA DE VOLTA O MODO DE CHAT GRATUITO ... - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xhtyzw/manus_por_favor_traga_de_volta_o_modo_de_chat/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rPTA7gsHUFdwCppnCESYp",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
