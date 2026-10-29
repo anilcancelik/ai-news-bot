@@ -1,40 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10463061930029984526": {
-      "ts": "2026-09-29T00:01:25+00:00",
-      "title": "Manus, an artificial intelligence startup founded in China, is expanding its AI agent offerings ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/bloombergbusiness/posts/manus-an-artificial-intelligence-startup-founded-in-china-is-expanding-its-ai-ag/1515244170461671/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J9azyHBl6H05rdPFp-jRD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14226772406988351064": {
-      "ts": "2026-09-28T21:26:59+00:00",
-      "title": "Manus 2.0 Launch: Studio, Cue &amp; Automations (2026) | explainx.ai Blog",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://explainx.ai/blog/manus-2-0-studio-cue-cascade-cloud-computer-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1tVNaquWGeQ5aCK8OyWAkF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:4942230054782211964": {
-      "ts": "2026-09-28T20:47:47+00:00",
-      "title": "ElevenLabs has officially launched Eleven v4 and Eleven v4 Turbo, its newest voice models ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dd2B-V6T9IY/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34baor7VEnrlkSVPa_illq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:16943892473389082376": {
-      "ts": "2026-09-28T23:41:11+00:00",
-      "title": "UNDERCODE TESTING on X: &quot;   Zero-Click #AI Agent Compromise: How a Single Email ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/UndercodeUpdate/status/2104658986989478268&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw267zAP6V4wSihJiBrCbGql",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17430044009931389755": {
-      "ts": "2026-09-28T23:21:02+00:00",
-      "title": "Cue Launches Personal AI Agents App from Manus : r/aicuriosity - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aicuriosity/comments/1wshxog/cue_launches_personal_ai_agents_app_from_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zkK1ZE3pO87uiKS5x3oV7",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:13233698376697140959": {
       "ts": "2026-09-29T07:27:07+00:00",
       "title": "Manus 2.0 is much more than a version update. Manus has rebuilt its agent system from the ...",
@@ -84,27 +49,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:9037072977503355948": {
-      "ts": "2026-09-28T23:59:35+00:00",
-      "title": "How to Troubleshoot Connection in <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DZGMchU-WkVc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cl_DxyjQT5q2tYees-Ihl",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10755034809310118580": {
-      "ts": "2026-09-28T21:10:37+00:00",
-      "title": "Manus debuts Manus 2.0, its latest AI agent, and Cue, a new standalone app for personal ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Techmeme/posts/manus-debuts-manus-20-its-latest-ai-agent-and-cue-a-new-standalone-app-for-perso/1541566624672313/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3-kytPKYfgaS3S-nG6j69B",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude": {
-      "ts": "2026-09-29T00:00:00+00:00",
-      "title": "Agents you can coach: how Asana builds human-agent teams with Claude",
-      "link": "https://claude.com/blog/agents-you-can-coach-how-asana-builds-human-agent-teams-with-claude",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/devday-2026-recap": {
       "ts": "2026-09-29T10:00:00+00:00",
       "title": "DevDay 2026 Recap",
@@ -116,13 +60,6 @@
       "ts": "2026-09-29T10:00:00+00:00",
       "title": "Introducing GPT-6.1 Sol",
       "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "source": "OpenAI News",
-      "big": true
-    },
-    "https://openai.com/index/introducing-dots": {
-      "ts": "2026-09-29T00:00:00+00:00",
-      "title": "Introducing dots",
-      "link": "https://openai.com/index/introducing-dots",
       "source": "OpenAI News",
       "big": true
     },
@@ -196,13 +133,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13192116521783879793": {
-      "ts": "2026-09-29T00:08:01+00:00",
-      "title": "ARK Invest's Cathie Wood on AI and Drug Development Costs - FourWeekMBA",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fourweekmba.com/ai-ark-invest-cathie-wood-ai-drug-development-cost-forecast/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0dSKv7xuvyBTVYufCTvfx8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "305b93b0c65ae050": {
       "ts": "2026-09-29T19:37:34+00:00",
       "title": "2.1.285",
@@ -265,13 +195,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.infoworld.com/article/4228301/metas-ex-launches-agent-rival-to-metas-muse.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3PM2wpXaGV0BoOUKC37efb",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
-    },
-    "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models": {
-      "ts": "2026-09-29T00:00:00+00:00",
-      "title": "Ollama now supports Jev-style decision models",
-      "link": "https://ollama.com/blog/ollama-now-supports-jev-style-decision-models",
-      "source": "Ollama Blog",
-      "big": false
     },
     "tag:google.com,2013:googlealerts/feed:11256753798867357612": {
       "ts": "2026-09-30T04:43:10+00:00",
@@ -1384,27 +1307,6 @@
       "title": "Contextual embedding beyond the gold passage",
       "link": "https://www.perplexity.ai/hub/blog/contextual-embedding-beyond-the-gold-passage",
       "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents": {
-      "ts": "2026-09-29T00:00:00+00:00",
-      "title": "How we engineer safer agents",
-      "link": "https://www.perplexity.ai/hub/blog/how-we-engineer-safer-agents",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/computer-adds-automations-for-ongoing-work": {
-      "ts": "2026-09-29T00:00:00+00:00",
-      "title": "Computer adds Automations for ongoing work",
-      "link": "https://www.perplexity.ai/hub/blog/computer-adds-automations-for-ongoing-work",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.10.48#3.10.48": {
-      "ts": "2026-09-29T00:00:00+00:00",
-      "title": "Windsurf 3.10.48",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-10-48",
-      "source": "Windsurf Changelog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:6157595284790086360": {
@@ -7144,6 +7046,55 @@
       "ts": "2026-10-28T02:14:37+00:00",
       "title": "Verified software and AI discounts - codigoscupones",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://codigoscupones.com/en/categoria/software/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0d-14sbRZ86-Jw8CMfPHmo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
+      "ts": "2026-10-28T00:00:00+00:00",
+      "title": "AI for Science expands to foundations and research institutions",
+      "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/openai-servicenow-partnership-expansion": {
+      "ts": "2026-10-28T13:15:00+00:00",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/": {
+      "ts": "2026-10-28T00:00:00+00:00",
+      "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
+      "link": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11038142850511001522": {
+      "ts": "2026-10-28T16:51:44+00:00",
+      "title": "Cue by <b>Manus - AI</b> Assistant Tool - TopAIHubs",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://topaihubs.com/item/cue-by-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0s3vFpQn-P-qUZFTwQqGbQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1007940299052674906": {
+      "ts": "2026-10-28T12:11:39+00:00",
+      "title": "John Roas - <b>Manus Ai</b> + Meta Ads = Instant Reports - TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40john.roas/video/7701688291761868045&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IRJrYqe5Lh1vtn_WF5OII",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17017063671910120779": {
+      "ts": "2026-10-28T10:56:59+00:00",
+      "title": "US Oil Fund aStock Price, aUSO Price, Live Charts, and Marketcap - Coinbase Canada",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/price/us-oil-fund-astock-base-0x7388ed3371407471d48637b4ad8445b8d4fc3f8f&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kmxEkkEiIuNaJhG6Y99nS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13527619337177316497": {
+      "ts": "2026-10-28T10:56:59+00:00",
+      "title": "ult with knife Price, KULT Price, Live Charts, and Marketcap - Coinbase Canada",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/price/ult-with-knife&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0bFG5Vnla1dxTtF6-O52Jw",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
