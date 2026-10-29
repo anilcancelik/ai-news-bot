@@ -21,34 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": true
     },
-    "tag:google.com,2013:googlealerts/feed:15825934687958669694": {
-      "ts": "2026-09-29T04:09:44+00:00",
-      "title": "<b>Manus AI's</b> Post - Founder Briefing · Zoom · Luma - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_meet-manus-20-founder-briefing-zoom-activity-7510551068318171137-Nbtc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0dcgH5ZltF52uP7c23uMvT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17131684324566328460": {
-      "ts": "2026-09-29T03:44:44+00:00",
-      "title": "How the Manus Desktop App Works on Mac and Windows - Layer3Labs",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.layer3labs.io/guides/manus-desktop-app&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw24rLBcY5UOF6a2lrfPoGRQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:565848855055336679": {
-      "ts": "2026-09-29T02:27:59+00:00",
-      "title": "Day One of the Manus 2.0 Launch | elsewhere",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://elsewhere.news/en/zhenfund/manus-20&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Yl9XH9vLq2TZ5EZKLKPWQ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:7201763493476988431": {
-      "ts": "2026-09-29T01:26:57+00:00",
-      "title": "Manus 2.0 Review: Cascade, Studio, Cue &amp; Pricing (2026) | MyClaw.ai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://myclaw.ai/blog/manus-2-0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_5yHTF_xYjpqAKVvvHCFp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/devday-2026-recap": {
       "ts": "2026-09-29T10:00:00+00:00",
       "title": "DevDay 2026 Recap",
@@ -126,13 +98,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:12537973760662985571": {
-      "ts": "2026-09-29T04:07:48+00:00",
-      "title": "How to Use <b>Manus AI</b> for Free on Your First Real Task",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.layer3labs.io/guides/how-to-use-manus-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2RYx8AqvGTbgDyCAoZwN8D",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "305b93b0c65ae050": {
       "ts": "2026-09-29T19:37:34+00:00",
       "title": "2.1.285",
@@ -158,13 +123,6 @@
       "ts": "2026-09-29T16:46:09+00:00",
       "title": "CUE and <b>Manus AI</b> 2.0 just released - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DxaPL8YmrK14&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Nu49AOKSHJ2EpDxStarc1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16032604726577779265": {
-      "ts": "2026-09-29T02:51:52+00:00",
-      "title": "For anyone using “ Instinct”What are your thoughts about it as an AI Agent compared to Muse or any",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/aisaas/posts/4637700879882624/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2M7vzslsp9iFlS1v55utwY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -258,13 +216,6 @@
       "link": "https://deepmind.google/blog/introducing-synthid-bio/",
       "source": "Google DeepMind News",
       "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:17088295674067241743": {
-      "ts": "2026-09-29T03:01:13+00:00",
-      "title": "AI Tensibility on Reels - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/AITensibility/videos/1734021554570766/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw374Mq6JL4Hi9xlGS6hIJvr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
     },
     "b10cfe7d6e304c2d": {
       "ts": "2026-09-30T19:19:18+00:00",
@@ -7095,6 +7046,48 @@
       "ts": "2026-10-28T10:56:59+00:00",
       "title": "ult with knife Price, KULT Price, Live Charts, and Marketcap - Coinbase Canada",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/price/ult-with-knife&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0bFG5Vnla1dxTtF6-O52Jw",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://cohere.com/blog/financial-research-assistant-cohere-aws": {
+      "ts": "2026-10-29T00:00:00+00:00",
+      "title": "Build a Financial Research Assistant with Cohere AI on AWS",
+      "link": "https://cohere.com/blog/financial-research-assistant-cohere-aws",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8208828235254258935": {
+      "ts": "2026-10-29T02:37:38+00:00",
+      "title": "Choose your plan - Premium AI Tools at the Lowest Price | ProDigital",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://prodigitalm.com/pricing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2uLaXiawOoqOVWJcPYh59M",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7549936653766615791": {
+      "ts": "2026-10-29T01:15:14+00:00",
+      "title": "<b>Manus AI</b> vs Claude (2026) | Which AI Assistant Is Better? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D086WyXVR7cE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw22ugH1O5pZvxICwsdR2Mvr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1489471965052734244": {
+      "ts": "2026-10-28T22:53:05+00:00",
+      "title": "Runway AI Timeline: Model Releases &amp; Version History",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scriptbyai.com/runway-ai-timeline/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3oXGDD15cQTk7NB5TviLoi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5416932878856140206": {
+      "ts": "2026-10-28T21:59:45+00:00",
+      "title": "Manus fellow in Tamarac Florida for general AI agents - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/100000105593010/posts/thrilled-to-share-that-ive-officially-become-a-manus-fellow-based-in-tamarac-flo/30783141367939313/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0O1PH00lQBctz5WhG2g6P9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5162822308589084472": {
+      "ts": "2026-10-28T18:18:15+00:00",
+      "title": "NASA Space Apps Cairo - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/spaceappscairo/posts/%25F0%259D%2590%2596%25F0%259D%2590%259A%25F0%259D%2590%25A7%25F0%259D%2590%25AD-%25F0%259D%2590%25AD%25F0%259D%2590%25A8-%25F0%259D%2590%25A4%25F0%259D%2590%25A7%25F0%259D%2590%25A8%25F0%259D%2590%25B0-%25F0%259D%2590%25A1%25F0%259D%2590%25A8%25F0%259D%2590%25B0-%25F0%259D%2590%25B0%25F0%259D%2590%259E%25F0%259D%2590%25AB%25F0%259D%2590%259E-%25F0%259D%2590%25AC%25F0%259D%2590%25AE%25F0%259D%2590%25A9%25F0%259D%2590%259E%25F0%259D%2590%25AB%25F0%259D%2590%259C%25F0%259D%2590%25A1%25F0%259D%2590%259A%25F0%259D%2590%25AB%25F0%259D%2590%25A0%25F0%259D%2590%25A2%25F0%259D%2590%25A7%25F0%259D%2590%25A0-%25F0%259D%2590%25AD%25F0%259D%2590%25A1%25F0%259D%2590%259E-%25F0%259D%2590%25A7%25F0%259D%2590%259E%25F0%259D%2590%25B1%25F0%259D%2590%25AD-%25F0%259D%2590%25AF%25F0%259D%2590%259E%25F0%259D%2590%25AB%25F0%259D%2590%25AC%25F0%259D%2590%25A2%25F0%259D%2590%25A8%25F0%259D%2590%25A7-%25F0%259D%2590%25A8%25F0%259D%2590%259F-%25F0%259D%2590%25AD%25F0%259D%2590%25A1%25F0%259D%2590%259E-%25F0%259D%2590%259B%25F0%259D%2590%25A8%25F0%259D%2590%25A8%25F0%259D%2590%25AD%25F0%259D%2590%259C%25F0%259D%2590%259A%25F0%259D%2590%25A6%25F0%259D%2590%25A9-were-excite/1637861181708506/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rPDG9OgTsEO11BvTjKcY9",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
