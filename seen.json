@@ -1,68 +1,5 @@
 {
   "seen": {
-    "b10cfe7d6e304c2d": {
-      "ts": "2026-09-30T19:19:18+00:00",
-      "title": "2.1.286",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-286",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/": {
-      "ts": "2026-09-30T20:01:45+00:00",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/": {
-      "ts": "2026-09-30T20:27:49.265771+00:00",
-      "title": "Accelerating Spatio-Temporal Attention for Video Diffusion on TPUs",
-      "link": "https://developers.googleblog.com/accelerating-spatio-temporal-attention-for-video-diffusion-on-tpus/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5666933943937335636": {
-      "ts": "2026-09-30T19:31:23+00:00",
-      "title": "<b>Manus AI</b> is reportedly running 50 social media accounts at once - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dd40dnCFly8/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2CvyGTD2KQEG3LpxgZIbKj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17600259363576562293": {
-      "ts": "2026-09-30T16:26:17+00:00",
-      "title": "Manus 2.0 Launches Cue, Rivalling Meta's Muse in AI Agents - Renascence",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.renascence.io/news/80688/manus-2-0-launches-cue-rivalling-metas-muse-in-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XCo-WwQ4K70GVnEzVCMuC",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:8401802713724265138": {
-      "ts": "2026-09-30T20:54:20+00:00",
-      "title": "Manus Flex Opens Manus to 3 New Inference Partners - SuperGok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://supergok.com/manus-flex-opens-manus-to-3-new-inference-partners/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XJL4bLuglZMqwxxjMeTsG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6314347337573547899": {
-      "ts": "2026-09-30T20:51:35+00:00",
-      "title": "<b>Manus AI</b>: The Autonomous AI Agent That Eases Workflows - Cyberclick",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cyberclick.net/numericalblogen/manus-ai-the-autonomous-ai-agent-that-eases-workflows%3Fhs_amp%3Dtrue&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2sBgjH4yk1vuGUoTEt-_Oz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15823860790207860867": {
-      "ts": "2026-09-30T18:52:45+00:00",
-      "title": "<b>MANUS AI</b> - split acc : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1wub081/manus_ai_split_acc/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kYSokc-_7aqfw1pAFNkP6",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1173598471010141587": {
-      "ts": "2026-09-30T17:01:02+00:00",
-      "title": "Cue by Manus – Apps on Google Play",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://play.google.com/store/apps/details%3Fid%3Dai.manus.agents%26hl%3Den_ZA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YLbvtVbgGfg8SeM3jbihu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3866157133099057116": {
       "ts": "2026-10-01T03:46:39+00:00",
       "title": "How to deploy an app with <b>Manus AI</b>[2026 Full Guide] - YouTube",
@@ -1873,13 +1810,6 @@
       "ts": "2026-10-08T19:00:30+00:00",
       "title": "2.1.287",
       "link": "https://code.claude.com/docs/en/changelog#2-1-287",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "facd264a62e19ba4": {
-      "ts": "2026-09-30T19:19:18+00:00",
-      "title": "2.1.286",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-286",
       "source": "Claude Code changelog",
       "big": false
     },
@@ -7039,6 +6969,83 @@
       "ts": "2026-10-30T00:21:35+00:00",
       "title": "Liner AI Reviews 2026 - Citation-backed AI search and research - NetReckon",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.netreckon.com/product-review/liner-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Be0CvEM4ydSxdkEmVDf8a",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/helping-websites-express-ai-training-preferences": {
+      "ts": "2026-10-30T09:30:00+00:00",
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/community-safety-report-and-new-protections-for-teens": {
+      "ts": "2026-10-30T09:00:00+00:00",
+      "title": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12812832855781904223": {
+      "ts": "2026-10-30T19:20:13+00:00",
+      "title": "AI Assistant For Your PC Comment “AGENT” and we'll DM you the link. Share this reel ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DfHemwcRh_C/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IxLpH8iXjGfGEjN8X2Pd_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13965668562236049717": {
+      "ts": "2026-10-30T18:47:07+00:00",
+      "title": "AI Research Agents: 10 Best Tools for 2026 - Vorexen",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vorexen.com/ai-research-agents/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Q37YVW5orQ5M2NqKI_6hu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3084851498083371445": {
+      "ts": "2026-10-30T18:08:01+00:00",
+      "title": "<b>Manus AI</b>: Video, Slides &amp; Apps 26.19.6 APK Download by BUTTERFLY EFFECT PTE. LTD.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.apkmirror.com/apk/butterfly-effect-pte-ltd/manus-ai/manus-ai-26-19-6-release/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bdLRoyxNy32t_syevGvHK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15495969787929473879": {
+      "ts": "2026-10-30T17:04:38+00:00",
+      "title": "codeium for text to speech Download - VNUA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vnua.edu.vn/product-103085281.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1WPm6U4ouQToJRsDGH5OjD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3367238368322888593": {
+      "ts": "2026-10-30T15:43:56+00:00",
+      "title": "Manus alternatives in 2026: 7 tools for presentations and everyday work - Decksy AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://decksyai.com/blog/manus-alternatives/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Jk7jG1LGJhBUeuzij9cXi",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6860740795368647636": {
+      "ts": "2026-10-30T15:34:47+00:00",
+      "title": "Genspark vs Manus: The Credit Catch Nobody Mentions (2026) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DKNz_OQQNu-0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IljqdOns32e4tjodqC22Y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14224139917442228745": {
+      "ts": "2026-10-30T15:11:58+00:00",
+      "title": "PESHI Price, PESHI Price, Live Charts, and Marketcap - Coinbase Canada",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/price/peshi-base-0xab5002429127fb97b9074f5a58132db3b9dbe34d&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2mKQ_-7apMwXnZhpVZBLXv",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16335255019492989131": {
+      "ts": "2026-10-30T15:03:49+00:00",
+      "title": "familiars.family Price, FAMILIARS Price, Live Charts, and Marketcap - Coinbase Canada",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/price/familiarsfamily-solana-f3b1d67f&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1IuZ1JShkcrONimOSFyBd9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16238778912907794473": {
+      "ts": "2026-10-30T13:58:37+00:00",
+      "title": "ByteDance Releases Free DeerFlow 2.0 to Rival Paid Manus - Geeky Gadgets",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.geeky-gadgets.com/deerflow-2-open-source-manus-alternative/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0VHMOyzvflUPJKytfELKot",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
