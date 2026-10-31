@@ -35,27 +35,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:1552941985672826581": {
-      "ts": "2026-10-01T00:14:26+00:00",
-      "title": "My first attempt at making a game with <b>Manus AI</b> got a little ridiculous : r/aigamedev - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aigamedev/comments/1wukm1e/my_first_attempt_at_making_a_game_with_manus_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3fcgy_ExhSJ7y7ZusH494m",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4996068450202254546": {
-      "ts": "2026-10-01T00:05:26+00:00",
-      "title": "Manus 2.0 launched this week, and the real signal here is the architecture underneath it. For ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Dd7gHP8E-QB/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1dpJOQKvYX0mIvyl4Yw6DZ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "https://www.anthropic.com/news/barclays-scales-claude": {
-      "ts": "2026-10-01T00:00:00+00:00",
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "link": "https://www.anthropic.com/news/barclays-scales-claude",
-      "source": "Anthropic News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14853190701897724492": {
       "ts": "2026-10-01T03:35:52+00:00",
       "title": "Introducing Manus Video Editor - YouTube",
@@ -68,13 +47,6 @@
       "title": "2.1.287",
       "link": "https://code.claude.com/docs/en/changelog#2-1-287",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-code-mods": {
-      "ts": "2026-10-01T00:00:00+00:00",
-      "title": "Customize Claude Code with mods",
-      "link": "https://claude.com/blog/claude-code-mods",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/the-eternal-complement": {
@@ -145,20 +117,6 @@
       "title": "2hr deadline who tf called @<b>manus #ai</b> #vibecoding #manuspartner #tech - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Jk7IFfI-RkM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2uDidVlruX4GawjLhA0nbc",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2736571808277009572": {
-      "ts": "2026-09-30T22:10:01+00:00",
-      "title": "AI Agents Have Taken Over Last year AI Agents were rocket science and hard to use but ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/BizGrowthSolutions/videos/ai-agents-have-taken-over-last-year-ai-agents-were-rocket-science-and-hard-to-us/1416096513187065/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3z-AxVP4zlddiKSB7bPsjj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/the-den-family-social": {
-      "ts": "2026-10-01T00:00:00+00:00",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "link": "https://openai.com/index/the-den-family-social",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:4266361478841423221": {
@@ -819,20 +777,6 @@
       "source": "Perplexity Blog",
       "big": false
     },
-    "https://www.perplexity.ai/hub/blog/perplexity-and-american-express-make-ai-easier-for-growing-businesses": {
-      "ts": "2026-10-01T00:00:00+00:00",
-      "title": "Perplexity and American Express make AI easier for growing businesses",
-      "link": "https://www.perplexity.ai/hub/blog/perplexity-and-american-express-make-ai-easier-for-growing-businesses",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/ai-tools-for-consultants": {
-      "ts": "2026-10-01T00:00:00+00:00",
-      "title": "10 AI Tools for Consultants: Use Cases, Key Features, Pricing & Alternatives",
-      "link": "https://www.perplexity.ai/hub/blog/ai-tools-for-consultants",
-      "source": "Perplexity Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6157595284790086360": {
       "ts": "2026-10-04T14:39:30+00:00",
       "title": "AI Agent Detected the Attack — Then Executed It Anyway | Israel Defense",
@@ -1376,13 +1320,6 @@
       "ts": "2026-10-06T00:00:00+00:00",
       "title": "Claude Code in the cloud: a field guide to cloud sessions",
       "link": "https://claude.dev/blog/claude-code-in-the-cloud/",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.dev/blog/getting-started-with-claude-code-mods/": {
-      "ts": "2026-10-01T00:00:00+00:00",
-      "title": "Getting started with Claude Code mods",
-      "link": "https://claude.dev/blog/getting-started-with-claude-code-mods/",
       "source": "Claude Blog",
       "big": false
     },
@@ -7046,6 +6983,48 @@
       "ts": "2026-10-30T13:58:37+00:00",
       "title": "ByteDance Releases Free DeerFlow 2.0 to Rival Paid Manus - Geeky Gadgets",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.geeky-gadgets.com/deerflow-2-open-source-manus-alternative/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0VHMOyzvflUPJKytfELKot",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/fair-use-benefits-everyone": {
+      "ts": "2026-10-30T00:00:00+00:00",
+      "title": "Fair use benefits everyone",
+      "link": "https://openai.com/index/fair-use-benefits-everyone",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.11.238#3.11.238": {
+      "ts": "2026-10-30T00:00:00+00:00",
+      "title": "Windsurf 3.11.238",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-11-238",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.11.235#3.11.235": {
+      "ts": "2026-10-30T00:00:00+00:00",
+      "title": "Windsurf 3.11.235",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-11-235",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17222029286441982480": {
+      "ts": "2026-10-30T21:33:36+00:00",
+      "title": "<b>Manus AI</b> Just Turned Websites Into Installable Apps! : r/AISEOInsider - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AISEOInsider/comments/1xjquav/manus_ai_just_turned_websites_into_installable/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2laspYMxq3GZos_-8MVcOt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12572413798740200620": {
+      "ts": "2026-10-30T19:15:09+00:00",
+      "title": "Download <b>Manus AI</b> 26.19.6 Android APK File - APKPure",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apkpure.com/manus-ai-video-slides-apps/tech.butterfly.app/download&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3m-YohQ3OvO6pn0JKSUZb4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6753894837213756359": {
+      "ts": "2026-10-30T10:32:20+00:00",
+      "title": "SHE'S SO BAD... #didyouknow #manuspartner #ateez #fyp #BAD‪@<b>Manus-AI</b>‬ - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/zHdxJX_IUfg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Kb8WpsDGX3gpabAxrqwDj",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
