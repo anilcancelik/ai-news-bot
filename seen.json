@@ -1,82 +1,5 @@
 {
   "seen": {
-    "0553af73f610ecdb": {
-      "ts": "2026-10-01T18:14:41+00:00",
-      "title": "2.1.287",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-287",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4266361478841423221": {
-      "ts": "2026-10-01T20:18:18+00:00",
-      "title": "Salt Labs Research: A Single Email Could Hijack an AI Agent and Reach a User's ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.einpresswire.com/article/946455020/salt-labs-research-a-single-email-could-hijack-an-ai-agent-and-reach-a-user-s-connected-accounts&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3DCXyaV9aj4GbMqFTWS5qs",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11592928312249255365": {
-      "ts": "2026-10-01T19:20:04+00:00",
-      "title": "<b>Manus AI</b> looks like a serious agent workflow tool, but this is the par... - TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40unfairaiadvantage/video/7691428894871670029&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2weQxfbCrWbe9T3ZqazHcF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13804757280488748949": {
-      "ts": "2026-10-01T19:07:15+00:00",
-      "title": "every assignment, exam, and internship application in one grid A full year of your ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dd9nieCNY-I/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fWfWaBIna5TQxNtkSKiNa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15460576791094309598": {
-      "ts": "2026-10-01T19:01:53+00:00",
-      "title": "How Can A Single Email Hijack <b>Manus AI</b> Via Indirect Prompt Injection? - NowadAIs",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nowadais.com/how-can-a-single-email-hijack-manus-ai-via-indirect-prompt-injection/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0suuMaXoYQL78eljyHg6vN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10553622010520008252": {
-      "ts": "2026-10-01T17:46:32+00:00",
-      "title": "AI Agent Comparisons: Tools, Platforms and Models - BetterClaw",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.betterclaw.io/blog/category/comparisons&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jVThWRlwNhbPDGmmdwWTD",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13432692312920662898": {
-      "ts": "2026-10-01T17:46:32+00:00",
-      "title": "AI Agent Guides: How to Build, Run and Use Agents - BetterClaw",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.betterclaw.io/blog/category/ai-agent-guides&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1p_XSu5hxfXJu60FfKmrWG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15175512820882386213": {
-      "ts": "2026-10-01T17:36:51+00:00",
-      "title": "Europol Targets KillSec in Massive Ransomware Operation - SQ Magazine",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sqmagazine.co.uk/killsec-ransomware-leak-site-seized-teen-leader/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jzV2DGdoXrIunwQmE46BZ",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14650662518577441864": {
-      "ts": "2026-10-01T20:20:34+00:00",
-      "title": "Digital Nandakishore - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/%40digitalnandakishore&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0s0wNOikrlh6PqyVNIksEF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5127542339268863679": {
-      "ts": "2026-10-01T20:14:02+00:00",
-      "title": "<b>Manus AI</b> Jobs - JoinDevOps",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jobs.joindevops.com/companies/manus-ai-8493706&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UDJdEljbAjVVofoCCfkO_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5550679284509213878": {
-      "ts": "2026-10-01T19:19:05+00:00",
-      "title": "Can anyone share an invitation code for Manibus Y0002? - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/748054870699908/posts/1548827227289331/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3k-aLrWQD9q97HHifLC_ud",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12302085399729755767": {
       "ts": "2026-10-02T05:12:28+00:00",
       "title": "Yasir Ai on X: &quot;   The dead internet is no longer a theory. China's <b>Manus AI</b>, the autonomous ...",
@@ -88,13 +11,6 @@
       "ts": "2026-10-01T23:24:57+00:00",
       "title": "Manus Studio - Free download and install on Windows | Microsoft Store",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.microsoft.com/en-pk/p/manus-studio/9phv7m7v4s5l&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nCyaNvOedFUcAinyf6yFz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12651521982467292648": {
-      "ts": "2026-10-01T17:44:49+00:00",
-      "title": "Full Stack Engineer in Singapore - <b>Manus AI</b> - Trabajo.org",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sg.trabajo.org/job-4112-0af915595965cb3e8ac15bebd0c46163&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o5sXpkaz_tzipHAJdUGAy",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -130,13 +46,6 @@
       "ts": "2026-10-01T21:45:26+00:00",
       "title": "<b>Manus AI</b> Review: Best AI Agent for Individuals - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVMceHDnUm1U&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2mwb2aq6OjtIvXrEP3eRQr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6987975452329769279": {
-      "ts": "2026-10-01T17:33:56+00:00",
-      "title": "<b>Manus AI</b> 1 Year | Powerful AI Agent at Discounted Price | MFA TOOL - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/fOrcxvznAcs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wa4Jy-PWGu21pzllS8Bbh",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6997,6 +6906,41 @@
       "ts": "2026-10-31T08:21:20+00:00",
       "title": "Orkas Review &amp; Pricing — AI Agent AI Tool - osas ai solutions",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://osasai.com/tools/orkas&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MSDcSrhHxVR9ZjoplD4cE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6622765776005611408": {
+      "ts": "2026-10-31T19:36:38+00:00",
+      "title": "We Didn't Just Lose a Feature... We Lost What Made Manus Special : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xkiyg6/we_didnt_just_lose_a_feature_we_lost_what_made/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw09Q8sBh-T6BZLLnHb94cfY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13705766880979282071": {
+      "ts": "2026-10-31T16:20:39+00:00",
+      "title": "SHE'S SO BAD... #didyouknow #manuspartner #fyp #ateez #BAD‪@<b>Manus-AI</b>‬ - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/9Hi54Aq32AE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JMflC_tk3TuupC9GD26Vq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5819570279455110295": {
+      "ts": "2026-10-31T01:37:46+00:00",
+      "title": "Use AI to understand local politics better. Make your vote count for t... | ai tool | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40morethanthemasters/video/7702297799374802190&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0o1CvYn9GypnfocX05ftMC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5336883118674988818": {
+      "ts": "2026-10-30T23:13:03+00:00",
+      "title": "Workshops &amp; Training | Ahamed Masry",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ahamedmasry.com.lk/work/Workshops%2520%26%2520Training&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3H7hRjMV471zni-3AcBN2Q",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11659168902765119698": {
+      "ts": "2026-10-30T22:57:11+00:00",
+      "title": "<b>Manus AI</b> | Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/p/Manus-AI-100006442957937/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wRNiUPgcrByUT0xjJLgak",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
