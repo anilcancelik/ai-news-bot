@@ -35,24 +35,10 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://www.anthropic.com/news/claude-frontier-academy": {
-      "ts": "2026-10-02T00:00:00+00:00",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "link": "https://www.anthropic.com/news/claude-frontier-academy",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://openai.com/index/practical-guide-building-gpt-6": {
       "ts": "2026-10-02T16:15:00+00:00",
       "title": "A model guide for the GPT-6 family",
       "link": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/chatham-financial": {
-      "ts": "2026-10-02T00:00:00+00:00",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "link": "https://openai.com/index/chatham-financial",
       "source": "OpenAI News",
       "big": false
     },
@@ -509,13 +495,6 @@
       "title": "AI Education Blog: Practical AI Guides for Australians - InstantConnect",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instantconnect.online/blog/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23MRhxyXXAUo5iBYDLGoMm",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/ai-maturity": {
-      "ts": "2026-10-02T00:00:00+00:00",
-      "title": "AI maturity: what it means for your organization",
-      "link": "https://www.perplexity.ai/hub/blog/ai-maturity",
-      "source": "Perplexity Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:6157595284790086360": {
