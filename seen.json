@@ -1,40 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4508645394088877818": {
-      "ts": "2026-10-02T17:30:38+00:00",
-      "title": "China Robotaxis Face Losses as Utilization Trails Waymo, BI Says - Bloomberg",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bloomberg.com/news/articles/2026-10-02/china-robotaxis-face-losses-as-utilization-trails-waymo-bi-says&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1XpT25JS7dy5psnMV85Dlu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15056975853259571226": {
-      "ts": "2026-10-02T17:04:15+00:00",
-      "title": "What do you use AI for? - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dd_-aRmHB_0/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw245LZGfvqw-U7G9pOnNh4z",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "1dc4ea45b906ec53": {
-      "ts": "2026-10-02T20:34:13+00:00",
-      "title": "2.1.288",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-288",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14677108638906582012": {
-      "ts": "2026-10-02T18:05:42+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLZi53dvrTjnQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Xt97sp6aaCnKBQ1qWjKKF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17234246761511490784": {
-      "ts": "2026-10-02T19:57:22+00:00",
-      "title": "<b>Manus AI</b> Agent 2.0: From AI That Answers to AI That Acts - X",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/i/article/2106028803638055300&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0hUSFiNACEK6G6osu5etRi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:1641150452391367304": {
       "ts": "2026-10-03T06:19:50+00:00",
       "title": "Malicious Email Could Hijack AI Agent and Access... - daily.dev",
@@ -1320,13 +1285,6 @@
       "ts": "2026-10-03T23:19:55+00:00",
       "title": "2.1.289",
       "link": "https://code.claude.com/docs/en/changelog#2-1-289",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "5abcd2ce8a8561e5": {
-      "ts": "2026-10-02T20:34:13+00:00",
-      "title": "2.1.288",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-288",
       "source": "Claude Code changelog",
       "big": false
     },
