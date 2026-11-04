@@ -1,30 +1,9 @@
 {
   "seen": {
-    "https://openai.com/index/eu-text-provenance": {
-      "ts": "2026-10-05T15:00:00+00:00",
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
-      "ts": "2026-10-05T10:00:00+00:00",
-      "title": "Building advertising for the way people use AI",
-      "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6389842314896986556": {
       "ts": "2026-10-05T16:50:56+00:00",
       "title": "<b>Manus AI</b> Review: What Can This AI Actually Do? - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DlAWxJyzN-is&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw224ZOXDogCrbghlLpKku7C",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1767560991992740628": {
-      "ts": "2026-10-05T12:56:16+00:00",
-      "title": "Bee Network News: Treasure Box Update for Users Ahead TGE - CoinGabbar",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coingabbar.com/en/bee-network-news-treasure-box-update-for-users-ahead-tge&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0FgvsRskrliYcb2awRPili",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -109,13 +88,6 @@
       "ts": "2026-10-06T00:42:46+00:00",
       "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLIii-ObsbABY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0w8thTvd8m8zNi6I6PhEcw",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6150395535908444832": {
-      "ts": "2026-10-05T13:55:20+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLGMIVssRRSAY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3S9Z8lgEkZD24nDVzhiYhL",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6752,6 +6724,76 @@
       "ts": "2026-11-03T15:10:48+00:00",
       "title": "The Wharf Holdings xStock Price, WRFHDX Price, Live Charts, and Marketcap - Coinbase",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-ca/price/the-wharf-holdings-xstock-mantle-0x98fae910ab2959a6ca8cc2e9849bdb29371d0ce9&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00dRQSYF9oEMv4HChkIqkZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/openai-to-acquire-pierre": {
+      "ts": "2026-11-04T14:30:00+00:00",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "link": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/daybreak-red-aws-govcloud": {
+      "ts": "2026-11-04T07:00:00+00:00",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://cohere.com/blog/embed-rerank-5-openrouter": {
+      "ts": "2026-11-04T00:00:00+00:00",
+      "title": "Embed 5 and Rerank 5 now on OpenRouter",
+      "link": "https://cohere.com/blog/embed-rerank-5-openrouter",
+      "source": "The Cohere Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:176721346058345188": {
+      "ts": "2026-11-04T10:05:42+00:00",
+      "title": "Three weeks with Cue, and I'm genuinely impressed by the free experience : r/ManusOfficial",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xndytd/three_weeks_with_cue_and_im_genuinely_impressed/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw079svgXYmWkFCnFmL1lr4-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5352804269909335276": {
+      "ts": "2026-11-04T10:00:50+00:00",
+      "title": "Say it. Solve it. Powered by the all-new ColorOS 17, AI Mind Pilot brings proactive and ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/OPPOPhilippines/posts/say-it-solve-itpowered-by-the-all-new-coloros-17-ai-mind-pilot-brings-proactive-/1132881919116630/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3hHDtgkhge8r7WUB8sik-8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5901262828888002050": {
+      "ts": "2026-11-04T04:56:25+00:00",
+      "title": "ChatGPT (Work &amp; agent features) vs Manus (2026): pricing &amp; verdict | AgentVerdict",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://agentverdict.dev/compare/chatgpt-vs-manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3mwWnLWhdGxaI3NdApK1ZB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8497807251980473068": {
+      "ts": "2026-11-04T04:43:58+00:00",
+      "title": "Senior Accounting Manager | Dammam | JobLeads.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sa/job/senior-accounting-manager--dammam--e30efed14097b5b975ecb091df2e4c0f5&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0HijtE1NLON9cKX3B3-lON",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11135945671216030259": {
+      "ts": "2026-11-04T00:16:03+00:00",
+      "title": "<b>Manus AI</b> | 3D Logo - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/IEbdg-WnU3Y&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3lxK9hBTZoU_JWJuQ39c_Z",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9133791158274910271": {
+      "ts": "2026-11-02T23:01:15+00:00",
+      "title": "Web Summit begins next week. Leaders from Unitree, Galbot, Pony.ai, <b>Manus AI</b> ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/WebSummitHQ/posts/web-summit-begins-next-weekleaders-from-unitree-galbot-ponyai-manus-ai-xiaomi-an/1601592008674732/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ZCCdumhwQ2FUfSPhjkOHM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10091031304690758924": {
+      "ts": "2026-11-02T20:40:58+00:00",
+      "title": "<b>Manus AI</b> APK Download - Meta's Smart Agent",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://spaceapk.com/manus-ai-apk.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_YmZinLO32Xr0v308Lfct",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
