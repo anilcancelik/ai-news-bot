@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://mistral.ai/news/mistral-large-4/": {
-      "ts": "2026-10-06T12:00:27+00:00",
-      "title": "Introducing Mistral Large 4",
-      "link": "https://mistral.ai/news/mistral-large-4",
-      "source": "Mistral AI News",
-      "big": true
-    },
     "e469ad41c6ed84f5": {
       "ts": "2026-10-06T19:14:31+00:00",
       "title": "2.1.292",
@@ -14,46 +7,11 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://openai.com/index/advancing-computer-use-with-ironclad": {
-      "ts": "2026-10-06T10:00:00+00:00",
-      "title": "Advancing computer use with Ironclad",
-      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/atlassian-partnership": {
-      "ts": "2026-10-06T16:00:00+00:00",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "link": "https://openai.com/index/atlassian-partnership",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15063756700433107066": {
       "ts": "2026-10-06T17:57:09+00:00",
       "title": "I gave <b>Manus AI</b> one simple idea and let it build the first version of a real product. And ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeKR5TkI3Su/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Oe8Swhci0XEHvaf9rNC6U",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12167733978920226337": {
-      "ts": "2026-10-06T15:47:20+00:00",
-      "title": "Reve Is Shutting Down? We Tested Best Reve Alternative 2026 - AlloyPress",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://alloypress.com/alternatives/reve-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1io0ff-omjQJsZ-juVhR03",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/jump-trading": {
-      "ts": "2026-10-06T12:00:00+00:00",
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "link": "https://openai.com/index/jump-trading",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/sharing-ai-progress-in-mathematics": {
-      "ts": "2026-10-06T12:00:00+00:00",
-      "title": "Sharing AI progress in mathematics",
-      "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "source": "OpenAI News",
       "big": false
     },
     "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
@@ -88,20 +46,6 @@
       "ts": "2026-10-06T20:14:43+00:00",
       "title": "<b>Manus AI</b> Latest APK Version - VNUA",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://vnua.edu.vn/content/100760493.aspx&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Q1A7yjWg-pVN2DF1JpPct",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15668815599773580085": {
-      "ts": "2026-10-06T15:57:15+00:00",
-      "title": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1wx1GzrmVvjT9gFuTAB_u8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:2747156933838190380": {
-      "ts": "2026-10-06T15:38:32+00:00",
-      "title": "TikTok Brings Its Ads MCP to Claude, Perplexity and Six More",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thekeyword.co/news/tiktok-ads-mcp-connectors&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1WpnQ9OV0sEUtstVJIml-8",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -146,13 +90,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aiToolForBusiness/comments/1wzcqz1/wha_are_you_using_instead_of_manus_for_marketing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3O2sU1Ept7XPC3OLvzzxRq",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18399364604889978909": {
-      "ts": "2026-10-06T12:19:39+00:00",
-      "title": "&quot;This looks INSANE The widely used AI agent &quot;Manus,&quot; recently launched in China, is ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeHX_BWjFor/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0lBIwvNAPeEYikcQ4IDlPH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:15800264797803798754": {
       "ts": "2026-10-07T07:45:27+00:00",
@@ -6724,6 +6661,104 @@
       "ts": "2026-11-04T22:43:39+00:00",
       "title": "AI Browser Agents (2026): 14 Tools, Prices &amp; Use Cases - AITeamGuide",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiteamguide.com/ai-agents/browser-agents/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2H9la8RQ5Hb2PhKvTz547I",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure": {
+      "ts": "2026-11-05T02:00:00+00:00",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": {
+      "ts": "2026-11-05T17:05:16+00:00",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://mistral.ai/news/build-with-studio/": {
+      "ts": "2026-11-05T12:00:14+00:00",
+      "title": "Le Chonk brings the brains. Studio puts it to work.",
+      "link": "https://mistral.ai/news/build-with-studio",
+      "source": "Mistral AI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4744569199207957312": {
+      "ts": "2026-11-05T15:29:52+00:00",
+      "title": "Make the Cut: Bouquet Making + Video Editing - Luma",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://luma.com/wyz4u8dr&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1PU1fP8Lu02MkqN7bsRKu1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5288416384406852275": {
+      "ts": "2026-11-05T14:51:29+00:00",
+      "title": "15 AI Agents That Can Do Your Daily Tasks — So You Don't Have To! - Think Stack 101",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://thinkstack101.substack.com/p/15-ai-agents-that-can-do-your-daily&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1WyPXiyOoEi0JV4ZgqbIwx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13608560716182740187": {
+      "ts": "2026-11-05T14:30:55+00:00",
+      "title": "Coin Bureau on X: &quot;The calm in the U.S.–China AI race is misleading. The tariff truce runs ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/coinbureau/status/2118327024502935767&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_KTOSoGdYztwthVB8PPP0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12726647228767861396": {
+      "ts": "2026-11-05T14:03:03+00:00",
+      "title": "AI Funding (Oct 26–Nov 1): FuriosaAI, Bedrock Robotics Lead $2.43B Week",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aifundingtracker.com/ai-funding-oct-26-nov-1-furiosaai-bedrock-robotics-lead-2-43b-week/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3J1H72hMYqaduW-o9xIkRT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:331817437484509911": {
+      "ts": "2026-11-05T12:37:57+00:00",
+      "title": "Meta brings Conductor on board its model train - The Register",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vWbT2eA81-lZn_OFs6owR",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15698687078213521439": {
+      "ts": "2026-11-05T11:48:20+00:00",
+      "title": "China's Robotics Companies Gain Global Spotlight at Web Summit 2026 - PanAsiaBiz",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://panasiabiz.com/118644/china-robotics-companies-web-summit-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rjNAPVCUygp89YtFwPar3",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13704567839525727882": {
+      "ts": "2026-11-05T10:27:06+00:00",
+      "title": "Meta acquires AI coding startup Conductor, signals push into dev tools | LavX News",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.lavx.hu/article/meta-acquires-ai-coding-startup-conductor-signals-push-into-dev-tools&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3b-Lu7Ju4iB7Bea949EnTQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3624708109225805280": {
+      "ts": "2026-11-05T00:32:17+00:00",
+      "title": "<b>Manus AI</b> - Agent - ChatGlobal.com - Global AI Unified Gateway",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chatglobal.com/index.php%3F_a%3Dai_index%26f%3Ddetail%26id%3D24&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Uh7SNvYy6yc5NlSUWT-ku",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7009234571187908560": {
+      "ts": "2026-11-04T21:59:22+00:00",
+      "title": "<b>Manus - AI</b> Agent &amp; Automation App Icon Design &amp; Inspiration - Logoinspo",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.logoinspo.com/app-icons/manus-ai-agent-automation&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2AKbC5uNO2JE1PM3kSQoIt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16563619285904583678": {
+      "ts": "2026-11-04T18:31:03+00:00",
+      "title": "Top AI Tool Deals, Discounts &amp; Free Trials 2026 | AI Maestro Hub",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aimaestrohub.com/deals/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UyTZ8UEh8LKcVHbjWYo49",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11787152759447072388": {
+      "ts": "2026-11-04T14:17:57+00:00",
+      "title": "About WebDesignio | Human-Led, AI-Enabled Digital Work",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://webdesignio.com/about.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0e4GNyTOjEQjOhb3vIyFoT",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
