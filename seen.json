@@ -1,12 +1,5 @@
 {
   "seen": {
-    "8c4c3a08083c307f": {
-      "ts": "2026-10-05T23:53:37+00:00",
-      "title": "2.1.290",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-290",
-      "source": "Claude Code changelog",
-      "big": false
-    },
     "a91c13ed641d9c5a": {
       "ts": "2026-10-06T04:05:26+00:00",
       "title": "2.1.291",
@@ -28,24 +21,10 @@
       "source": "Mistral AI News",
       "big": true
     },
-    "https://cohere.com/blog/building-multilingual-bridges": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "Multilingual Bridges: How Data Mixing Unlocks In-Language Reasoning",
-      "link": "https://cohere.com/blog/building-multilingual-bridges",
-      "source": "The Cohere Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15877977676236064751": {
       "ts": "2026-10-06T07:43:31+00:00",
       "title": "Tao Zhang - Web Summit Vancouver",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://vancouver.websummit.com/attendees/lis26/b293ad86-071e-4c48-8786-5486e3ceb04e/tao-zhang&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw11VtO7pB6wrXTu7HJsXOCm",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8309282998568569693": {
-      "ts": "2026-10-06T00:42:46+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLIii-ObsbABY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0w8thTvd8m8zNi6I6PhEcw",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -70,27 +49,6 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "Bring multimodal semantic search to the edge with EmbeddingGemma 2",
-      "link": "https://developers.googleblog.com/google-ai-edge-with-embeddinggemma-2/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "EmbeddingGemma 2: The Developer Guide",
-      "link": "https://developers.googleblog.com/embeddinggemma-2-the-developer-guide/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/ai-collaboration-tools": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "10 Best AI Collaboration Tools",
-      "link": "https://www.perplexity.ai/hub/blog/ai-collaboration-tools",
-      "source": "Perplexity Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15063756700433107066": {
       "ts": "2026-10-06T17:57:09+00:00",
       "title": "I gave <b>Manus AI</b> one simple idea and let it build the first version of a real product. And ... - Instagram",
@@ -103,27 +61,6 @@
       "title": "Reve Is Shutting Down? We Tested Best Reve Alternative 2026 - AlloyPress",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://alloypress.com/alternatives/reve-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1io0ff-omjQJsZ-juVhR03",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7863238650859315587": {
-      "ts": "2026-10-06T00:08:15+00:00",
-      "title": "Banana Pro - AI Photo Editor - You Might Also Like - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/pa/app/6754641449%3Fl%3Den-GB%26see-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3VDVNJcD8JUZESjBXXhrOG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5456815534009216830": {
-      "ts": "2026-10-05T23:52:22+00:00",
-      "title": "Genspark AI Workspace - You Might Also Like - App Store",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/ci/app/6739554054%3Fl%3Den-GB%26see-all%3Dcustomers-also-bought-apps%26platform%3Dipad&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2zpAQbRCgSpHVoo-ev5NhP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/news/cyber-verification-program": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "Expanding the Cyber Verification Program",
-      "link": "https://www.anthropic.com/news/cyber-verification-program",
-      "source": "Anthropic News",
       "big": false
     },
     "https://openai.com/index/jump-trading": {
@@ -189,13 +126,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:4463042191484306947": {
-      "ts": "2026-10-05T22:45:16+00:00",
-      "title": "Reviewing <b>Manus AI</b> video creation with Seedance 2.5 #manusia - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/shorts/mSHkZxj4wL0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hbCLu5EHyUzwmZBm9q5Ft",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7253142873214564465": {
       "ts": "2026-10-07T01:41:34+00:00",
       "title": "Annie Liao 's Post - LinkedIn",
@@ -245,39 +175,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": true
     },
-    "https://claude.com/blog/were-expanding-the-claude-startups-program-to-help-founders-build": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "We’re expanding the Claude Startups program to help founders build",
-      "link": "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "How Comcast and Booz Allen use Claude Mythos to find exploit chains and secure their codebases",
-      "link": "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-now-works-in-google-docs-sheets-and-slides": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "Claude now works with Google Docs, Sheets, and Slides",
-      "link": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
-      "source": "Claude Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15800264797803798754": {
       "ts": "2026-10-07T07:45:27+00:00",
       "title": "How to Create a <b>Manus AI</b> Account (2026) | Step-by-Step - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DY-S-3Xu99Q4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zJF0gpwYv94oITGGu4f4C",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.dev/blog/claude-code-in-the-cloud/": {
-      "ts": "2026-10-06T00:00:00+00:00",
-      "title": "Claude Code in the cloud: a field guide to cloud sessions",
-      "link": "https://claude.dev/blog/claude-code-in-the-cloud/",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/teens-learn-and-plan": {
@@ -676,13 +578,6 @@
       "ts": "2026-10-06T19:14:31+00:00",
       "title": "2.1.292",
       "link": "https://code.claude.com/docs/en/changelog#2-1-292",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "97d3f90219625deb": {
-      "ts": "2026-10-05T23:53:37+00:00",
-      "title": "2.1.290",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-290",
       "source": "Claude Code changelog",
       "big": false
     },
@@ -6808,6 +6703,41 @@
       "ts": "2026-11-04T00:55:00+00:00",
       "title": "JOIN OUR WHATSAPP COMMUNITY! : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xn82n1/join_our_whatsapp_community/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3v1js_a6ppYD3PSsDjesSK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/a-thousand-fewer-paths-to-root": {
+      "ts": "2026-11-04T08:00:00+00:00",
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/introducing-images-2-6": {
+      "ts": "2026-11-04T00:00:00+00:00",
+      "title": "Introducing Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/devrev-enterprise-self-service": {
+      "ts": "2026-11-04T00:00:00+00:00",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "link": "https://openai.com/index/devrev-enterprise-self-service",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16138936781824650832": {
+      "ts": "2026-11-04T18:06:39+00:00",
+      "title": "<b>Manus AI</b> Burned 90% of My Credits on One Simple Daily Task (I Canceled) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dhp5Nyver_jg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2sqnPxi7q9L4YsNyXGWcju",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16297943235168335460": {
+      "ts": "2026-11-04T11:21:53+00:00",
+      "title": "I don't understand why more people aren't using AI agents yet. They can save you ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/grema.yahaya/posts/i-dont-understand-why-more-people-arent-using-ai-agents-yetthey-can-save-you-hou/29216967731231685/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2G3b9Dizscu0W4inJfNkJX",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
