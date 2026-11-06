@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/teens-learn-and-plan": {
-      "ts": "2026-10-07T12:00:00+00:00",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "link": "https://openai.com/index/teens-learn-and-plan",
-      "source": "OpenAI News",
-      "big": false
-    },
     "f9d07d7003b1320f": {
       "ts": "2026-10-07T18:26:26+00:00",
       "title": "2.1.293",
@@ -18,13 +11,6 @@
       "ts": "2026-10-07T21:47:20+00:00",
       "title": "jake     | Comment “SKILL” and I'll send you the full workflow + 1,000 free Manus credits ... - Instagram",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeNUxUIS7yx/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3aMQf2gmpMwHKDlIz3dWdY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16592573183236389436": {
-      "ts": "2026-10-07T15:35:58+00:00",
-      "title": "THIS IS THE NEW <b>MANUS AI</b> 2.0! #shorts - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DUBOOAUfsoW4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00lo0TthnlYD6-T57AWs5C",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6642,6 +6628,69 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://metricool.com/analyze-instagram-claude/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw21bxLwZ5Jq0mjbH_Iep-51",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://developers.googleblog.com/agent-distraction/": {
+      "ts": "2026-11-06T00:00:00+00:00",
+      "title": "Agent Distraction",
+      "link": "https://developers.googleblog.com/agent-distraction/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5741862126900090019": {
+      "ts": "2026-11-06T13:57:39+00:00",
+      "title": "In Vranje, too, the money was trapped in Alta Bank - Vreme",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vreme.com/en/ekonomija/vranje-alta-banka-orocen-novac/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2t521oF0L2lxPQw2_U0z37",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10706298336218601403": {
+      "ts": "2026-11-06T13:28:57+00:00",
+      "title": "AI agents · PrompTugal.news",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://promptugal.news/topics/ai-agents/index.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw27wAkQgRu2phStNeZzp3BZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3820599989200275399": {
+      "ts": "2026-11-06T13:11:02+00:00",
+      "title": "Math for Data Science &amp; AI: Your 10-Part Roadmap #Shorts - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/2uXiJafs8us&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Jrr8g75A7Ou3WGZnqMdg0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14792874454249158936": {
+      "ts": "2026-11-06T08:06:38+00:00",
+      "title": "<b>Manus: AI</b> tool for Personal (pricing, uses) - AIAgentfy",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiagentfy.app/tool/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2cHMyvxfD0N_lSq7qD-Pw-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4929251902194213681": {
+      "ts": "2026-11-06T04:55:16+00:00",
+      "title": "AI - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLoMBGgD4O6qz5RBcjwLuNOYmbZpN-ENwG&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1R2M7gDU7TWbEAhIhf60UQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4764231109329304620": {
+      "ts": "2026-11-06T04:31:47+00:00",
+      "title": "Buy <b>Manus AI</b> Personal Premium in Nigeria | Shared Subscription Deals - DiscountZAR",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.discountzar.com/p/manus-ai-personal-2026-11-05-0a0f92&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1IxYNi270k_9h1MCrEzqs4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17294829503856258297": {
+      "ts": "2026-11-06T03:42:47+00:00",
+      "title": "Manus Fellows Event | LA · Events Calendar - Luma",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://luma.com/ManusFellowsEvent%3Fk%3Dc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3cljx_ecumQLfPZywoJMmD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:86430942279855352": {
+      "ts": "2026-11-06T01:00:56+00:00",
+      "title": "The World's First General Purpose AI Agent is Here! #manusai #aiagents #tech #shorts - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/R9qBUMGucgw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RMJwYr6iyo7l8bXyzSE8x",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-11-06"
