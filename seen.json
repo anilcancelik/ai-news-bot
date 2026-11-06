@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:7253142873214564465": {
-      "ts": "2026-10-07T01:41:34+00:00",
-      "title": "Annie Liao 's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/annieliaoo_had-a-great-time-helping-curate-manus-ai-activity-7513372908086300672-oNAr&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03Ecv4xGGz9sn31bDq9c52",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3741843556958066307": {
-      "ts": "2026-10-07T00:27:01+00:00",
-      "title": "<b>Manus AI</b> Latest Version Download - VNUA",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://vnua.edu.vn/product-100755175/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2wYeUBgJf5lU170kzhyZ8i",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18256728514167238052": {
-      "ts": "2026-10-07T00:06:14+00:00",
-      "title": "Kevin Collins' Post - manusai #dcu #ai #dublin #hackathon - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/kevincollinsirl_manusai-dcu-ai-activity-7513257069236449280-31zw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SkM-8twLTO6OBbiVyWdGd",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1611544788552443073": {
-      "ts": "2026-10-06T23:17:37+00:00",
-      "title": "User guide to AI for event planners - Spice News",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.spicenews.com.au/spice-loves/technology-spice-loves/user-guide-to-ai-for-event-planners/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Bcmi6JcrdhgIUuUJoxJwm",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15800264797803798754": {
       "ts": "2026-10-07T07:45:27+00:00",
       "title": "How to Create a <b>Manus AI</b> Account (2026) | Step-by-Step - YouTube",
@@ -91,13 +63,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:18293978173833447692": {
-      "ts": "2026-10-07T02:33:23+00:00",
-      "title": "Discover the three core pillars of effective advertising using Manus. Leverage AI-powered ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/travischat/posts/discover-the-three-core-pillars-of-effective-advertising-using-manus-leverage-ai/1707774901347895/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0LMUsH0PD6WsW_1JCqu8k1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "f9d07d7003b1320f": {
       "ts": "2026-10-07T18:26:26+00:00",
       "title": "2.1.293",
@@ -105,46 +70,11 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://www.anthropic.com/claude-haiku-5-5": {
-      "ts": "2026-10-07T00:00:00+00:00",
-      "title": "Claude Haiku 5.5",
-      "link": "https://www.anthropic.com/claude-haiku-5-5",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/radisson": {
       "ts": "2026-10-07T07:00:00+00:00",
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "link": "https://openai.com/index/radisson",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/gpt-6-for-everyone": {
-      "ts": "2026-10-07T00:00:00+00:00",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "link": "https://openai.com/index/gpt-6-for-everyone",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/": {
-      "ts": "2026-10-07T00:00:00+00:00",
-      "title": "Supercharge your development with the Google Developer Knowledge API ecosystem",
-      "link": "https://developers.googleblog.com/supercharge-your-development-with-the-google-developer-knowledge-api-ecosystem/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/rag-vs-llm": {
-      "ts": "2026-10-07T00:00:00+00:00",
-      "title": "RAG vs. LLM: Technical Breakdown (Definitions, Differences, Use Cases)",
-      "link": "https://www.perplexity.ai/hub/blog/rag-vs-llm",
-      "source": "Perplexity Blog",
-      "big": false
-    },
-    "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector": {
-      "ts": "2026-10-07T00:00:00+00:00",
-      "title": "Multimodal embeddings beyond a single vector",
-      "link": "https://www.perplexity.ai/hub/blog/multimodal-embeddings-beyond-a-single-vector",
-      "source": "Perplexity Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:8343265444087823677": {
@@ -4977,13 +4907,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.dev/blog/automating-eval-design-and-hillclimbing/": {
-      "ts": "2026-10-07T00:00:00+00:00",
-      "title": "Automating eval design and hillclimbing with Claude",
-      "link": "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
-      "source": "Claude Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:662216258825553876": {
       "ts": "2026-10-28T00:14:58+00:00",
       "title": "&quot;Draft day six.&quot; That's the whole prompt. Kimberly planned a 7-day spr... | TikTok",
@@ -6731,6 +6654,69 @@
       "ts": "2026-11-05T03:04:43+00:00",
       "title": "Gemini vs <b>Manus AI</b> — Which One Should You Use? - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/6v6kbteQofo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3-7UJdNXUnRTfVV3OLRK9l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/australian-universities-ai-native-graduates": {
+      "ts": "2026-11-05T17:00:00+00:00",
+      "title": "Australian universities are creating AI-native graduates",
+      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/cultfit-builds-with-codex": {
+      "ts": "2026-11-05T20:00:00+00:00",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/merge-builds-with-openai": {
+      "ts": "2026-11-05T08:00:00+00:00",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/ads/customers/flipsnack": {
+      "ts": "2026-11-05T00:45:15+00:00",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "link": "https://openai.com/ads/customers/flipsnack",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/franklin-templeton": {
+      "ts": "2026-11-05T00:00:00+00:00",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "link": "https://openai.com/index/franklin-templeton",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10184465519711290236": {
+      "ts": "2026-11-06T00:24:57+00:00",
+      "title": "Cue : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xoydjf/cue/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0KhO7NODWBdUzHAhxZ3k9H",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5629817649184754243": {
+      "ts": "2026-11-05T23:04:08+00:00",
+      "title": "Manus – a free workspace for visualising story proportions : r/IMadeThis - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/IMadeThis/comments/1xotjv7/manus_a_free_workspace_for_visualising_story/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw29hG_suA2ZcktXMhTBHw9g",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2883209775572527168": {
+      "ts": "2026-11-05T19:38:11+00:00",
+      "title": "그냥 그림 그렸더니 게임이 됐어! #Manus스케치게임#didyouknow #manuspartner #pr #fyp ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Nc6X-KE1T8M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CmPX21zef-wW86gHY3Afn",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1052401330305967393": {
+      "ts": "2026-11-05T15:01:13+00:00",
+      "title": "This AI Website Turns ANY Idea Into a Playable Game! Build, customise and publish your own ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61585971575817/videos/-this-ai-website-turns-any-idea-into-a-playable-game-build-customise-and-publish/2041473376516604/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3bchpvVf1USoVcPW9xakS7",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
