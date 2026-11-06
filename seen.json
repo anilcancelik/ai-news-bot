@@ -1,33 +1,5 @@
 {
   "seen": {
-    "f9d07d7003b1320f": {
-      "ts": "2026-10-07T18:26:26+00:00",
-      "title": "2.1.293",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-293",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8343265444087823677": {
-      "ts": "2026-10-07T21:47:20+00:00",
-      "title": "jake     | Comment “SKILL” and I'll send you the full workflow + 1,000 free Manus credits ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DeNUxUIS7yx/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3aMQf2gmpMwHKDlIz3dWdY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7926114998420429235": {
-      "ts": "2026-10-07T20:04:27+00:00",
-      "title": "<b>Manus AI</b> Alternatives: Compare Tools and Costs - Brainmox",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://brainmox.com/blog/manus-ai-alternatives/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1t6V5sv-V4QJ0tQMLC2hJu",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4998310498444370666": {
-      "ts": "2026-10-07T20:04:26+00:00",
-      "title": "OpenClaw Alternatives: Compare AI Assistants - Brainmox",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://brainmox.com/blog/openclaw-alternatives/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0k_Yf1tBpnOq96KtMcHkcW",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "3c2e5eaa4b325531": {
       "ts": "2026-10-08T05:14:57+00:00",
       "title": "2.1.294",
@@ -214,13 +186,6 @@
       "ts": "2026-10-08T19:55:56+00:00",
       "title": "2.1.295",
       "link": "https://code.claude.com/docs/en/changelog#2-1-295",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "a365f2857795827d": {
-      "ts": "2026-10-07T18:26:26+00:00",
-      "title": "2.1.293",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-293",
       "source": "Claude Code changelog",
       "big": false
     },
@@ -6691,6 +6656,69 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/R9qBUMGucgw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RMJwYr6iyo7l8bXyzSE8x",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
+    },
+    "296b40e8e5420797": {
+      "ts": "2026-11-06T18:06:50+00:00",
+      "title": "2.1.319",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-319",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/index/partnering-with-hacktron": {
+      "ts": "2026-11-06T08:00:00+00:00",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science": {
+      "ts": "2026-11-06T00:00:00+00:00",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9721646532498423044": {
+      "ts": "2026-11-06T20:47:17+00:00",
+      "title": "<b>Manus AI</b> Pricing and Plans Explained in 2026 (Step-by-Step Guide) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DvCgTGeodFtg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cKlS6_zLFwrGZMbmtL3DO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:840100188705382039": {
+      "ts": "2026-11-06T18:43:41+00:00",
+      "title": "We Want Manus Back to Its Original State : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xpkg42/we_want_manus_back_to_its_original_state/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw19rRp_wXJ5KYeb8obL5SuK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16309177638441002502": {
+      "ts": "2026-11-06T17:07:18+00:00",
+      "title": "SPONSORED: What Separates AI Agents That Ship to Production from Those That Don't ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/HBR/posts/sponsored-what-separates-ai-agents-that-ship-to-production-from-those-that-dont-/1490477356280787/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Xq7Rna5zUJatLqkiQej__",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:428858418111229782": {
+      "ts": "2026-11-06T14:20:23+00:00",
+      "title": "10 Best AI Game Makers for Beginners in 2026 (No Coding Needed) - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/blog/best-ai-game-makers-for-beginners&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kAbQLm6hZCVSQ3sRhfv1R",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3325871702476610992": {
+      "ts": "2026-11-06T14:20:23+00:00",
+      "title": "How to Make Your First Video Game with AI: A Step-by-Step Guide - Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/blog/how-to-build-your-first-game-with-ai&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Q7j_t18sXZCHOnEPneUf4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13484371411811319751": {
+      "ts": "2026-11-06T07:26:52+00:00",
+      "title": "Best AI Agents in 2026: 4 Tools Compared | WiseTechList",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://wisetechlist.com/best-ai-agents/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Ev33dEB4qqFl3J2VWMzIo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
   "last_digest_date": "2026-11-06"
