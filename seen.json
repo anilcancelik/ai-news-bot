@@ -1,45 +1,10 @@
 {
   "seen": {
-    "https://openai.com/index/sophos": {
-      "ts": "2026-10-09T07:00:00+00:00",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "link": "https://openai.com/index/sophos",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15200885930705071431": {
-      "ts": "2026-10-09T06:11:48+00:00",
-      "title": "Hello Google Antigravity Team",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://discuss.ai.google.dev/t/hello-google-antigravity-team/187681&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0O5ouguvweX8FcIitQbdAt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17904067954031299823": {
-      "ts": "2026-10-09T06:05:02+00:00",
-      "title": "China AI Startup Manus Raises More Than $500 Million After Meta Exit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cn.ibtimes.com/manus-raises-500-million-after-meta-separation-1812474&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NFCHQPIarBidsYhpJOPBR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6133504448917175327": {
-      "ts": "2026-10-09T05:02:13+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLP82k5pJsUZQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0g5qNdlLPs8YGgIrOECF4u",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "72cc7204218d7cc3": {
       "ts": "2026-10-09T19:44:41+00:00",
       "title": "2.1.296",
       "link": "https://code.claude.com/docs/en/changelog#2-1-296",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/asana-browser-agent": {
-      "ts": "2026-10-09T07:00:00+00:00",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "link": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:15144038800363404755": {
@@ -109,55 +74,6 @@
       "ts": "2026-10-09T12:06:52+00:00",
       "title": "Manus Raises Over $500 Million Following Collapse of Meta's $2 Billion Acquisition",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://entarabi.com/en/2026/10/manus-raises-over-500-million-following-collapse-of-metas-2-billion-acquisition/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw056KouQY1iXVIy4RICERAg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4458969380372590484": {
-      "ts": "2026-10-09T10:52:11+00:00",
-      "title": "Grishin Robotics' Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/grishinrobotics_manus-raised-more-than-500-million-for-its-activity-7514272393335603200-8OyI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37WcIg5TmY9oOVDXsRUY9v",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8240873416450800047": {
-      "ts": "2026-10-09T10:24:09+00:00",
-      "title": "TNW's Post - LinkedIn",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/the-next-web_meta-bought-manus-ai-for-2b-china-undid-activity-7514221994335240192-lpPU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mS5cACACvigJr-hTSFgVP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12959583294792117729": {
-      "ts": "2026-10-09T06:58:24+00:00",
-      "title": "Manus Is Back, Independent, and Growing Faster Than When Meta Wanted It - AutoGPT",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://autogpt.net/manus-ai-500-million-funding-meta-split-butterfly-effect/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1SKk7N2eHBcSrF_CS6IER-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13265324558236327206": {
-      "ts": "2026-10-09T06:56:44+00:00",
-      "title": "Manus raises $500m after $2 billion Meta deal falls apart - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/StartupStoriesOfficial/posts/metas-2b-deal-fell-through-manus-just-raised-500m-manus-was-set-to-be-acquired-b/1701243025345582/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04FybXPKau8PJbLAC-F-Ku",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5093341865576319732": {
-      "ts": "2026-10-09T06:49:49+00:00",
-      "title": "AI startup Manus raises $500 million after China blocks Meta deal",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/vishmaster.live/posts/when-a-government-kills-a-2-billion-acquisition-and-the-startup-comes-back-with-/122139518013343746/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0K4fp_tO-xlux5Vccsv33l",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6903149691647089712": {
-      "ts": "2026-10-09T06:13:44+00:00",
-      "title": "AI Coding Assistants Prompt Injection Attacks: 2026 Security Outlook - DEV Community",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dev.to/nlocoding/ai-coding-assistants-prompt-injection-attacks-2026-security-outlook-58di&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1vhkqdZv5_x-k0CAnMyiKs",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5797597185687220283": {
-      "ts": "2026-10-09T04:36:07+00:00",
-      "title": "Guyana AI &amp; Cyber news | Global Newsflix",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://globalnewsflix.com/gy/ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Kwoe8WpouRT9lgv-oVv2G",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6439,7 +6355,21 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://twitterapi.io/blog/manus-pricing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Nd5pCHw9UMYvL8IaiOgji",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13300690857326463954": {
+      "ts": "2026-11-07T23:00:21+00:00",
+      "title": "Use <b>Manus AI</b> to connect tools, automate tasks and boost productivity. The future is AI! - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/kaMC2CCjG8Y&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw132LC---XXUbdbYKaqOw4n",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14840918900912483459": {
+      "ts": "2026-11-07T08:42:14+00:00",
+      "title": "Cloud Security Engineer — Automation &amp; Incident Response | Singapore | JobLeads.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/cloud-security-engineer-automation-incident-response--singapore--e0eb76159943f79038b518b6dc3548577&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2yM3-i_jUxqQPRNvMQ6nM4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-11-07"
+  "last_digest_date": "2026-11-08"
 }
