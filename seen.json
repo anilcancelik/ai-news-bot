@@ -14,27 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:686561099444270858": {
-      "ts": "2026-10-11T14:21:35+00:00",
-      "title": "Startup Funding Today — 10/11/2026: TypeSafe AI Series A ($870M) leads 12 ... - QuantLogix",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quantlogix.ai/briefing/quantlogix-startup-brief-2026-10-11&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0AWZcEBDwEyR26Tqz4Hxu5",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4955784361450917657": {
-      "ts": "2026-10-11T13:02:08+00:00",
-      "title": "Neura AI Review: I Tried It for 7 Days (Honest Results) · AI Income Maxxing - Skool",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.skool.com/data-and-ai/neura-ai-review-i-tried-it-for-7-days-honest-results&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aukMrkkef9rcsfjeCFZQp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17059727413085435328": {
-      "ts": "2026-10-11T09:15:45+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLE4x8v9nOeK4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12rQof1bf_YhuFxQiYvnMB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10363090798904114222": {
       "ts": "2026-10-11T21:26:54+00:00",
       "title": "<b>Manus AI</b> Video Editing Turned 125 Clips Into One Video - X",
@@ -53,13 +32,6 @@
       "ts": "2026-10-11T19:31:03+00:00",
       "title": "Weekly AI Funding: TypeSafe AI Hits $7.5B, <b>Manus AI</b> Raises $500M+ (Oct 7-Oct 12, 2026)",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aifundingtracker.com/weekly-ai-funding-typesafe-ai-hits-7-5b-manus-ai-raises-500m-oct-7-oct-12-26/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw39Cg52pYzpm3_eEdiATvoT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9936768963438518327": {
-      "ts": "2026-10-11T11:51:25+00:00",
-      "title": "Cerny vs Ursu | Prediction Markets - Coinbase",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.coinbase.com/en-de/predictions/event/KXATPCHALLENGERMATCH-26OCT11CERURS&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3KIR0Pp0i0gt4jQeF1zvWG",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6346,6 +6318,125 @@
       "ts": "2026-11-09T13:49:35+00:00",
       "title": "Manus Vs WorkLLM: Where Each One Shines",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://workllm.io/blog/manus-vs-workllm-where-each-one-shines/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2FS-ZthfOd8hDcVd_AOQmk",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/roadshow-launch": {
+      "ts": "2026-11-10T00:00:00+00:00",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "link": "https://www.anthropic.com/news/roadshow-launch",
+      "source": "Anthropic News",
+      "big": true
+    },
+    "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life": {
+      "ts": "2026-11-10T12:00:00+00:00",
+      "title": "Helping caregivers use AI in everyday life",
+      "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/ai-effect-on-freelance-work": {
+      "ts": "2026-11-10T07:00:00+00:00",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "link": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": {
+      "ts": "2026-11-10T16:03:47+00:00",
+      "title": "Gemini 4 Carbon is now available",
+      "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://deepmind.google/blog/introducing-alphaproof-code/": {
+      "ts": "2026-11-10T12:02:28+00:00",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/": {
+      "ts": "2026-11-09T19:51:47+00:00",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4142740518877975061": {
+      "ts": "2026-11-10T14:52:47+00:00",
+      "title": "Casey Lau's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/caseylau_thrilled-to-have-been-asked-to-do-the-first-activity-7525690610952019968-ELme&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0idhuGIbrhmWOoRzv-aTLS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5415700073691329339": {
+      "ts": "2026-11-10T13:56:26+00:00",
+      "title": "&quot;It's just a Claude wrapper.&quot; The comment… | Alex Banks - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/a-banks_your-ai-company-is-just-a-wrapper-but-thats-activity-7525905421535133696-Xsig&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw225Rqj4WEV6bfziAvD9Z6Y",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17708215977273858275": {
+      "ts": "2026-11-10T12:26:27+00:00",
+      "title": "The Crunchbase Unicorn Board Tops 1900 Companies In October, With 34 Companies Joining",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1u34KwDailhE4MqInw9ZPg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18437599226140877260": {
+      "ts": "2026-11-10T12:21:47+00:00",
+      "title": "From Seeing to Doing: Samsung Alum's Enhans Brings Enterprise Agentic AI to Web Summit 2026",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.einnews.com/pr_news/955738951/from-seeing-to-doing-samsung-alum-s-enhans-brings-enterprise-agentic-ai-to-web-summit-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw21sC22Bt-wj5aFCyu4V2FG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5995422614888242342": {
+      "ts": "2026-11-10T11:04:18+00:00",
+      "title": "China touts tech, AI cred at world Web Summit | AFP.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.afp.com/en/china-touts-tech-ai-cred-world-web-summit&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34HyGGSxjD76x1MdNMUS-n",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13070840661180768211": {
+      "ts": "2026-11-10T09:09:30+00:00",
+      "title": "N8n Vs <b>Manus AI</b>: Full Comparison &amp; How To Choose (2026) - TeraBox Blog",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://blog.terabox.com/ai/n8n-vs-manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0KosD1jScZbQGQ5t2Xj5Aa",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:432507782363729391": {
+      "ts": "2026-11-10T08:21:54+00:00",
+      "title": "Using <b>Manus Ai</b> To Do Payphone - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/L7K_A_A7FKc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3liG7seHcnIWvc3CreHsmr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7048706899891987933": {
+      "ts": "2026-11-10T04:04:00+00:00",
+      "title": "Four Days, 157 Countries, and Korean Startups Knocking on Europe's Door Through SBA's ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://kr.aving.net/news/articleViewAmp.html%3Fidxno%3D1816753&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Z3Ezfh4XSiLN7Uk1ztX6N",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10510140271344491341": {
+      "ts": "2026-11-10T03:55:28+00:00",
+      "title": "Inception Point AI: Ikigo cy'ubwenge bw'ubukorano gihanga abantu babarirwa mu bihumbi ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/rw/video/inception-point-ai-ikigo-cyubwenge-bwubukorano-gihanga-abantu-babarirwa-mu-bihumbi-bayobora-ibiganiro-bya-podikasiti&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3gIskNuiSsfZb2hWbMg8GU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12579174587424271545": {
+      "ts": "2026-11-09T23:16:08+00:00",
+      "title": "<b>Manus AI</b> Archives - Jittipong",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://jittipong.com/tag/manus-th/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2BiMQVnyQpfx8amPv0g0Ag",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14579444639719609989": {
+      "ts": "2026-11-09T21:23:42+00:00",
+      "title": "Are traditional tech roles dead? At #WebSummit, Tao Zhang of <b>Manus AI</b> revealed that ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/WebSummitHQ/videos/are-traditional-tech-roles-dead-at-websummit-tao-zhang-of-manus-ai-revealed-that/962346473302035/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw28-xKUdW1sYWV6UxTPyaQt",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
