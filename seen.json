@@ -1,80 +1,10 @@
 {
   "seen": {
-    "https://openai.com/index/amp-beyond-coding": {
-      "ts": "2026-10-14T12:00:00+00:00",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "link": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/sentinelone": {
-      "ts": "2026-10-14T12:00:00+00:00",
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "link": "https://openai.com/index/sentinelone",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14441911047565049811": {
-      "ts": "2026-10-14T15:29:33+00:00",
-      "title": "Apple TV 4K (4th gen) launched: A19 chip, 4-speaker support, and trackable remote",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/2026/10/apple-tv-4th-gen-4k-a19.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2g3-M9RxkgkvQOp_bk-yi4",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:10863749728424587425": {
-      "ts": "2026-10-14T15:20:56+00:00",
-      "title": "Chairman of China's Fushine Pharmaceutical Bao Jianhua Detained by Supervisory Authority",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com/news/b10a03f3-19aa-4d81-b16d-78402e29130a&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3GmLCSkR0Tet0atKm2CSXk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9750282109322707471": {
-      "ts": "2026-10-14T15:07:42+00:00",
-      "title": "Introducing Manus for Teams! In the last 6 months, we have seen a fundamental change in ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_introducing-manus-for-teams-in-the-last-activity-7516151758604091392-4FWH&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3GrgZxOl1MzQqm6ybII5w9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:17063255723885531936": {
-      "ts": "2026-10-14T12:36:14+00:00",
-      "title": "3 accounts you should think twice about letting an AI agent access, according to a ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tomsguide.com/ai/3-accounts-you-should-think-twice-about-letting-an-ai-agent-access-according-to-a-cybersecurity-expert&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kF8uaRod6TJoqWMHztCtK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11340916166462441051": {
-      "ts": "2026-10-14T11:26:41+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLbZzakPPoVdU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Omua0apNX0OKNQEv9yIvH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17799547236215490134": {
-      "ts": "2026-10-14T10:19:37+00:00",
-      "title": "Photo samples: TECNO CAMON Slim 5G as a travel camera phone—is it good enough?",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/2026/10/tecno-camon-slim-5g-photo-samples.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26CclXjol74spYXuJ12sSV",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18117116382665368564": {
-      "ts": "2026-10-14T10:09:30+00:00",
-      "title": "OPPO to integrate <b>Manus AI</b> Agent capabilities into smartphones - GIZGUIDE",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/2026/10/oppo-manus-ai-agent.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2A6WfUBNxQOwvLgyLRTtnp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "f17524957c9cb36b": {
       "ts": "2026-10-14T18:57:14+00:00",
       "title": "2.1.300",
       "link": "https://code.claude.com/docs/en/changelog#2-1-300",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11944946175955986768": {
-      "ts": "2026-10-14T16:30:59+00:00",
-      "title": "Inner AI - You Might Also Like - App Store - Apple",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/ca/app/6720709318%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0QZTySrr-Wwez1kGp_9W3J",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:1130930784012913028": {
@@ -6158,6 +6088,27 @@
       "title": "How to create an animated video of &quot;The Astronaut's Missing Moon Rock&quot; using Manus.im",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/274355916032691/posts/4281882118613364/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1U3asJhCoQgaK_C_dLC5KL",
       "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/index/introducing-chatgpt-wallet": {
+      "ts": "2026-11-13T15:00:00+00:00",
+      "title": "Introducing ChatGPT Wallet",
+      "link": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/": {
+      "ts": "2026-11-10T11:13:04+00:00",
+      "title": "Opening the datasets behind our AI weather models",
+      "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic": {
+      "ts": "2026-11-13T00:00:00+00:00",
+      "title": "Cohere Expands Its Sovereign AI Platform with AISLE and cubic",
+      "link": "https://cohere.com/blog/cohere-expands-its-sovereign-ai-platform-with-aisle-and-cubic",
+      "source": "The Cohere Blog",
       "big": false
     }
   },
