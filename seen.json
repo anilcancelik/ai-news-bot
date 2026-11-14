@@ -1,124 +1,5 @@
 {
   "seen": {
-    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
-      "ts": "2026-10-15T13:00:00+00:00",
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16971540615762242479": {
-      "ts": "2026-10-15T10:18:09+00:00",
-      "title": "How to Use Manus Alchemy in <b>Manus AI</b> to Make a Full Video From ONE Prompt - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DZBTR04Fmiww&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jO5FJhiEzDnHdNZAA-WH9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
-      "ts": "2026-10-15T16:08:03+00:00",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://mistral.ai/news/timestral/": {
-      "ts": "2026-10-15T12:00:00+00:00",
-      "title": "Introducing Timestral",
-      "link": "https://mistral.ai/news/timestral",
-      "source": "Mistral AI News",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:15912076246030157446": {
-      "ts": "2026-10-15T16:05:16+00:00",
-      "title": "&quot;4 shorts in 20 minutes? Close. The new Manus video editor found the best moments, cut the ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DehVzkHjwAU/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gUccyVpVxcQdzGEr_azs9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8984896780290470853": {
-      "ts": "2026-10-15T15:53:04+00:00",
-      "title": "Runable - AI for Work - App Store",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/it/app/runable-ai-for-work/id6756892103%3Fl%3Den-GB&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1mNYRBXqTFzAeX0oxIR2Iq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13443409806808344842": {
-      "ts": "2026-10-15T15:50:19+00:00",
-      "title": "<b>Manus AI</b> Rolls Out Automations for Repetitive Tasks : r/aicuriosity - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aicuriosity/comments/1x6p3p9/manus_ai_rolls_out_automations_for_repetitive/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2yWgNOsL1w54J877yGe7aY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:703459861789379934": {
-      "ts": "2026-10-15T15:24:38+00:00",
-      "title": "Your Gadget Coach - GIZGUIDE",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gizguide.com/search%3Fupdated-max%3D2026-10-14T19:14:00%252B08:00%26max-results%3D20&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34fp8cbsTEq8zLtP7EAX16",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10266427091745494270": {
-      "ts": "2026-10-15T14:35:09+00:00",
-      "title": "Gemini 4 Argon is live on Manus! Brought to you with googlecloud. Code it, plan it, model ... - Threads",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.threads.com/%40manus/post/DecMH5WjXFU/gemini-argon-is-live-on-manus-brought-to-you-with-googlecloud-code-it-plan-it/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2LYTwadCHhkeLTe0tw1mYH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14344765656641670671": {
-      "ts": "2026-10-15T14:28:51+00:00",
-      "title": "Product - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/zh-hk/blog/product&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw13Qq4s-JfLYxRqxbRGKiQg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12692626932488876731": {
-      "ts": "2026-10-15T14:28:49+00:00",
-      "title": "Product - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/cs/blog/product&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rlfmVEguosKEyZl5emWA5",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9381233071214570265": {
-      "ts": "2026-10-15T14:28:49+00:00",
-      "title": "Product - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/uk/blog/product&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw058m2otASlaPEujUUGvf_Y",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15534021612198089095": {
-      "ts": "2026-10-15T14:04:51+00:00",
-      "title": "WhatsApp guest calling: how to call people without WhatsApp - TechCity",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techcityng.com/whatsapp-guest-calling/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LKhGlBM-4GK4flAqQ5l4C",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16399227694147691416": {
-      "ts": "2026-10-15T13:56:16+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLRYYsDWJYWqY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3mntRWxD8yDG09KD_35ZNR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11544160480093522226": {
-      "ts": "2026-10-15T13:24:34+00:00",
-      "title": "How to Run Background Tasks in <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DHn_aSxKexZo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0puAoaY64j5kzEGAog8Ivr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5283567896055452695": {
-      "ts": "2026-10-15T11:57:55+00:00",
-      "title": "OPPO teams up with Manus to power its AI Mind Pilot agent on the upcoming Find X10 Series",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nasilemaktech.com/oppo-manus-ai-mind-pilot-agent-find-x10/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gV4wTauFJJP3qP2PVyzGM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13147577455774176806": {
-      "ts": "2026-10-15T10:39:54+00:00",
-      "title": "Want to build stunning websites with AI? If you're into vibe coding, AI website builders ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/Degv4anMp87/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw38dGA9S8RaAgQSYFIyvI81",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "818e44f79ebc3d83": {
       "ts": "2026-10-15T19:52:50+00:00",
       "title": "2.1.301",
@@ -133,25 +14,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:12619447011063225020": {
-      "ts": "2026-10-15T10:51:18+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLVUp02yLewGM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0i4q-NGJcuieU1VtvWpti3",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/introducing-the-rosalind-academic-plan": {
       "ts": "2026-10-15T19:00:00+00:00",
       "title": "Bringing GPT-Rosalind to academic research labs",
       "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5452134263359006074": {
-      "ts": "2026-10-15T12:17:24+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLEBUdoKZk_hw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2lb3RNtd-T3qlKSZqYeM_3",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:1511299782442639316": {
@@ -175,13 +42,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:13723717241530412181": {
-      "ts": "2026-10-15T16:15:17+00:00",
-      "title": "I Tested 5 AI Agents for Small Businesses (Here is What Actually Works) - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/pl/blog/best-ai-agents-for-small-business&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UQ9EMofa8qnnhwLzkjpAq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14904572863674612562": {
       "ts": "2026-10-16T03:14:21+00:00",
       "title": "Kling AI Timeline: Model Release Dates &amp; History - ScriptByAI",
@@ -193,13 +53,6 @@
       "ts": "2026-10-15T23:29:02+00:00",
       "title": "Migrate From Manus to an Open Source AI Operating System",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus-alternative.com/migrate-from-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3mm9cX9l8Tu43Px9erBdN_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8979905942220164800": {
-      "ts": "2026-10-15T14:20:08+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLFRvsWv9y2jI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0oek6vyWCWy42CJ1-5SG1Y",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -6010,6 +5863,20 @@
       "ts": "2026-11-13T12:02:38+00:00",
       "title": "Natalia Zhivova's Post - LinkedIn",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/natalyazhivova_a-few-days-at-web-summit-2026-lots-of-conversations-activity-7526958017188110336-MP-4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw05LZpnc1W3N87KUVeEAnuz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:740351993777014397": {
+      "ts": "2026-11-14T09:16:22+00:00",
+      "title": "How to create Stickman figure animation with just <b>Manus ai</b> free (Lazy student that found shortcut  )",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DnGG3GZRT2Q8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02m0lAkVSj18tX-bKKHf4p",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1664204652886352477": {
+      "ts": "2026-11-13T13:33:47+00:00",
+      "title": "<b>Manus Ai</b> Agent (Grade A) - Claude Skill - Skills Directory",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.skillsdirectory.com/skills/majiayu000-manus-ai-agent&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01e46ahqWsqw_xakYT-7_I",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
