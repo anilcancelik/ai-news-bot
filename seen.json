@@ -14,13 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:16077625863763579722": {
-      "ts": "2026-10-18T02:10:52+00:00",
-      "title": "Exclusive Prompts, Real Use Cases &amp; Business Workflows for <b>Manus AI</b>",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.manusinsider.com/learn&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QUL2ZB5s6npHf64ordA9E",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:7844210495311979701": {
       "ts": "2026-10-18T17:08:36+00:00",
       "title": "No — you can't get a 1-min Sora video for free. Sora has no free tier since Jan 2026, you ... - Threads",
@@ -39,13 +32,6 @@
       "ts": "2026-10-18T12:58:07+00:00",
       "title": "OPPO partners with Manus to bring AI Agents » YugaTech | Philippines Tech News &amp; Reviews",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yugatech.com/news/oppo-partners-with-manus-to-bring-ai-agents/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw15C87Vo1vLjO_I8iZdCtb1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17168193572246821079": {
-      "ts": "2026-10-18T04:21:32+00:00",
-      "title": "Meta bought Manus. Then had to undo it. #muse #meta #ai #manus - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/gP50zD84Xfw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1iZl73MXndjR1dCtpeF_ke",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -70,32 +56,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:10850058633814652386": {
-      "ts": "2026-10-18T02:39:53+00:00",
-      "title": "Manus general AI agent launch - Agent Did It",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.agentdidit.com/clips/manus-general-agent-intro&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WuK2MukrL-lNPorAEf7u3",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:6571074345516006304": {
-      "ts": "2026-10-18T01:52:23+00:00",
-      "title": "Work tasks – AI agent clips - Agent Did It",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.agentdidit.com/tasks/work&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17IZer11UIYT5wNXl7QWNb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "827ba595352a5d6a": {
       "ts": "2026-10-18T22:38:03+00:00",
       "title": "2.1.303",
       "link": "https://code.claude.com/docs/en/changelog#2-1-303",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14078052629156569493": {
-      "ts": "2026-10-18T05:16:37+00:00",
-      "title": "This Pharmacist Created A Fitness Tracker that Adapts As Your Body Changes - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/nl/blog/alyak-tv&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3rj8EPZnbJ5C1Jh52M-35j",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:12760918444958023592": {
@@ -5774,7 +5739,56 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://botpages.co/jobs/automations&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw17f9TL2g7W0iNu4kXxIAx7",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai": {
+      "ts": "2026-11-17T00:00:00+00:00",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/business/customer-stories/revolut": {
+      "ts": "2026-11-16T09:30:00+00:00",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "link": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.13.4#3.13.4": {
+      "ts": "2026-11-17T00:00:00+00:00",
+      "title": "Windsurf 3.13.4",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-13-4",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7470368372007273665": {
+      "ts": "2026-11-17T04:35:52+00:00",
+      "title": "<b>Manus AI</b> Does Your Research, Slides and Booking — No Credit Card Needed - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/o8-ELDcX5JQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw38J5bTyYYkbbjjK9qL7AA8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14668578497652773635": {
+      "ts": "2026-11-17T01:34:26+00:00",
+      "title": "AI Tools Articles: Reviews, Pricing &amp; Alternatives | Lindy Blog",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.lindy.ai/blog-category/ai-tools/page/2&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3RyRKfqZ9T89dLQY2qBidx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8164486555516611361": {
+      "ts": "2026-11-16T22:07:13+00:00",
+      "title": "Bring back free chat mode : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xy1f01/bring_back_free_chat_mode/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0PYQhtiUkYabTGnb1XMYfM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5730094718564511230": {
+      "ts": "2026-11-16T14:31:49+00:00",
+      "title": "Ace Gaddi's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/acegotchu_my-worst-linkedin-post-got-me-into-a-4b-activity-7528079502091046912-oA6J&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2FSesonKnmUzGX4HXqY9CB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-11-16"
+  "last_digest_date": "2026-11-17"
 }
