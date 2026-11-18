@@ -1,33 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:14174012010872052882": {
-      "ts": "2026-10-19T19:06:36+00:00",
-      "title": "Manus - Autonomous AI Agent - GitHub",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://github.com/Manus-Agent-AI/Manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YxDwsYqIkwo5QodothVol",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5824191817290115691": {
-      "ts": "2026-10-19T18:19:56+00:00",
-      "title": "comment MANUS to do this #ai #vibecoding #manuspartner #sponsored - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/_c/reel/Der4e5auP6Q/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_Qj2rd6JyOUVxMkp3yB02",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "116fcebc1115d9b9": {
-      "ts": "2026-10-19T21:50:26+00:00",
-      "title": "2.1.304",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-304",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5330246651179274790": {
-      "ts": "2026-10-19T20:51:38+00:00",
-      "title": "<b>Manus AI</b> vs Genspark AI: Which One Should You Choose? - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DzEo6gGXix0A%26vl%3Dhi&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xtGOKEMQL5Ba4b9w1t09W",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15468362028024653035": {
       "ts": "2026-10-20T03:08:38+00:00",
       "title": "<b>Manus AI</b> Can Now Automate Your Work on AUTOPILOT! - YouTube",
@@ -88,13 +60,6 @@
       "ts": "2026-10-20T10:25:20+00:00",
       "title": "‎Apka Cue by Manus - App Store",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/sk/app/cue-by-manus/id6808613358%3Fl%3Dsk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2UNgz2U3URatt1BTKYX9mp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8745643688902041163": {
-      "ts": "2026-10-19T21:24:02+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2025 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLcwwJ-B-47gQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Y6co1EaFevB7dqoEXY6Au",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5898,6 +5863,118 @@
       "ts": "2026-11-17T23:41:46+00:00",
       "title": "Instinct: Features, Pricing &amp; Use-Case Fit | The Workflow Finder",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theworkflowfinder.com/tools/instinct&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ddMxwv1kt4uANpfeXczpQ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://www.anthropic.com/news/anthropic-prices-initial-public-offering": {
+      "ts": "2026-11-18T00:00:00+00:00",
+      "title": "Anthropic prices initial public offering",
+      "link": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "source": "Anthropic News",
+      "big": false
+    },
+    "https://openai.com/index/the-silent-consensus": {
+      "ts": "2026-11-18T10:00:00+00:00",
+      "title": "The Silent Consensus",
+      "link": "https://openai.com/index/the-silent-consensus",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/research-acceleration-jagged-frontier": {
+      "ts": "2026-11-18T08:00:00+00:00",
+      "title": "Research acceleration: The jagged frontier",
+      "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/inside-the-codex-sandbox": {
+      "ts": "2026-11-18T08:00:00+00:00",
+      "title": "Inside the Codex sandbox",
+      "link": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/managing-frontier-ai-risk": {
+      "ts": "2026-11-18T06:00:00+00:00",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "link": "https://openai.com/index/managing-frontier-ai-risk",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://deepmind.google/blog/introducing-gemini-4-neon/": {
+      "ts": "2026-11-18T21:35:43+00:00",
+      "title": "Introducing Gemini 4 Neon",
+      "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://deepmind.google/blog/genie-4-is-now-available/": {
+      "ts": "2026-11-18T18:13:42+00:00",
+      "title": "Genie 4 is now available",
+      "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "source": "Google DeepMind News",
+      "big": true
+    },
+    "https://ollama.com/blog/open-models-long-horizon-agents": {
+      "ts": "2026-11-16T00:00:00+00:00",
+      "title": "Making open models work for long-horizon agentic workloads",
+      "link": "https://ollama.com/blog/open-models-long-horizon-agents",
+      "source": "Ollama Blog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17670573171789646692": {
+      "ts": "2026-11-18T19:34:14+00:00",
+      "title": "Godot's New Sponsor - <b>Manus AI</b> - GameFromScratch.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://gamefromscratch.com/godots-new-sponsor-manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0qetGx5Y8p3C2WDUzzCV0Z",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9531695071238314301": {
+      "ts": "2026-11-18T17:22:29+00:00",
+      "title": "Godot's New Sponsor – <b>Manus AI</b> - GameDev.net",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://gamedev.net/news/godots-new-sponsor-manus-ai-r7218/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YTsWTauJboRtfQ4g5V3XE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2978928184623721500": {
+      "ts": "2026-11-18T16:47:13+00:00",
+      "title": "Chinese dominate Portugal tech show, as companies shrug off EU curbs - Nikkei Asia",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://asia.nikkei.com/business/technology/chinese-dominate-portugal-tech-show-as-companies-shrug-off-eu-curbs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1b9ITz2fS0tTZMnewZX44B",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3836907877697091428": {
+      "ts": "2026-11-18T16:43:47+00:00",
+      "title": "<b>Manus AI</b> become Platinum Sponsor : r/aiwars - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/aiwars/comments/1xzibfh/manus_ai_become_platinum_sponsor/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kaIAUHZrO2R0iGh5mIa6l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3801135969177181788": {
+      "ts": "2026-11-18T14:20:35+00:00",
+      "title": "AI company Manus becomes a Godot Engine Platinum Sponsor | GamingOnLinux",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gamingonlinux.com/2026/11/ai-company-manus-becomes-a-godot-engine-platinum-sponsor/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2b1sYCgEjGGR-aPgT3Mztp",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5392509060948421401": {
+      "ts": "2026-11-18T10:48:51+00:00",
+      "title": "Tencent Holdings Q3 Results: EPS falls 4.46% to $1.07, misses estimates - ScanX",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://scanx.trade/stock-market-news/companies/tencent-holdings-q3-results-eps-falls-4-46-1-07-misses-estimates/56541977&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw12g3wbg1gh2Nin0FduUMj8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7315290468272861516": {
+      "ts": "2026-11-18T08:32:50+00:00",
+      "title": "LLM Algorithm Engineer at <b>Manus AI</b> - LinkedIn Singapore",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sg.linkedin.com/jobs/view/llm-algorithm-engineer-at-manus-ai-4492007089&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0aFX805wIrcOTog41v1ZzU",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14321618719456497686": {
+      "ts": "2026-11-18T07:12:53+00:00",
+      "title": "Compare Humatron AI vs. SuperIntern in 2026",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://slashdot.org/software/comparison/Humatron-AI-vs-SuperIntern/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-FcN5aDZLF-CqUABag1r0",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
