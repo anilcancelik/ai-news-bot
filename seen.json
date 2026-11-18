@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:18058947289797893622": {
-      "ts": "2026-10-18T18:24:27+00:00",
-      "title": "OPPO partners with <b>Manus AI</b> Archives » YugaTech | Philippines Tech News &amp; Reviews",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yugatech.com/tag/oppo-partners-with-manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3WRspN4kn2RT9rRLfe-_zF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "827ba595352a5d6a": {
-      "ts": "2026-10-18T22:38:03+00:00",
-      "title": "2.1.303",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-303",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12760918444958023592": {
-      "ts": "2026-10-19T01:01:23+00:00",
-      "title": "Google Flow Slash Commands for AI Image Generation! Create Images Like a Pro",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DcJzloH6FgR8&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ugl3wK7-QNoHFaJYOsasn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3855003596912591468": {
       "ts": "2026-10-19T04:10:20+00:00",
       "title": "Names of Ai tools! #fyp #ai | Annie Nnamani - Facebook",
@@ -40,13 +19,6 @@
       "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLE8c98ZoO6Wg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw34HzUcpruw8VYkVgsitYga",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/engineering/redesigning-source-control": {
-      "ts": "2026-10-19T00:00:00+00:00",
-      "title": "Redesigning source control at Anthropic",
-      "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:12091782739355454390": {
@@ -110,20 +82,6 @@
       "title": "AI Game Builder: Build Playable Games from a Prompt | Manus",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/tools/ai-game-builder&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2sJXPw8MQ_cJdmi7yLNKo3",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/": {
-      "ts": "2026-10-19T00:00:00+00:00",
-      "title": "Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK",
-      "link": "https://developers.googleblog.com/step-by-step-guide-build-a-voice-agent-that-never-goes-silent-using-adk/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/": {
-      "ts": "2026-10-19T00:00:00+00:00",
-      "title": "Native Model Authoring for Edge with LiteRT Tensor API",
-      "link": "https://developers.googleblog.com/native-model-authoring-for-edge-with-litert-tensor-api/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:14174012010872052882": {
@@ -215,13 +173,6 @@
       "title": "Illicit Injectable Peptides - JAMA Network",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://jamanetwork.com/journals/jama/fullarticle/2855488&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2t_zuex0yaJJ-o3PAIkLJ8",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://ollama.com/blog/clef": {
-      "ts": "2026-10-19T00:00:00+00:00",
-      "title": "Clef is available on Ollama's cloud",
-      "link": "https://ollama.com/blog/clef",
-      "source": "Ollama Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:15468362028024653035": {
@@ -5786,6 +5737,132 @@
       "ts": "2026-11-16T16:59:12+00:00",
       "title": "AI Agents for Sales, marketing and support: 63 Real Use Cases and Guides - Bot Pages",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://botpages.co/jobs/sales-marketing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2aWz060aLtwzUX1tZw0qQt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "34a836e017b1fedc": {
+      "ts": "2026-11-17T23:22:59+00:00",
+      "title": "2.1.327",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-327",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://claude.com/blog/linked-billing-on-claude-platform": {
+      "ts": "2026-11-17T00:00:00+00:00",
+      "title": "Linked billing on the Claude Platform",
+      "link": "https://claude.com/resources/articles/linked-billing-on-claude-platform",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/introducing-gpt-6-2-astra-sol": {
+      "ts": "2026-11-17T17:45:00+00:00",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/introducing-chatgpt-for-sales": {
+      "ts": "2026-11-17T08:00:00+00:00",
+      "title": "Introducing ChatGPT for Sales",
+      "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "https://openai.com/index/astra-law-6-2": {
+      "ts": "2026-11-17T00:00:00+00:00",
+      "title": "Astra for Law leads in legal intelligence",
+      "link": "https://openai.com/index/astra-law-6-2",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/gemini-hydrogen-for-robotics/": {
+      "ts": "2026-11-17T00:00:00+00:00",
+      "title": "Gemini 4 Hydrogen: a faster model for general purpose robotics",
+      "link": "https://developers.googleblog.com/gemini-hydrogen-for-robotics/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/": {
+      "ts": "2026-11-17T00:00:00+00:00",
+      "title": "Build full-stack Android apps with Gemini in Google AI Studio",
+      "link": "https://developers.googleblog.com/build-full-stack-android-apps-with-gemini-in-google-ai-studio/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/": {
+      "ts": "2026-11-17T00:00:00+00:00",
+      "title": "Accelerating development for massive Git repositories",
+      "link": "https://developers.googleblog.com/accelerating-development-for-massive-git-repositories/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.14.30819#3.14.30819": {
+      "ts": "2026-11-17T00:00:00+00:00",
+      "title": "Windsurf 3.14.30819",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-14-30819",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18214831257866299391": {
+      "ts": "2026-11-17T22:28:53+00:00",
+      "title": "Trending on GitHub right now: XTwiNSaraX/ai--<b>manus. AI</b> Manus is a general-purpose AI Agent ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/5ZyT-Ptgx9Q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0lBavURnwwSgLzie-x1aHf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15267717058306526833": {
+      "ts": "2026-11-17T20:20:42+00:00",
+      "title": "Godot Foundation welcomes Manus as Platinum Sponsor",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://godotengine.org/article/partners_manus_sponsorship_2026_announcement/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ibAaWxkFnbmkGY8gELjrs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5957728010968372942": {
+      "ts": "2026-11-17T18:10:58+00:00",
+      "title": "Stop Building Websites With Claude Without These 5 AI Tools | Mercy Thaddeus - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/mercy.thaddeus.7/videos/stop-building-your-websites-with-claude-unless-you-give-it-these-five-toolsui-ux/1685252239820801/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ogsx2xM1HqOs8mj6cEblq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11116019040890936511": {
+      "ts": "2026-11-17T13:40:52+00:00",
+      "title": "Cross-Border Collaborative R&amp;D Triple Export Controls over Data, Technology and Dual-Use Items",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taylorwessing.com/de/insights-and-events/insights/2026/11/cross-border-collaborative-r-d-triple-export-controls&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw37NwUGDFyzHhcXvtNlZ0OI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18027526388939410768": {
+      "ts": "2026-11-17T13:35:42+00:00",
+      "title": "How AI is changing the rules of marketing and eCommerce",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://marketing4ecommerce.net/en/web-summit-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MKtPXrv8GOACYiuRUQb2m",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11419957048463526053": {
+      "ts": "2026-11-17T12:45:43+00:00",
+      "title": "SE Asia Deal Review: Funding rebounds in October on AI deal frenzy - DealStreetAsia",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dealstreetasia.com/stories/se-asia-deal-review-oct-2026-501154&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw09dvPrijuPt3ThB8JRgC3R",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15533789707139424171": {
+      "ts": "2026-11-17T12:25:56+00:00",
+      "title": "Dear Parents! Are You Preparing Your Children for Tomorrow? The future belongs to those ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Dfy2W4oMO_A/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0gJRVymkQXIqhZNFUbIyTo",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8543896679030789985": {
+      "ts": "2026-11-17T06:21:20+00:00",
+      "title": "Wenzhun Intelligence Funding: Series A and A+ for the LimiX Model",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aifundingtracker.com/wenzhun-intelligence-funding/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0HfBV3W1JBO7N6Uz7gykoR",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13011701353420792635": {
+      "ts": "2026-11-17T03:52:23+00:00",
+      "title": "Build a website with <b>Manus AI</b> and host it on Cloudflare Workers | API, AI &amp; Low-Code Daily",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DAiM45kCw1vs&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0H1rM_cw9FBgIGrkroaExC",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
