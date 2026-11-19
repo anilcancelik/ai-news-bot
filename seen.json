@@ -1,19 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:15468362028024653035": {
-      "ts": "2026-10-20T03:08:38+00:00",
-      "title": "<b>Manus AI</b> Can Now Automate Your Work on AUTOPILOT! - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DJ5TluRPa-qw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3xgNMjFudjVWVjC_RoIx-U",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14415708292414389121": {
-      "ts": "2026-10-20T03:06:34+00:00",
-      "title": "<b>Manus AI</b> ab Pakistan me! AI agent se kaam automate karo — research, co... | TikTok",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40ikutools/video/7698433418312355103&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0oXzhMpggb2M3SB7O3Zj1W",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4018522368508866548": {
       "ts": "2026-10-20T06:37:18+00:00",
       "title": "Gemini 3.8 Flash TTS AI Voice Generator - Manus",
@@ -28,34 +14,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/": {
-      "ts": "2026-10-20T00:00:00+00:00",
-      "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon",
-      "link": "https://developers.googleblog.com/unifying-edge-ai-how-coral-npus-open-standard-brings-portable-energy-viable-intelligence-from-model-to-silicon/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/": {
-      "ts": "2026-10-20T00:00:00+00:00",
-      "title": "Integrating TorchTPU into TorchTitan and Optimizing Models for TPU",
-      "link": "https://developers.googleblog.com/integrating-torchtpu-into-torchtitan-and-optimizing-models-for-tpu/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/": {
-      "ts": "2026-10-20T00:00:00+00:00",
-      "title": "Announcing New vLLM and SGLang Inference Engines on TPU",
-      "link": "https://developers.googleblog.com/announcing-new-vllm-and-sglang-inference-engines-on-tpu/",
-      "source": "Google Developers Blog - AI",
-      "big": true
-    },
-    "https://cohere.com/blog/rethinking-confidence-in-reasoning-models": {
-      "ts": "2026-10-20T00:00:00+00:00",
-      "title": "Rethinking Confidence in Reasoning Models",
-      "link": "https://cohere.com/blog/rethinking-confidence-in-reasoning-models",
-      "source": "The Cohere Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:6543334728823905302": {
       "ts": "2026-10-20T10:25:20+00:00",
       "title": "‎Apka Cue by Manus - App Store",
@@ -68,20 +26,6 @@
       "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
       "link": "https://openai.com/index/ted-taylor-restaurant",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/openai-to-acquire-orchestra-bio": {
-      "ts": "2026-10-20T00:00:00+00:00",
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/": {
-      "ts": "2026-10-20T00:00:00+00:00",
-      "title": "Bringing Visual Graph Debugging to Custom Edge Compilers with Model Explorer",
-      "link": "https://developers.googleblog.com/bringing-visual-graph-debugging-to-custom-edge-compilers-with-model-explorer/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "https://mistral.ai/news/voxtral-3/": {
@@ -109,20 +53,6 @@
       "ts": "2026-10-20T05:42:16+00:00",
       "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLbCzdWYXo_nQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0RM61VkbanFWHI4jvU2p6i",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6917310588177772700": {
-      "ts": "2026-10-20T03:35:16+00:00",
-      "title": "<b>Manus AI</b> Can Now Automate Your Work on AUTOPILOT! : r/AISEOInsider - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AISEOInsider/comments/1xahm52/manus_ai_can_now_automate_your_work_on_autopilot/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw20g9OnKF6NCfuUc1GQ5cyY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:17931970134931742054": {
-      "ts": "2026-10-20T03:28:45+00:00",
-      "title": "<b>Manus AI</b> Pre-Activated - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLH6MBdJR8Ajk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw13C2pJ-dnBiPBNlzUQxaGr",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5975,6 +5905,55 @@
       "ts": "2026-11-18T07:12:53+00:00",
       "title": "Compare Humatron AI vs. SuperIntern in 2026",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://slashdot.org/software/comparison/Humatron-AI-vs-SuperIntern/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-FcN5aDZLF-CqUABag1r0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "453fb6a2269cefe6": {
+      "ts": "2026-11-19T01:20:10+00:00",
+      "title": "2.1.328",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-328",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/business/customer-stories/sumitomo-life": {
+      "ts": "2026-11-18T08:00:00+00:00",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "link": "https://openai.com/business/customer-stories/sumitomo-life",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.14.30825#3.14.30825": {
+      "ts": "2026-11-18T00:00:00+00:00",
+      "title": "Windsurf 3.14.30825",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-14-30825",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2248513981355576991": {
+      "ts": "2026-11-18T22:43:22+00:00",
+      "title": "One prompt, and Manus edited the whole video for me. This is the new Video Editor in ... - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/shorts/4EV_VrGxL1A&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1nsjNwdStqyAmMBi6ObKjZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6037765580012803342": {
+      "ts": "2026-11-18T16:42:50+00:00",
+      "title": "Cue by Manus - He koreutu ki te tikiake me te tāuta ki Windows | Microsoft Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.microsoft.com/detail/9pdxfbwzntnj%3Fhl%3Dmi-NZ%26gl%3DTG&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3PQoWRAatO3rR_lOKWNCnJ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15219996798962690109": {
+      "ts": "2026-11-18T16:13:22+00:00",
+      "title": "Game From Scratch on X: &quot;Godot has a new platinum level sponsor, one that is sure to be ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/gamefromscratch/status/2123075051628920899&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0IGYKHe8e8h7T4chS63nkM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11213130835175753454": {
+      "ts": "2026-11-18T11:08:22+00:00",
+      "title": "8 GDPR-Compliant <b>Manus AI</b> Alternatives for Teams in 2026 - Superkind",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://superkind.ai/blog/manus-ai-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1DANSXgE6nLtOqfv8nF3CC",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
