@@ -1,61 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:4018522368508866548": {
-      "ts": "2026-10-20T06:37:18+00:00",
-      "title": "Gemini 3.8 Flash TTS AI Voice Generator - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/models/gemini-3-8-flash-tts&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0yDvkoGzQ0Tux-9PQEx11t",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13587941570558886331": {
-      "ts": "2026-10-20T05:37:03+00:00",
-      "title": "Gemini 4 Argon + <b>Manus AI</b> Is INSANE! : r/AISEOInsider - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/AISEOInsider/comments/1xahnzc/gemini_4_argon_manus_ai_is_insane/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01W_GFCL3fFw7aL-6KT-Uz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6543334728823905302": {
-      "ts": "2026-10-20T10:25:20+00:00",
-      "title": "‎Apka Cue by Manus - App Store",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/sk/app/cue-by-manus/id6808613358%3Fl%3Dsk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2UNgz2U3URatt1BTKYX9mp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/ted-taylor-restaurant": {
-      "ts": "2026-10-20T10:00:00+00:00",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "link": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://mistral.ai/news/voxtral-3/": {
-      "ts": "2026-10-20T12:00:22+00:00",
-      "title": "Voxtral 3",
-      "link": "https://mistral.ai/news/voxtral-3",
-      "source": "Mistral AI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16225002140004821472": {
-      "ts": "2026-10-20T14:29:08+00:00",
-      "title": "50 best AI tools you can use right now - Sam Despo",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.samdespo.com/resources/50-best-ai-tools&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26vfQCriFxith4kgJA-px6",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12571681597893016131": {
-      "ts": "2026-10-20T14:11:09+00:00",
-      "title": "OPPO Find X10 Debuts With <b>Manus AI</b>; Researchers Exposed Exploit, China Can Compel ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techtimes.com/articles/329254/20261020/oppo-find-x10-debuts-manus-ai-researchers-exposed-exploit-china-can-compel-agent-email-access.htm&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YiVPVXgcDZeqL7vLOve3t",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:1547936431228459165": {
-      "ts": "2026-10-20T05:42:16+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLbCzdWYXo_nQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0RM61VkbanFWHI4jvU2p6i",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "7c9562720ed9cd44": {
       "ts": "2026-10-21T00:17:20+00:00",
       "title": "2.1.305",
@@ -75,13 +19,6 @@
       "title": "2.1.306",
       "link": "https://code.claude.com/docs/en/changelog#2-1-306",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/terminal-x": {
-      "ts": "2026-10-20T07:00:00+00:00",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "link": "https://openai.com/index/terminal-x",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:10718632890316794920": {
@@ -109,13 +46,6 @@
       "ts": "2026-10-20T17:58:20+00:00",
       "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLYm03_lfueCw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Iijrnt4fRuN3mEYtqzsVR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10459755841198470174": {
-      "ts": "2026-10-20T14:12:24+00:00",
-      "title": "ShiftHands vs Manus: Features, Pricing &amp; Workflows",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://shifthands.com/compare/shifthands-vs-manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23yTE3jyuFBJp89Rh4xgth",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -1328,13 +1258,6 @@
       "title": "Introducing GPT-6.1 Terra",
       "link": "https://openai.com/index/introducing-gpt-6-1-terra",
       "source": "OpenAI News",
-      "big": true
-    },
-    "https://cursor.com/blog/agent-sdk": {
-      "ts": "2026-10-20T12:00:00+00:00",
-      "title": "Introducing the Agent SDK",
-      "link": "https://cursor.com/blog/agent-sdk",
-      "source": "Cursor Blog",
       "big": true
     },
     "tag:google.com,2013:googlealerts/feed:3446443318898691460": {
@@ -5956,7 +5879,98 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://superkind.ai/blog/manus-ai-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1DANSXgE6nLtOqfv8nF3CC",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10347303388123574674": {
+      "ts": "2026-11-19T11:59:43+00:00",
+      "title": "Learn With Manus: Manus 101 · Zoom - Luma",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://luma.com/manus-qzws&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0v_e7corWQfkhslu5IZSjY",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:18293246989898847370": {
+      "ts": "2026-11-19T09:08:08+00:00",
+      "title": "Hendrycks Quits Advising AI Firms, Seeks a Race Moratorium - FourWeekMBA",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fourweekmba.com/ai-hendrycks-quits-advising-ai-firms-seeks-a-race-moratorium/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1EmG8PlwNQ6peYUfTWwbSV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7005757592236427266": {
+      "ts": "2026-11-19T08:02:05+00:00",
+      "title": "How to Use <b>Manus AI</b>: The AI Agent That Does the Work (2026) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D8_so_jAnBaM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LQwF_eLshbNU2FcqMmOzP",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2871190563532318853": {
+      "ts": "2026-11-19T07:57:23+00:00",
+      "title": "One Prompt Built a Whole Deck in 5 Minutes — <b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/NurxyrEFs3s&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0jE9GzkHEycvQ0cc30eIWC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:901193224872372183": {
+      "ts": "2026-11-19T04:54:59+00:00",
+      "title": "An Open-Source AI Agent Project Without Published Releases + Video | UNDERCODE NEWS",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/undercode-news_manus-ai-just-updated-an-open-source-ai-activity-7529034958078910464-H3v7&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3DIlNMjhOAhhGsMdkYQ1_c",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:678360307478508385": {
+      "ts": "2026-11-19T02:17:05+00:00",
+      "title": "Armstrong Calls For AI Freedom - video Dailymotion",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dailymotion.com/video/xbxurea&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2tW7iZ-1rQyfFEkjhcycol",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14680428068159691103": {
+      "ts": "2026-11-18T23:07:09+00:00",
+      "title": "Compare Genspark vs. Polar in 2026 - Slashdot",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://slashdot.org/software/comparison/Genspark-vs-Polar-Browser/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1by-obXTdR7knaYpI5jLFf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5457795237339784095": {
+      "ts": "2026-11-18T22:51:33+00:00",
+      "title": "Godot's Controversial New Sponsor: What is <b>Manus AI</b>? | daily.dev",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://daily.dev/posts/godot-s-controversial-new-sponsor-what-is-manus-ai--ub8zum7ql&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ungtMB1KtjQdfllef3kS6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8346469589132829893": {
+      "ts": "2026-11-18T20:39:03+00:00",
+      "title": "8 New Games Made In Flutter - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://youtu.be/qguQ7lfj2EI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2XaVUtOIoDLud__-BoGTLD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12220214405881328615": {
+      "ts": "2026-11-18T20:13:47+00:00",
+      "title": "Compare Everyday vs. Microsoft Copilot in 2026",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://slashdot.org/software/comparison/Everyday-vs-Microsoft-Copilot/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zQMbjS7RulZPy7hD5P3FM",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1989908393317484140": {
+      "ts": "2026-11-18T19:11:49+00:00",
+      "title": "Essa maleta vira uma metralhadora! - TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40leocrunfli/video/7709528516596960520&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0k64YGKmoZ8O2vmKZnvZpq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1306656734226753613": {
+      "ts": "2026-11-18T18:15:50+00:00",
+      "title": "Banana Pro - AI Photo Editor - You Might Also Like - App Store - Apple",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/cy/app/6754641449%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Dipad&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw18_5d-_vqBMDsSG9zM9hqN",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6477629420205788136": {
+      "ts": "2026-11-18T16:11:22+00:00",
+      "title": "Runable - AI for Work - App Store",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/es/app/runable-ai-for-work/id6756892103%3Fl%3Den-GB&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02b6hcWEF3c1rGOi-VM7zE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-11-18"
+  "last_digest_date": "2026-11-19"
 }
