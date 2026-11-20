@@ -1,26 +1,5 @@
 {
   "seen": {
-    "7c9562720ed9cd44": {
-      "ts": "2026-10-21T00:17:20+00:00",
-      "title": "2.1.305",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-305",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "f08415411a843fd8": {
-      "ts": "2026-10-21T03:27:13+00:00",
-      "title": "2.1.306",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-306",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10718632890316794920": {
-      "ts": "2026-10-21T02:50:06+00:00",
-      "title": "AI Game Generator From a Text Prompt - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/tools/ai-game-generator&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3KMCThlciTJjsPffKHn9CU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:9588281811899270134": {
       "ts": "2026-10-21T07:36:22+00:00",
       "title": "From Smart to Finish: The Agentic Smartphone Era Arrives",
@@ -77,13 +56,6 @@
       "source": "Mistral AI News",
       "big": false
     },
-    "https://cohere.com/blog/rerank-5": {
-      "ts": "2026-10-21T00:00:00+00:00",
-      "title": "Introducing Rerank 5: precise, efficient enterprise document retrieval",
-      "link": "https://cohere.com/blog/rerank-5",
-      "source": "The Cohere Blog",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:6351887743726944815": {
       "ts": "2026-10-21T11:42:02+00:00",
       "title": "<b>Manus AI</b>: Agent Features, Credits and Pricing - Simplify AI Tools",
@@ -91,67 +63,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:72550418676047192": {
-      "ts": "2026-10-21T01:32:59+00:00",
-      "title": "Ecommerce Workflow Tools: AI Agents &amp; Templates | Luxury Extras",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://luxuryextras.online/dropshipping-tools/workflow/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Z4mjXRgEr-wZt_acPCa6y",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14542819049150089224": {
-      "ts": "2026-10-20T22:58:23+00:00",
-      "title": "Grok Bot Review 2026: AI Teammates That Finish Work - iOS App Lists",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://iosapplists.com/grok-bot-review-2026/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3l7YIfQR_8sj2NMTfpwQYC",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": {
-      "ts": "2026-10-21T00:00:00+00:00",
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "link": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://claude.com/blog/hcltech-joins-claude-partner-network": {
-      "ts": "2026-10-21T00:00:00+00:00",
-      "title": "HCLTech joins the Claude Partner Network as a Global Premier partner",
-      "link": "https://claude.com/resources/articles/hcltech-joins-claude-partner-network",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-security-now-scans-continuously-and-tracks-fixes": {
-      "ts": "2026-10-21T00:00:00+00:00",
-      "title": "Claude Security now scans continuously and tracks fixes",
-      "link": "https://claude.com/resources/articles/claude-security-now-scans-continuously-and-tracks-fixes",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/claude-duet": {
-      "ts": "2026-10-21T00:00:00+00:00",
-      "title": "Introducing Claude Duet",
-      "link": "https://claude.com/resources/articles/claude-duet",
-      "source": "Claude Blog",
-      "big": true
-    },
     "https://openai.com/index/att-legal": {
       "ts": "2026-10-21T17:00:00+00:00",
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "link": "https://openai.com/index/att-legal",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/empowering-cyber-defenders": {
-      "ts": "2026-10-21T00:00:00+00:00",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "link": "https://openai.com/index/empowering-cyber-defenders",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/": {
-      "ts": "2026-10-21T00:00:00+00:00",
-      "title": "Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond",
-      "link": "https://developers.googleblog.com/powering-the-agent-development-lifecycle-with-any-framework-from-adk-to-langchain-and-beyond/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:6377154348461479159": {
@@ -231,13 +147,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:15216668003323662753": {
-      "ts": "2026-10-21T01:45:28+00:00",
-      "title": "Cognix vs <b>Manus AI</b> — Autonomous Agent Platform Comparison (2026)",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cognixai.co/vs/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw21FQnSgXtnj2fuNt4j2MWk",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "f3ea0e081b37d68c": {
       "ts": "2026-10-21T22:29:29+00:00",
       "title": "2.1.307",
@@ -264,13 +173,6 @@
       "title": "jauseff dait - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/channel/UC_Ns5Dx_k5XayMOUnPU4fHg/videos&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2tggF-evSQHcWr2WBSyLo1",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/cloudflare-cyber": {
-      "ts": "2026-10-21T00:00:00+00:00",
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "link": "https://openai.com/index/cloudflare-cyber",
-      "source": "OpenAI News",
       "big": false
     },
     "https://cohere.com/blog/can-ai-understand-culture": {
@@ -6010,6 +5912,55 @@
       "ts": "2026-11-18T20:28:54+00:00",
       "title": "An AI Strategy in Search of a Business Model - The Fershman Journal",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://fershman.com/articles/an-ai-strategy-in-search-of-a-business-model&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Ws5Kxdop304JAVhzRoKu6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://openai.com/business/learn/deploying-daybreak-red": {
+      "ts": "2026-11-19T00:00:00+00:00",
+      "title": "Deploying Daybreak Red",
+      "link": "https://openai.com/business/learn/deploying-daybreak-red",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/business/learn/pr-scans-demo": {
+      "ts": "2026-11-19T00:00:00+00:00",
+      "title": "See PR scans in action",
+      "link": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/business/learn/codex-security-plugin-demo": {
+      "ts": "2026-11-19T00:00:00+00:00",
+      "title": "Explore the Codex Security Plugin",
+      "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/business/learn/daybreak-blue-onboarding-demo": {
+      "ts": "2026-11-19T00:00:00+00:00",
+      "title": "Get started with Daybreak Blue",
+      "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1486518375335764181": {
+      "ts": "2026-11-19T17:44:43+00:00",
+      "title": "Majority of Executives Willing to Give AI Agents Autonomy Despite 77% Reporting ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.itsecurityguru.org/2026/11/19/majority-of-executives-willing-to-give-ai-agents-autonomy-despite-77-reporting-unauthorised-behaviour-salt-security-finds/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2AZ0u3w7iowryBKpEUAkI9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16832552282355118969": {
+      "ts": "2026-11-19T14:17:51+00:00",
+      "title": "12 Best AI Agents That Can Automate Your Work in 2026 | Computing.net",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://computing.net/ai-agents-that-can-automate-your-work/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04Q80i_g2rUX6Knkurh-WV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7311771221607258613": {
+      "ts": "2026-11-19T13:07:47+00:00",
+      "title": "Bitalpha AI Reviews 2026 - Convert Bitcoin to US dollars with a simple BTC/USD ... - NetReckon",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.netreckon.com/product-review/bitalpha-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0t0BUuG97p-HUleqB4nslY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
