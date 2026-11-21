@@ -1,12 +1,5 @@
 {
   "seen": {
-    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/": {
-      "ts": "2026-10-22T14:30:24+00:00",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15380903451611335195": {
       "ts": "2026-10-22T17:43:43+00:00",
       "title": "DeepSeek reportedly raises $15B days after US restrictions - TechCrunch",
@@ -28,34 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:12822388357817674980": {
-      "ts": "2026-10-22T14:59:44+00:00",
-      "title": "Is <b>Manus AI</b> Good for Research, Coding &amp; Automation? - Ai Insights News",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiinsightsnews.net/is-manus-ai-good/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw103cPR-ZHCZGZ48vwIHZ_q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7313459250530365246": {
-      "ts": "2026-10-22T12:15:14+00:00",
-      "title": "Web Summit Lisbon 2026 Returns in November With AI, Robotics and Global Tech Leaders",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://newsaffinity.com/web-summit-lisbon-2026-returns-in-november-with-ai-robotics-and-global-tech-leaders/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2YoJarwKgSxuC3IF0J3pBX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8615002681612194662": {
-      "ts": "2026-10-22T11:04:49+00:00",
-      "title": "Meta offers creative targeting for ads - Yahoo Tech",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://tech.yahoo.com/social-media/articles/meta-offers-creative-ad-targeting-223035770.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2U_xpXQebn8lVMAxzjMFBa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1652012621034986706": {
-      "ts": "2026-10-22T09:31:15+00:00",
-      "title": "<b>Manus AI</b> (Android 7.0+) APKs - APKMirror",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.apkmirror.com/apk/butterfly-effect-pte-ltd/manus-ai/variant-%257B%2522minapi_slug%2522%253A%2522minapi-24%2522%257D/page/17/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1kWO0nETq3TjhhoYi_fQsi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/decisions-api": {
       "ts": "2026-10-22T19:00:00+00:00",
       "title": "Build more responsive apps with the Decisions API",
@@ -63,25 +28,11 @@
       "source": "OpenAI News",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8683619896478832490": {
-      "ts": "2026-10-22T11:43:49+00:00",
-      "title": "Claude Duet Just Launched: AI That Works While You Sleep - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/XRRV3ppJclE%3Fvl%3Duk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YWNgUCPLNBaA40D4iFySn",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
     "5ce94a5ce82b15c5": {
       "ts": "2026-10-22T22:29:53+00:00",
       "title": "2.1.309",
       "link": "https://code.claude.com/docs/en/changelog#2-1-309",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10742033376640982415": {
-      "ts": "2026-10-22T13:45:02+00:00",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions - Межа",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mezha.net/eng/news/mezha-812abe3aa79b8afb4f20875f_deepseek_reportedly_raises/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30_3ALC7A9lVbRMs3276rn",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:11512071934383129176": {
@@ -137,13 +88,6 @@
       "ts": "2026-10-22T21:08:28+00:00",
       "title": "AI Agent Evaluation Scientist | Singapore | JobLeads.com",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/ai-agent-evaluation-scientist--singapore--ee832c789d6a0765a3754db13432d9043&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0E2rc8DFEzAacUW-eckewq",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3232962318501740275": {
-      "ts": "2026-10-22T15:21:51+00:00",
-      "title": "What if your AI assistant had its own phone number, email, and wallet? Cue by Manus ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DezGwQVAujV/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw26YGTQeotxRU8NCEt0bSvD",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5781,6 +5725,97 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aiagentblocklist.com/ai-agent-blocklist.php&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MwVsVi0Pj3NSFIr76E8FB",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4116202143234317516": {
+      "ts": "2026-11-21T11:50:40+00:00",
+      "title": "Que is not better than manus , I repeat QUE IS NOT BETTER THAN MANUS - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1y1u8as/que_is_not_better_than_manus_i_repeat_que_is_not/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IHo-ohMSpxcHAxM4ZCcwS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2969030411820223956": {
+      "ts": "2026-11-21T11:34:25+00:00",
+      "title": "Please include unlimited chat mode into subscription : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1y1u4v1/please_include_unlimited_chat_mode_into/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0X6P3aRLas5IQa19eCZ_FG",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:464787085915558747": {
+      "ts": "2026-11-21T11:10:58+00:00",
+      "title": "<b>Manus AI</b> Just Updated: GitHub Repository Just Updated + Video | UNDERCODE NEWS",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/undercode-news_manus-ai-just-updated-github-repository-activity-7529844961337405440-5UXT&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2tSaYumfrrZ5gN9Onjf88k",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14260044397772760875": {
+      "ts": "2026-11-21T11:10:36+00:00",
+      "title": "A GitHub Repository With No Official Release Yet + Video | UNDERCODE NEWS - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/undercode-news_manus-ai-just-updated-a-github-repository-activity-7529844630192873472-IQes&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw14qVP8kp8YiEPELZ0pVf_I",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4529048751593565670": {
+      "ts": "2026-11-21T10:32:27+00:00",
+      "title": "Fine-tuning vs Prompting vs RAG Explained - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DH_yxEK1yqvM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2pgAWuiVQqPJimeVeu_YkV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17891272102909231811": {
+      "ts": "2026-11-21T10:24:56+00:00",
+      "title": "Claude AI Creates Cinematic History of Aviation Presentation Tutorial | Luis Urrutia",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/lourrutiappt/videos/comment-learn-and-ill-send-you-the-instructions-to-create-super-cinematic-presen/1144445708558921/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1liYlxlSKMhArb5sYH_ek1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3361374188649710157": {
+      "ts": "2026-11-21T05:48:13+00:00",
+      "title": "Evaluating Manusight: A Web-Based Manuscript Management Platform for Self-Publishing Firms",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/818116160203635/posts/1541206921227885/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jeCzm3W38ZIt5BlYWHLDS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1810533971077354092": {
+      "ts": "2026-11-21T05:33:30+00:00",
+      "title": "Indian AI startup Sarvam is facing online backlash after launching Token Factory, an ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/Marketingmirrors/videos/indian-ai-startup-sarvam-is-facing-online-backlash-after-launching-token-factory/29646433871618323/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0LD6SqLVnPzJPy2rzSwVov",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:17649269026354157998": {
+      "ts": "2026-11-21T04:15:01+00:00",
+      "title": "<b>Manus Ai</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.youtube.com/%40ManusAi-p1h&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2DJ8VgwU582BnddUO_pZ1M",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6034778375963680000": {
+      "ts": "2026-11-21T01:04:23+00:00",
+      "title": "Free 2500 <b>Manus AI</b> credits : r/referralcodes - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/referralcodes/comments/1y1k35w/free_2500_manus_ai_credits/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_r_OEwbaY1SH8n37GwEI0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16854066342175422438": {
+      "ts": "2026-11-20T21:24:25+00:00",
+      "title": "Taisei bankrolls $150M fund for AI and robotics startups | Dealroom News",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://dealroom.co/news/174719-taisei-bankrolls-150m-fund-for-ai-and-robotics-startups/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3yMTrgh8-sIZbgFcjsUIML",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1796126339243339053": {
+      "ts": "2026-11-20T19:59:59+00:00",
+      "title": "Comment “GAME” and we'll send you the details. THE PICSART x WAN 3.0 GAME ... - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Df94Dm6I3zy/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3wVntq4htkhURaYzkFuwcT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15007732277861744014": {
+      "ts": "2026-11-20T17:50:19+00:00",
+      "title": "7 CRAZY AI Tools That Just Launched - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ninjaaitools/posts/-7-crazy-ai-tools-that-just-launched-/3318938974974010/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw30o0ANrb_TCQTHCqc-woPt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": true
     }
   },
   "last_digest_date": "2026-11-21"
