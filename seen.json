@@ -1,33 +1,5 @@
 {
   "seen": {
-    "f3ea0e081b37d68c": {
-      "ts": "2026-10-21T22:29:29+00:00",
-      "title": "2.1.307",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-307",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/broad-access-through-consistent-standards": {
-      "ts": "2026-10-21T21:00:00+00:00",
-      "title": "Broad access through consistent standards",
-      "link": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://cohere.com/blog/can-ai-understand-culture": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "Can AI understand culture?",
-      "link": "https://cohere.com/blog/can-ai-understand-culture",
-      "source": "The Cohere Blog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1730126565724622816": {
-      "ts": "2026-10-21T23:03:41+00:00",
-      "title": "Meta offers creative ad targeting for specific audiences | Social Media Today",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.socialmediatoday.com/news/meta-offers-creative-ad-targeting-for-specific-audiences/833672/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QGId4e2ri9GMVc7YWUDQM",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "eb02c00953fc001f": {
       "ts": "2026-10-22T04:47:02+00:00",
       "title": "2.1.308",
@@ -49,46 +21,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:17666145070871916948": {
-      "ts": "2026-10-22T00:37:26+00:00",
-      "title": "Manus WebDev Project Broken Due to Railway Authorization Error. Can Someone From ... - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xbme9f/urgent_manus_webdev_project_broken_due_to_railway/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1cbfGrhnf_8Z5No5czC-CR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18148064963337852681": {
-      "ts": "2026-10-21T23:08:04+00:00",
-      "title": "The AI Agent That Gets Things Done! #Shorts #technology #ainow #aiagents #aivillage - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/MVyb6xcL4IY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gRNQi5fINV4fQ-Y_kAbO-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9249974529761121513": {
-      "ts": "2026-10-21T21:24:20+00:00",
-      "title": "<b>Manus AI</b> Context Window: Token Limits, Subagent Memory, and Task Persistence - Fast.io",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fast.io/resources/manus-ai-context-window/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0hINgtlxhHDx1xeEs7Mbkj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:14844418851577386292": {
       "ts": "2026-10-22T04:17:58+00:00",
       "title": "How to Sign Out <b>Manus AI</b> Session - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DEGh0ofRu_8M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1NSxblO3sq4TUmyaItWkD6",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14301980094433292653": {
-      "ts": "2026-10-21T23:53:30+00:00",
-      "title": "Deep Research &amp; AI Agents: 26 free open-source tools | Maigentools",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.maigentools.com/c/deep-research-and-ai-agents&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jFfo8SMUNgsritAx9g8eN",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/building-agents-when-to-fold-subagents-into-your-main-agent-loop": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "Building agents: When to fold subagents into your main agent loop",
-      "link": "https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop",
-      "source": "Claude Blog",
       "big": false
     },
     "https://openai.com/index/forward-deployed-engineering-means": {
@@ -98,39 +35,11 @@
       "source": "OpenAI News",
       "big": false
     },
-    "https://openai.com/index/uber-chatgpt-work-rollout": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "link": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/": {
       "ts": "2026-10-22T14:30:24+00:00",
       "title": "Beyond tree cover: mapping the world’s forest types",
       "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
       "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "Architecting Governed, Self-Evolving AI Agents on the Gemini platform",
-      "link": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://cohere.com/blog/introducing-confidential-computing-on-cohere-model-vault": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "Introducing Confidential Computing on Cohere Model Vault",
-      "link": "https://cohere.com/blog/introducing-confidential-computing-on-cohere-model-vault",
-      "source": "The Cohere Blog",
-      "big": true
-    },
-    "https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "Inside Cohere Model Vault: Building a verifiable confidential AI inference",
-      "link": "https://cohere.com/blog/inside-cohere-model-vault-building-verifiable-confidential-ai-inference",
-      "source": "The Cohere Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:15380903451611335195": {
@@ -217,13 +126,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "link": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://openai.com/index/decisions-api": {
       "ts": "2026-10-22T19:00:00+00:00",
       "title": "Build more responsive apps with the Decisions API",
@@ -250,20 +152,6 @@
       "title": "2.1.309",
       "link": "https://code.claude.com/docs/en/changelog#2-1-309",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "Open call for guest investigators in the life sciences",
-      "link": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://claude.com/blog/claude-models-on-google-cloud-anthropic-managed": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "The full Claude Platform, available on Google Cloud",
-      "link": "https://claude.com/resources/articles/claude-models-on-google-cloud-anthropic-managed",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:10742033376640982415": {
@@ -816,13 +704,6 @@
       "ts": "2026-10-26T00:00:00+00:00",
       "title": "Expanding Claude for Nonprofits",
       "link": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://www.anthropic.com/research/formal-verification": {
-      "ts": "2026-10-22T00:00:00+00:00",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "link": "https://www.anthropic.com/research/formal-verification",
       "source": "Claude Blog",
       "big": false
     },
@@ -5905,6 +5786,76 @@
       "ts": "2026-11-19T18:16:33+00:00",
       "title": "<b>Manus AI</b> Review - Ultimate AI Agent 2026 | AI Tool Hub",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://aiwarehq.com/reviews/manus-ai.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw10hzh4eZKCNALda0IdXzQZ",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "db1b54608ebb86a7": {
+      "ts": "2026-11-20T22:38:51+00:00",
+      "title": "2.1.330",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-330",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/business/customer-stories/hebbia": {
+      "ts": "2026-11-20T00:00:00+00:00",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/": {
+      "ts": "2026-11-20T00:00:00+00:00",
+      "title": "Check what your AI agents do before they do it, with Semantic governance policies",
+      "link": "https://developers.googleblog.com/check-what-your-ai-agents-do-before-they-do-it-with-semantic-governance-policies/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/": {
+      "ts": "2026-11-20T00:00:00+00:00",
+      "title": "Agent Anomaly Detection: Safeguarding agents across other clouds",
+      "link": "https://developers.googleblog.com/agent-anomaly-detection-safeguarding-agents-across-other-clouds/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.14.30833#3.14.30833": {
+      "ts": "2026-11-20T00:00:00+00:00",
+      "title": "Windsurf 3.14.30833",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-14-30833",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14256242310895676664": {
+      "ts": "2026-11-20T22:26:44+00:00",
+      "title": "CUE for Productivity: The Strategic Framework for Browser Agents | AI Simplified in Plain English",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://medium.com/ai-simplified-in-plain-english/cue-for-productivity-the-strategic-framework-for-browser-agents-fb564972d204&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0dndQGSjaveqvlgUr6yumH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12086633320296048915": {
+      "ts": "2026-11-20T22:11:52+00:00",
+      "title": "7 Insane Use Cases for <b>Manus AI</b> (With Zero Code) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3OummUaoa6Y&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2XQrkVsyHipocbzxOOCs8t",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4820430892020724549": {
+      "ts": "2026-11-20T22:02:56+00:00",
+      "title": "Explore AI &amp; Business Tools - Bloom and Inspire",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bloomandinspire.com/ai-business-tools/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2qQYbQMEeeIjU_vOg9nSsf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10183601087887122783": {
+      "ts": "2026-11-20T12:55:34+00:00",
+      "title": "Brand &amp; Visual Designer: Lead Identity &amp; Product Visuals | Singapore | JobLeads.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/brand-visual-designer-lead-identity-product-visuals--singapore--e8a892a6083ec6536af5f375cb92cdc17&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1G-YmpjIqyy5GmXpRmEFe8",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5721281509330626589": {
+      "ts": "2026-11-20T03:52:50+00:00",
+      "title": "Agent Domains, Extensions and Apps - AI Agent Blocklist",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aiagentblocklist.com/ai-agent-blocklist.php&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2MwVsVi0Pj3NSFIr76E8FB",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
