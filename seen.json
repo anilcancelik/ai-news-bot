@@ -1,40 +1,5 @@
 {
   "seen": {
-    "eb02c00953fc001f": {
-      "ts": "2026-10-22T04:47:02+00:00",
-      "title": "2.1.308",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-308",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3886357716420894933": {
-      "ts": "2026-10-22T03:37:20+00:00",
-      "title": "AI Agent Security: Risks and How to Protect Your Business - digitaltatva.com -",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://digitaltatva.com/ai-agent-security/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3tCXE_KJ5PdW-4AgQE9gwU",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9700829409166723547": {
-      "ts": "2026-10-22T02:18:17+00:00",
-      "title": "Muse, the most expensive toy ever by Meta (and some smart people may ask why it reminds ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/kakashiii111/status/2113032494505152594&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1UUZMjCVvZiqmt9eIuimYj",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14844418851577386292": {
-      "ts": "2026-10-22T04:17:58+00:00",
-      "title": "How to Sign Out <b>Manus AI</b> Session - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DEGh0ofRu_8M&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1NSxblO3sq4TUmyaItWkD6",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/forward-deployed-engineering-means": {
-      "ts": "2026-10-22T06:00:00+00:00",
-      "title": "What FDE means at OpenAI",
-      "link": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/": {
       "ts": "2026-10-22T14:30:24+00:00",
       "title": "Beyond tree cover: mapping the world’s forest types",
@@ -91,41 +56,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:1503018772263499540": {
-      "ts": "2026-10-22T08:34:06+00:00",
-      "title": "YWLC x <b>Manus AI</b> Workshop | Young Women's Leadership Connection on Glue Up",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ywlc.glueup.com/event/ywlc-x-manus-ai-workshop-199029/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw03OaHfBM2body-Luo3_QN_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16142391951052756097": {
-      "ts": "2026-10-22T05:43:35+00:00",
-      "title": "CPU vs GPU vs RAM vs TPU Explained for AI Beginners | Careersbyaditi Connected Page",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61573651237442/videos/you-dont-need-to-be-an-engineer-to-understand-whats-powering-ai-%25F0%2596%25A3%25A0these-4-words-c/4507545859512889/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0EihJNJ_PAG-O_uqfqgb4g",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:8513967031484895293": {
-      "ts": "2026-10-22T04:12:40+00:00",
-      "title": "<b>Manus AI</b> - Web Summit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://websummit.com/appearances/lis26/bcc90dbd-d385-4d3e-a62a-a555be0d4ea5&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3jq1D3Mm8m7m9Uq4Qzsdxe",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4828025530322782490": {
-      "ts": "2026-10-22T03:25:18+00:00",
-      "title": "What Is an AI Video Generation Agent? Top 5 Tools to Automate Video Creation and ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ohtez.com/en/what-is-an-ai-video-generation-agent/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uVtQ5UxMU3A2If_HXpwXT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15302752286082654072": {
-      "ts": "2026-10-22T03:19:53+00:00",
-      "title": "Clips using Manus - Agent Did It",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.agentdidit.com/tools/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bbkw5NsgsIZeQvmo26MaP",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "https://openai.com/index/decisions-api": {
       "ts": "2026-10-22T19:00:00+00:00",
       "title": "Build more responsive apps with the Decisions API",
@@ -139,13 +69,6 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/XRRV3ppJclE%3Fvl%3Duk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YWNgUCPLNBaA40D4iFySn",
       "source": "Google Alert - \"Manus AI\"",
       "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:3823828121858464265": {
-      "ts": "2026-10-22T07:47:18+00:00",
-      "title": "AI Website &amp; eCommerce Bundle - Hypergyaan",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hypergyaan.com/bundles/ai-website-ecommerce/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1sCcL9-2G1jlE45DKsJzph",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
     },
     "5ce94a5ce82b15c5": {
       "ts": "2026-10-22T22:29:53+00:00",
@@ -5860,5 +5783,5 @@
       "big": false
     }
   },
-  "last_digest_date": "2026-11-20"
+  "last_digest_date": "2026-11-21"
 }
