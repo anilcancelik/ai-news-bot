@@ -1,65 +1,9 @@
 {
   "seen": {
-    "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
-      "ts": "2026-10-23T17:00:00+00:00",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "link": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/securing-our-frontier-model-training-environment": {
-      "ts": "2026-10-23T10:00:00+00:00",
-      "title": "Securing our frontier model training environment",
-      "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:963159414765570693": {
       "ts": "2026-10-23T17:37:33+00:00",
       "title": "#BringBackChatMode : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xdjso6/bringbackchatmode/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3nSfBRyvI2YWxvl0XlREXe",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16939929756386245722": {
-      "ts": "2026-10-23T16:31:38+00:00",
-      "title": "New OPPO Find X10 series goes live in Malaysia from RM4,999 | Nasi Lemak Tech",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://nasilemaktech.com/oppo-find-x10-series-malaysia-price/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0AZS7Y6rGHqd0f3T2OVlc1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13073666693966970336": {
-      "ts": "2026-10-23T15:12:35+00:00",
-      "title": "Connect <b>Manus AI</b> to WordPress: Manus MCP Server Setup - InstaWP",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://instawp.com/connect-manus-to-wordpress/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2G5xtlZN7clyDn_1CsYS6Q",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1538530295712972009": {
-      "ts": "2026-10-23T14:32:28+00:00",
-      "title": "AI firms boost office leasing demand as CBD Grade A rents climb 2% in 3Q2026 - EdgeProp",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.edgeprop.sg/property-news/ai-firms-boost-office-leasing-demand-cbd-grade-rents-climb-2-3q2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2W1NjkAbSBcFGFDJwtSJ8J",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9634077059695911593": {
-      "ts": "2026-10-23T13:32:34+00:00",
-      "title": "#BringBackChatMode : r/JanitorAI_Refuges - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/JanitorAI_Refuges/comments/1xdd3c4/bringbackchatmode/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1qqXxGanekQNssAKCOAJ22",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:352455049390992269": {
-      "ts": "2026-10-23T13:02:47+00:00",
-      "title": "Dammy on X: &quot;Why is everyone talking about ChatGPT, Claude and Gemini, but barely ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/OlatunjiAyokan2/status/2113520430623379671&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UOl_JRpF7HSfnmLy0ZZOb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5954922402501455387": {
-      "ts": "2026-10-23T12:51:21+00:00",
-      "title": "Commentary on URA Q3 2026 statistics - Office, Retail, and Residential | Markets Insider",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://markets.businessinsider.com/news/stocks/commentary-on-ura-q3-2026-statistics---office-retail-and-residential-1036659302&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aovmx3qqPOG0fp-JAzKUe",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -126,13 +70,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:5376592004873863465": {
-      "ts": "2026-10-23T17:00:21+00:00",
-      "title": "LLM Algorithm Engineer | Singapore | JobLeads.com",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/llm-algorithm-engineer--singapore--e8953d3dda0ae7d185cf1ba0a32dcd875&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2BakSR4yR6-XHX4c-whab-",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:16691283807499966572": {
       "ts": "2026-10-24T08:49:13+00:00",
       "title": "What is <b>Manus AI</b>? Learn how to work smarter with AI! <b>Manus AI</b> is an AI agent that helps you ...",
@@ -158,13 +95,6 @@
       "ts": "2026-10-23T20:37:22+00:00",
       "title": "<b>Manus AI</b> Alternatives (2026): 7 Open-Source Agents",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://atomicagent.io/compare/manus-alternatives/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jBfOa19vEQFm4k3SCkyvb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5971821576578012966": {
-      "ts": "2026-10-23T11:11:39+00:00",
-      "title": "Which AI agents can find and apply for jobs? - AideDex",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aidedex.com/do/apply-for-jobs/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2XRf-ddxBWwMRhz5OhMNg5",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5716,6 +5646,62 @@
       "ts": "2026-11-22T01:20:01+00:00",
       "title": "Memory Game Maker: Build Custom Matching Games | Manus",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/playbook/memory-game-maker&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2FwQHg-qbmouPoOishuPhg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16559605594372633805": {
+      "ts": "2026-11-22T13:56:30+00:00",
+      "title": "Silicon Valley nerds are becoming masters of war, money and politics - AFR",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.afr.com/world/north-america/silicon-valley-nerds-are-becoming-masters-of-war-money-and-politics-20261122-p61fr4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3kvWsgdVfIU3vrEdC-taSr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6244290666512552160": {
+      "ts": "2026-11-22T07:36:25+00:00",
+      "title": "Senior Customer Solutions Specialist - <b>Manus AI</b> - BeBee",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://bebee.com/sg/jobs/senior-customer-solutions-specialist-manus-ai-singapore--fj-2480844097&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2BbqrsP0jNxUVdcMOjm4iK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16931743675618138586": {
+      "ts": "2026-11-22T07:18:45+00:00",
+      "title": "AI app builders and agents: pricing and plans compared (November 2026) - Nedanote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nedanote.com/en-gb/c/ai-build/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw18QMmeUJ4SMJUbPmhJ3FN-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8041984174104162066": {
+      "ts": "2026-11-22T05:00:40+00:00",
+      "title": "Talent Acquisition Intern - Recruiter at <b>Manus AI</b> - LinkedIn Singapore",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sg.linkedin.com/jobs/view/talent-acquisition-intern-at-manus-ai-4489422860&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1pHJUgaBYsVJItkdf1Tq58",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4258032018227257574": {
+      "ts": "2026-11-22T03:31:59+00:00",
+      "title": "Manus took down my website and support is helpless : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1y2c63z/manus_took_down_my_website_and_support_is_helpless/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2hSQZQE8O_rLe2mqEWBg2h",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12065818281090337054": {
+      "ts": "2026-11-22T02:45:58+00:00",
+      "title": "Comment “MANUS” for 4 sample games + 500 FREE credits | thejoshcreates - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/thejoshcreates/videos/untitled-video/2950587231966319/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3otQ_mAjGcIWKbgynEg8rj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16462331377127120490": {
+      "ts": "2026-11-21T14:10:25+00:00",
+      "title": "Manus Fellow Event | Build with <b>Manus AI</b> @ Quad Bangalore – Dates &amp; Details",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://theevents.info/events/manus-fellow-event-build-with-manus-ai-quad-bangalore-0d2dgzm6&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw36HcWQ-T5SbZbQKVTcxmNx",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2669412087300404952": {
+      "ts": "2026-11-21T13:41:35+00:00",
+      "title": "One Human, Ten AI Agents – Dates &amp; Details | TheEvents",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://theevents.info/events/one-human-ten-ai-agents-2o05q51x&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2WbqGeeASiyVtQxM-TmARp",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
