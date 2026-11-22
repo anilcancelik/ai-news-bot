@@ -1,26 +1,5 @@
 {
   "seen": {
-    "5ce94a5ce82b15c5": {
-      "ts": "2026-10-22T22:29:53+00:00",
-      "title": "2.1.309",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-309",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:11512071934383129176": {
-      "ts": "2026-10-23T00:52:52+00:00",
-      "title": "US Rejects China's Trespassing Claim After Warship Transits Disputed Reef",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://english.cw.com.tw/article/article.action%3Fid%3D5080&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1NU_retGjPh1p6y3UOzA0N",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/openai-nask-ai-safety-security-partnership": {
-      "ts": "2026-10-23T00:00:00+00:00",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13378139642450550906": {
       "ts": "2026-10-23T08:05:37+00:00",
       "title": "I Built an Entire One-Person Business in Just 24 Hours Using AI (Manus Did Everything)",
@@ -42,13 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://claude.com/blog/unified-claude-enterprise": {
-      "ts": "2026-10-23T00:00:00+00:00",
-      "title": "Claude Cowork and chat come together for Enterprise",
-      "link": "https://claude.com/resources/articles/unified-claude-enterprise",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/scaling-storage-one-billion-users-part-two": {
       "ts": "2026-10-23T17:00:00+00:00",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
@@ -61,13 +33,6 @@
       "title": "Securing our frontier model training environment",
       "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.11.212#3.11.212": {
-      "ts": "2026-10-23T00:00:00+00:00",
-      "title": "Windsurf 3.11.212",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-11-212",
-      "source": "Windsurf Changelog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:963159414765570693": {
@@ -131,34 +96,6 @@
       "title": "How to Make a Presentation With <b>Manus (AI</b> Slides Tutorial) - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D7UqtpTLnNFw&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2v2hqMFdTNRxHhOaryXgfv",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4311711171554305776": {
-      "ts": "2026-10-23T01:50:55+00:00",
-      "title": "Agent Harness Engineer | Singapore | JobLeads.com",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/agent-harness-engineer--singapore--eb2a0f4140e3b553e6af4c425b6445858&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1LBUPGLYEXnv07ZVStshTK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6243481466014543517": {
-      "ts": "2026-10-23T00:10:48+00:00",
-      "title": "Manus: availability, price and what it can do (checked Oct 22) | AideDex",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aidedex.com/agents/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1MUpvf7htWVJDZwdY1jMGO",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:578113310880256286": {
-      "ts": "2026-10-22T23:01:16+00:00",
-      "title": "<b>Manus AI</b> – Premium Annual Plan - DigiHub",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digihub.live/2026/07/manus-ai-premium-annual-plan.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1fFCqIUsoLjp7u_W6-kiNT",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/claude-duet-safety-privacy-and-security": {
-      "ts": "2026-10-23T00:00:00+00:00",
-      "title": "Claude Duet Safety, Privacy, and Security",
-      "link": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
-      "source": "Claude Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:18126505297508357675": {
@@ -704,13 +641,6 @@
       "ts": "2026-10-27T07:00:00+00:00",
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/anima": {
-      "ts": "2026-10-23T00:00:00+00:00",
-      "title": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
-      "link": "https://openai.com/index/anima",
       "source": "OpenAI News",
       "big": false
     },
@@ -5793,6 +5723,27 @@
       "ts": "2026-11-21T03:53:46+00:00",
       "title": "None of these camera angles are real. I filmed this on one camera. Manus made up every ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/Df-LMmoTUOY/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0r44ZWN5BfhZyLDHuVkOV9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16982242289868246274": {
+      "ts": "2026-11-21T16:34:24+00:00",
+      "title": "I've been working on Commons OS in my spare time. It's an OS where AI agents run as ... - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fala.pexe/videos/ive-been-working-on-commons-os-in-my-spare-time-its-an-os-where-ai-agents-run-as/2099593754013118/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3P5jRnhQcJWe5vIqbfW1-6",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10201156325422655343": {
+      "ts": "2026-11-20T14:42:19+00:00",
+      "title": "Sitemap - Data &amp; AI Institute",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.data-ai-institute.com/sitemap&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3KE0HaChGMLvevceahOI2S",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:213917762222786546": {
+      "ts": "2026-11-20T14:41:26+00:00",
+      "title": "This AI made this side hustle so easy - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Rhb85WUqaTQ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0tsAaPtw0SvitL3EkAg0fS",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
