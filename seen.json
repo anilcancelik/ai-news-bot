@@ -1,19 +1,5 @@
 {
   "seen": {
-    "7eb77e6b3d0aafd3": {
-      "ts": "2026-10-23T23:49:22+00:00",
-      "title": "2.1.310",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-310",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.11.216#3.11.216": {
-      "ts": "2026-10-24T00:00:00+00:00",
-      "title": "Windsurf 3.11.216",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-11-216",
-      "source": "Windsurf Changelog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:13788988220139695564": {
       "ts": "2026-10-24T03:56:38+00:00",
       "title": "AI tools &amp; Automation on Instagram: &quot;<b>Manus AI</b> did this in 4 minutes. A developer takes 4 ...",
@@ -25,13 +11,6 @@
       "ts": "2026-10-24T08:49:13+00:00",
       "title": "What is <b>Manus AI</b>? Learn how to work smarter with AI! <b>Manus AI</b> is an AI agent that helps you ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/De3pTHvE1mG/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw09vo7UgLe6TiBnKzrNyawt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:9897946932405781140": {
-      "ts": "2026-10-24T00:59:08+00:00",
-      "title": "Manus 2.0 AI - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/anan.anan.234860/posts/manus-20-ai/28971201625829663/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3-m8i-C-R0wj3pEEIGtJB2",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -84,13 +63,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:12477107936194461118": {
-      "ts": "2026-10-24T00:12:21+00:00",
-      "title": "<b>Manus-AI</b> is the goat #manuspartner #manusai #manusgamedev #vibecoding #sponsored",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/hXtoHubit1E&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1itLUxE6XJIPP4sZ6Vntq1",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:4901864130296727861": {
       "ts": "2026-10-24T20:36:20+00:00",
       "title": "How to Compare OpenAI GPT 6.1 Sol vs Claude Fable 5.1 vs Gemini 3.8 vs OpenAI Codex ...",
@@ -124,13 +96,6 @@
       "title": "Product Marketing Manager - RevOps Careers",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://revopscareers.com/job/whatjobs-sg-manus-ai-product-marketing-manager-singapore/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3QEGcMbQL-zE8_nJxuhCA2",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://ollama.com/blog/speech-models": {
-      "ts": "2026-10-24T00:00:00+00:00",
-      "title": "Speech models in Ollama",
-      "link": "https://ollama.com/blog/speech-models",
-      "source": "Ollama Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:16655751876908765125": {
@@ -5667,6 +5632,13 @@
       "ts": "2026-11-22T10:12:09+00:00",
       "title": "<b>Manus AI</b> Monetization Tutorial - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DvwNUwxaVkQ4&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3H8CV1HONJ3DnE5j0Yr_fS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11012609349647933395": {
+      "ts": "2026-11-22T11:57:26+00:00",
+      "title": "Manus price UK (November 2026): every plan and what it costs in pounds - Nedanote",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nedanote.com/en-gb/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0fr6ejXG-FoNNW_OyHKH7c",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
