@@ -1,26 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:17755128806910288609": {
-      "ts": "2026-10-25T14:14:52+00:00",
-      "title": "China's DeepSeek Seeks $15 Billion to Strengthen Global AI Competition",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://ana.ir/en/news/11301/chinas-deepseek-seeks-15-billion-to-strengthen-global-ai-competition&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1zVQpbFCHhtfRnOi5ng-oo",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6878707483217198567": {
-      "ts": "2026-10-25T18:53:10+00:00",
-      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLCOcVijMsBhA&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Q3z4JXMtWGcCRnv1ImEK0",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4793455035521077802": {
-      "ts": "2026-10-25T16:27:53+00:00",
-      "title": "AI credit expires in 3 days - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/KegyanAM/posts/the-ai-credit-comes-with-a-3-day-distin-that-if-i-dont-use-it-expires-i-have-a-1/10241940245856708/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0M8NkRERN7-81jFiXlRmZK",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12832363687322207106": {
       "ts": "2026-10-25T23:05:59+00:00",
       "title": "My first <b>Manus AI</b> video. - YouTube",
@@ -5737,6 +5716,132 @@
       "ts": "2026-11-23T08:40:21+00:00",
       "title": "‎ReplyKey AI - You Might Also Like - App Store",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://apps.apple.com/uz/app/6782969819%3Fsee-all%3Dcustomers-also-bought-apps%26platform%3Diphone&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2kDUoPMbeReaSnbPD1EY3l",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://claude.com/blog/skills-over-mcp-tasks-and-more": {
+      "ts": "2026-11-24T00:00:00+00:00",
+      "title": "MCP servers can now ship skills, run tasks, and more with Claude",
+      "link": "https://claude.com/resources/articles/skills-over-mcp-tasks-and-more",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://claude.com/blog/install-as-app": {
+      "ts": "2026-11-24T00:00:00+00:00",
+      "title": "Turn artifacts into Mac and Windows apps",
+      "link": "https://claude.com/resources/articles/install-as-app",
+      "source": "Claude Blog",
+      "big": false
+    },
+    "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities": {
+      "ts": "2026-11-24T13:00:00+00:00",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/index/searching-for-distant-planets-with-astra": {
+      "ts": "2026-11-24T11:00:00+00:00",
+      "title": "Searching for distant planets with Astra",
+      "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/business/customer-stories/intentful-dots": {
+      "ts": "2026-11-24T00:00:00+00:00",
+      "title": "How Intentful uses dots to make more time for growth",
+      "link": "https://openai.com/business/customer-stories/intentful-dots",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://openai.com/business/customer-stories/ifood": {
+      "ts": "2026-11-24T00:00:00+00:00",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "link": "https://openai.com/business/customer-stories/ifood",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6578943326862705603": {
+      "ts": "2026-11-24T17:40:46+00:00",
+      "title": "DeFi Warhol on X: &quot;AI tools that completely fumbled their hype: - OpenClaw - Bolt - Qodo",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/Defi_Warhol/status/2125278523300720798&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3LEy_ckfRP9QVYrprl0yvS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5996308293568731993": {
+      "ts": "2026-11-24T17:19:53+00:00",
+      "title": "Manus Isn't an AI for &quot;Asking.&quot; What I Learned in the Course About Handing Over and ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://note.com/takuyabrand/n/nd77659dfe64b%3Fhl%3Den&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CzfIfijjoe19w7vjzlbrm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14292835945290725390": {
+      "ts": "2026-11-24T16:46:00+00:00",
+      "title": "Run Your Business with Manus · Luma | <b>Manus AI</b> - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/manus-im_run-your-business-with-manus-luma-activity-7531010054712446976-K253&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1VyNJAO6Z79cYXMRAkiNno",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4195611554811275646": {
+      "ts": "2026-11-24T14:25:34+00:00",
+      "title": "<b>Manus AI</b> vs Claude – Which AI Tool Should You Use (2026 Honest Review) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DqSwIVUN8HJU&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0-qMgiAGyLGjMZd8MpyFlT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12008988340720606835": {
+      "ts": "2026-11-24T14:17:47+00:00",
+      "title": "Does anyone still use Manus? - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/698593531630485/posts/1800276804795480/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1jSbDp4G3-hs88gh-xcBuj",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16219610673469699573": {
+      "ts": "2026-11-24T14:04:03+00:00",
+      "title": "OMG! ColorOS 17 Mind Pilot <b>Manus AI</b> Agent is INSANE! OnePlus, OPPO &amp; Realme Must Try!",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DrDgXblgiOCg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3EF2jiY7UmEc_8mAlYySI_",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17824382069973803322": {
+      "ts": "2026-11-24T12:25:52+00:00",
+      "title": "Manus Max is 33% off this Black Friday : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1y4awa1/manus_max_is_33_off_this_black_friday/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OM8f6bvPwXfr4aFITxgkd",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:425781469662077697": {
+      "ts": "2026-11-24T11:42:31+00:00",
+      "title": "How to Install and Setup Cline AI in Visual Studio Code - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DePHgM_OTAPc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1aE55P8ZCefS2Ugw2RcYvD",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3388247983148641622": {
+      "ts": "2026-11-24T09:12:50+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLTlz3rfVq_so&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3_Zh4ehoqw2w62WcjXzLRB",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16862498060515817834": {
+      "ts": "2026-11-24T08:55:42+00:00",
+      "title": "Best <b>Manus AI</b> Alternative for Long-Form Character Storytelling - Magiclight.AI",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://magiclight.ai/alternatives/manus-ai-alternative/%3Fcode%3Dcms&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3NcmVJDxQJDe4wFHBl2dTL",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8324457207593386885": {
+      "ts": "2026-11-24T02:54:14+00:00",
+      "title": "Earn 1800 CREDITS with my <b>Manus.ai</b> referal code : r/referralcodes - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/referralcodes/comments/1y40v2j/earn_1800_credits_with_my_manusai_referal_code/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw01NslMNwPGU_-3BKFOZz7G",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:210813562251223483": {
+      "ts": "2026-11-24T02:15:45+00:00",
+      "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLaBFSwIw2HSc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3E0UBaMeN6c0xv4fsVPk_V",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
