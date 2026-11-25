@@ -1,12 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:12832363687322207106": {
-      "ts": "2026-10-25T23:05:59+00:00",
-      "title": "My first <b>Manus AI</b> video. - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DN5QsZ9FvT3U&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1GOT1Y1Xvd4R3hP9gZVlVG",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10149083244213154617": {
       "ts": "2026-10-26T10:37:22+00:00",
       "title": "AI Credits &amp; Free Tiers - Page 17 - Get AI Perks",
@@ -28,27 +21,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:6231148172768374002": {
-      "ts": "2026-10-25T23:16:32+00:00",
-      "title": "Flushnet AI Runner | Browser Automation, Terminal Control, AI Agents, and Remote Nodes",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.flushnet.net/api/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0o09d9UQkSWrHiTDV7UB2R",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://www.anthropic.com/news/s1-sec": {
-      "ts": "2026-10-26T00:00:00+00:00",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "link": "https://www.anthropic.com/news/s1-sec",
-      "source": "Anthropic News",
-      "big": false
-    },
-    "https://claude.com/blog/expanding-claude-for-nonprofits": {
-      "ts": "2026-10-26T00:00:00+00:00",
-      "title": "Expanding Claude for Nonprofits",
-      "link": "https://claude.com/resources/articles/expanding-claude-for-nonprofits",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/chatgpt-expanding-world-of-work": {
       "ts": "2026-10-26T10:00:00+00:00",
       "title": "ChatGPT’s expanding world of work",
@@ -61,20 +33,6 @@
       "title": "How Fanatics and OpenAI streamline the fan experience",
       "link": "https://openai.com/index/fanatics-streamline-fan-experience",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://cohere.com/blog/pitchbook-integration": {
-      "ts": "2026-10-26T00:00:00+00:00",
-      "title": "PitchBook in North: Private market intelligence for enterprise teams",
-      "link": "https://cohere.com/blog/pitchbook-integration",
-      "source": "The Cohere Blog",
-      "big": false
-    },
-    "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model": {
-      "ts": "2026-10-26T00:00:00+00:00",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "source": "The Cohere Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:1927481096520247500": {
@@ -95,13 +53,6 @@
       "ts": "2026-10-26T09:46:33+00:00",
       "title": "OpenAI Now Trains Its Frontier AI Models With No Live Internet - ProductNation Malaysia",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://productnation.co/my/32176/openai-frontier-models-live-internet-training-9QFy/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JpIAiwQP0pznM9HRQ3XDH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:14190681286888059390": {
-      "ts": "2026-10-26T03:11:31+00:00",
-      "title": "Meta bought this AI agent. Users got 12 days | Part 1 - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/CDtTsiYCSNo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Tz_-kCdow-IpG1HBTxBWK",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -139,13 +90,6 @@
       "link": "https://openai.com/index/openai-cut-incident-investigation",
       "source": "OpenAI News",
       "big": false
-    },
-    "https://openai.com/index/introducing-gpt-6-1-terra": {
-      "ts": "2026-10-26T00:00:00+00:00",
-      "title": "Introducing GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI News",
-      "big": true
     },
     "tag:google.com,2013:googlealerts/feed:3446443318898691460": {
       "ts": "2026-10-26T20:06:03+00:00",
@@ -187,13 +131,6 @@
       "title": "How to get a special invite code for Manibus Y-0011? - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/748054870699908/posts/1575892277916159/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2znqpFGi-0NiBOuIA7Gd0s",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.11.228#3.11.228": {
-      "ts": "2026-10-26T00:00:00+00:00",
-      "title": "Windsurf 3.11.228",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-11-228",
-      "source": "Windsurf Changelog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:2452287326565144248": {
@@ -5842,6 +5779,48 @@
       "ts": "2026-11-24T02:15:45+00:00",
       "title": "<b>Manus AI</b> Latest Version Free Download 2026 - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/playlist%3Flist%3DPLaBFSwIw2HSc&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3E0UBaMeN6c0xv4fsVPk_V",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "f7307c50177896cc": {
+      "ts": "2026-11-25T01:37:45+00:00",
+      "title": "2.1.332",
+      "link": "https://code.claude.com/docs/en/changelog#2-1-332",
+      "source": "Claude Code changelog",
+      "big": false
+    },
+    "https://openai.com/business/customer-stories/clay-plugins-openai": {
+      "ts": "2026-11-24T00:00:00+00:00",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "source": "OpenAI News",
+      "big": false
+    },
+    "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/": {
+      "ts": "2026-11-24T00:00:00+00:00",
+      "title": "From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval",
+      "link": "https://developers.googleblog.com/from-files-to-cited-answers-in-one-api-call-managed-ingestion-and-searchdocuments-in-agent-retrieval/",
+      "source": "Google Developers Blog - AI",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5482444985585275619": {
+      "ts": "2026-11-24T19:26:34+00:00",
+      "title": "AI Video Clipper: Turn Long Videos into Short Clips | Manus",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/tools/ai-video-clipper&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0wtg9HzPiRrSbS02X1aN1t",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2764284354027294754": {
+      "ts": "2026-11-24T17:19:44+00:00",
+      "title": "Executives back AI agents despite rising risk concerns - ChannelLife UK",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://channellife.co.uk/story/executives-back-ai-agents-despite-rising-risk-concerns&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3BdQlL19ZtPPuvNVIQ1aG1",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1150594853079080562": {
+      "ts": "2026-11-24T02:38:12+00:00",
+      "title": "Manus Vercel Grok Bolt | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/discover/manus-vercel-grok-bolt&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0GBL_1yVzUL8Pfi_3V-Igx",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
