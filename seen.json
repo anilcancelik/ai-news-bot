@@ -1,47 +1,5 @@
 {
   "seen": {
-    "cf7850e34f461a16": {
-      "ts": "2026-10-26T22:02:28+00:00",
-      "title": "2.1.311",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-311",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/index/greptile-code-review-codex-astra": {
-      "ts": "2026-10-26T22:00:00+00:00",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3446443318898691460": {
-      "ts": "2026-10-26T20:06:03+00:00",
-      "title": "5 AI tools everyone must know about - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/De9Y7zzodRG/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3MYU0hPIUyJbC4ax-p6PyA",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5059690325841414124": {
-      "ts": "2026-10-26T19:09:12+00:00",
-      "title": "Manus can't push updates to any of my manus managed websites : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xfm1uy/manus_cant_push_updates_to_any_of_my_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3AB4TyYunJ5UzOIf4v2aKz",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:18026241164246004262": {
-      "ts": "2026-10-26T16:34:01+00:00",
-      "title": "How to Write Better Prompts in <b>Manus AI</b> without Wasting Time? - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DH3nMvyVsUlM&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Hs-PvGmzllgtWANP5KT-_",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10618805707309869342": {
-      "ts": "2026-10-26T20:43:49+00:00",
-      "title": "How to get a special invite code for Manibus Y-0011? - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/748054870699908/posts/1575892277916159/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2znqpFGi-0NiBOuIA7Gd0s",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:15151512083684063785": {
       "ts": "2026-10-27T06:30:44+00:00",
       "title": "Google Sheets AI: Build, Edit and Report on Sheets - Manus",
@@ -5726,13 +5684,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://openai.com/index/introducing-gpt-6-1-terra": {
-      "ts": "2026-10-26T18:00:00+00:00",
-      "title": "Introducing GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "source": "OpenAI News",
-      "big": true
-    },
     "tag:google.com,2013:googlealerts/feed:285093642446394611": {
       "ts": "2026-11-25T10:11:26+00:00",
       "title": "From One Image to a Full Short Video with <b>Manus AI</b> - YouTube",
@@ -5779,6 +5730,83 @@
       "ts": "2026-11-24T11:34:33+00:00",
       "title": "<b>Manus AI</b> Video Alternatives for Motion Graphics (2026) - Fluos",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fluos.io/blog/manus-ai-video-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ahqDI3BTNXPWyyBDAygSK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/": {
+      "ts": "2026-11-24T13:07:53+00:00",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "link": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "source": "Google DeepMind News",
+      "big": false
+    },
+    "https://windsurf.com/changelog#3.15.14#3.15.14": {
+      "ts": "2026-11-25T00:00:00+00:00",
+      "title": "Windsurf 3.15.14",
+      "link": "https://docs.devin.ai/desktop/changelog#v3-15-14",
+      "source": "Windsurf Changelog",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4740299999849541421": {
+      "ts": "2026-11-25T19:12:12+00:00",
+      "title": "User Growth Manager - RevOps Careers",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://revopscareers.com/job/manus-ai-user-growth-manager-singapore-singapore/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3hqlnV3ncJ0ppOGiUfFn0t",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15728069085093116897": {
+      "ts": "2026-11-25T18:50:47+00:00",
+      "title": "From One Image to a Full Short Video with <b>Manus AI</b> #ManusPartner #Manu... | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40ducthangds/video/7712047074820230418&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Em6SvyQnpT0vMdQ7Kwgqu",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2440258362930772160": {
+      "ts": "2026-11-25T18:13:33+00:00",
+      "title": "Jonas Willett's Post - LinkedIn",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.linkedin.com/posts/jonaswillett_excited-to-announce-our-partnership-with-activity-7531402140917944321-7s-d&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2o71tDX9D4OYmIjdQWLXJy",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7924787662634405755": {
+      "ts": "2026-11-25T16:22:07+00:00",
+      "title": "An free, opensource for a change. Maintain all your AI agents at one place, with a twist - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/SaaSSolopreneurs/comments/1y57y4m/an_free_opensource_for_a_change_maintain_all_your/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw326SQiCTCe0cdR1u2OY430",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4601508734547806506": {
+      "ts": "2026-11-25T14:42:13+00:00",
+      "title": "Nanites and AI : r/whatsthatbook - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/whatsthatbook/comments/1y4nvdm/nanites_and_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3zu4_CbYIS-oH5XohP4oWb",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12191299659568297327": {
+      "ts": "2026-11-25T13:34:16+00:00",
+      "title": "21 powerful ai tools to master before 2027 - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/aitrendz.xyz1/posts/21-powerful-ai-tools-you-need-to-master-before-2027-1-chatgptcom-conversational/122205578996603416/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1t7yC61EqyZcVK8lrCpknF",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16502504340425644848": {
+      "ts": "2026-11-25T09:41:33+00:00",
+      "title": "Manus: availability, sign-up and payment (Nov 2026) - AI Frontline",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://aifrontlinelab.com/ai/manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw04PdkELFTVeehsmFtjgdQf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7394804332291534134": {
+      "ts": "2026-11-25T08:57:45+00:00",
+      "title": "<b>Manus AI</b> Review (2026): Manus 2.0, Credits &amp; Plans | OmniNav",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://omni-nav.com/en/sites/609.html&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3KwYWUCbeFPsz-r-ZKpXJf",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9303406733470357563": {
+      "ts": "2026-11-25T01:27:49+00:00",
+      "title": "Free AI Storytelling Chat Platforms - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/fb-answers/free-ai-storytelling-chat-platforms/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3hV_aD08xdQenN05sEK9nV",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
