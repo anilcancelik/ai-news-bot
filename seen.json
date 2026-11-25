@@ -1,61 +1,5 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:10149083244213154617": {
-      "ts": "2026-10-26T10:37:22+00:00",
-      "title": "AI Credits &amp; Free Tiers - Page 17 - Get AI Perks",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.getaiperks.com/en/ai/page/17&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1QXQCt7UY1VEaer-KmBCUb",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2320806256611875508": {
-      "ts": "2026-10-26T08:28:24+00:00",
-      "title": "<b>Manus AI</b>: The Agent in OPPO's Find X10, Explained - ProductNation Malaysia",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://productnation.co/my/32177/manus-ai-oppo-find-x10-malaysia-mIUQ/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Pr6yD-HJzmLmx9n-QdU5m",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10414278628990588955": {
-      "ts": "2026-10-26T05:08:05+00:00",
-      "title": "GEMINI vs <b>MANUS AI</b> CREATE A FREE FIRE GAME FROM SCRATCH? - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DBxYQmz2hDCo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1lGsuUhFj6wuQBA07OG2iR",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/chatgpt-expanding-world-of-work": {
-      "ts": "2026-10-26T10:00:00+00:00",
-      "title": "ChatGPT’s expanding world of work",
-      "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/fanatics-streamline-fan-experience": {
-      "ts": "2026-10-26T07:00:00+00:00",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1927481096520247500": {
-      "ts": "2026-10-26T12:33:11+00:00",
-      "title": "The dead internet is no longer a theory. China's <b>Manus AI</b>, the autonomous agent built by ... - X",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/luqman_talks/status/2114691003085201689&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3KJDbSX9litsYxBSFpRShr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:3411079236815153961": {
-      "ts": "2026-10-26T12:06:08+00:00",
-      "title": "How to Build a CUSTOM Chrome Extension with <b>Manus AI</b> Studio - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DAHrSELfKJTI&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0u-04vWrD3KqUH59IFCf2O",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:4592171917447695564": {
-      "ts": "2026-10-26T09:46:33+00:00",
-      "title": "OpenAI Now Trains Its Frontier AI Models With No Live Internet - ProductNation Malaysia",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://productnation.co/my/32176/openai-frontier-models-live-internet-training-9QFy/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JpIAiwQP0pznM9HRQ3XDH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "cf7850e34f461a16": {
       "ts": "2026-10-26T22:02:28+00:00",
       "title": "2.1.311",
@@ -67,27 +11,6 @@
       "ts": "2026-10-26T22:00:00+00:00",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "link": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/building-scientific-understanding-with-academic-communities": {
-      "ts": "2026-10-26T14:30:00+00:00",
-      "title": "Working with academic communities to build scientific understanding",
-      "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
-      "ts": "2026-10-26T13:45:00+00:00",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI News",
-      "big": false
-    },
-    "https://openai.com/index/openai-cut-incident-investigation": {
-      "ts": "2026-10-26T07:00:00+00:00",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
       "source": "OpenAI News",
       "big": false
     },
@@ -112,31 +35,10 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:4333827167326433583": {
-      "ts": "2026-10-26T14:29:45+00:00",
-      "title": "Manus: Employee Directory | ZoomInfo.com",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.zoominfo.com/pic/manus/5000068584&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2xNkuJ-sJ7hfYhtG3Tbq5c",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:15194104711958836491": {
-      "ts": "2026-10-26T04:41:51+00:00",
-      "title": "Chinese AI firm secures $15 billion in funding days after U.S. restrictions - Hot Report Daily",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hotreportdaily.com/article/chinese-ai-firm-secures-15-billion-in-funding-days-after-u-s-restrictions/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0OKBOcafAqrRqWkDhOvSc9",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:10618805707309869342": {
       "ts": "2026-10-26T20:43:49+00:00",
       "title": "How to get a special invite code for Manibus Y-0011? - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/748054870699908/posts/1575892277916159/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2znqpFGi-0NiBOuIA7Gd0s",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:2452287326565144248": {
-      "ts": "2026-10-26T10:36:02+00:00",
-      "title": "OPPO's new Find X10 features the <b>Manus AI</b> agent. OPPO states it handles data locally, but ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/productnationco/posts/oppos-new-find-x10-features-the-manus-ai-agent-oppo-states-it-handles-data-local/1722477019883843/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0kTA6-59FgY-pN5yFVvZpT",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5823,7 +5725,63 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/discover/manus-vercel-grok-bolt&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0GBL_1yVzUL8Pfi_3V-Igx",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "https://openai.com/index/introducing-gpt-6-1-terra": {
+      "ts": "2026-10-26T18:00:00+00:00",
+      "title": "Introducing GPT-6.1 Terra",
+      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "source": "OpenAI News",
+      "big": true
+    },
+    "tag:google.com,2013:googlealerts/feed:285093642446394611": {
+      "ts": "2026-11-25T10:11:26+00:00",
+      "title": "From One Image to a Full Short Video with <b>Manus AI</b> - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Zqm-OofoMmk&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0zW8BiJi9E8D9CSQO50Sh5",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8380323751967218726": {
+      "ts": "2026-11-25T10:06:26+00:00",
+      "title": "From One Image to a Full Short Video with <b>Manus AI</b> - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel9/reel/DgKRUTTPy1p/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2XlD1SGyXP3MeyFpSdIPVr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:6688922603765805576": {
+      "ts": "2026-11-25T01:09:18+00:00",
+      "title": "ManyMotions - Awesome MCP Servers",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mcpservers.org/servers/manymotions-com-mcp&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2UbX6ixg_D9X-8JMM2KYP4",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15479530686599159522": {
+      "ts": "2026-11-25T01:01:02+00:00",
+      "title": "entertainment withai - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://youtube.com/%40entertainmentwithai-rs%3Fsi%3DUo_Z102kE0XKXFiJ&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1AEY7O_6Oxut5a2ZpLayNt",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17588349173837248286": {
+      "ts": "2026-11-25T00:38:30+00:00",
+      "title": "AI Companies Are Squeezing Into Open-Source Engine Sponsorships: Manus Takes Godot Platinum",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://osp.io/en/archives/15508&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0ogVElCAGXTKOJsDx-mcyg",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:7609710190424935479": {
+      "ts": "2026-11-24T22:19:41+00:00",
+      "title": "<b>Manus AI</b> for Business Automation Training in Thimphu, Bhutan - ProgNXT",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://prognxt.com/events/manus-ai-for-business-automation-training/bhutan/august-2026&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1WZlxpOxp6YHHPgW5SiwmH",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:9289560398662710786": {
+      "ts": "2026-11-24T11:34:33+00:00",
+      "title": "<b>Manus AI</b> Video Alternatives for Motion Graphics (2026) - Fluos",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fluos.io/blog/manus-ai-video-alternatives&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2ahqDI3BTNXPWyyBDAygSK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-11-24"
+  "last_digest_date": "2026-11-25"
 }
