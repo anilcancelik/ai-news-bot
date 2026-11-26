@@ -1,52 +1,10 @@
 {
   "seen": {
-    "tag:google.com,2013:googlealerts/feed:15151512083684063785": {
-      "ts": "2026-10-27T06:30:44+00:00",
-      "title": "Google Sheets AI: Build, Edit and Report on Sheets - Manus",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://manus.im/connectors/google-sheets&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0HzeL6cjWSySbky6jBCCmg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/oracle-apps-in-chatgpt": {
-      "ts": "2026-10-27T07:00:00+00:00",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "link": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "source": "OpenAI News",
-      "big": false
-    },
     "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
       "ts": "2026-10-27T16:01:38+00:00",
       "title": "Genie 4: A new generation of world simulation",
       "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
       "source": "Google DeepMind News",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12258201112832990892": {
-      "ts": "2026-10-27T14:48:34+00:00",
-      "title": "Ruben on X: &quot;Wiz needed 18 months to go from $1M to $100M ARR. In 2022 it called itself ...",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/rdominguezibar/status/2115083728636596524&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XDKd3uYqcEfqcuecJt9EY",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6547278524870080108": {
-      "ts": "2026-10-27T11:14:03+00:00",
-      "title": "AI Agent &amp; Bot Detection - SEON",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://seon.io/products/ai-agent-bot-detection/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3Whv3d9KnTRq9I3cA7iq8m",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16295968140499507813": {
-      "ts": "2026-10-27T09:06:30+00:00",
-      "title": "DevOps Engineer with 3 - 5 Years of Experience at <b>manus ai</b> in Singapore - foundit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.foundit.sg/job/devops-engineer-manus-ai-singapore-69605405&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2Gga6S8T7LBeGyrMSOlw6l",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1365294275275100770": {
-      "ts": "2026-10-27T08:16:20+00:00",
-      "title": "Squad vs. Devin AI, Lindy AI, CrewAI, Manus &amp; Zapier (2026 Comparison)",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://mysquad.si/compare&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0CUkwKbiTUboFBWvWd8aKj",
-      "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
     "ed0b93c556025f38": {
@@ -56,24 +14,10 @@
       "source": "Claude Code changelog",
       "big": false
     },
-    "https://openai.com/index/retell-ai": {
-      "ts": "2026-10-27T15:00:00+00:00",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "link": "https://openai.com/index/retell-ai",
-      "source": "OpenAI News",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:12033897979617857568": {
       "ts": "2026-10-27T21:32:16+00:00",
       "title": "#BringBackFreeChatMode : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xh4vh2/bringbackfreechatmode/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HpKqCpIkQjB9MmeRYpYhX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6084963680735774108": {
-      "ts": "2026-10-27T10:59:02+00:00",
-      "title": "Meet your AI assistant for everyday work. Need a first draft before a meeting? Opex can ... - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/p/De_BqJ6x8FH/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3X13RHQEwYTX7RGkTZVm9a",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -130,13 +74,6 @@
       "ts": "2026-10-28T00:14:58+00:00",
       "title": "&quot;Draft day six.&quot; That's the whole prompt. Kimberly planned a 7-day spr... | TikTok",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40manusaiofficial/video/7701393894402968845&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2OmGt-6O7wpb15h62U4jxp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:13699332527689807740": {
-      "ts": "2026-10-27T05:23:06+00:00",
-      "title": "Give an AI Agent a Research Task with Manus (Beginner Tutorial) | KNOT - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/jlPHObyXrfY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw044MEKRjcUsjlumTdh5ZDE",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -5774,7 +5711,42 @@
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://quasa.io/videos/product-reviews%3Fpage%3D31&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw35PB0T-Ki-l3XRJgk70E3D",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3228439325516366712": {
+      "ts": "2026-11-26T06:55:42+00:00",
+      "title": "Cue invitation please : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1y5g6b4/cue_invitation_please/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3YYlKK5Inn2HLT-l0EeXxT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13227370822567006720": {
+      "ts": "2026-11-26T05:40:31+00:00",
+      "title": "[Invite Code] Passing forward my Cue by Manus invite code (First come, first served) - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1y5sf8e/invite_code_passing_forward_my_cue_by_manus/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1Edw7-WxvuybCfdsYuRzd-",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3664047637714197723": {
+      "ts": "2026-11-26T04:41:51+00:00",
+      "title": "an AI agent that can research, control your browser, create spreadsheets and build prese - Instagram",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DgMP8HCAgkv/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1dmMLHW3yX7pobe9sB5EGr",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11205741461145550533": {
+      "ts": "2026-11-25T18:55:47+00:00",
+      "title": "AI for Small Business: Measuring Training Effectiveness and Adoption - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DUagws02jt7w&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3KNBaS7l3ABSE5D83p32KK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13733814782304244109": {
+      "ts": "2026-11-25T17:47:31+00:00",
+      "title": "Heicoders Academy on X: &quot;Gina built Kiasu Karma, an interactive game using <b>Manus AI</b> ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/heicoders/status/2125449320950604170&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XTGzEZH--9jv45P9_Bf1f",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
     }
   },
-  "last_digest_date": "2026-11-25"
+  "last_digest_date": "2026-11-26"
 }
