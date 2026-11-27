@@ -1,72 +1,9 @@
 {
   "seen": {
-    "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-      "ts": "2026-10-27T16:01:38+00:00",
-      "title": "Genie 4: A new generation of world simulation",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "source": "Google DeepMind News",
-      "big": false
-    },
-    "ed0b93c556025f38": {
-      "ts": "2026-10-27T20:35:04+00:00",
-      "title": "2.1.312",
-      "link": "https://code.claude.com/docs/en/changelog#2-1-312",
-      "source": "Claude Code changelog",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12033897979617857568": {
-      "ts": "2026-10-27T21:32:16+00:00",
-      "title": "#BringBackFreeChatMode : r/ManusOfficial - Reddit",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xh4vh2/bringbackfreechatmode/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3HpKqCpIkQjB9MmeRYpYhX",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:107574479815703448": {
       "ts": "2026-10-28T00:19:31+00:00",
       "title": "An Open Letter to <b>Manus AI</b>: Bring Back Free Chat Mode : r/ManusOfficial - Reddit",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1xh8ueb/an_open_letter_to_manus_ai_bring_back_free_chat/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2km-E3EwXEggB0XROPCb1T",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5309520914965369805": {
-      "ts": "2026-10-27T23:09:28+00:00",
-      "title": "Meta Announces $95 Billion Stock Offering to Fund AI Expansion | Cryptos R Us - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cryptosrus/videos/meta-is-raising-95-billion-to-expand-their-ai-after-burning-through-all-their-ca/1084092634455639/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw02f2VcLtvqp7CWe9k7FMO8",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": true
-    },
-    "tag:google.com,2013:googlealerts/feed:16947879155955656793": {
-      "ts": "2026-10-27T23:00:02+00:00",
-      "title": "Baidu's low-priced new AI models bring questions about cost | TechTarget",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.techtarget.com/news/Baidus-low-priced-new-AI-models-bring-questions-about-cost/834451/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2fxqSpwOcFPJ4w8EpRhGxB",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:16503528850588889983": {
-      "ts": "2026-10-27T21:46:43+00:00",
-      "title": "[$3+] 50+ PERSONAL ACCOUNTS &amp; LICENSES | AI, SEO, Design, WP | Instant!",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://hackforums.net/showthread.php%3Ftid%3D6334874%26action%3Dlastpost&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0u3vwZC3l12IkXoe1d_hAf",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12866618446228023845": {
-      "ts": "2026-10-27T21:28:46+00:00",
-      "title": "Anthropic Buys a Drug Startup, Runs Claude in 6 Partnerships - FourWeekMBA",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://fourweekmba.com/ai-anthropic-buys-a-drug-startup-runs-claude-in-6-partnerships/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw07-4gAXtS0c3jPgEbgfCDa",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:10783551412234814372": {
-      "ts": "2026-10-27T18:55:06+00:00",
-      "title": "How to Review Prompts in <b>Manus AI</b> - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D8wwpVvW2_a0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1AYom2-PV9FG_YP9UwhowF",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:416395118904569643": {
-      "ts": "2026-10-27T15:45:41+00:00",
-      "title": "<b>Manus AI</b> 2026: 9 Powerful Facts, Features &amp; Pricing - Rentaai",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://rentaai.com/ai-tools/manus-ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2jR6WPJ8LUn1diBU00YIWm",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -133,41 +70,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:5692563902700277302": {
-      "ts": "2026-10-27T22:52:43+00:00",
-      "title": "<b>Manus AI</b> Can NOW Build 3D Games - Instagram",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DfAvmEoCmJn/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IxRVmn4m3Ka0YEpDFSOkg",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:6716068791182690489": {
-      "ts": "2026-10-27T21:18:18+00:00",
-      "title": "Manus — Review, Pricing &amp; Details - AI Tool Lab",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://theaitoolab.com/tools/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1bYPyjQGLNRtXpW9Ye7iGt",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://claude.com/blog/smart-reports-surveys-pooled-budgets": {
-      "ts": "2026-10-28T00:00:00+00:00",
-      "title": "Smart reports, surveys, and pooled group budgets for Claude Enterprise",
-      "link": "https://claude.com/resources/articles/smart-reports-surveys-pooled-budgets",
-      "source": "Claude Blog",
-      "big": false
-    },
-    "https://claude.com/blog/introducing-artifacts-for-legal-work": {
-      "ts": "2026-10-28T00:00:00+00:00",
-      "title": "Introducing artifacts for legal work",
-      "link": "https://claude.com/resources/articles/introducing-artifacts-for-legal-work",
-      "source": "Claude Blog",
-      "big": true
-    },
-    "https://claude.com/blog/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company": {
-      "ts": "2026-10-28T00:00:00+00:00",
-      "title": "IDC brings Quanta into Claude and adopts Claude across the company",
-      "link": "https://claude.com/resources/articles/idc-brings-quanta-into-claude-and-adopts-claude-across-the-company",
-      "source": "Claude Blog",
-      "big": false
-    },
     "https://openai.com/index/the-future-of-the-firm": {
       "ts": "2026-10-28T10:00:00+00:00",
       "title": "The future of the firm",
@@ -187,13 +89,6 @@
       "title": "Gemini 4 Carbon: Our next frontier model",
       "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
       "source": "Google DeepMind News",
-      "big": false
-    },
-    "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/": {
-      "ts": "2026-10-28T00:00:00+00:00",
-      "title": "Hill-Climbing Agent Quality with Agents CLI Evaluation",
-      "link": "https://developers.googleblog.com/hill-climbing-agent-quality-with-agents-cli-evaluation/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:18433785861816699502": {
@@ -252,25 +147,11 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
-      "ts": "2026-10-28T00:00:00+00:00",
-      "title": "AI for Science expands to foundations and research institutions",
-      "link": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-      "source": "Anthropic News",
-      "big": false
-    },
     "https://openai.com/index/openai-servicenow-partnership-expansion": {
       "ts": "2026-10-28T13:15:00+00:00",
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI News",
-      "big": false
-    },
-    "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/": {
-      "ts": "2026-10-28T00:00:00+00:00",
-      "title": "Smaller apps and faster GPU inference with LiteRT in Google Play services",
-      "link": "https://developers.googleblog.com/smaller-apps-and-faster-gpu-inference-with-litert-in-google-play-services/",
-      "source": "Google Developers Blog - AI",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:11038142850511001522": {
@@ -488,13 +369,6 @@
       "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
       "link": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
       "source": "Google Developers Blog - AI",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.11.231#3.11.231": {
-      "ts": "2026-10-28T00:00:00+00:00",
-      "title": "Windsurf 3.11.231",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-11-231",
-      "source": "Windsurf Changelog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:3258028362810086091": {
@@ -5744,6 +5618,97 @@
       "ts": "2026-11-25T17:47:31+00:00",
       "title": "Heicoders Academy on X: &quot;Gina built Kiasu Karma, an interactive game using <b>Manus AI</b> ...",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/heicoders/status/2125449320950604170&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0XTGzEZH--9jv45P9_Bf1f",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:8575811591738864661": {
+      "ts": "2026-11-26T20:40:21+00:00",
+      "title": "How to Make $6,600/Month with <b>Manus AI</b> with Just Your Phone (Full Tutorial) - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D6Mg0uX6kecg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1RbSok0bTY5QqcuVQIaBLm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:10298531190435943142": {
+      "ts": "2026-11-26T18:27:02+00:00",
+      "title": "Plus z.Ai , Kimi. ai, cloude , <b>Manus Ai</b> - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/groups/879119913267414/posts/1903592054153523/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1gvAHmXb5aWuDqG-go1ihs",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:5489244359489587032": {
+      "ts": "2026-11-26T17:55:17+00:00",
+      "title": "Turn One Image Into a 10s Kitty Crunch Commercial With <b>Manus AI</b> - Facebook",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61572444646350/posts/from-one-image-to-a-full-short-video-with-manus-ai-manuspartner-manusai-manusvid/122204413640748154/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2-U9GItphhg1-CGEIScFz9",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11723605381057616773": {
+      "ts": "2026-11-26T16:03:03+00:00",
+      "title": "<b>Manus AI</b>: Video, Slides &amp; Apps 26.20.1 APK Download by BUTTERFLY EFFECT PTE. LTD.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.apkmirror.com/apk/butterfly-effect-pte-ltd/manus-ai/manus-ai-video-slides-apps-26-20-1-release/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2JsRZGlZxkmoPNi-prBDTC",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17168086257761332444": {
+      "ts": "2026-11-26T15:27:36+00:00",
+      "title": "How far do Manus credits actually go for everyday office work? : r/ManusOfficial - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/ManusOfficial/comments/1y63qdx/how_far_do_manus_credits_actually_go_for_everyday/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw16ncsDF7d88Bu8xR2KTZDz",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:15342642827834460986": {
+      "ts": "2026-11-26T14:04:08+00:00",
+      "title": "<b>Manus Ai</b> Pro Yearly 12 Months - CheaperGames",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://cheapergames.in/product/manus-ai-pro-your/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2PT6tQmLahBridMV0QnV5R",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2877242481882172435": {
+      "ts": "2026-11-26T12:52:07+00:00",
+      "title": "A.D.BARRY on X: &quot;remember when everyone said these tools was the future of AI? - OpenClaw - n8n",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://x.com/aiwithadb/status/2125910688350822679&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1HL0PYbQSfunJjTscj8Plc",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:17596768577447466050": {
+      "ts": "2026-11-26T12:46:01+00:00",
+      "title": "எல்லாம் ஒரே இடத்தில்! <b>Manus AI</b> ManusAI #AIToolsTamil #TechReelsTamil",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/frtwkK65NRo&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2TqAUXt3ExcH9NEFFcoQWO",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:1327756990207999608": {
+      "ts": "2026-11-26T11:54:49+00:00",
+      "title": "<b>Manus AI</b> - Community Night - Luma",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://luma.com/ttyqludf&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3UcVEOk42FEloVAbsep6e0",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4374751170939721222": {
+      "ts": "2026-11-26T11:18:52+00:00",
+      "title": "User Growth Manager - RevOps Careers",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://revopscareers.com/job/manus-ai-user-growth-manager-beijing-china/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0qDp0a6K2yXpNqYD-hhVWm",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13538862896331541280": {
+      "ts": "2026-11-26T05:28:57+00:00",
+      "title": "Platform Engineer: Multi-Cloud &amp; Kubernetes (Equity) | Singapore | JobLeads.com",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.jobleads.com/sg/job/platform-engineer-multi-cloud-kubernetes-equity--singapore--e82cf2df39be4faf08cfaa6b7cdbebbde&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1ZzOVbA0JQMv8RquQ8WVPS",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16553146659163362417": {
+      "ts": "2026-11-26T05:06:54+00:00",
+      "title": "How ColorOS 17 makes users' lives more convenient.",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.vietnam.vn/en/cach-coloros-17-giup-cuoc-song-cua-nguoi-dung-thuan-tien-hon&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2_TCrDojEYg7AH4ml3-fXV",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:11736091176335105680": {
+      "ts": "2026-11-25T20:20:52+00:00",
+      "title": "<b>Manus AI</b> Pricing 2026: Plans, Credits and Limits Explained - ToolsIntel",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://toolsintel.com/manus-ai-pricing/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2NvKdhdZZAkS4rD6GAAvEY",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
