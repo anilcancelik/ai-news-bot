@@ -1,37 +1,9 @@
 {
   "seen": {
-    "https://cohere.com/blog/financial-research-assistant-cohere-aws": {
-      "ts": "2026-10-29T00:00:00+00:00",
-      "title": "Build a Financial Research Assistant with Cohere AI on AWS",
-      "link": "https://cohere.com/blog/financial-research-assistant-cohere-aws",
-      "source": "The Cohere Blog",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:8208828235254258935": {
       "ts": "2026-10-29T02:37:38+00:00",
       "title": "Choose your plan - Premium AI Tools at the Lowest Price | ProDigital",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://prodigitalm.com/pricing&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2uLaXiawOoqOVWJcPYh59M",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:7549936653766615791": {
-      "ts": "2026-10-29T01:15:14+00:00",
-      "title": "<b>Manus AI</b> vs Claude (2026) | Which AI Assistant Is Better? - YouTube",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D086WyXVR7cE&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw22ugH1O5pZvxICwsdR2Mvr",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:1489471965052734244": {
-      "ts": "2026-10-28T22:53:05+00:00",
-      "title": "Runway AI Timeline: Model Releases &amp; Version History",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scriptbyai.com/runway-ai-timeline/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3oXGDD15cQTk7NB5TviLoi",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:5416932878856140206": {
-      "ts": "2026-10-28T21:59:45+00:00",
-      "title": "Manus fellow in Tamarac Florida for general AI agents - Facebook",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/100000105593010/posts/thrilled-to-share-that-ive-officially-become-a-manus-fellow-based-in-tamarac-flo/30783141367939313/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0O1PH00lQBctz5WhG2g6P9",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
@@ -82,13 +54,6 @@
       "title": "Le Chonk: Built for Coders, Trusted by Defenders.",
       "link": "https://mistral.ai/news/mistral-large-4-oss",
       "source": "Mistral AI News",
-      "big": false
-    },
-    "https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai": {
-      "ts": "2026-10-29T00:00:00+00:00",
-      "title": "Who Gets to Build the Frontier for AI",
-      "link": "https://cohere.com/blog/who-gets-to-build-the-frontier-for-ai",
-      "source": "The Cohere Blog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:2706840834841979542": {
@@ -147,27 +112,6 @@
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     },
-    "tag:google.com,2013:googlealerts/feed:8116297960965850667": {
-      "ts": "2026-10-29T01:39:45+00:00",
-      "title": "8 women in cybersecurity you should know - Technext",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://technext24.com/women-in-tech/8-women-in-cybersecurity-to-know/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw2r9lQD7G1xFfDgu6iMNfTH",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "tag:google.com,2013:googlealerts/feed:12966410452196901452": {
-      "ts": "2026-10-28T21:45:49+00:00",
-      "title": "AI tools, tested and security-reviewed | Sitesquirrels",
-      "link": "https://www.google.com/url?rct=j&sa=t&url=https://sitesquirrels.com/en/posts/%3Fcat%3Dai-tools&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1uTlpu93RL9NuPFLxS1qCp",
-      "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/": {
-      "ts": "2026-10-29T00:00:00+00:00",
-      "title": "Build Generative UI Apps with A2UI & CopilotKit Agents",
-      "link": "https://developers.googleblog.com/build-generative-ui-apps-with-a2ui-copilotkit-agents/",
-      "source": "Google Developers Blog - AI",
-      "big": false
-    },
     "tag:google.com,2013:googlealerts/feed:3258028362810086091": {
       "ts": "2026-10-29T21:35:19+00:00",
       "title": "Removing the free chat mode is a big loss for manus : r/ManusOfficial - Reddit",
@@ -215,13 +159,6 @@
       "title": "2.1.314",
       "link": "https://code.claude.com/docs/en/changelog#2-1-314",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://windsurf.com/changelog#3.11.234#3.11.234": {
-      "ts": "2026-10-29T00:00:00+00:00",
-      "title": "Windsurf 3.11.234",
-      "link": "https://docs.devin.ai/desktop/changelog#v3-11-234",
-      "source": "Windsurf Changelog",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:1209415788466524738": {
@@ -292,13 +229,6 @@
       "title": "Converting Post to video using <b>Manus AI</b>. #manusai #ai #macbookpro - YouTube",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/iHvnfgJC1xY&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw23MePBVGmlK7_9HAFX_v6U",
       "source": "Google Alert - \"Manus AI\"",
-      "big": false
-    },
-    "https://openai.com/index/credit-saison": {
-      "ts": "2026-10-29T00:00:00+00:00",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "link": "https://openai.com/index/credit-saison",
-      "source": "OpenAI News",
       "big": false
     },
     "https://cohere.com/blog/cohere-canada-commitment": {
@@ -1139,13 +1069,6 @@
       "title": "2.1.318",
       "link": "https://code.claude.com/docs/en/changelog#2-1-318",
       "source": "Claude Code changelog",
-      "big": false
-    },
-    "https://openai.com/ads/customers/evernote": {
-      "ts": "2026-10-28T19:40:49+00:00",
-      "title": "Evernote turns AI-driven discovery into paid subscriptions",
-      "link": "https://openai.com/ads/customers/evernote",
-      "source": "OpenAI News",
       "big": false
     },
     "tag:google.com,2013:googlealerts/feed:11665467771655603685": {
@@ -5632,6 +5555,76 @@
       "ts": "2026-11-26T20:28:50+00:00",
       "title": "Plus z.Ai , Kimi. ai, cloude , <b>Manus Ai</b> Yeh I'm a programmer | Shoaib Afzal - Facebook",
       "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/61591854906010/videos/plus-zai-kimi-ai-cloude-manus-ai-yeh-im-a-programmer/1652741216338652/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3V7uoR2W4EUKDd5_KxKTxI",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:14190815780903529690": {
+      "ts": "2026-11-27T23:24:12+00:00",
+      "title": "Meet Meadows AI : r/CharacterAIRefugees - Reddit",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reddit.com/r/CharacterAIRefugees/comments/1y6o30o/meet_meadows_ai/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0vYMBgTQTHtL-Wooc-vvNT",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4471931246211855903": {
+      "ts": "2026-11-27T23:18:08+00:00",
+      "title": "How to Share <b>Manus AI</b> Project? - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DGjNBC7T7Vz0&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0YZba-b12pNv4TQ92-osXE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3406263670323749635": {
+      "ts": "2026-11-27T23:09:37+00:00",
+      "title": "what do you want me to build or print on the first live? tell me below!! if you want to learn how to ...",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.instagram.com/reel/DgQwELqNwrl/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw233xsNW2Yt5hGFT8R_Qf0r",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:12158571843877623129": {
+      "ts": "2026-11-27T19:45:09+00:00",
+      "title": "ColorOS 17 Mind Pilot Manus Agent is INSANE! OnePlus, OPPO &amp; Realme Users MUST Try",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/Xc463FuktY8%3Fvl%3Dko&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1RpW4S7K4BctB4mFKuIQow",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13959238475281989523": {
+      "ts": "2026-11-27T17:33:47+00:00",
+      "title": "geo-doctor: Chatbot &amp; Conversational AI Agent (Peak #66 on The New 100)",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.theagenticleaderboard.com/new100/geo-doctor/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw00WBZb8GeQVnKu_sKJZq25",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:13533129696924617089": {
+      "ts": "2026-11-27T17:25:05+00:00",
+      "title": "5 AI Tools That Feel Illegal to Know - YouTube",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/0gnMZNgvY5Q&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw1rZ8l9-ACpeoY7Ksjq3qDE",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:3236443523125930204": {
+      "ts": "2026-11-27T16:58:40+00:00",
+      "title": "#onlineshopping #blackfriday #ai #aiagents #money | TikTok",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tiktok.com/%40iamrawan_/video/7712895626874227999&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw19CJ0QkC2zheyOQwbWtlsK",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:2835902478348337434": {
+      "ts": "2026-11-27T15:21:29+00:00",
+      "title": "Schedule Social Media Posts with Manus - Postelk",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://postelk.com/agents/manus&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3IEyVFWhw8fAcwTpxR6bmq",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:16690587322638656498": {
+      "ts": "2026-11-27T12:36:05+00:00",
+      "title": "<b>Manus AI</b> Tutorial for Beginners Sign In, Pick a Mode, Run Your First Task, Branch and Projects",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.youtube.com/watch%3Fv%3DHLA_h2PTqtg&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw3TaaLQ4yrcyu75v_g_BD7j",
+      "source": "Google Alert - \"Manus AI\"",
+      "big": false
+    },
+    "tag:google.com,2013:googlealerts/feed:4089530869864075151": {
+      "ts": "2026-11-27T12:20:40+00:00",
+      "title": "Acquisition of Manus by Meta — Grokipedia - 栞と羅針盤",
+      "link": "https://www.google.com/url?rct=j&sa=t&url=https://www2.szhisz.hu/acquisition-of-manus-07751080/&ct=ga&cd=CAIyGjljNjk2MzI4MGY5OTE1YWQ6Y29tOmVuOlVT&usg=AOvVaw0Hh4dBREccgPPSB2qYSHly",
       "source": "Google Alert - \"Manus AI\"",
       "big": false
     }
